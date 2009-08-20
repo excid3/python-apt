@@ -1,0 +1,1811 @@
+# Slovak translation for update-manager
+# Copyright (C) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# Peter Chabada <sk-i18n_chabada_sk>, 2006.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:17+0000\n"
+"Last-Translator: Peter Chabada <ubuntu@chabada.sk>\n"
+"Language-Team: Slovak <sk-i18n@linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural= (n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Disk s Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Disk s Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 5.10 - aktualizácie"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Udržiavané komunitou (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Softvér závislý na neslobornom softvéri"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Disk s Ubuntu 4.10 \"Warty Warthog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Udržiavané komunitou (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Udržiavané komunitou (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Udržiavané komunitou (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "Neslobodné (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Neslobodné (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Nainštalovať _aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Nainštalovať _aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 - aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 - backporty"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Disk s Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Disk s Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Oficiálne podporované"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.10 - aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.10 - backporty"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Disk s Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Udržiavané komunitou (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Neslobodné (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+#, fuzzy
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Disk s Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Niektoré programy už nie sú viac oficiálne podporované"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "S obmedzujúcou licenciou"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 4.10 aktualizácie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 5.10 - backporty"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Nainštalovať _aktualizácie"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+#, fuzzy
+msgid "Debian current stable release"
+msgstr "Debian Unstable \"Sid\""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "Softvér kompatibilný s DFSG bez závislostí na neslobodnom softvére"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Softvér nekompatibilný s DFSG"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Server pre %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+#, fuzzy
+msgid "Main server"
+msgstr "Najbližší server"
+
+#: ../aptsources/distro.py:235
+#, fuzzy
+msgid "Custom servers"
+msgstr "Najbližší server"
+
+#~ msgid "Daily"
+#~ msgstr "Denne"
+
+#~ msgid "Every two days"
+#~ msgstr "Každý druhý deň"
+
+#~ msgid "Weekly"
+#~ msgstr "Raz za týždeň"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Každý druhý týždeň"
+
+#~ msgid "Every %s days"
+#~ msgstr "Každých %s dní"
+
+#~ msgid "After one week"
+#~ msgstr "Po jednom týždni"
+
+#~ msgid "After two weeks"
+#~ msgstr "Po dvoch týždňoch"
+
+#~ msgid "After one month"
+#~ msgstr "Po mesiaci"
+
+#~ msgid "After %s days"
+#~ msgstr "Po %s dňoch"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "Nainštalovať _aktualizácie"
+
+#, fuzzy
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Aktualizácie softvéru"
+
+#, fuzzy
+#~ msgid "(Source Code)"
+#~ msgstr "Zdrojový"
+
+#, fuzzy
+#~ msgid "Source Code"
+#~ msgstr "Zdrojový"
+
+#~ msgid "Import key"
+#~ msgstr "Importovať kľúč"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Chyba pri importovaní vybraného súboru"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Vybraný súbor nie je autentifikačným kľúčom GPG alebo je poškodený."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Chyba pri odstraňovaní kľúča"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Vybraný kľúč nebolo možné odstrániť. Nahláste to ako chybu."
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Chyba pri načítavaní CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Prosím, zadajte názov disku"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Prosím, vložte disk do mechaniky:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Poškodené balíky"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Váš systém obsahuje poškodené balíky, ktoré nemôžu byť týmto programom "
+#~ "opravené. Pred pokračovaním ich opravte programom synaptic alebo apt-get."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Nemôžem aktualizovať požadované meta-balíky"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Musel by byť odstránený dôležitý balík"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Nemôžem vypočítať aktualizáciu"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Počas prípravy aktualizácie sa vyskytol neriešiteľný problém. Nahláste to "
+#~ "ako chybu."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Chyba pri overovaní niektorých balíkov"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Nebolo možné overiť niektoré balíky. Mohlo by to byť spôsobené prechodným "
+#~ "problémom v sieti. Môžete to opäť skúsiť neskôr. Nižšie je uvedený zoznam "
+#~ "neoverených balíčkov."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Nemôžem inštalovať '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr "Požadovaný balík nebolo možné nainštalovať. Nahláste to ako chybu. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Nemôžem odhadnúť meta balík."
+
+#, fuzzy
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Váš systém neobsahuje žiadny z balíkov ubuntu-desktop, kubuntu-desktop "
+#~ "alebo edubuntu-desktop a nebolo možné zistiť akú verziu Ubuntu "
+#~ "používate.\n"
+#~ "Pred pokračovaním nainštalujte jeden z vyššie uvedených balíkov pomocou "
+#~ "Synapticu alebo apt-get."
+
+#, fuzzy
+#~ msgid "Failed to add the CD"
+#~ msgstr "Zlyhalo získavanie aktualizácie"
+
+#~ msgid "Reading cache"
+#~ msgstr "Čítam vyrovnávaciu pamäť cache"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Nebol nájdený vhodný server"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Počas čítania informácií o zdrojoch softvéru nebol nájdený žiadny vhodný "
+#~ "server. Toto sa môže stať ak prevádzkujete vlastný server poskytujúci "
+#~ "inštalačné balíky, alebo keď zoznam serverov je zastaraný.\n"
+#~ "\n"
+#~ "Chcete aj napriek tomu prepísať súbor 'sources.list'? Ak zvolíte 'Áno' "
+#~ "budú nahradené všetky '%s' záznamy '%s' záznamami.\n"
+#~ "Pokiaľ zvolíte 'Nie', súbor nebude zmenený."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Vytvoriť štandardný zoznam zdrojov softvéru?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Počas čítania súboru 'sources.list' nebol nájdený žiadny platný záznam "
+#~ "pre '%s'.\n"
+#~ "\n"
+#~ "Majú byť pridané štandardné záznamy pre '%s'? Pokiaľ zvolíte 'Nie', súbor "
+#~ "nebude zmenený."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Neplatná informácia o zdrojoch softvéru"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Aktualizácia informácií o zdrojoch softvéru skončila neplatným súborom. "
+#~ "Nahláste to ako chybu."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Zdroje tretích strán sú zakázané"
+
+#, fuzzy
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Niektoré záznamy tretích strán vo vašom source.list súbore boli zakázané. "
+#~ "Môžete ich povoliť po upgrade pomocou nástroja 'vlastnosti-softwaru' "
+#~ "alebo pomocou synapticu."
+
+#~ msgid "Error during update"
+#~ msgstr "Chyba počas aktualizácie"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Počas aktualizácie sa objavil problém, ktorý je zvyčajne spôsobený chybou "
+#~ "sieťového pripojenia, preto skontrolujte vaše pripojenie a skúste znova."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Nedostatok voľného miesta na disku"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Aktualizácia bude teraz prerušená. Uvoľnite aspoň %s miesta v %s "
+#~ "vyprázdnením svojho kôša, prípadne odstránením dočasných inštalačných "
+#~ "súborov z predchádzajúcich inštalácií pomocou príkazu 'sudo apt-get "
+#~ "clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Chcete začať s aktualizáciou?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Nebolo možné nainštalovať aktualizácie"
+
+#, fuzzy
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Aktualizácia teraz skončí. Váš systém môže byť v nepoužiteľnom stave, "
+#~ "preto bol spustený príkaz na zotavenie sa z tohto stavu (dpkg --configure "
+#~ "-a)."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Nebolo možné stiahnuť požadované balíky"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Aktualizácia bola neočakávane prerušená. Skontrolujte svoje internetové "
+#~ "pripojenie alebo inštalačné médiá a skúste znova. "
+
+#, fuzzy
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Tieto nainštalované balíky už viac nie sú oficiálne podporované, ale "
+#~ "stará sa o ne komunita.\n"
+#~ "\n"
+#~ "Pokiaľ nemáte zapnutý komunitou spravovaný zdroj softvéru 'universe', "
+#~ "budú tieto balíky v ďalšom kroku navrhnuté na odstránenie."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Odstrániť zastarané balíky?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Preskočiť tento krok"
+
+#~ msgid "_Remove"
+#~ msgstr "_Odstrániť"
+
+#~ msgid "Error during commit"
+#~ msgstr "Chyba počas potvrdzovania"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Počas čistenia sa vyskytli problémy. Pre viac informácií si pozrite "
+#~ "nižšie uvedené správy. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Obnovuje sa pôvodný stav systému"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Kontrola správcu balíkov"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Prebieha príprava aktualizácie"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Počas prípravy aktualizácie sa vyskytol neriešiteľný problém. Nahláste to "
+#~ "ako chybu."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Aktualizácia informácií o zdrojoch softvéru"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Neplatná informácia o balíku"
+
+#, fuzzy
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Po aktualizácií informácií o balíkoch nie je možné nájsť dôležitý balík '%"
+#~ "s'.\n"
+#~ "To znamená závažný problém. Nahláste to ako chybu."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Požaduje sa potvrdenie"
+
+#~ msgid "Upgrading"
+#~ msgstr "Prebieha aktualizácia"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Vyhľadávanie zastaraného softvéru"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Aktualizácia systému je dokončená."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Prosím, vložte '%s' do mechaniky '%s'"
+
+#, fuzzy
+#~ msgid "Fetching is complete"
+#~ msgstr "Aktualizácia je dokončená"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Sťahovanie súboru %li z %li pri %s/s"
+
+#, fuzzy
+#~ msgid "About %s remaining"
+#~ msgstr "Zostáva %li minút"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Sťahujem %li súbor z %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Aplikujem zmeny"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Nebolo možné nainštalovať '%s'"
+
+#, fuzzy
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Nahradiť konfiguračný súbor\n"
+#~ "'%s'?"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Príkaz 'diff' nebol nájdený."
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Nastala závažná chyba"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Nahláste to ako chybu a k svojmu hláseniu priložte súbory /var/log/dist-"
+#~ "upgrade.log a /var/log/dist-upgrade-apt.log. Aktualizácia bude teraz "
+#~ "prerušená.\n"
+#~ "Váš pôvodný súbor 'sources.list' bol uložený ako /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#, fuzzy
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "Bude odstránený %s balík."
+#~ msgstr[1] "Budú odstránené %s balíky."
+#~ msgstr[2] "Bude odstránených %s balíkov."
+
+#, fuzzy
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "Bude nainštalovaný %s nový balík."
+#~ msgstr[1] "Budú nainštalované %s nové balíky."
+#~ msgstr[2] "Bude nainštalovaných %s nových balíkov."
+
+#, fuzzy
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "Bude aktualizovaný %s balík."
+#~ msgstr[1] "Budú aktualizované %s balíky."
+#~ msgstr[2] "Bude aktualizovaných %s balíkov."
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Musíte stiahnuť celkom %s. "
+
+#, fuzzy
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Aktualizácia môže trvať niekoľko hodín a nemôže byť neskôr prerušená."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Pre zamedzenie straty dát, zavrite všetky otvorené programy a dokumenty."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Váš systém je aktuálny"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Odstrániť %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Inštalovať %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Aktualizovať %s"
+
+#, fuzzy
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "Zostáva %li dní %li hodín %li minút"
+
+#, fuzzy
+#~ msgid "%li hours %li minutes"
+#~ msgstr "Zostáva %li hodín %li minút"
+
+#~ msgid "Reboot required"
+#~ msgstr "Je potrebný reštart"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Bola dokončená aktualizácia a je potrebné reštartovať počítač. Chcete "
+#~ "vykonať reštart teraz?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Zrušiť prebiehajúcu aktualizáciu?</big></b>\n"
+#~ "\n"
+#~ "Ak prerušíte aktualizáciu, systém môže zostať v nestabilnom stave. Je "
+#~ "dôrazne odporúčané pokračovať v aktualizácii."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>Na dokončenie aktualizácie reštartujte počítač</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Spustiť aktualizáciu?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Prebieha čistenie"
+
+#~ msgid "Details"
+#~ msgstr "Podrobnosti"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Rozdiel medzi súbormi"
+
+#, fuzzy
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Sťahovanie a inštalovanie aktualizácií"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Upravujú sa zdoje softvéru"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Prebieha príprava aktualizácie"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Reštartovanie systému"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminál"
+
+#, fuzzy
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Pokračovať v aktualizácii"
+
+#~ msgid "_Keep"
+#~ msgstr "_Ponechať"
+
+#~ msgid "_Replace"
+#~ msgstr "_Nahradiť"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Oznámiť chybu"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Reštartovať teraz"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Pokračovať v aktualizácii"
+
+#, fuzzy
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Pokračovať v aktualizácii"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Nebolo možné nájsť poznámky k vydaniu"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Server môže byť preťažený. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Nebolo možné stiahnuť poznámky k vydaniu"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Skontrolujte si internetové pripojenie."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Nebolo možné spustiť aktualizačný program"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Pravdepodobne je to chyba v aktualizačnom programe. Nahláste to ako chybu."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Sťahovanie aktualizačného programu"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Aktualizačný program vás prevedie procesom aktualizácie."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Podpis aktualizačného programu"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Aktualizačný program"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Zlyhalo získavanie aktualizácie"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Zlyhalo získavanie aktualizácie, čo môže byť spôsobené sieťovým "
+#~ "problémom. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Zlyhala extrakcia"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Nebolo možné rozbaliť aktualizáciu. Môže to byť spôsobené sieťovým "
+#~ "problémom alebo nedostupňosťou servera. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Zlyhala verifikácia"
+
+#, fuzzy
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Zlyhala verifikácia aktualizácie. Môže to byť spôsobené sieťovým "
+#~ "problémom alebo nedostupňosťou servera. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Autentifikácia zlyhala"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Zlyhalo overenie autenticity aktualizácie. Môže to byť spôsobené sieťovým "
+#~ "problémom alebo nedostupňosťou servera. "
+
+#, fuzzy
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Sťahovanie súboru %li z %li pri %s/s"
+
+#, fuzzy
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Sťahovanie súboru %li z %li pri %s/s"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "Zoznam zmien ešte nie je k dispozícii. Skúste neskôr."
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Zoznam zmien ešte nie je k dispozícii. Skúste neskôr."
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Zlyhalo získavanie zoznamu zmien. Skontrolujte si svoje internetové "
+#~ "pripojenie."
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Ubuntu 5.10 - backporty"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "_Pokračovať v aktualizácii"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Nainštalovať _aktualizácie"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Verzia %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Získava sa zoznam zmien..."
+
+#, fuzzy
+#~ msgid "_Check All"
+#~ msgstr "_Skontrolovať"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Veľkosť na stiahnutie: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Môžete nainštalovať %s aktualizáciu"
+#~ msgstr[1] "Môžete nainštalovať %s aktualizácie"
+#~ msgstr[2] "Môžete nainštalovať %s aktualizácií"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Čakajte prosím, toto môže chvíľu trvať."
+
+#~ msgid "Update is complete"
+#~ msgstr "Aktualizácia je dokončená"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Kontrolujem aktualizácie..."
+
+#, fuzzy
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Nová verzia: %s   (veľkosť: %s)"
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "Verzia %s:"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Vaša distribúcia už nie je podporovaná"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Nebudete mať k dispozícii žiadne nové bezpečnostné ani kritické "
+#~ "aktualizácie. Prejdite preto na najnovšiu verziu distribúcie Ubuntu "
+#~ "Linux. Pre viac informácií o prechode na novšiu verziu si pozrite http://"
+#~ "www.ubuntu.com.\""
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>K dispozícii je nové vydanie distribúcie '%s'</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Index softvéru je poškodený"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "V dôsledku chyby nie je možné nainštalovať alebo odstrániť žiadny "
+#~ "program. Na odstránenie tohto problému použite správcu balíkov 'Synaptic' "
+#~ "alebo spustite 'sudo apt-get install -f' v termáli."
+
+#, fuzzy
+#~ msgid "None"
+#~ msgstr "Žiadna"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#, fuzzy
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Musíte kontrolovať aktualizácie·manuálne</big></b>\n"
+#~ "\n"
+#~ "Váš systém je nastavený aby nekontroloval aktualizácie automaticky. Toto "
+#~ "správanie môžete nastaviť v ponuke menu 'Systém' -> 'Správa' -> "
+#~ "'Vlastnosti softvéru'."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Udržujte si systém v aktuálnom stave</b></big>"
+
+#, fuzzy
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>Chyba pri načítavaní CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#, fuzzy
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>Spustiť aktualizáciu?</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "Zmeny"
+
+#~ msgid "Chec_k"
+#~ msgstr "_Skontrolovať"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Skontrolovať, či zdroje softvéru neobsahujú nové aktualizácie"
+
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "Release Notes"
+#~ msgstr "Poznámky k vydaniu"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Zobraziť priebeh jednotlivých súborov"
+
+#~ msgid "Software Updates"
+#~ msgstr "Aktualizácie softvéru"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Softvérové aktualizácie opravujú chyby, odstraňujú bezpečnostné "
+#~ "zraniteľnosti alebo poskytujú nové vlastnosti."
+
+#~ msgid "U_pgrade"
+#~ msgstr "_Aktualizovať"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Aktualizovať na najnovšiu verziu Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Skontrolovať"
+
+#, fuzzy
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Pokračovať v aktualizácii"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Túto správu už viac nezobrazovať"
+
+#~ msgid "_Install Updates"
+#~ msgstr "Nainštalovať _aktualizácie"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "_Aktualizovať"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "Zmeny"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Internetové aktualizácie</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Internetové aktualizácie</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internetové aktualizácie</b>"
+
+#, fuzzy
+#~ msgid "Add Cdrom"
+#~ msgstr "Pridať _CD"
+
+#~ msgid "Authentication"
+#~ msgstr "Autentifikácia"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "_Zmazať stiahnuté inštalačné balíčky:"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "Sťahovanie je dokončené"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Importovať verejný kľúč dôveryhodného poskytovateľa softvéru"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Internetové aktualizácie"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Automaticky budú inštalované iba bezpečnostné aktualizácie z oficiálnych "
+#~ "Ubuntu serverov."
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "_Obnoviť predvolené"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Obnoviť pôvodné kľúče distribúcie"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "<b>Zdroje softvéru</b>"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "Zdrojový"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "_Kontrolovať aktualizácie:"
+
+#, fuzzy
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "_Stiahnuť aktualizácie automaticky, no neinštalovať ich"
+
+#~ msgid "_Import Key File"
+#~ msgstr "Importovať _kľúč"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Bezpečnostné aktualizácie inštalovať automaticky bez potvrdenia"
+
+#, fuzzy
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Informácie o dostupných programoch sú neaktuálne</big></b>\n"
+#~ "\n"
+#~ "Aby ste mohli nainštalovať softvér alebo aktualizácie z novopridaných "
+#~ "zdrojov musíte znovunačítať zoznam dostupných balíkov zo serverov "
+#~ "uvedených vo vašich zdrojoch softvéru.\n"
+#~ "\n"
+#~ "Potrebujete na to funkčné internetové pripojenie."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Komentár:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Súčasti:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribúcia:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Typ:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>Adresa:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Zadajte kompletný APT riadok zdroja softvéru, ktorý chcete "
+#~ "pridať</b></big>\n"
+#~ "\n"
+#~ "APT riadok obsahuje typ, umiestnenie a súčasti zdrojov softvéru. Napr.: "
+#~ "<i>\"deb·http://ftp.debian.org·sarge·main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "APT riadok:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binárny\n"
+#~ "Zdrojový"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "Zdrojový"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Prehľadáva sa CD"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "Zdrojový"
+
+#~ msgid "_Reload"
+#~ msgstr "_Obnoviť"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Zobraziť a nainštalovať dostupné aktualizácie"
+
+#~ msgid "Update Manager"
+#~ msgstr "Správca aktualizácií"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Automaticky kontrolovať dostupnosť novšej verzie súčasnej distribúcie, a "
+#~ "ak je to možné ponúknuť možnosť jej aktualizácie."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Kontrolovať dostupnosť novšej verzie distribúcie"
+
+#, fuzzy
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Ak je automatická kontrola aktualizácií vypnutá, musíte manuálne "
+#~ "znovunačítavať zoznam dostupných balíkov zo serverov uvedených vo vašich "
+#~ "zdrojoch softvéru. Táto voľba vám umožní nezobrazovať upozorňovanie na "
+#~ "potrebu znovunačítavania tohto zoznamu."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Pripomínať znovunačítavanie zoznamu dostupných balíčkov"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Zobraziť podrobnosti o aktualizácii"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Uchováva veľkosť dialágu správcu aktualizácií"
+
+#, fuzzy
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr "Uchováva veľkosť časti okna so zoznamom zmien a popisom balíka"
+
+#~ msgid "The window size"
+#~ msgstr "Veľkosť okna"
+
+#, fuzzy
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Nastaviť zdroje softvéru a internetové aktualizácie"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" - bezpečnostné aktualizácie"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "Softvér s obmedzených exportom pre USA"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Sťahovanie súboru %li z %li pri nezámej rýchlosti"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Nainštalovať _aktualizácie"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "_Zrušiť sťahovanie"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Niektoré programy už nie sú viac oficiálne podporované"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Nemôžno nájsť žiadne aktualizácie"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Váš systém už bol aktualizovaný."
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Prebieha aktualizácia na Ubuntu "
+#~ "6.06 LTS</span>"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Ubuntu 5.10 - bezpečnostné aktualizácie"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Aktualizovať na najnovšiu verziu Ubuntu"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Nebolo možné nainštalovať všetky dostupné aktualizácie"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>Analyzuje sa váš systém</b></big>\n"
+#~ "\n"
+#~ "Softvérové aktualizácie opravujú chyby, odstraňujú bezpečnostné "
+#~ "zraniteľnosti alebo poskytujú nové vlastnosti."
+
+#~ msgid "Oficially supported"
+#~ msgstr "Oficiálne podporované"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "Niektoré aktualizácie vyžadujú odstránenie iných programov. Aby ste "
+#~ "vykonali úplnú aktualizáciu použite funkciu \"Označiť všetky aktualizácie"
+#~ "\" správcu balíkov \"Synaptic\" alebo spustite \"sudo apt-get dist-upgrade"
+#~ "\" v termináli."
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Nasledujúce balíky nebudú aktualizované:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Zostáva %li sekúnd"
+
+#~ msgid "Download is complete"
+#~ msgstr "Sťahovanie je dokončené"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Aktualizácia zlyhala. Oznámte to ako chybu."
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Aktualizuje sa Ubuntu"
+
+#~ msgid "Hide details"
+#~ msgstr "Skryť podrobnosti"
+
+#~ msgid "Show details"
+#~ msgstr "Zobraziť podrobnosti"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "Naraz môže byť spustený len jeden program na správu softvéru"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "Musíte najprv zavrieť ostatné programy na správu softvéru, ako napr. "
+#~ "'aptitude' alebo 'Synaptic'."
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Zdroje</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Kľúče</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Inštalačné média"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Predvoľby softvéru"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Zdroj:</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Súčasti:</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "Pridať zdroj"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Upraviť zdroje"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "_Pridať zdroj"
+#~ msgstr[1] "_Pridať zdroje"
+#~ msgstr[2] "_Pridať zdroje"
+
+#~ msgid "_Custom"
+#~ msgstr "_Vlastný"
+
+#~ msgid "Software Properties"
+#~ msgstr "Vlastnosti softvéru"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS - bezpečnostné aktualizácie"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS - aktualizácie"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS - backporty"
+
+#~ msgid "No valid entry found"
+#~ msgstr "Nebol nájdený žiadny platný záznam"
+
+#~ msgid ""
+#~ "While scaning your repository information no valid entry for the upgrade "
+#~ "was found.\n"
+#~ msgstr ""
+#~ "Vo vašich zdrojoch softvéru nebol nájdený žiadny záznam vhodný na "
+#~ "použitie pre upgrade.\n"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. A "
+#~ "recovery is now run (dpkg --configure -a)."
+#~ msgstr ""
+#~ "Upgrade neočakávane skončil. Váš systém môže byt v nestabilnom stave. Pre "
+#~ "opravu skúste teraz spustiť (dpkg --configure -a)."
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files ~/dist-upgrade.log and "
+#~ "~/dist-upgrade-apt.log in your report. The upgrade aborts now. "
+#~ msgstr ""
+#~ "Oznámte ju ako chybu a k vašej správe priložte súbory ~/dist-upgrade.log "
+#~ "a ~/dist-upgrade-apt.log. Upgrade teraz skončí. "
+
+#~ msgid "You can install one update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Môžete nainštalovať %s aktualizáciu"
+#~ msgstr[1] "Môžete nainštalovať %s aktualizácie"
+#~ msgstr[2] "Môžete nainštalovať %s aktualizácií"
+
+#~ msgid "Repositories changed"
+#~ msgstr "Zdroje softvéru boli zmenené"
+
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "Potrebujete znovunačítať zoznam dostupných balíčkov zo serverov uvedených "
+#~ "vo vašich zdrojoch softvéru. Chcete to urobiť teraz?"
+
+#~ msgid ""
+#~ "<big><b>Analysing your system</b></big>\n"
+#~ "\n"
+#~ "Software updates can correct errors, eliminate security vulnerabilities, "
+#~ "and provide new features to you."
+#~ msgstr ""
+#~ "<big><b>Analyzuje sa váš systém</b></big>\n"
+#~ "\n"
+#~ "Softvérové aktualizácie môžu opravovať chyby, odstraňovať bezpečnostné "
+#~ "zraniteľnosti alebo poskytnúť nové vlastnosti."
+
+#~ msgid ""
+#~ "Software updates can correct errors, eliminate security vulnerabilities, "
+#~ "and provide new features to you."
+#~ msgstr ""
+#~ "Softvérové aktualizácie môžu opravovať chyby, odstraňovať bezpečnostné "
+#~ "zraniteľnosti alebo poskytnúť nové vlastnosti."
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically. The software package \"unattended-upgrades\" needs to be "
+#~ "installed therefor"
+#~ msgstr ""
+#~ "Automaticky budú inštalované len bezpečnostné aktualizácie z oficiálnych "
+#~ "serverov Ubuntu. Preto musí byť nainštalovaný softvérový balíček "
+#~ "'unattended-upgrades'."
+
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Sekcie:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the channel that you want to add</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "The APT line contains the type, location and sections of a channel, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Zadajte kompletný APT riadok zdroja softvéru, ktorý chcete "
+#~ "pridať</b></big>\n"
+#~ "\n"
+#~ "APT riadok obsahuje typ, umiestnenie a sekcie zdrojov softvéru. Napr.: <i>"
+#~ "\"deb·http://ftp.debian.org·sarge·main\"</i>."
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Sekcie:</b>"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Upraviť zdroje a nastavenia softvéru"
+
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Zdroje</b>"
+
+#~ msgid "day(s)"
+#~ msgstr "deň/dní"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Dočasné súbory</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Používateľské rozhranie</b>"
+
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>Autentifikačné kľúče</b></big>\n"
+#~ "\n"
+#~ "V tomto dialógu môžete pridať alebo odstrániť autentifikačné kľúče. Kľúč "
+#~ "umožňuje overiť integritu stiahnutého softvéru."
+
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "Pridať nový kľúč do zväzku dôveryhodných kľúčov. Uistite sa, že ste kľúč "
+#~ "dostali bezpečnou cestou, a že môžete veriť jeho vydavateľovi. "
+
+#~ msgid "Add repository..."
+#~ msgstr "Pridať repozitár..."
+
+#~ msgid "Automatically check for software _updates."
+#~ msgstr "_Automaticky kontrolovať aktualizácie softvéru"
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "Automati_cky prečistiť stiahnuté balíky"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "Intervel prečistenia (v dňoch): "
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "Zmazať staré balíky z archívu na pevnom disku"
+
+#~ msgid "Edit Repository..."
+#~ msgstr "Upraviť repozitáre..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "Uchovávať balíky najviac (v dňoch):"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Maximálna veľkosť archívu na disku (v MB):"
+
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "Obnoví pôvodné kľúče dodávané s vašou distribúciou. Toto neovplyvní "
+#~ "používateľom nainštalovnané kľúče."
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "Nastaviť maximálnu veľkosť archívu balíčkov na disku"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavenia"
+
+#~ msgid "Show detailed package versions"
+#~ msgstr "Zobraziť podrovné informácie o verziách balíkov"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Zobraziť vypnuté zroje softvéru"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Interval aktualizácie v dňoch: "
+
+#~ msgid "_Add Repository"
+#~ msgstr "_Pridať repozitár"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "_Stiahnuť nájdené aktualizácie"
+
+#~ msgid "<b>Status:</b>"
+#~ msgstr "<b>Stav:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Dostupné aktualizácie</b></big>\n"
+#~ "\n"
+#~ "Boli nájdené aktualizácie nasledovných balíkov. Môžete ich zaktualizovať "
+#~ "použitím tlačidla Inštalovať."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Získava sa zoznam zmien</span>\n"
+#~ "\n"
+#~ "Zoznam zmien sa získava z centrálneho servera."
+
+#~ msgid "Cancel downloading the changelog"
+#~ msgstr "Zrušiť získavanie zoznamu zmien"
+
+#~ msgid "Reload the package information from the server."
+#~ msgstr "Znovu načítať informácie o balíkoch zo serverov."
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Zobraziť dostupné aktualizácie a vybrať, ktoré nainštalovať"
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr ""
+#~ "Aby ste mohli spustiť tento program musíte mať administrátorské práva"
+
+#~ msgid "Binary"
+#~ msgstr "Binárny"
+
+#~ msgid "Non-free software"
+#~ msgstr "Neslobodný softvér"
+
+#~ msgid "Debian 3.0 \"Woody\""
+#~ msgstr "Debian 3.0 \"Woody\""
+
+#~ msgid "Debian Stable"
+#~ msgstr "Debian Stable"
+
+#~ msgid "Debian Non-US (Stable)"
+#~ msgstr "Debian Non-US (Stable)"
+
+#~ msgid "Debian Non-US (Testing)"
+#~ msgstr "Debian Non-US (Testing)"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "Autentifikačný kľúč Ubuntu archívu <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "Autentifikačný kľúč Ubuntu CD <cdimage@ubuntu.com>"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "Vyberte súbor s autentifikačným kľúčom"
+
+#~ msgid "There is one package available for updating."
+#~ msgstr "Bol nájdený jeden balík, ktorý je možné aktualizovať."
+
+#~ msgid "There are %s packages available for updating."
+#~ msgstr "Bolo nájdených %s balíkov, ktoré je možné aktualizovať."
+
+#~ msgid "There are no updated packages"
+#~ msgstr "Nebol nájdený žiadny balík, ktorý by bolo potrebné aktualizovať."
+
+#~ msgid "You did not select any of the %s updated package"
+#~ msgid_plural "You did not select any of the %s updated packages"
+#~ msgstr[0] "Nevybrali ste balík na aktualizáciu (%s dostupný)."
+#~ msgstr[1] "Nevybrali ste žiadny balík na aktualizáciu z %s dostupných."
+#~ msgstr[2] "Nevybrali ste žiadny balík na aktualizáciu z %s dostupných."
+
+#~ msgid "You have selected %s updated package, size %s"
+#~ msgid_plural "You have selected all %s updated packages, total size %s"
+#~ msgstr[0] "Vybrali ste %s balík na aktualizáciu, veľkosť %s"
+#~ msgstr[1] "Vybrali ste %s balíky na aktualizáciu, veľkosť %s"
+#~ msgstr[2] "Vybrali ste %s balíkov na aktualizáciu, veľkosť %s"
+
+#~ msgid "You have selected %s out of %s updated package, size %s"
+#~ msgid_plural ""
+#~ "You have selected %s out of %s updated packages, total size %s"
+#~ msgstr[0] "Vybrali ste %s z %s balíkov na aktualizáciu, veľkosť %s"
+#~ msgstr[1] "Vybrali ste %s z %s balíkov na aktualizáciu, veľkosť %s"
+#~ msgstr[2] "Vybrali ste %s z %s balíkov na aktualizáciu, veľkosť %s"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Práve prebieha aktualizácia."
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Môžete mať spustenú najviac jednu aplikáciu na správu balíkov. Prosím, "
+#~ "najprv zavrite druhú aplikáciu."
+
+#~ msgid "Updating package list..."
+#~ msgstr "Aktualizujem zoznam balíkov..."
+
+#~ msgid "There are no updates available."
+#~ msgstr "Nie sú dostupné žiadne aktualizácie."
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "Prejdite prosím, na novšiu verziu distribúcie Ubuntu Linux. Verzia, ktorú "
+#~ "používate nie je viac podporovaná. To znamená, že už nie sú k dispozícii "
+#~ "bezpečnostné ani kritické aktualizácie. Pre viac informácií o prechode na "
+#~ "novšiu verziu si pozrite http://www.ubuntulinux.org."
+
+#~ msgid "There is a new release of Ubuntu available!"
+#~ msgstr "Bola nájdená novšia verzia Ubuntu!"
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "Je dostupná novšia verzia vašej distribúcie s kódovým označením \"%s\". "
+#~ "Pre viac informácií o prechode na vyššiu verziu si pozrite http://www."
+#~ "ubuntulinux.org."
+
+#~ msgid "Never show this message again"
+#~ msgstr "Už viac nezobrazovať toto upozornenie"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr ""
+#~ "Zoznam zmien nebol nájdený. Je možné, že ešte neboli nahrané na server."
+
+#~ msgid "A_uthentication"
+#~ msgstr "A_utentifikácia"
+
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "<b>Balíky na inštaláciu:</b>"

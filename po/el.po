@@ -1,0 +1,1645 @@
+# translation of el.po to Greek
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Kostas Papadimas <pkst@gnome.org>, 2005, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:13+0000\n"
+"Last-Translator: Kostas Papadimas <pkst@gmx.net>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cdrom με Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Αναβαθμίσεις ασφαλείας Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cdrom με Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Αναβαθμίσεις ασφαλείας Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cdrom με Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Community maintained"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Οδηγοί με κλειστό κώδικα για συσκευές"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Λογισμικό με περιορισμούς"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cdrom με το Ubuntu 6.10 'Edgy Eft"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 TLS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Λογισμικό ανοικτού κώδικα υποστηριζόμενο από την Canonical"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Υποστηριζόμενα από την κοινότητα (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Community maintained Open Source software"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Όχι-ελεύθεροι οδηγοί"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Οδηγοί με κλειστό κώδικα για συσκευές "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Όχι-ελεύθερο (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Λογισμικό με περιορισμούς από πνευματικά δικαιώματα και νόμους"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cdrom με Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Σημαντικές ενημερώσεις ασφαλείας"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Συνιστώμενες ενημερώσεις"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Προτεινόμενες ενημερώσεις"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Backported ενημερώσεις"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cdrom με Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Αναβαθμίσεις ασφαλείας Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Αναβαθμίσεις  Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 Backports"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cdrom με Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Officially supported"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Αναβαθμίσεις ασφαλείας Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ενημερώσεις Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.04 Backports"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Community maintained (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Όχι-ελεύθερα (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cdrom με το Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Δεν υποστηρίζονται πια επίσημα"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Περιορισμένα πνευματικά δικαιώματα"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ενημερώσεις ασφαλείας Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ενημερώσεις Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 Backports"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Προτεινόμενες ενημερώσεις"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Σημαντικές ενημερώσεις ασφαλείας"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "Λογισμικό συμβατό με DFSG με μη Ελεύθερες Εξαρτήσεις"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Λογισμικό μη συμβατό με DFSG"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Εξυπηρετητής για %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Κύριος εξυπηρετητής"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Προσαρμοσμένοι εξυπηρετητές"
+
+#~ msgid "Daily"
+#~ msgstr "Ημερησίως"
+
+#~ msgid "Every two days"
+#~ msgstr "Κάθε δύο ημέρες"
+
+#~ msgid "Weekly"
+#~ msgstr "Εβδομαδιαίως"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Κάθε δύο εβδομάδες"
+
+#~ msgid "Every %s days"
+#~ msgstr "Κάθε %s ημέρες"
+
+#~ msgid "After one week"
+#~ msgstr "Μετά από μια εβδομάδα"
+
+#~ msgid "After two weeks"
+#~ msgstr "Μετά από δύο εβδομάδες"
+
+#~ msgid "After one month"
+#~ msgstr "Μετά από ένα μήνα"
+
+#~ msgid "After %s days"
+#~ msgstr "Μετά από %s ημέρες"
+
+#~ msgid "%s updates"
+#~ msgstr "%s ενημερώσεις"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Κοντινότερος εξυπηρετητής"
+
+#~ msgid "Software Channel"
+#~ msgstr "Κανάλι λογισμικού"
+
+#~ msgid "Active"
+#~ msgstr "Ενεργό"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Πηγαίος κώδικας)"
+
+#~ msgid "Source Code"
+#~ msgstr "Πηγαίος κώδικας"
+
+#~ msgid "Import key"
+#~ msgstr "Εισαγωγή κλειδιού"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Σφάλμα εισαγωγής επιλεγμένου αρχείου"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Το επιλεγμένο αρχείο μπορεί να μην είναι ένα αρχείο κλειδιού GPG ή μπορεί "
+#~ "να είναι κατεστραμμένο"
+
+#~ msgid "Error removing the key"
+#~ msgstr "Σφάλμα απομάκρυνσης κλειδιού"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Το κλειδί που επιλέξατε δεν μπορεί να απομακρυνθεί. Παρακαλώ αναφέρετε "
+#~ "αυτό ως σφάλμα."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Σφάλμα σάρωσης του CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Παρακαλώ εισάγετε ένα όνομα για το δίσκο"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Παρακαλώ εισάγετε ένα δίσκο στον οδηγό:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Κατεστραμμένα πακέτα"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Το σύστημα σας περιέχει κατεστραμμένα πακέτα τα οποία δεν μπορούν να "
+#~ "διορθωθούν με αυτό το λογισμικό. Παρακαλώ διορθώστε τα μέσω synaptic ή "
+#~ "apt-get για να συνεχίσετε."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Αδυναμία αναβάθμισης απαιτούμενων μετα-πακέτων"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Ένα απαραίτητο πακέτα θα πρέπει να απομακρυνθεί"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Αδυναμία υπολογισμού της αναβάθμισης"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Συνέβηκε ένα ανεπίλυτο πρόβλημα κατά τον υπολογισμό της αναβάθμισης.\n"
+#~ "\n"
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα στο πακέτο 'update-manager' και "
+#~ "επισυνάψτε στην αναφορά σφάλματος τα αρχεία στο /var/log/dist-upgrade/."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Σφάλμα πιστοποίησης κάποιων πακέτων"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Δεν ήταν δυνατή η πιστοποίηση κάποιων πακέτων. Αυτό μπορεί να οφείλεται "
+#~ "και σε ένα πρόβλημα δικτύου. Προσπαθήστε αργότερα. Δείτε παρακάτω τη "
+#~ "λίστα των μη πιστοποιημένων πακέτων."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Αδυναμία εγκατάστασης '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Δεν ήταν δυνατή η αναβάθμιση του απαιτούμενου πακέτου. Παρακαλώ αναφέρετε "
+#~ "το ως σφάλμα. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Αδυναμία εύρεσης μετα-πακέτου"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Το σύστημα σας δεν περιέχει κάποιο από τα πακέτα ubuntu-desktop, kubuntu-"
+#~ "desktop or edubuntu-desktop, και έτσι δεν είναι δυνατός ο εντοπισμός της "
+#~ "έκδοσης του Ubuntu σας.\n"
+#~ "\n"
+#~ " Εγκαταστήστε ένα από αυτά τα πακέτα πρώτα μέσω synaptic ή apt-get πριν "
+#~ "να συνεχίσετε."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Αποτυχία προσθήκης του CD"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Υπήρξε σφάλμα κατά την προσθήκη του CD και η αναβάθμιση θα τερματιστεί. "
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα αν αυτό είναι ένα έγκυρο Ubuntu CD.\n"
+#~ "\n"
+#~ "Το μήνυμα σφάλματος ήταν:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "Ανάγνωση λανθάνουσας μνήμης"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Να γίνει λήψη δεδομένων από το δίκτυο για την αναβάθμιση;"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Η αναβάθμιση μπορεί να χρησιμοποιεί το δίκτυο για να ελέγχει για τις πιο "
+#~ "πρόσφατες ενημερώσεις, και για να λαμβάνει πακέτα που δεν είναι στο CD.\n"
+#~ "Αν διαθέτετε μια γρήγορη ή φθηνή πρόσβαση στο δίκτυο  απαντήστε 'Ναι' "
+#~ "εδώ. Αν η πρόσβαση είναι ακριβή πατήστε 'Όχι'"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Δεν βρέθηκε έγκυρη εναλλακτική τοποθεσία αρχείων"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Κατά τον έλεγχο των πληροφοριών repository, δεν βρέθηκε καταχώριση "
+#~ "εναλλακτικής τοποθεσίας αρχείων για την αναβάθμιση. Αυτό μπορεί να "
+#~ "συμβαίνει αν εκτελείτε μια εσωτερική εναλλακτική τοποθεσία αρχείων ή αν η "
+#~ "πληροφορίες εναλλακτικής τοποθεσίας είναι παρωχημένες.\n"
+#~ "\n"
+#~ "Θέλετε να αντικατασταθεί το αρχείο 'sources.list' οπωσδήποτε; Αν "
+#~ "επιλέξετε εδώ 'Ναι' θα ενημερωθούν όλες οι '%s' καταχωρίσεις σε '%s'.\n"
+#~ " Αν επιλέξετε 'Όχι' η ενημέρωση θα ακυρωθεί."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Δημιουργία προεπιλεγμένων πηγών;"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Μετά τον έλεγχο του  'sources.list'  δεν βρέθηκε έγκυρη καταχώριση για το "
+#~ "'%s'.\n"
+#~ "\n"
+#~ "Να προστεθούν οι προεπιλεγμένες καταχωρίσεις για το '%s'; Αν απαντήσετε "
+#~ "'Όχι' η ενημέρωση θα ακυρωθεί."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Μη έγκυρες πληροφορίες repository"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Η αναβάθμιση των πληροφοριών repository είχε σαν αποτέλεσμα ένα άκυρο "
+#~ "αρχείο. Παρακαλώ αναφέρετε το ως σφάλμα."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Απενεργοποιήθηκαν πηγές τρίτων"
+
+#, fuzzy
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Μερικές καταχωρίσεις τρίτων έχουν απενεργοποιηθεί στο αρχείο souces.list. "
+#~ "Μπορείτε να τις ενεργοποιήσετε μετά την αναβάθμιση με το εργαλείο "
+#~ "'software-properties' ή με το synaptic."
+
+#~ msgid "Error during update"
+#~ msgstr "Σφάλμα κατά την ενημέρωση"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Δημιουργήθηκε ένα πρόβλημα κατά την αναβάθμιση. Αυτό συνήθως σημαίνει "
+#~ "πρόβλημα δικτύου. Ελέγξτε τη σύνδεση δικτύου σας και προσπαθήστε ξανά."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Δεν υπάρχει αρκετός χώρος στο δίσκο"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Η αναβάθμιση τώρα θα τερματιστεί. Παρακαλώ ελευθερώστε τουλάχιστον %s "
+#~ "χώρου στο %s. Αδειάστε τα απορρίμματα σας και απομακρύνετε τα προσωρινά "
+#~ "πακέτα προηγούμενων εγκαταστάσεων με  την εντολή 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Θέλετε να ξεκινήσετε την αναβάθμιση;"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Αδυναμία εγκατάστασης των αναβαθμίσεων"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Η αναβάθμιση τώρα θα τερματιστεί. Το σύστημα σας μπορεί να γίνει ασταθές. "
+#~ "Εκτελείται μια διεργασία ανάκτησης (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα στο πακέτο 'update-manager' και "
+#~ "συμπεριλάβετε και τα αρχεία του /var/log/dist-upgrade/ στην αναφορά "
+#~ "σφάλματος."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Αδυναμία λήψης των αναβαθμίσεων"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Η αναβάθμιση τώρα θα τερματιστεί. Παρακαλώ ελέγξτε τη σύνδεση σας στο "
+#~ "διαδίκτυο ή το μέσο εγκατάστασης και προσπαθήστε ξανά. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Η υποστήριξη για ορισμένες εφαρμογές τερματίστηκε"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Αυτά τα εγκατεστημένα πακέτα δεν υποστηρίζονται πια επίσημα από την "
+#~ "Canonical Ltd, αλλά μπορείτε να λάβετε υποστήριξη από τη κοινότητα.\n"
+#~ "\n"
+#~ "Αν δεν έχετε ενεργοποιημένο το 'universe' , θα γίνει πρόταση για "
+#~ "απομάκρυνση αυτών των πακέτων στο επόμενο βήμα."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Αφαίρεση παρωχημένων πακέτων;"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "Παράκα_μψη αυτου του βήματος"
+
+#~ msgid "_Remove"
+#~ msgstr "_Απομάκρυνση"
+
+#~ msgid "Error during commit"
+#~ msgstr "Σφάλμα κατά την υποβολή"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Δημιουργήθηκαν ορισμένα προβλήματα κατά την εκκαθάριση. Παρακαλώ δείτε το "
+#~ "παρακάτω μήνυμα για περισσότερες πληροφορίες. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Γίνεται επαναφορά αρχικής κατάστασης συστήματος"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "Λήψη backport του '%s'"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Έλεγχος διαχειριστή πακέτων"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Απέτυχε η προετοιμασία της αναβάθμισης"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Συνέβηκε ένα ανεπίλυτο πρόβλημα κατά τον υπολογισμό της αναβάθμισης. "
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα στο πακέτο 'update-manager'  και "
+#~ "επισυνάψτε στην αναφορά τα αρχεία του /var/log/dist-upgrade/."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Ενημέρωση πληροφοριών repository"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Μη έγκυρες πληροφορίες πακέτου"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Μετά την ενημέρωση των πληροφοριών πακέτων, δεν μπορεί να βρεθεί το "
+#~ "απαραίτητο πακέτο '%s'.\n"
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα στο πακέτο 'update-manager' και "
+#~ "συμπεριλάβετε και τα αρχεία του /var/log/dist-upgrade/ στην αναφορά "
+#~ "σφάλματος."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Ερώτηση για επιβεβαίωση"
+
+#~ msgid "Upgrading"
+#~ msgstr "Γίνεται αναβάθμιση"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Γίνεται αναζήτηση για παρωχημένο λογισμικό"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Η αναβάθμιση συστήματος ολοκληρώθηκε."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Παρακαλώ εισάγετε τον δίσκο '%s' στον οδηγό '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Η λήψη ολοκληρώθηκε"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Λήψη αρχείου %li από %li με %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Απομένουν περίπου %s"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Λήψη αρχείου %li από %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Γίνεται εφαρμογή αλλαγών"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Αδυναμία εγκατάστασης '%s'"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Η αναβάθμιση τώρα θα τερματιστεί. Παρακαλώ αναφέρετε το ως σφάλμα στο "
+#~ "πακέτο 'update-manager' και συμπεριλάβετε και τα αρχεία του /var/log/dist-"
+#~ "upgrade/ στην αναφορά σφάλματος."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Αντικατάσταση προσαρμοσμένου αρχείου ρύθμισης\n"
+#~ "'%s';"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Οι αλλαγές που έχετε κάνει σε αυτό το αρχείο ρυθμίσεων θα χαθούν αν "
+#~ "επιλέξετε να το αντικαταστήσετε με μια νεότερη έκδοση."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Η εντολή 'diff' δεν βρέθηκε"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Προέκυψε μοιραίο σφάλμα"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Παρακαλώ αναφέρετε το ως σφάλμα και επισυνάψτε τα αρχεία /var/log/dist-"
+#~ "upgrade/main.log και /var/log/dist-upgrade/apt.log στην αναφορά σας. Η "
+#~ "αναβάθμιση τώρα θα τερματιστεί. \n"
+#~ "Το αρχικό αρχείο sources.list αποθηκεύτηκε στο /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d πακέτο πρόκειται να απομακρυνθεί."
+#~ msgstr[1] "%d πακέτα πρόκειται να απομακρυνθούν."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d νέο πακέτο πρόκειται να εγκατασταθεί."
+#~ msgstr[1] "%d νέα πακέτα πρόκειται να εγκατασταθούν."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d πακέτο πρόκειται να αναβαθμιστεί."
+#~ msgstr[1] "%d πακέτα πρόκειται να αναβαθμιστούν."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Θα πρέπει να κάνετε συνολική λήψη %s. "
+
+#, fuzzy
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Η αναβάθμιση μπορεί να διαρκέσει αρκετές ώρες και δεν είναι δυνατή η "
+#~ "ακύρωση της αργότερα."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Για να αποφύγετε απώλεια δεδομένων, κλείστε όλες τις ανοικτές εφαρμογές "
+#~ "και έγγραφα."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Το σύστημα σας είναι ενημερωμένο"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr ""
+#~ "Δεν υπάρχουν διαθέσιμες αναβαθμίσεις για το σύστημα σας. Η αναβάθμιση θα "
+#~ "ακυρωθεί."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Απομάκρυνση %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Εγκατάσταση %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Αναβάθμιση %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "Απομένουν περίπου %li μέρες %li ώρες και %li λεπτά"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li ώρες και %li λεπτά"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li λεπτά"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li δευτερόλεπτα"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Η λήψη θα διαρκέσει περίπου %s με σύνδεση 1Mbit DSL και περίπου %s με ένα "
+#~ "56K μόντεμ."
+
+#~ msgid "Reboot required"
+#~ msgstr "Απαιτείται επανεκκίνηση"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Η αναβάθμιση ολοκληρώθηκε και απαιτείται επανεκκίνηση. Θέλετε να γίνει "
+#~ "επανεκκίνηση τώρα;"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Ακύρωση της αναβάθμισης που εκτελείται;</big></b>\n"
+#~ "\n"
+#~ "Το σύστημα σας μπορεί να γίνει ασταθές αν ακυρώσετε την αναβάθμιση. Σας "
+#~ "συστήνουμε τα συνεχίσετε την αναβάθμιση."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Επανεκκινήστε το σύστημα για να ολοκληρωθεί η αναβάθμιση</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Έναρξη της αναβάθμισης;</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Γίνεται αναβάθμιση του Ubuntu στην έκδοση 6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Εκκαθάριση"
+
+#~ msgid "Details"
+#~ msgstr "Λεπτομέρειες"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Διαφορά μεταξύ των αρχείων"
+
+#, fuzzy
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Λήψη και εγκατάσταση των αναβαθμίσεων"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Τροποποίηση των καναλιών λογισμικού"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Προετοιμασία της αναβάθμισης"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Γίνεται επανεκκίνηση του συστήματος"
+
+#~ msgid "Terminal"
+#~ msgstr "Τερματικό"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "Α_κύρωση αναβάθμισης"
+
+#~ msgid "_Continue"
+#~ msgstr "_Συνέχεια"
+
+#~ msgid "_Keep"
+#~ msgstr "_Διατήρηση"
+
+#~ msgid "_Replace"
+#~ msgstr "Αντικατά_σταση"
+
+#~ msgid "_Report Bug"
+#~ msgstr "Ανα_φορά σφάλματος"
+
+#~ msgid "_Restart Now"
+#~ msgstr "Επανε_κκίνηση τώρα"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Συνέχεια αναβάθμισης"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "Έναρ_ξη αναβάθμισης"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Αδυναμία εύρεσης σημειώσεων έκδοσης"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Ο εξυπηρετητής μπορεί να είναι υπερφορτωμέμος "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Αδυναμία λήψης των σημειώσεων έκδοσης"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Παρακαλώ ελέγξτε τη σύνδεση σας με το διαδίκτυο."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Αδυναμία εκτέλεσης του εργαλείου αναβαθμίσεων"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Αυτό πιθανόν να είναι σφάλμα του εργαλείου αναβάθμισης. Παρακαλώ "
+#~ "αναφέρετε το ως σφάλμα."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Λήψη του εργαλείου αναβάθμισης"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr ""
+#~ "Το εργαλείο αναβάθμισης θα σας καθοδηγήσει στην διαδικασία ενημέρωσης"
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Υπογραφή εργαλείου αναβάθμισης"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Εργαλείο αναβάθμισης"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Αποτυχία λήψης"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Η λήψη της αναβάθμισης απέτυχε. Πιθανόν να υπάρχει πρόβλημα δικτύου. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Αποτυχία αποσυμπίεσης"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Η αποσυμπίεση της αναβάθμισης απέτυχε. Πιθανόν να υπάρχει πρόβλημα "
+#~ "δικτύου ή εξυπηρετητή. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Αποτυχία επαλήθευσης"
+
+#, fuzzy
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Η επαλήθευση της αναβάθμισης απέτυχε. Πιθανόν να υπάρχει πρόβλημα δικτύου "
+#~ "ή εξυπηρετητή. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Η πιστοποίηση απέτυχε"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Η πιστοποίηση της αναβάθμισης απέτυχε. Πιθανόν να υπάρχει πρόβλημα "
+#~ "δικτύου ή εξυπηρετητή. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Λήψη αρχείου %(current)li από %(total)li με %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Λήψη αρχείου %(current)li από %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Η λίστα των αλλαγών δεν είναι ακόμα διαθέσιμη."
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Η λίστα των αλλαγών δεν είναι ακόμα διαθέσιμη.\n"
+#~ "Προσπαθήστε ξανά αργότερα."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Αποτυχία λήψης της λίστας των αλλαγών.\n"
+#~ "Παρακαλώ ελέγξτε τη σύνδεση σας στο διαδίκτυο."
+
+#~ msgid "Backports"
+#~ msgstr "Backports"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Αναβαθμίσεις διανομής"
+
+#~ msgid "Other updates"
+#~ msgstr "Άλλες ενημερώσεις"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Έκδοση %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Λήψη της λίστας των αλλαγών..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "Α_ποεπιλογή όλων"
+
+#~ msgid "_Check All"
+#~ msgstr "Έλε_γχος όλων"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Μέγεθος λήψης: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Μπορείτε να εγκαταστήσετε %s ενημέρωση"
+#~ msgstr[1] "Μπορείτε να εγκαταστήσετε %s ενημερώσεις"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Παρακαλώ περιμένετε, αυτό μπορεί να διαρκέσει λίγο χρόνο."
+
+#~ msgid "Update is complete"
+#~ msgstr "Η ενημέρωση ολοκληρώθηκε"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Έλεγχος για ενημερώσεις"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Από έκδοση: %(old_version)s σε %(new_version)s"
+
+#~ msgid "Version %s"
+#~ msgstr "Έκδοση %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Μέγεθος: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Η διανομή σας δεν υποστηρίζεται πια"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Δεν θα μπορείτε να λαμβάνετε περίπτερο ενημερώσεις και σημαντικές "
+#~ "αναβαθμίσεις. Θα πρέπει να κάνετε αναβάθμιση σε μια νεότερη έκδοση του "
+#~ "Ubuntu Linux. Δείτε το http://www.ubuntu.com για περισσότερες πληροφορίες "
+#~ "για την αναβάθμιση."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Είναι διαθέσιμη νέα έκδοση διανομής '%s'</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Ο κατάλογος λογισμικού είναι κατεστραμμένος"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Είναι αδύνατη η προσθήκη ή η απομάκρυνση λογισμικού. Παρακαλώ "
+#~ "χρησιμοποιήστε το διαχειριστή πακέτων \"Synaptic\" η εκτελέστε την εντολή "
+#~ "\"sudo apt-get install -f\" σε ένα τερματικό για να διορθώσετε το "
+#~ "πρόβλημα πρώτα."
+
+#~ msgid "None"
+#~ msgstr "Καμία"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Θα πρέπει να κάνετε έλεγχο για ενημερώσεις χειροκίνητα</big></b>\n"
+#~ "\n"
+#~ "Το σύστημα σας δεν υποστηρίζει αυτόματο έλεγχο ενημερώσεων. Μπορείτε να "
+#~ "ρυθμίσετε αυτή τη συμπεριφορά μέσω του μενού <i>Πηγές λογισμικού</i> και "
+#~ "στην καρτέλα <i>Ενημερώσεις διαδικτύου</i>."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Διατηρήστε το σύστημα σας ενημερωμένο</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>Δεν είναι δυνατή η εγκατάσταση όλων των ενημερώσεων</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<big><b>Εκκίνηση του update manager</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Αλλαγές"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Αλλαγές και περιγραφή της ενημέρωσης"
+
+#~ msgid "Chec_k"
+#~ msgstr "Ελε_γχος"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Έλεγχος των καναλιών λογισμικού για ενημερώσεις"
+
+#~ msgid "Description"
+#~ msgstr "Περιγραφή"
+
+#~ msgid "Release Notes"
+#~ msgstr "Σημειώσεις έκδοσης"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Εκτελέστε μια αναβάθμιση διανομής για να εγκαταστήσετε όσες το δυνατόν "
+#~ "περισσότερες ενημερώσεις.\n"
+#~ "\n"
+#~ "Αυτό μπορεί οφείλεται σε μη ολοκληρωμένη αναβάθμιση, σε ανεπίσημα πακέτα "
+#~ "λογισμικού ή αν χρησιμοποιείτε μια έκδοση υπό ανάπτυξη."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Εμφάνιση προόδου μοναδικών αρχείων"
+
+#~ msgid "Software Updates"
+#~ msgstr "Αναβαθμίσεις λογισμικού"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Οι ενημερώσεις λογισμικού μπορούν να διορθώνουν σφάλματα, κενά ασφαλείας "
+#~ "και να παρέχουν νέες λειτουργίες."
+
+#~ msgid "U_pgrade"
+#~ msgstr "Ανα_βάθμιση"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Αναβάθμιση στη τελευταία έκδοση του Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "Έλε_γχος"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "Αναβάθμιση _διανομής"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "Απόκρυ_ψη αυτής της πληροφορίας στο μέλλον"
+
+#~ msgid "_Install Updates"
+#~ msgstr "Ε_γκατάσταση ενημερώσεων"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Ανα_βάθμιση"
+
+#~ msgid "changes"
+#~ msgstr "αλλαγές"
+
+#~ msgid "updates"
+#~ msgstr "ενημερώσεις"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Αυτόματες ενημερώσεις</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Αναβαθμίσεις διαδικτύου</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Διαδίκτυο</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Για την βελτίωση της χρήσης του Ubuntu, σας παρακαλούμε να πάρετε "
+#~ "μέρος στο διαγωνισμό για τις πιο δημοφιλείς εφαρμογές. Αν θέλετε, μια "
+#~ "λίστα των εγκατεστημένων σας εφαρμογών θα στέλνεται ανώνυμα στο Ubuntu σε "
+#~ "εβδομαδιαία βάση.\n"
+#~ "\n"
+#~ "Τα αποτελέσματα θα χρησιμοποιούνται για την βελτίωση της υποστήριξης για "
+#~ "τις πιο δημοφιλείς εφαρμογές, και για την κατάταξη των εφαρμογών στα "
+#~ "αποτελέσματα αναζήτησης.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Προσθήκη Cdrom"
+
+#~ msgid "Authentication"
+#~ msgstr "Πιστοποίηση"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "Δια_γραφή αρχείων ληφθέντων πακέτων"
+
+#~ msgid "Download from:"
+#~ msgstr "Λήψη από:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Εισαγωγή του δημόσιου κλειδιού από έναν έμπιστο πάροχο λογισμικού"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Αναβαθμίσεις διαδικτύου"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Μόνο οι ενημερώσεις ασφαλείας που προέρχονται από τους επίσημους "
+#~ "εξυπηρετητές του Ubuntu  θα εγκαθίστανται αυτόματα."
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Επαναφορά π_ροεπιλογών"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Επαναφορά των προεπιλεγμένων κλειδιών της διανομής σας"
+
+#~ msgid "Software Sources"
+#~ msgstr "Πηγές λογισμικού"
+
+#~ msgid "Source code"
+#~ msgstr "Πηγαίος κώδικας"
+
+#~ msgid "Statistics"
+#~ msgstr "Στατιστικά"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Υποβολή στατιστικών πληροφοριών"
+
+#~ msgid "Third Party"
+#~ msgstr "Τρίτων"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Αυτόματος έλεγ_χος για ενημερώσεις κάθε:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "Αυτόματη λή_ψη ενημερώσεων χωρίς να εγκατασταθούν"
+
+#~ msgid "_Import Key File"
+#~ msgstr "Ε_ισαγωγή αρχείου κλειδιού"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "Ε_γκατάσταση ενημερώσεων ασφαλείας χωρίς επιβεβαίωση"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Οι πληροφορίες για το διαθέσιμο λογισμικό δεν είναι  "
+#~ "ενημερωμένες</big></b>\n"
+#~ "\n"
+#~ "Θα πρέπει να ανανεώσετε τις πληροφορίες καναλιού για να εγκαταστήσετε "
+#~ "λογισμικό και ενημερώσεις από τα τα νέα κανάλια που προσθέσατε ή "
+#~ "τροποποιήσατε. \n"
+#~ "\n"
+#~ "Χρειάζεστε μια ενεργή σύνδεση στο διαδίκτυο για να συνεχίσετε."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Σχόλιο:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Στοιχεία:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Διανομή:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Τύπος:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Εισάγετε την πλήρη γραμμή  APT του repository που θέλετε να "
+#~ "προσθέσετε</b></big>\n"
+#~ "\n"
+#~ "Η γραμμή APT περιέχει τον τύπο, τοποθεσία και το περιεχόμενο ενός "
+#~ "καναλιού, για παράδειγμα <i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "Γραμμή APT:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binary\n"
+#~ "Source"
+
+#~ msgid "Edit Source"
+#~ msgstr "Επεξεργασία πηγής"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Σάρωση CD-ROM"
+
+#~ msgid "_Add Source"
+#~ msgstr "Προσ_θήκη πηγής"
+
+#~ msgid "_Reload"
+#~ msgstr "Ανα_νέωση"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Προβολή και εγκατάσταση διαθέσιμων ενημερώσεων"
+
+#~ msgid "Update Manager"
+#~ msgstr "Διαχείριση ενημερώσεων"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Αυτόματος έλεγχος αν είναι διαθέσιμη μια νεότερη έκδοση της τρέχουσας "
+#~ "διανομής και προσφέρει αναβάθμιση."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Έλεγχος για νέες εκδόσεις της διανομής"
+
+#, fuzzy
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Αν έχει απενεργοποιηθεί ο αυτόματος έλεγχος για ενημερώσεις, θα πρέπει να "
+#~ "ανανεώσετε τη λίστα καναλιών χειροκίνητα."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Υπενθύμιση για την ανανέωση της λίστας καναλιών"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Εμφάνιση λεπτομερειών μιας ενημέρωσης"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Αποθηκεύει το μέγεθος του διαλόγου του update-manager"
+
+#, fuzzy
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr ""
+#~ "Αποθηκεύει τη κατάσταση του expander που περιέχει τη λίστα των αλλαγών "
+#~ "και τις περιγραφής τους"
+
+#~ msgid "The window size"
+#~ msgstr "Το μέγεθος του παραθύρου"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Ρύθμιση των πηγών για λογισμικό και ενημερώσεις"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Αναβαθμίσεις ασφαλείας Debian 3.1 \"Sarge\""
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Λήψη αρχείου %li από %li με άγνωστη ταχύτητα"
+
+#~ msgid "Normal updates"
+#~ msgstr "Κανονικές ενημερώσεις"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Ακύρωση _λήψης αρχείων"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Μερικά πακέτα λογισμικού δεν υποστηρίζονται πια επίσημα"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Δεν βρέθηκαν αναβαθμίσεις"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Το σύστημα σας έχει ήδη αναβαθμιστεί."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Αναβάθμιση σε Ubuntu 6.10</span>"
+
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Σημαντικές αναβαθμίσεις ασφαλείας του Ubuntu"
+
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Ενημερώσεις του Ubuntu"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Αδυναμία εγκατάστασης όλων των διαθέσιμων ενημερώσεων"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>Γίνεται ανάλυση του συστήματος σας</b></big>\n"
+#~ "\n"
+#~ "Οι ενημερώσεις λογισμικού μπορούν να διορθώνουν σφάλματα, κενά ασφαλείας "
+#~ "και να παρέχουν νέες λειτουργίες."
+
+#~ msgid "Oficially supported"
+#~ msgstr "Oficially supported"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "Μερικές ενημερώσεις απαιτούν την απομάκρυνση επιπρόσθετου λογισμικού. "
+#~ "Χρησιμοποιήστε την λειτουργία \"Σημείωση όλων των αναβαθμίσεων\" από το "
+#~ "διαχειριστή πακέτων ή την εντολή \"sudo apt-get dist-upgrade\" σε ένα "
+#~ "τερματικό για να αναβαθμίσετε πλήρως το σύστημα σας."
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Οι παρακάτω ενημερώσεις θα παρακαμφθούν:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Απομένουν περίπου %li δευτερόλεπτα"
+
+#~ msgid "Download is complete"
+#~ msgstr "Η λήψη ολοκληρώθηκε"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Η αναβάθμιση θα τερματιστεί τώρα. Παρακαλώ αναφέρετε το ως σφάλμα."
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Αναβάθμιση Ubuntu"
+
+#~ msgid "Hide details"
+#~ msgstr "Απόκρυψη λεπτομερειών"
+
+#~ msgid "Show details"
+#~ msgstr "Εμφάνιση λεπτομερειών"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "Μόνο ένα εργαλείο διαχείρισης λογισμικού μπορεί να εκτελείται."
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "Παρακαλώ κλείστε την άλλη εφαρμογή πρώτα π.χ. το 'aptitude' ή το "
+#~ "'Synaptic'."
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Κανάλια</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Κλειδιά</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Μέσα εγκατάστασης"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Προτιμήσεις λογισμικού"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Κανάλι</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Συστατικά</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "Προσθήκη Καναλιού"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Επεξεργασία καναλιού"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "Προσ_θήκη καναλιού"
+#~ msgstr[1] "Προσ_θήκη καναλιών"
+
+#~ msgid "_Custom"
+#~ msgstr "_Προσαρμοσμένο"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ενημερώσεις ασφαλείας Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ενημερώσεις Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS Backports"
+
+#~ msgid "Inavlid package information"
+#~ msgstr "Μη έγκυρες πληροφορίες πακέτου"
+
+#~ msgid ""
+#~ "Failed to download the listof changes. Please check your internet "
+#~ "connection."
+#~ msgstr ""
+#~ "Αποτυχία λήψης της λίστας των αλλαγών. Παρακαλώ ελέγξτε τη σύνδεση σας."
+
+#~ msgid ""
+#~ "While scaning your repository information no valid entry for the upgrade "
+#~ "was found.\n"
+#~ msgstr ""
+#~ "Κατά τον έλεγχο των πληροφοριών του repository δεν βρέθηκαν έγκυρες "
+#~ "καταχωρίσεις αναβάθμισης.\n"
+
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Ενότητες</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Ενότητες:</b>"
+
+#~ msgid "Add Software Channels"
+#~ msgstr "Προσθήκη καναλιών λογισμικού"
+
+#~ msgid "Add the following software channel?"
+#~ msgid_plural "Add the following software channels?"
+#~ msgstr[0] "Να προστεθεί το παρακάτω κανάλι λογισμικού;"
+#~ msgstr[1] ""
+
+#~ msgid "You can install software from a channel. Use trusted channels, only."
+#~ msgstr ""
+#~ "Μπορείτε να εγκαταστήσετε λογισμικό από ένα κανάλι. Χρησιμοποιήστε μόνο "
+#~ "έμπιστα κανάλια."
+
+#~ msgid "Could not add any software channels"
+#~ msgstr "Αδυναμία προσθήκης καναλιών λογισμικού"
+
+#~ msgid "The file '%s' does not contain any valid software channels."
+#~ msgstr "Το αρχείο '%s' δεν περιέχει έγκυρα κανάλια λογισμικού."
+
+#~ msgid ""
+#~ "The upgrade is finished now. A reboot is required to now, do you want to "
+#~ "do this now?"
+#~ msgstr ""
+#~ "Η αναβάθμιση ολοκληρώθηκε. Απαιτείται επανεκκίνηση, θέλετε να γίνει τώρα;"
+
+#~ msgid ""
+#~ "<b><big>You need to manually reload the latest information about updates</"
+#~ "big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in \"System\" -> \"Administration\" -> \"Software Properties"
+#~ "\"."
+#~ msgstr ""
+#~ "<b><big>Πρέπει να ανανεώσετε χειροκίνητα τις τελευταίες πληροφορίες για "
+#~ "τις ενημερώσεις</big></b>\n"
+#~ "\n"
+#~ "Το σύστημα σας δεν έχει ρυθμιστεί να κάνει αυτόματο έλεγχο για "
+#~ "ενημερώσεις. Μπορείτε να ρυθμίσετε αυτή τη συμπεριφορά μέσω του μενού "
+#~ "\"Σύστημα\" -> \"Διαχείριση συστήματος\" -> \"Ιδιότητες λογισμικού\"."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Λήψη αλλαγών</span>\n"
+#~ "\n"
+#~ "Χρειάζεται να κάνετε λήψη των αλλαγών από τον κεντρικό εξυπηρετητή"
+
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Ανανέωση των τελευταίων πληροφοριών πακέτων για ενημερώσεις"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr ""
+#~ "Εμφάνιση διαθέσιμων αναβαθμίσεων και επιλογή αυτών που θα εγκατασταθούν"
+
+#~ msgid "Ubuntu 6.04 \"Dapper Drake\""
+#~ msgstr "Ubuntu 6.04 \"Dapper Drake\""
+
+#~ msgid "Ubuntu 5.10 \"Breezy Badger\""
+#~ msgstr "Ubuntu 5.10 \"Breezy Badger\""

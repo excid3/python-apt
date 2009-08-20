@@ -1,0 +1,1542 @@
+# Danish translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 15:55+0000\n"
+"Last-Translator: Lasse Bang Mikkelsen <lbm@fatalerror.dk>\n"
+"Language-Team: Danish <da@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cd-rom med Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.04 sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.04 sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 \"Edgy Eft\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Vedligeholdt af fællesskabet"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Proprietære drivere til enheder"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Ikke-frit software"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cd-rom med Ubuntu 6.10 \"Edgy Eft\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS \"Dapper Drake\""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Fri software understøttet af Canonical"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Vedligeholdt af fællesskabet (universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Fri software vedligeholdt af fællesskabet"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Proprietære drivere"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Proprietære drivere til enheder "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Ikke-frit software (multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Software begrænset af ophavsret eller legale problemer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cd-rom med Ubuntu 6.06 LTS \"Dapper Drake\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Vigtige sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Anbefalede opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Foreslåede opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Tilbageporterede opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 tilbageporteringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cd-rom med Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Understøttet officielt"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.04 sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.04 opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.04 tilbageporteringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Vedligeholdt af fællesskabet (universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Ikke-frit (multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cd-rom med Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Ikke længere officielt supporteret"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Begrænset ophavsret"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 4.10 opdateringer"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 tilbageporteringer"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Foreslåede opdateringer"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Vigtige sikkerhedsopdateringer"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "DFSG-kompatibel software med ikke-frie afhængigheder"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Ikke-DFSG-kompatibel software"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Server for %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Hovedserver"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Brugerdefinerede servere"
+
+#~ msgid "Daily"
+#~ msgstr "Dagligt"
+
+#~ msgid "Every two days"
+#~ msgstr "Hver anden dag"
+
+#~ msgid "Weekly"
+#~ msgstr "Ugenligt"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Hver anden uge"
+
+#~ msgid "Every %s days"
+#~ msgstr "Hver %s. dag"
+
+#~ msgid "After one week"
+#~ msgstr "Efter en uge"
+
+#~ msgid "After two weeks"
+#~ msgstr "Efter to uger"
+
+#~ msgid "After one month"
+#~ msgstr "Efter en måned"
+
+#~ msgid "After %s days"
+#~ msgstr "Efter %s dage"
+
+#~ msgid "%s updates"
+#~ msgstr "%s opdateringer"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Nærmeste server"
+
+#~ msgid "Software Channel"
+#~ msgstr "Softwarekanal"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Kildetekst)"
+
+#~ msgid "Source Code"
+#~ msgstr "Kildetekst"
+
+#~ msgid "Import key"
+#~ msgstr "Importér nøgle"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Fejl ved importering af den valgte fil"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Den valgte fil er ikke en GPG-nøglefil eller den kan være ødelagt."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Fejl ved fjernelse af nøgle"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Den valgte nøgle kunne ikke fjernes. Rapportér venligst dette som en fejl."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Fejl ved gennemsøgning af cd</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Indtast venligst et navn for disken"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Indsæt venligst en disk i drevet:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Ødelagte pakker"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Dit system indeholder ødelagte pakker som ikke kunne repareres med dette "
+#~ "program. Reparér dem venligst med synaptic eller apt-get, før du "
+#~ "fortsætter."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Kan ikke opgradere de krævede metapakker"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Det ville være nødvendigt at fjerne en vital pakke"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Kunne ikke beregne opgraderingen"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Der opstod et uløseligt problem under beregningen af opgraderingen.\n"
+#~ "\n"
+#~ "Rapportér venligst denne fejl mod \"update-manager\"-pakken og inkludér "
+#~ "filerne i /var/log/dist-upgrade/ i fejlrapporten."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Fejl ved godkendelse af nogle pakker"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Nogle pakker kunne ikke godkendes. Det kan være et problem med netværket. "
+#~ "Du kan prøve igen senere. Se nedenfor en liste over pakker som ikke kunne "
+#~ "godkendes."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Kan ikke installere \"%s\""
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Det var umuligt at installere en påkrævet pakke. Rapportér venligst dette "
+#~ "som en fejl. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Kan ikke gætte metapakke"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Dit system indeholder ikke en ubuntu-desktop, kubuntu-desktop eller "
+#~ "edubuntu-desktop-pakke, og det var ikke muligt at genkende hvilken Ubuntu-"
+#~ "version du kører.\n"
+#~ "\n"
+#~ "Installér venligst en af pakkerne nævnt herover ved hjælp af synaptic "
+#~ "eller apt-get, før du fortsætter."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Kunne ikke tilføje cd"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Der opstod en fejl ved tilføjelse af cd'en, opgraderingen afbrydes. "
+#~ "Rapportér venligst dette som en fejl, hvis dette er en gyldig Ubuntu cd.\n"
+#~ "\n"
+#~ "Fejlmeddelelsen var:\n"
+#~ "\"%s\""
+
+#~ msgid "Reading cache"
+#~ msgstr "Læser mellemlager"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Hent data fra netværket til opgraderingen?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Opgraderingen kan bruge netværket til at søge efter de seneste "
+#~ "opdateringer og hente pakker som ikke er på den nuværende cd.\n"
+#~ "\n"
+#~ "Hvis du har en hurtig eller billig netværksforbindelse, bør du svare \"Ja"
+#~ "\" her. Hvis forbindelsen er dyr i anvendelse, bør du svare \"Nej\"."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Intet gyldigt spejl fundet"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Intet spejl for opdateringen blev fundet under indlæsning af din "
+#~ "arkivinformation. Dette kan ske hvis du kører et internt spejl eller hvis "
+#~ "spejlinformationen er forældet.\n"
+#~ "\n"
+#~ "Vil du genskrive din \"sources.list\"-fil alligevel? Hvis du vælger \"Ja"
+#~ "\" her, vil alle linjer \"%s\" blive erstattet af \"%s\".\n"
+#~ "Hvis du vælger \"Nej\", vil opdateringen blive annulleret."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Generér standardkilder?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Efter indlæsning af din \"sources.list\", blev der ikke fundet en gyldig "
+#~ "linje for \"%s\".\n"
+#~ "\n"
+#~ "Skal standardlinjer for \"%s\" tilføjes? Hvis du vælger \"Nej\", vil "
+#~ "opdateringen blive annulleret."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Arkivinformation ugyldig"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Opgradering af arkivet resulterede i en ødelagt fil. Rapportér venligst "
+#~ "dette som en fejl."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Tredjepartskilder er deaktiveret"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Nogle tredjepartselementer i din sources.list blev deaktiveret. Du kan "
+#~ "genaktivere dem efter opgraderingen med \"software-properties\"-værktøjet "
+#~ "eller med synaptic."
+
+#~ msgid "Error during update"
+#~ msgstr "Fejl under opdatering"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "En fejl opstod under opdateringen. Dette skyldes som regel et "
+#~ "netværksproblem, tjek venligst din netværksforbindelse og prøv igen."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Ikke tilstrækkeligt ledig diskplads"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Opgraderingen afbrydes nu. Frigør venligst %s diskplads på %s. Tøm din "
+#~ "papirkurv og fjern midlertidige pakker fra tidligere installationer ved "
+#~ "at køre 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Vil du starte opgraderingen?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Kunne ikke installere opgraderingerne"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Opgraderingen afbrydes nu. Dit system kan være i en ubrugelig tilstand. "
+#~ "En genskabelse blev kørt (dpkg --configura -a).\n"
+#~ "\n"
+#~ "Rapportér venligst denne fejl mod \"update-manager\"-pakken og inkludér "
+#~ "filerne i /var/log/dist-upgrade/ i fejlrapporten."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Kunne ikke hente opgraderingerne"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Opgraderingen afbrydes nu. Tjek venligst din internetforbindelse eller "
+#~ "dit installationsmedie og prøv igen. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Support stoppede for nogle programmer"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Canonical Ltd. yder ikke længere support på de følgende softwarepakker. "
+#~ "Du kan stadig få hjælp fra fællesskabet.\n"
+#~ "\n"
+#~ "Hvis du ikke har slået software vedligeholdt af fællesskabet (universe) "
+#~ "til, vil disse pakker blive foreslået fjernet i det næste trin."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Fjern forældede pakker?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Spring dette trin over"
+
+#~ msgid "_Remove"
+#~ msgstr "_Fjern"
+
+#~ msgid "Error during commit"
+#~ msgstr "Fejl under gennemførelse"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Et problem opstod under oprydningen. Se venligst længere nede for mere "
+#~ "information. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Genskaber oprindelig systemtilstand"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "Henter tilbageportering af \"%s\""
+
+#~ msgid "Checking package manager"
+#~ msgstr "Undersøger pakkehåndtering"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Klargøring af opgraderingen fejlede"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Klargøring af systemet til opgraderingen fejlede. Rapportér venligst "
+#~ "denne fejl mod \"update-manager\"-pakken og inkludér filerne i /var/log/"
+#~ "dist-upgrade/ i fejlrapporten."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Opdaterer arkivinformation"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Ugyldig pakkeinformation"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Efter din pakkeinformation blev opdateret, kan den vitale pakke \"%s\" "
+#~ "ikke længere findes.\n"
+#~ "Dette indikerer en kritisk fejl, rapportér venligst denne fejl mod "
+#~ "\"update-manager\"-pakken og inkludér filerne i /var/log/dist-upgrade/ i "
+#~ "fejlrapporten."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Anmoder om bekræftelse"
+
+#~ msgid "Upgrading"
+#~ msgstr "Opgraderer"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Søger efter forældet software"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Systemopgradering er fuldført"
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Indsæt venligst '%s' i drevet '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Hentning er gennemført"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Henter fil %li af %li med %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Omkring %s tilbage"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Henter fil %li af %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Anvender ændringer"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Kunne ikke installere \"%s\""
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Opgraderingen afbrydes nu. Rapportér venligst denne fejl mod \"update-"
+#~ "manager\"-pakken og inkludér filerne i /var/log/dist-upgrade/ i "
+#~ "fejlrapporten."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Udskift den tilpassede konfigurationsfil\n"
+#~ "\"%s\"?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Du mister alle ændringer du har lavet til denne konfigurationsfil, hvis "
+#~ "du vælger at erstatte den med en nyere version."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Kommandoen \"diff\" blev ikke fundet"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Der opstod en alvorlig fejl"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Rapportér venligst dette som en fejl og inkludér filerne /var/log/dist-"
+#~ "upgrade/main.log og /var/log/dist-upgrade/apt.log in din rapport. "
+#~ "Opgraderingen afbrydes nu.\n"
+#~ "Din oprindelige sources.list blev gemt i /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d pakke vil blive fjernet."
+#~ msgstr[1] "%d pakker vil blive fjernet."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d ny pakke vil blive installeret."
+#~ msgstr[1] "%d nye pakker vil blive installeret."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d pakke vil blive opgraderet."
+#~ msgstr[1] "%d pakker vil blive opgraderet."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Du skal hente i alt %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Hentning og installation af opgraderingen kan tage flere timer og kan "
+#~ "ikke afbrydes senere."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr "Luk alle åbne programmer og dokumenter for at undgå tab af data."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Dit system er opdateret"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr ""
+#~ "Der er ingen opgraderinger tilgængelige for dit system. Opgraderingen vil "
+#~ "nu blive afbrudt."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Fjern %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Installér %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Opgradér %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li dage %li timer %li minutter"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li timer %li minutter"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minutter"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li sekunder"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Denne hentning vil tage omkring %s med en 1 Mbit DSL-forbindelse og "
+#~ "omkring %s med et 56k modem"
+
+#~ msgid "Reboot required"
+#~ msgstr "Genstart af maskinen påkrævet"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Opgraderingen er afsluttet og en genstart af maskinen er påkrævet. Vil du "
+#~ "gøre dette nu?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Afbryd den igangværende opgradering?</big></b>\n"
+#~ "\n"
+#~ "Systemet kan være i en ubrugelig tilstand, hvis du afbryder "
+#~ "opgraderingen. Det anbefales kraftigt at du fortsætter opgraderingen."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>Genstart systemet for at færdiggøre opgraderingen</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Start opgraderingen?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Opgraderer Ubuntu til version 6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Rydder op"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Forskel mellem filerne"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Henter og installerer opgraderingerne"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Ændrer softwarekanalerne"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Klargører opgraderingen"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Genstarter systemet"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Afbryd opgradering"
+
+#~ msgid "_Continue"
+#~ msgstr "_Fortsæt"
+
+#~ msgid "_Keep"
+#~ msgstr "_Behold"
+
+#~ msgid "_Replace"
+#~ msgstr "_Erstat"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Rapportér fejl"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Genstart nu"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Genoptag opgradering"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Begynd opgradering"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Kunne ikke finde udgivelsesnoterne"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Serveren kan være overbelastet. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Kunne ikke hente udgivelsesnoterne"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Undersøg venligst din internetforbindelse"
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Kunne ikke køre opgraderingsværktøjet"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Dette er højst sandsynligt en fejl i opgraderingsværktøjet. Raporter "
+#~ "venligst dette som en fejl."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Henter opgraderingsværktøjet"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Opgraderingsværktøjet vil guide dig igennem opgraderingsprocessen."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Signatur på opgraderingsværktøj"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Opgraderingsværktøj"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Fejl ved hentning"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Hentning af opgraderingen fejlede. Det skyldes muligvis et problem med "
+#~ "netværket. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Fejl ved udpakning"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Udpakningen af opgraderingen fejlede. Det skyldes muligvis et problem med "
+#~ "netværket eller serveren. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Efterprøvning fejlede"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Efterprøvning af opgraderingen fejlede. Det skyldes muligvis et problem "
+#~ "med netværket eller serveren. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Godkendelse mislykkedes"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Godkendelse af opgraderingen fejlede. Det skyldes muligvis et problem med "
+#~ "netværket eller serveren. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Henter fil %(current)li af %(total)li med %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Henter fil %(current)li af %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Listen med ændringer er ikke tilgængelig"
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Listen med ændringer er ikke klar endnu.\n"
+#~ "Prøv venligst igen senere."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Fejl ved hentning af ændringslisten.\n"
+#~ "Undersøg venligst din internetforbindelse."
+
+#~ msgid "Backports"
+#~ msgstr "Tilbageporteringer"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Distributionsopdateringer"
+
+#~ msgid "Other updates"
+#~ msgstr "Andre opdateringer"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Version %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Henter listen med ændringer..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "_Fjern alle afkrydsninger"
+
+#~ msgid "_Check All"
+#~ msgstr "_Afkryds alle"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Overføringsstørrelse: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Du kan installere %s opdatering"
+#~ msgstr[1] "Du kan installere %s opdateringer"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Vent venligst, dette kan tage et stykke tid."
+
+#~ msgid "Update is complete"
+#~ msgstr "Opdatering er gennemført"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Leder efter opdateringer"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Fra version %(old_version)s til %(new_version)s"
+
+#~ msgid "Version %s"
+#~ msgstr "Version %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Størrelse: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Din distribution understøttes ikke længere"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Du vil ikke modtage yderligere sikkerhedrettelser eller kritiske "
+#~ "opdateringer. Opgradér til en senere version af Ubuntu Linux. Se http://"
+#~ "www.ubuntu.com (engelsk) for mere information om opgradering."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Ny distributionsudgivelse \"%s\" er tilgængelig</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Softwareindekset er ødelagt"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Det er ikke muligt at installere eller fjerne software. Brug venligst "
+#~ "pakkehåndteringsprogrammet \"Synaptic\" eller kør \"sudo apt-get install -"
+#~ "f\" i en terminal for at fikse dette problem først."
+
+#~ msgid "None"
+#~ msgstr "Intet"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Du må undersøge for opdateringer manuelt</big></b>\n"
+#~ "\n"
+#~ "Dit system søger ikke automatisk efter nye opdateringer. Du kan indstille "
+#~ "denne adfærd i <i>Softwarekilder</i> under <i>Internetopdateringer</i>-"
+#~ "fanebladet."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Hold dit system opdateret</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>Ikke alle opdateringer kan installeres</b></big>\r\n"
+#~ "\r\n"
+#~ "%s"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<big><b>Starter opdateringshåndtering</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Ændringer"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Ændringer og beskrivelse af opdateringen"
+
+#~ msgid "Chec_k"
+#~ msgstr "_Kontrollér"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Kontrollér softwarekanalerne for nye opdateringer"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Release Notes"
+#~ msgstr "Udgivelsesnoter"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Kør en distributionsopgradering, for at installere så mange opdateringer "
+#~ "som muligt.\n"
+#~ "\n"
+#~ "Dette kan skyldes en ufærdig opgradering, uofficielle softwarepakker "
+#~ "eller hvis der køres en udviklingsversion."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Vis fremgang for enkelte filer"
+
+#~ msgid "Software Updates"
+#~ msgstr "Softwareopdateringer"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Softwareopdateringer retter fejl, lukker sikkerhedshuller og gør nye "
+#~ "funktioner tilgængelige."
+
+#~ msgid "U_pgrade"
+#~ msgstr "O_pgradér"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Opgradér til seneste version af Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Tjek"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Distributionsopgradering"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Skjul denne information i fremtiden"
+
+#~ msgid "_Install Updates"
+#~ msgstr "_Installér opdateringer"
+
+#~ msgid "_Upgrade"
+#~ msgstr "_Opgradér"
+
+#~ msgid "changes"
+#~ msgstr "ændringer"
+
+#~ msgid "updates"
+#~ msgstr "opdateringer"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Automatiske opdateringer</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>Cd-rom/dvd</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Internetopdateringer</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Tag venligst del i populariteteskonkurrencen, for at forbedre "
+#~ "brugeroplevelsen af Ubuntu. Hvis du vælger at gøre dette, fremsendes der "
+#~ "på ugentlig basis en anonym liste over installeret software og hvor ofte "
+#~ "det anvendes.\n"
+#~ "\n"
+#~ "Resultaterne anvendes til at forbedre supporten for populære programmer "
+#~ "og prioriterer programmerne i søgeresultaterne.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Tilføj cd-rom"
+
+#~ msgid "Authentication"
+#~ msgstr "Godkendelse"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "Sl_et hentede softwarefiler:"
+
+#~ msgid "Download from:"
+#~ msgstr "Hent fra:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Importér den offentlige nøgle fra en betroet softwareleverandør"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Internetopdateringer"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Kun sikkerhedsopdateringer fra de officielle Ubuntu-servere vil blive "
+#~ "installeret automatisk"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Gendan stan_darder"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Gendan standardnøglerne for din distribution"
+
+#~ msgid "Software Sources"
+#~ msgstr "Softwarekilder"
+
+#~ msgid "Source code"
+#~ msgstr "Kildetekst"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistikker"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Indsend statistisk information"
+
+#~ msgid "Third Party"
+#~ msgstr "Tredjepart"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "_Undersøg automatisk efter opdateringer"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "_Hent automatisk opdateringer, men installér dem ikke"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Importér nøglefil"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Installér sikkerhedsopdateringer automatisk uden bekræftelse"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Informationer omkring tilgængeligt software er forældede</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "For at installere software og opdateringer fra nyligt tilføjede eller "
+#~ "ændrede kilder, er du nødt til at genopfriske informationer omkring "
+#~ "tilgængeligt  software.\n"
+#~ "\n"
+#~ "Du skal bruge en fungerende internetforbindelse for at fortsætte."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Kommentar:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Komponenter:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribution:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Type:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Indtast en komplet APT-linje for det arkiv du ønsker at tilføje "
+#~ "som kilde</big></b>\n"
+#~ "\n"
+#~ "APT-linjen indeholder typen, placeringen og komponenter for arkivet, f."
+#~ "eks. <i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "APT-linje:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binær\n"
+#~ "Kildetekst"
+
+#~ msgid "Edit Source"
+#~ msgstr "Redigér kilde"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Undersøger cd-rom"
+
+#~ msgid "_Add Source"
+#~ msgstr "_Tilføj kilde"
+
+#~ msgid "_Reload"
+#~ msgstr "_Genindlæs"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Vis og installér tilgængelige opdateringer"
+
+#~ msgid "Update Manager"
+#~ msgstr "Opdateringshåndtering"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Undersøg automatisk om en ny version den nuværende distribution er "
+#~ "tilgængelig, og tilbyd at opgradere (hvis det er muligt)."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Undersøg om der er nye distributionsudgivelser"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Hvis automatisk undersøgelse for opdateringer er slået fra, er du nødt "
+#~ "til at genopfriske kanallisten manuelt. Denne indstilling tillader at "
+#~ "påmindelsen skjules i det tilfælde."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Påmind om at genopfriske kanallisten"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Vis detaljer for opdatering"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Størrelsen på opdateringshåndteringens vindue"
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr ""
+#~ "Tilstanden for udfolderen der indeholder listen med ændringer og "
+#~ "beskrivelser"
+
+#~ msgid "The window size"
+#~ msgstr "Vinduesstørrelsen"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Konfigurér kilderne for installérbar software og opdateringer"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" sikkerhedsopdateringer"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Henter fil %li af %li med ukendt hastighed"
+
+#~ msgid "Normal updates"
+#~ msgstr "Almindelige opdateringer"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Afbryd _hentning"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Noget software er ikke længere officielt understøttet"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Kunne ikke finde nogen tilgængelige opgraderinger"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Dit system er allerede opgraderet."
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Opgraderer til Ubuntu 6.06 LTS</"
+#~ "span>"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Ubuntu 5.10 Sikkerhedsopdateringer"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Opgrader til seneste version af Ubuntu"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Kan ikke installere alle tilgængelige opdateringer"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Officielt understøttet"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "Nogle opdateringer kræver yderligere software. Brug funktionen \"Vælg "
+#~ "alle opgraderinger\" i pakkehåndteringsprogrammet \"Synaptic\" eller kør "
+#~ "\"sudo apt-get dist-upgrade\" i en terminal for at opdatere dit system "
+#~ "fuldstændigt."
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Følgende opdateringer vil blive sprunget over:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Tid tilbage(ca.): %li sekunder"
+
+#~ msgid "Download is complete"
+#~ msgstr "Overførsel fuldført"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Opgraderingen afbryder nu. Rapporter venligst denne fejl."
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Opgraderer Ubuntu"
+
+#~ msgid "Hide details"
+#~ msgstr "Skjul detaljer"
+
+#~ msgid "Show details"
+#~ msgstr "Vis detaljer"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr ""
+#~ "Det er kun tilladt at have et softwarestyringsværktøj kørende ad gangen."
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "Luk venligst det andet program (f.eks. 'Aptitude eller 'Synaptic') først."
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Kanaler</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Nøgler</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Installationsmedie"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Indstillinger"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Kanal</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Komponenter</b>"
+
+#, fuzzy
+#~ msgid "Add Channel"
+#~ msgstr "Tilføj kanal"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Redigér kanal"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "_Tilføj kanal"
+#~ msgstr[1] "_Tilføj kanaler"
+
+#~ msgid "_Custom"
+#~ msgstr "_Tilpasset"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS Sikkerhedsopdateringer"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS Opdateringer"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS Backports"

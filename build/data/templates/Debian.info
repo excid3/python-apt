@@ -1,0 +1,127 @@
+ChangelogURI: http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog
+
+Suite: lenny
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian 5.0 'Lenny' 
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: lenny-proposed-updates
+RepositoryType: deb
+ParentSuite: lenny
+Description: Proposed updates
+
+Suite: lenny/updates
+RepositoryType: deb
+BaseURI: http://security.debian.org/
+MatchURI: security\.debian\.org
+ParentSuite: lenny
+Description: Security updates
+
+Suite: etch
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian 4.0 'Etch' 
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: etch-proposed-updates
+RepositoryType: deb
+ParentSuite: etch
+Description: Proposed updates
+
+Suite: etch/updates
+RepositoryType: deb
+BaseURI: http://security.debian.org/
+MatchURI: security\.debian\.org
+ParentSuite: etch
+Description: Security updates
+
+Suite: sarge
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian 3.1 'Sarge'
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: sarge-proposed-updates
+RepositoryType: deb
+ParentSuite: sarge
+Description: Proposed updates
+
+Suite: sarge/updates
+RepositoryType: deb
+BaseURI: http://security.debian.org/
+MatchURI: security\.debian\.org
+ParentSuite: sarge
+Description: Security updates
+
+Suite: stable
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian current stable release
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: testing
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian testing
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: sid
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MatchURI: ftp[0-9]*\.[a-z]\.debian\.org
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian 'Sid' (unstable)
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software
+
+Suite: unstable
+RepositoryType: deb
+BaseURI: http://http.us.debian.org/debian/
+MirrorsFile: /usr/share/python-apt/templates/Debian.mirrors
+Description: Debian 'Sid' (unstable)
+Component: main
+CompDescription: Officially supported
+Component: contrib
+CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+CompDescription: Non-DFSG-compatible Software

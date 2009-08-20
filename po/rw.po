@@ -1,0 +1,909 @@
+# translation of update-manager to Kinyarwanda.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the update-manager package.
+# Steve Murphy <murf@e-tools.com>, 2005
+# Steve performed initial rough translation from compendium built from translations provided by the following translators:
+# Philibert Ndandali  <ndandali@yahoo.fr>, 2005.
+# Viateur MUGENZI <muvia1@yahoo.fr>, 2005.
+# Noëlla Mupole <s24211045@tuks.co.za>, 2005.
+# Carole Karema <karemacarole@hotmail.com>, 2005.
+# JEAN BAPTISTE NGENDAHAYO <ngenda_denis@yahoo.co.uk>, 2005.
+# Augustin KIBERWA  <akiberwa@yahoo.co.uk>, 2005.
+# Donatien NSENGIYUMVA <ndonatienuk@yahoo.co.uk>, 2005..
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:17+0000\n"
+"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
+"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "5"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Kohereza Nta gukoresha bisesuye"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "5"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "Kigenga"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Kigenga"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Kwinjiza porogaramu"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Kwinjiza porogaramu"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+#, fuzzy
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+#, fuzzy
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+#, fuzzy
+msgid "Ubuntu 5.10 Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "5"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "5"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+#, fuzzy
+msgid "Non-free (Multiverse)"
+msgstr "Kigenga"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+#, fuzzy
+msgid "Restricted copyright"
+msgstr "Uburenganzira bw'umuhimbyi"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+#, fuzzy
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+#, fuzzy
+msgid "Ubuntu 4.10 Updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "5"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "4. 10"
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Kwinjiza porogaramu"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "5"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+msgid "Debian 'Sid' (unstable)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Daily"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Ibihuzagihe bya porogaramumudasobwa"
+
+#, fuzzy
+#~ msgid "Error importing selected file"
+#~ msgstr "Kuzaza Byahiswemo IDOSIYE"
+
+#, fuzzy
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Byahiswemo IDOSIYE Gicurasi OYA a Urufunguzo IDOSIYE Cyangwa"
+
+#, fuzzy
+#~ msgid "Error removing the key"
+#~ msgstr "i Urufunguzo"
+
+#, fuzzy
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a"
+
+#, fuzzy
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a "
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "i Urufunguzo"
+
+#, fuzzy
+#~ msgid "Checking package manager"
+#~ msgstr "Muyobozi ni"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a"
+
+#, fuzzy
+#~ msgid "Upgrading"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "Amahinduka"
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Sisitemu ni Hejuru Kuri Itariki"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "Kongera Gutangiza"
+
+#, fuzzy
+#~ msgid "_Resume Upgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "_Start Upgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a"
+
+#, fuzzy
+#~ msgid "Upgrade tool"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "ni a Gishya Bya Bihari"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "ni a Gishya Bya Bihari"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Kuri Gufungura Amahinduka Kugenzura... NIBA ni Gikora Interineti Ukwihuza"
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "Version %s: \n"
+#~ msgstr "Verisiyo \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Iyimura... i"
+
+#, fuzzy
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Sisitemu ni Hejuru Kuri Itariki"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "Verisiyo"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Ikwirakwiza... ni Oya"
+
+#~ msgid "Changes"
+#~ msgstr "Amahinduka"
+
+#~ msgid "Description"
+#~ msgstr "Isobanuramiterere"
+
+#~ msgid "Software Updates"
+#~ msgstr "Ibihuzagihe bya porogaramumudasobwa"
+
+#, fuzzy
+#~ msgid "U_pgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Byarangiye"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "Amahinduka"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "i Byahiswemo Urufunguzo Bivuye i"
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "Mburabuzi Utubuto"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "Ibihuzagihe bya porogaramumudasobwa"
+
+#, fuzzy
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<B i Byuzuye Umurongo Bya i Kuri Kongeramo B Umurongo Kirimo i Ubwoko "
+#~ "Ahantu Na Ibikubiyemo Bya a kugirango Urugero i HTTP FTP org i Gushaka a "
+#~ "Isobanuramiterere Bya i in i"
+
+#, fuzzy
+#~ msgid "APT line:"
+#~ msgstr "Umurongo"
+
+#, fuzzy
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr "Inkomoko"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "Kongera Gutangiza"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "Kohereza Nta gukoresha bisesuye"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Sisitemu"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "OYA"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Urufunguzo Byahiswemo OYA Cyavanyweho Icyegeranyo iyi Nka a"
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<B B"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "_Custom"
+#~ msgstr "Guhanga"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "5"
+
+#, fuzzy
+#~ msgid "Repositories changed"
+#~ msgstr "Byahinduwe"
+
+#, fuzzy
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr "Kubika."
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Kongerakuyitangiza i Ibisobanuro Bivuye i Seriveri"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<Uburemere UTSINDAGIYE Ingano Kinini Amahinduka Kuri Kubona i Amahinduka "
+#~ "Bivuye i Seriveri"
+
+#, fuzzy
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Bihari Na Guhitamo Kuri Kwinjiza porogaramu"
+
+#, fuzzy
+#~ msgid "Error fetching the packages"
+#~ msgstr "i Urufunguzo"
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "Automatically check for updates"
+#~ msgstr "Kugenzura... kugirango"
+
+#, fuzzy
+#~ msgid "Choose a key-file"
+#~ msgstr "a Urufunguzo IDOSIYE"
+
+#, fuzzy
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "<B Kuri Kwinjiza porogaramu B"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr "<B B Byabonetse Kuri ku ikoresha i Akabuto"
+
+#, fuzzy
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<B Idosiye B"
+
+#, fuzzy
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<B B"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<B Utubuto B Kongeramo Na Gukuraho... Utubuto in iyi Ikiganiro A "
+#~ "Urufunguzo Kuri Kugenzura... i Bya i Gufungura"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr "a Gishya Urufunguzo IDOSIYE Kuri i i Urufunguzo KURI a Na i "
+
+#, fuzzy
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "GUSUKURA By'igihe gito Idosiye"
+
+#, fuzzy
+#~ msgid "Clean interval in days: "
+#~ msgstr "Intera in Iminsi "
+
+#, fuzzy
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "ki/ bishaje in i Ubwihisho"
+
+#, fuzzy
+#~ msgid "Maximum age in days:"
+#~ msgstr "in Iminsi"
+
+#, fuzzy
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Ingano in"
+
+#, fuzzy
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "i Mburabuzi Utubuto Na: i Ikwirakwiza... OYA Guhindura>> Ukoresha: Utubuto"
+
+#, fuzzy
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "Kinini Ingano kugirango i Ubwihisho"
+
+#~ msgid "Settings"
+#~ msgstr "Amagenamiterere"
+
+#, fuzzy
+#~ msgid "Show disabled software sources"
+#~ msgstr "Yahagaritswe"
+
+#, fuzzy
+#~ msgid "Update interval in days: "
+#~ msgstr "Intera in Iminsi "
+
+#, fuzzy
+#~ msgid ""
+#~ "This means that some dependencies of the installed packages are not "
+#~ "satisfied. Please use \"Synaptic\" or \"apt-get\" to fix the situation."
+#~ msgstr "Bya i OYA Gukoresha Cyangwa Kubona Kuri i"
+
+#, fuzzy
+#~ msgid "It is not possible to upgrade all packages."
+#~ msgstr "ni OYA Kuri Byose"
+
+#, fuzzy
+#~ msgid ""
+#~ "This means that besides the actual upgrade of the packages some further "
+#~ "action (such as installing or removing packages) is required. Please use "
+#~ "Synaptic \"Smart Upgrade\" or \"apt-get dist-upgrade\" to fix the "
+#~ "situation."
+#~ msgstr ""
+#~ "i Bya i Igikorwa Nka gukora iyinjizaporogaramu:%s Cyangwa ni Bya ngombwa "
+#~ "Gukoresha Cyangwa Kubona Kuri i"
+
+#, fuzzy
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr "OYA Byabonetse i Seriveri Gicurasi OYA"
+
+#, fuzzy
+#~ msgid "The updates are being applied."
+#~ msgstr "Byashyizweho"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Gukoresha Porogaramu ku i Igihe Gufunga iyi Ikindi Porogaramu Itangira"
+
+#, fuzzy
+#~ msgid "Updating package list..."
+#~ msgstr "Urutonde"
+
+#, fuzzy
+#~ msgid "There are no updates available."
+#~ msgstr "Oya Bihari"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "Kuri a Verisiyo Bya Verisiyo Oya Kubona Umutekano Cyangwa Ikindi "
+#~ "Ibyangombwa HTTP www org kugirango Ibisobanuro"
+
+#, fuzzy
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr "A Gishya Na: i ni Bihari HTTP www org kugirango Amabwiriza"
+
+#, fuzzy
+#~ msgid "Never show this message again"
+#~ msgstr "Garagaza iyi Ubutumwa"
+
+#, fuzzy
+#~ msgid ""
+#~ "This usually means that another package management application (like apt-"
+#~ "get or aptitude) already running. Please close that application first"
+#~ msgstr ""
+#~ "Gukoresha Porogaramu ku i Igihe Gufunga iyi Ikindi Porogaramu Itangira"
+
+#, fuzzy
+#~ msgid "Initializing and getting list of updates..."
+#~ msgstr "Na Urutonde Bya"
+
+#, fuzzy
+#~ msgid "You need to be root to run this program"
+#~ msgstr "Kuri Imizi Kuri Gukoresha iyi Porogaramu"
+
+#, fuzzy
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Na Amagenamiterere"
+
+#~ msgid "Binary"
+#~ msgstr "Nyabibiri"
+
+#, fuzzy
+#~ msgid "Non-free software"
+#~ msgstr "Kigenga"
+
+#, fuzzy
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "com"
+
+#, fuzzy
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "com"

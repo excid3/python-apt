@@ -1,0 +1,993 @@
+# Vietnamese translation for Update Manager.
+# Copyright © 2005 Gnome i18n Project for Vietnamese.
+# Clytie Siddall <clytie@riverland.net.au>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager Gnome HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:17+0000\n"
+"Last-Translator: Tran The Trung <tttrung@hotmail.com>\n"
+"Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: LocFactoryEditor 1.2.2\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Đĩa CD chứa « Hoary Hedgehog » của Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Đĩa CD chứa « Hoary Hedgehog » của Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Đĩa CD chứa « Breezy Badger » của Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Đĩa CD chứa « Breezy Badger » của Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Do cộng đồng bảo quản (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Phần mềm đã đóng góp"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Đĩa CD chứa « Warty Warthog » của Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Bản cập nhật Ubuntu 5.04"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Do cộng đồng bảo quản (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Do cộng đồng bảo quản (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Do cộng đồng bảo quản (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "Không tự do (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Không tự do (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Bản cập nhật Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Đang cài đặt bản cập nhật..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Đang cài đặt bản cập nhật..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+#, fuzzy
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Đĩa CD chứa « Breezy Badger » của Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Đĩa CD chứa « Breezy Badger » của Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Đĩa CD chứa « Hoary Hedgehog » của Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Đĩa CD chứa « Hoary Hedgehog » của Ubuntu 5.04"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+#, fuzzy
+msgid "Officially supported"
+msgstr "Được hỗ trợ một cách chính thức"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Đĩa CD chứa « Warty Warthog » của Ubuntu 4.10"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Do cộng đồng bảo quản (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Không tự do (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+#, fuzzy
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Đĩa CD chứa « Warty Warthog » của Ubuntu 4.10"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Được hỗ trợ một cách chính thức"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Bản quyền bị giới hạn"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Bản cập nhật bảo mặt Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Bản cập nhật Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "Bản cập nhật Ubuntu 5.10"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 « Sarge »"
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Đang cài đặt bản cập nhật..."
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+#, fuzzy
+msgid "Debian current stable release"
+msgstr "Bất định Debian « Sid »"
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Thử ra Debian"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Không Mỹ Debian (Bất định)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "Hằng ngày"
+
+#~ msgid "Every two days"
+#~ msgstr "Hằng hai ngày"
+
+#~ msgid "Weekly"
+#~ msgstr "Hằng tuần"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Hằng hai tuần"
+
+#~ msgid "Every %s days"
+#~ msgstr "Hằng %s ngày"
+
+#~ msgid "After one week"
+#~ msgstr "Sau một tuần"
+
+#~ msgid "After two weeks"
+#~ msgstr "Sau hai tuần"
+
+#~ msgid "After one month"
+#~ msgstr "Sau một tháng"
+
+#~ msgid "After %s days"
+#~ msgstr "Sau %s ngày"
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Bản cập nhật phần mềm"
+
+#, fuzzy
+#~ msgid "(Source Code)"
+#~ msgstr "Nguồn"
+
+#, fuzzy
+#~ msgid "Source Code"
+#~ msgstr "Nguồn"
+
+#~ msgid "Import key"
+#~ msgstr "Nhập mã khóa"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Gặp lỗi khi nhập tâp tin đã chọn"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Có lẽ tập tin đã chọn không phai là tập tin khóa GPG, hoặc nó bị hỏng."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Gặp lỗi khi gỡ bỏ khóa"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Bạn đã chọn một khóa không thể gỡ bỏ. Vui lòng thông báo lỗi này."
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Nhập tên của đĩa"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Hãy đút đĩa vào trong ổ:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Gói bị lỗi"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Hệ thống của bạn chứa các gói tin bị lỗi và không thể sửa được bằng phần "
+#~ "mềm này. Hãy sửa chúng dùng các gói synaptic hoặc apt-get trước khi tiếp "
+#~ "tục."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Không thể nâng cấp các gói gốc được yêu cầu"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Một gói quan trọng cần phải bị gỡ bỏ"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Không thể tính được dung lượng cần nâng cấp"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr "Bạn đã chọn một khóa không thể gỡ bỏ. Vui lòng thông báo lỗi này."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Gặp lỗi khi đang xác thực một số gói"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Không thể xác thực một số gói, có thể do lỗi tạm thời của hệ thống mạng. "
+#~ "Bạn vui lòng thử lại sau. Bên dưới là danh sách các gói chưa được xác "
+#~ "thực đầy đủ."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Không thể cài đặt '%s'"
+
+#, fuzzy
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr "Không thể cài đặt được gói yêu cầu. Vui lòng thông báo lỗi này. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Không thể đoán được gói gốc"
+
+#~ msgid "Reading cache"
+#~ msgstr "Đang đọc bộ nhớ đệm"
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "Gặp lỗi khi gỡ bỏ khóa"
+
+#, fuzzy
+#~ msgid "Checking package manager"
+#~ msgstr "Một bộ quản lý gói khác đang chạy"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Đang tải các thay đổi"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr "Bạn đã chọn một khóa không thể gỡ bỏ. Vui lòng thông báo lỗi này."
+
+#, fuzzy
+#~ msgid "Upgrading"
+#~ msgstr "Nâng cấp xong"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "Đang tài về các thay đổi..."
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Hệ thống bạn toàn mới nhất."
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "<b>Chi tiết</b>"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "Tải lại"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "Bạn đã chọn một khóa không thể gỡ bỏ. Vui lòng thông báo lỗi này."
+
+#, fuzzy
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Đang tải các thay đổi"
+
+#, fuzzy
+#~ msgid "Authentication failed"
+#~ msgstr "Xác thực"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "Có một bản phát hành Ubuntu mới công bố."
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Có một bản phát hành Ubuntu mới công bố."
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Không tải thay đổi về được. Bạn hãy kiểm tra có kết nối đến Mạng hoạt "
+#~ "động chưa."
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Bản cập nhật Ubuntu 5.10"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "Đang cài đặt bản cập nhật..."
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Đang cài đặt bản cập nhật..."
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Phiên bản %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Đang tải các thay đổi"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Đang cài đặt bản cập nhật..."
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "Phiên bản %s:"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Không còn hỗ trợ lại bản phát hành của bạn."
+
+#~ msgid "Changes"
+#~ msgstr "Đổi"
+
+#~ msgid "Description"
+#~ msgstr "Mô tả"
+
+#~ msgid "Software Updates"
+#~ msgstr "Bản cập nhật phần mềm"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Đang cài đặt bản cập nhật..."
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Nâng cấp xong"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "Đổi"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Cập nhật dùng Mạng</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Cập nhật dùng Mạng</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Cập nhật dùng Mạng</b>"
+
+#~ msgid "Authentication"
+#~ msgstr "Xác thực"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Gỡ bỏ khóa được chọn ra vòng khóa tin cây."
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "<b>Cập nhật dùng Mạng</b>"
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "Phục hồi mặc định"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Phục hồi các khóa mặc định"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "Thuộc tính phần mềm"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "Nguồn"
+
+#, fuzzy
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Kiểm tra có cập nhật sau mỗi"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Ghi chú :</b>"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Thành phần</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Bản phát hành:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Kiểu:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>Địa chỉ định vị:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Hãy nhập toàn dòng APT của kho cần thêm</b></big>\n"
+#~ "\n"
+#~ "Dòng APT chứa kiểu, địa điểm và nội dung của kho. Lấy thí dụ, <i>\"deb "
+#~ "http://ftp.debian.org sarge main\"</i>. Bạn có thể tìm mô tả chi tiết của "
+#~ "cú pháp này trong tài liệu hướng dẫn."
+
+#~ msgid "APT line:"
+#~ msgstr "Dòng APTL"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Nhị phân\n"
+#~ "Nguồn"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "Nguồn"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "Nguồn"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "Tải lại"
+
+#~ msgid "Update Manager"
+#~ msgstr "Bộ Quản lý Cập nhật"
+
+#, fuzzy
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Bản cập nhật bảo mặt ổn định Debian"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "Phần mềm bị giới hạn xuất Mỹ"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Đang cài đặt bản cập nhật..."
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Bản cập nhật bảo mặt Ubuntu 5.10"
+
+#, fuzzy
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Đang kiểm tra có cập nhật..."
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Được hỗ trợ một cách chính thức"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Bạn đã chọn một khóa không thể gỡ bỏ. Vui lòng thông báo lỗi này."
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<b>Chi tiết</b>"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Khóa</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Khóa</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Phương tiên cài đặt"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Sở thích phần mềm"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Khóa</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Thành phần</b>"
+
+#~ msgid "_Custom"
+#~ msgstr "Tự _chọn"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Bản cập nhật Ubuntu 5.10"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Bản cập nhật bảo mặt Ubuntu 5.04"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Bản cập nhật Ubuntu 5.10"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Bản cập nhật Ubuntu 5.10"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Phần:</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Phần:</b>"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Tải lại thông tin gói từ máy phục vụ."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Đang tải các thay đổi về</span>\n"
+#~ "\n"
+#~ "Cần phải lấy thay đổi xuống máy phục vụ trung tâm"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Hiện các bản cập nhật công bố và chọn bản nào cần cài đặt."
+
+#, fuzzy
+#~ msgid "Error fetching the packages"
+#~ msgstr "Gặp lỗi khi gỡ bỏ khóa"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Sửa đổi thiết lập và nguồn phần mềm"
+
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Nguồn</b>"
+
+#~ msgid "day(s)"
+#~ msgstr "ngày"
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>Kho</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Tập tin tạm</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Giao diện người dùng</b>"
+
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>Khóa xác thực</b></big>\n"
+#~ "\n"
+#~ "Bạn có thể thêm và gỡ bỏ khóa xác thực dùng hộp thoại này. Khóa cho phép "
+#~ "bạn thẩm tra toàn vẹn của phần mềm đã tải về."
+
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "Thêm tập tin khóa mới vào vòng khóa tin cây. Hãy đảm bảo bạn đã nhận khóa "
+#~ "này qua kênh bảo mật, và bạn tin cây người sở hữu khóa này. "
+
+#~ msgid "Add repository..."
+#~ msgstr "Thêm kho..."
+
+#~ msgid "Automatically check for software _updates."
+#~ msgstr "Tự động kiểm tra có _cập nhật phần mềm."
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "Tự động xóa tập tin gói _tạm thời"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "Thời gian giữa hai lần xóa, theo ngày: "
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "Xóa bỏ gói _cũ ra bộ nhớ tạm"
+
+#~ msgid "Edit Repository..."
+#~ msgstr "Sửa đổi kho..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "Số ngày giữ tối đa:"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Cỡ tối đa, theo MB:"
+
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "Phục hồi các khóa mặc định có sẵn trong bản phát hành. Tuy nhiên, hành "
+#~ "động này sẽ không sửa đổi khóa nào tự cài đặt."
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "Đặt cỡ tối _đa cho bộ nhớ tạm gói"
+
+#~ msgid "Settings"
+#~ msgstr "Thiết lập"
+
+#~ msgid "Show detailed package versions"
+#~ msgstr "Hiện phiên bản gói chi tiết"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Hiện nguồn phần mềm bị tắt"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Khoảng cập nhật, theo giây: "
+
+#~ msgid "_Add Repository"
+#~ msgstr "Th_êm kho"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "Tài về gói có khả năng nâng cấp"
+
+#~ msgid "<b>Status:</b>"
+#~ msgstr "<b>Trạng thái:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Bản nâng cấp công bố</b></big>\n"
+#~ "\n"
+#~ "Tìm thấy có thể nâng cấp những gói theo đây. Để nâng cấp gói, chỉ đơn "
+#~ "giản hãy sử dụng nút « Cài đặt »."
+
+#~ msgid "Cancel downloading the changelog"
+#~ msgstr "Thôi tải về Bản ghi đổi..."
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "Phải là người chủ để chạy chương trình này."
+
+#~ msgid "Binary"
+#~ msgstr "Nhị phân"
+
+#~ msgid "Non-free software"
+#~ msgstr "Phần mềm không tự do"
+
+#~ msgid "Debian 3.0 \"Woody\""
+#~ msgstr "Debian 3.0 « Woody »"
+
+#~ msgid "Debian Stable"
+#~ msgstr "Ổn định Debian"
+
+#~ msgid "Debian Non-US (Stable)"
+#~ msgstr "Không Mỹ Debian (Ổn định)"
+
+#~ msgid "Debian Non-US (Testing)"
+#~ msgstr "Không Mỹ Debian (Thử ra)"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "Khóa ký tự động kho Ubuntu <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "Khóa ký tự động ảnh đĩa CD Ubuntu <cdimage@ubuntu.com>"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "Chọn tập tin khóa"
+
+#~ msgid "There is one package available for updating."
+#~ msgstr "Có một gói công bố đề cập nhật."
+
+#~ msgid "There are %s packages available for updating."
+#~ msgstr "Có %s gói công bố đề cập nhật."
+
+#~ msgid "There are no updated packages"
+#~ msgstr "Không có gói nào đã cập nhật."
+
+#~ msgid "You did not select any of the %s updated package"
+#~ msgid_plural "You did not select any of the %s updated packages"
+#~ msgstr[0] "Bạn chưa chọn gì trong %s gói đã cập nhật."
+
+#~ msgid "You have selected %s updated package, size %s"
+#~ msgid_plural "You have selected all %s updated packages, total size %s"
+#~ msgstr[0] "Bạn đã chọn tất cả %s gói đã cập nhật: cỡ tổng là %s"
+
+#~ msgid "You have selected %s out of %s updated package, size %s"
+#~ msgid_plural ""
+#~ "You have selected %s out of %s updated packages, total size %s"
+#~ msgstr[0] "Bạn đã chọn %s trong %s gói đã cập nhật: cỡ tổng là %s"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Đang áp dụng những bản cập nhật."
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Bạn có thể chạy chỉ một ứng dụng quản lý gói trong một thời gian thôi. "
+#~ "Vui lòng đóng ứng dụng khác trước khi tiếp tục."
+
+#~ msgid "Updating package list..."
+#~ msgstr "Đạng cập nhật danh sách gói..."
+
+#~ msgid "There are no updates available."
+#~ msgstr "Không có bản cập nhật công bố."
+
+#~ msgid "New version:"
+#~ msgstr "Phiên bản mới :"
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "Xin hãy nâng cấp đến một phiên bản Linux Ubuntu mới hơn, vì phiên bản "
+#~ "hiện thời của bạn sẽ không còn nhận lại bản cập nhật bảo mật. Hãy xem "
+#~ "<http://www.ubuntulinux.org> để tìm thông tin nâng cấp."
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "Có một bản phát hành mới có tên mã « %s ». Hãy xem <http://www.ubuntulinux."
+#~ "org> để tìm hướng dẫn nâng cấp."
+
+#~ msgid "Never show this message again"
+#~ msgstr "Đừng hiện thông điệp này lần nữa."
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr "Không tìm thấy thay đổi nào. Có lẽ máy phục vụ chưa được cập nhật."

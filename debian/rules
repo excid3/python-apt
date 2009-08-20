@@ -1,0 +1,37 @@
+#!/usr/bin/make -f
+
+DEB_AUTO_CLEANUP_RCS := yes
+DEB_PYTHON_SYSTEM=pycentral
+
+export DH_PYCENTRAL=nomove
+
+DEB_PYTHON_PACKAGES_EXCLUDE=python-apt-dbg
+
+# Add here any variable or target overrides you need
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/cdbs/1/class/python-distutils.mk
+
+PKG=python-apt
+DEBVER=$(shell dpkg-parsechangelog |sed -n -e '/^Version:/s/^Version: //p')
+DEB_BUILD_PROG:=debuild --preserve-envvar PATH --preserve-envvar CCACHE_DIR -us -uc $(DEB_BUILD_PROG_OPTS)
+
+build/python-apt-dbg::
+	set -e; \
+	for i in $(cdbs_python_build_versions); do \
+	  python$$i-dbg ./setup.py build; \
+	done
+
+install/python-apt-dbg::
+	for i in $(cdbs_python_build_versions); do \
+	  python$$i-dbg ./setup.py install --root $(CURDIR)/debian/python-apt-dbg; \
+	done
+	find debian/python-apt-dbg \
+		! -type d ! -name '*_d.so' | xargs rm -f
+	find debian/python-apt-dbg -depth -empty -exec rmdir {} \;
+
+binary-predeb/python-apt-dbg::
+	rm -rf debian/python-apt-dbg/usr/share/doc/python-apt-dbg
+	ln -s python-apt debian/python-apt-dbg/usr/share/doc/python-apt-dbg
+
+clean::
+	rm -rf build/lib* build/temp*

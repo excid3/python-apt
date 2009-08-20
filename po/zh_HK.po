@@ -1,0 +1,895 @@
+# Chinese (Hong Kong) translation of update-manager.
+# Copyright (C) 2005, 2006 Free Software Foundation, Inc.
+# Abel Cheung <abel@oaka.org>, 2005, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager 0.42.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:15+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "協力維護軟件 (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "協力維護軟件 (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "協力維護軟件 (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "發行通告"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "網絡更新"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "正式支援"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "協力維護軟件 (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "非自由軟件 (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "版權受限"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1「Sarge」"
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "網絡更新"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian 「Etch」（測試版）"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian 「Sid」（不穩定版）"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "符合 DFSG 的軟件，但依賴於非自由軟件"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "和 DFSG 不相容的軟件"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "每天"
+
+#~ msgid "Every two days"
+#~ msgstr "每兩天"
+
+#~ msgid "Weekly"
+#~ msgstr "每週"
+
+#~ msgid "Every two weeks"
+#~ msgstr "每兩週"
+
+#~ msgid "Every %s days"
+#~ msgstr "每 %s 天"
+
+#~ msgid "After one week"
+#~ msgstr "一週後"
+
+#~ msgid "After two weeks"
+#~ msgstr "兩週後"
+
+#~ msgid "After one month"
+#~ msgstr "一個月後"
+
+#~ msgid "After %s days"
+#~ msgstr "%s 日後"
+
+#~ msgid "Import key"
+#~ msgstr "匯入密碼匙"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "匯入指定檔案時發生錯誤"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "選定的檔案可能不是 GPG 密碼匙，或者內容已損壞。"
+
+#~ msgid "Error removing the key"
+#~ msgstr "移除密碼匙時發生錯誤"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "你選定的密碼匙無法移除，請匯報問題。"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "請輸入光碟的名稱"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "請將光碟放入光碟機："
+
+#~ msgid "Broken packages"
+#~ msgstr "不完整套件"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "系統裝了不完整的套件，本程式無法將它們修復。請先用 synaptic 或 apt-get 來"
+#~ "修復套件。"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "無法計算升級過程"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "有些套件不能認證，這可能是短暫的網絡問題；你可以稍後再試。以下為沒有認證的"
+#~ "套件。"
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "無法安裝「%s」"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr "有必須的套件無法安裝，請匯報問題。 "
+
+#~ msgid "Reading cache"
+#~ msgstr "正在讀取快取資料"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "找不到有效的 mirror 網站"
+
+#~ msgid "Repository information invalid"
+#~ msgstr "套件庫資料無效"
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "停用外來的軟件來源"
+
+#~ msgid "Error during update"
+#~ msgstr "更新時發生錯誤"
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "磁碟空間不足"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "是否要開始升級？"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "無法安裝升級"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "無法下載升級所需的套件"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr "升級現正中止。請檢查網路連線是否正常，然後再試一次。 "
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "是否移除過時的套件？"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "略過這步驟(_S)"
+
+#~ msgid "_Remove"
+#~ msgstr "移除(_R)"
+
+#~ msgid "Checking package manager"
+#~ msgstr "正在檢查套件管理程式"
+
+#~ msgid "Updating repository information"
+#~ msgstr "正在更新套件庫資料"
+
+#~ msgid "Invalid package information"
+#~ msgstr "套件資料無效"
+
+#~ msgid "Upgrading"
+#~ msgstr "升級中"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "正在搜尋過時的軟件"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "已完成系統升級。"
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "請將「%s」放入光碟機「%s」中"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "正在下載更改紀錄..."
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "無法安裝「%s」"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "找不到「diff」指令"
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "系統已經在最新狀態"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "Cleaning up"
+#~ msgstr "清理"
+
+#~ msgid "Details"
+#~ msgstr "詳細資料"
+
+#~ msgid "Difference between the files"
+#~ msgstr "檔案間的差別"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "更改軟件來源"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "正準備升級"
+
+#~ msgid "Restarting the system"
+#~ msgstr "重新啟動系統"
+
+#~ msgid "Terminal"
+#~ msgstr "終端機"
+
+#~ msgid "_Keep"
+#~ msgstr "保留(_K)"
+
+#~ msgid "_Replace"
+#~ msgstr "取代(_R)"
+
+#~ msgid "_Report Bug"
+#~ msgstr "報告錯誤(_R)"
+
+#~ msgid "_Restart Now"
+#~ msgstr "現在重新啟動(_R)"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "繼續升級(_R)"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "找不到發行通告"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "伺服器可能負荷過重。 "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "無法下載發行通告"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "請檢查網絡連線是否正常。"
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "無法執行升級工具"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "這可能是升級工具的錯誤，請匯報問題"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "正在下載升級工具"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "升級工具會引導你進行整個升級的過程。"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "升級工具"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "下載失敗"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr "下載升級工具失敗，可能是網絡上的問題。 "
+
+#~ msgid "Failed to extract"
+#~ msgstr "解壓失敗"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr "升級套件解壓失敗。可能是因為網路或伺服器出現問題。 "
+
+#~ msgid "Verfication failed"
+#~ msgstr "檢驗失敗"
+
+#~ msgid "Authentication failed"
+#~ msgstr "認證失敗"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr "認證升級套件失敗。可能是因為網路或伺服器出現問題。 "
+
+#~ msgid "Version %s: \n"
+#~ msgstr "版本 %s: \n"
+
+#~ msgid "Download size: %s"
+#~ msgstr "下載大小：%s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "你可以安裝 %s 個更新套件"
+
+#~ msgid "Update is complete"
+#~ msgstr "完成更新"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "已經不再支援你用的發行版本"
+
+#~ msgid "Changes"
+#~ msgstr "更改紀錄"
+
+#~ msgid "Chec_k"
+#~ msgstr "檢查(_K)"
+
+#~ msgid "Description"
+#~ msgstr "詳細說明"
+
+#~ msgid "Software Updates"
+#~ msgstr "軟件更新"
+
+#~ msgid "U_pgrade"
+#~ msgstr "升級(_P)"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "升級至最新版本的 Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "檢查(_C)"
+
+#~ msgid "_Install Updates"
+#~ msgstr "安裝軟件更新(_I)"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "升級(_P)"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>網絡更新</b>"
+
+#~ msgid "Authentication"
+#~ msgstr "認證"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "由你信任的密碼匙圈中移除指定的密碼匙。"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "還原為預設值(_D)"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "還原為預設密碼匙"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "檢查軟件更新間隔(_C)："
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>備註:</b>"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>元件</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>發行版本:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>類型:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>網址:</b>"
+
+#~ msgid "APT line:"
+#~ msgstr "APT 軟件庫:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "可執行檔\n"
+#~ "源程式碼"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "正在掃描光碟"
+
+#~ msgid "_Reload"
+#~ msgstr "重新載入(_R)"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "顯示及安裝現有的更新套件"
+
+#~ msgid "Update Manager"
+#~ msgstr "更新管理員"
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "檢查有沒有新的發行版本"
+
+#~ msgid "Show details of an update"
+#~ msgstr "顯示更新套件的詳細資料"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "儲存 update-manager 對話窗的大小"
+
+#~ msgid "The window size"
+#~ msgstr "視窗大小"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1「Sarge」安全性更新"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "ftp://ftp.hk.debian.org/debian/"
+
+#~ msgid ""
+#~ "<big><b>Error scaning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>掃描光碟時發生錯誤</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "A unresolvable problem occured while calculating the upgrade. Please "
+#~ "report this as a bug. "
+#~ msgstr "計算升級時發生無法解決的問題，請匯報問題。 "
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are runing.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "系統沒有安裝 ubuntu-desktop、kubuntu-desktop 或 edubuntu-desktop 套件，因"
+#~ "此無法偵測正在執行哪一個版本的 ubuntu。\n"
+#~ "請先使用 synaptic 或 apt-get 安裝上述其中一個套件。"
+
+#~ msgid ""
+#~ "Some third party entries in your souces.list where disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "sources.list 中部份外來的套件來源已經被停用。系統升級後，你可以使用"
+#~ "「software-properties」工具或 synaptic 重新啟用這些來源。"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a)."
+#~ msgstr ""
+#~ "升級中止。你的系統現在可能在一個不穩定的狀態。正在進行復原 (dpkg --"
+#~ "configure -a)。"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "某些軟件不會再有正式支援"
+
+#~ msgid "Restoring originale system state"
+#~ msgstr "恢復原來的系統狀態"
+
+#~ msgid "About %li days %li hours %li minutes remaining"
+#~ msgstr "大約還剩下 %li 天 %li 小時 %li 分鐘"
+
+#~ msgid "About %li hours %li minutes remaining"
+#~ msgstr "大約還剩下 %li 小時 %li 分鐘"
+
+#~ msgid "About %li minutes remaining"
+#~ msgstr "大約還剩下 %li 分鐘"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "大約還剩下 %li 秒鐘"
+
+#~ msgid "Download is complete"
+#~ msgstr "下載完成"
+
+#~ msgid "Downloading file %li of %li"
+#~ msgstr "正在下載檔案 %li/%li"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "升級現正中止，請匯報問題。"
+
+#~ msgid ""
+#~ "Replace configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "取代設定檔\n"
+#~ "「%s」？"
+
+#~ msgid "%s package is going to be removed."
+#~ msgid_plural "%s packages are going to be removed."
+#~ msgstr[0] "準備移除 %s 個套件。"
+
+#~ msgid "%s new package is going to be installed."
+#~ msgid_plural "%s new packages are going to be installed."
+#~ msgstr[0] "準備安裝 %s 個新套件。"
+
+#~ msgid "%s package is going to be upgraded."
+#~ msgid_plural "%s packages are going to be upgraded."
+#~ msgstr[0] "準備升級 %s 個套件。"
+
+#~ msgid "Downloading and installing the upgrades"
+#~ msgstr "正在下載及安裝升級套件"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "正在升級 Ubuntu"
+
+#~ msgid ""
+#~ "Verfing the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr "檢驗升級套件失敗。可能是因為網路或伺服器出現問題。 "
+
+#~ msgid "Downloading file %li of %li with %s/s"
+#~ msgstr "正在下載檔案 %li/%li，下載速度為 %s/秒"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "正在下載檔案 %li/%li，下載速度不明"
+
+#~ msgid "The list of changes is not available yet. Please try again later."
+#~ msgstr "修改紀錄不存在，請稍後再試。"
+
+#~ msgid ""
+#~ "Failed to download the list of changes. Please check your Internet "
+#~ "connection."
+#~ msgstr "無法下載更改紀錄。請檢查網絡連線是否正常。"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "無法安裝所有更新套件"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "有一些更新套件需要移除其它套件才可以安裝。請使用「Synaptic 套件管理程式」"
+#~ "的「標記所有升級」功能或在終端機中執行「sudo apt-get dist-upgrade」來更新"
+#~ "整個系統。"
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "會略過更新以下套件："
+
+#~ msgid "Downloading the list of changes..."
+#~ msgstr "正在下載更改紀錄…"
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<b>細節</b>"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "取消下載(_D)"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>套件來源</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>密碼匙</b>"
+
+#~ msgid "Add _Cdrom"
+#~ msgstr "加入光碟機(_C)"
+
+#~ msgid "Installation Media"
+#~ msgstr "安裝媒體"
+
+#~ msgid "Software Preferences"
+#~ msgstr "軟件偏好設定"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>密碼匙</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>元件</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the channel that you want to add</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a channel, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>請輸入整行你想加入的 APT 軟件庫位置</b></big>\n"
+#~ "\n"
+#~ "該行的內容包括 APT 軟件庫的類型、位置和內容，例如： <i>\"deb http://ftp."
+#~ "debian.org sarge main\"</i>。你可以在文件中尋找有關該行的格式的詳細描述。"
+
+#~ msgid "Edit Channel"
+#~ msgstr "修改套件來源"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "加入套件來源(_A)"
+
+#~ msgid "_Custom"
+#~ msgstr "自選(_C)"
+
+#~ msgid "Configure software channels and internet updates"
+#~ msgstr "設定套件來源及網絡更新"
+
+#~ msgid "Software Properties"
+#~ msgstr "軟件屬性"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS 安全性更新"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS 更新"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 5.10 更新"

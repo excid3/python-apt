@@ -1,0 +1,46 @@
+Channel Definition
+------------------
+
+The .info files allow to specify a set of default channels that is available
+in the dialog "add channel". The .info file whose name corresponds to the
+LSB release name is used, e.g. 'Ubuntu.info' on a Ubuntu system.
+
+Furthermore all .info files are used to render the channels presented in the
+sources list more user friendly.
+
+
+Tags
+----
+
+Suite:           the name of the dist used in the repository
+
+MatchSuite:      mainly used for cdroms. defaults to Suite
+
+ParentSuite:     the channel only appears as a component of the parent suite in
+                 the add dialog
+                 the components/sections of the suite correspond to the ones of
+	         the parent suite. specified components of the suite itself
+		 are ignored
+	
+Available:	 determs the availabilty of the suite in the add dialog.
+                 defaults to False
+
+RepositoryType:  does the repository contain binary or source packages
+
+BaseURI:         the base URI of the repository
+
+MatchURI:        used for identifing mirrors
+
+Description:     description of the suite. the translation is done through
+                 gettext at runtime
+
+Component:       a component/section of the suite (ignored if ParentSuite is
+                 set)
+
+CompDescription: humand readable description of the component/section
+                 (ignored if ParentSuite is set). the translation is done
+		 through gettext at runtime
+
+ValidMirros:     A file that contains a list of mirrors
+
+

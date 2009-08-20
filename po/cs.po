@@ -1,0 +1,1541 @@
+# Czech translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-18 22:54+0000\n"
+"Last-Translator: Dominik Sauer <Dominik.Sauer@gmail.com>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cdrom s Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Bezpečnostní aktualizace Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cdrom s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Bezpečnostní aktualizace Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cdrom s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Udržováno komunitou"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Patentované (proprietární) ovladače zařízení"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Nesvobodný software"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cdrom s Ubuntu 6.10 'Edgy Eft'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Svobodný software oficiálně podporovaný společností Canonical"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Udržováno komunitou (universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Software s otevřeným zdrojovým kódem, který je udržován komunitou"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Nesvobodné ovladače"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Patentované (proprietární) ovladače pro zařízení "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Software s omezující licencí (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Software omezený ochrannou známkou nebo jinými právními prostředky"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cdrom s Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Důležité bezpečnostní aktualizace"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Doporučené aktualizace"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Navržené aktualizace"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Aktualizace přenesené z vyšších verzí distribuce"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cdrom s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Bezpečnostní aktualizace Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Aktualizace Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Software přenesený z vyšší verze distribuce na Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cdrom s Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Oficiálně podporováno"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Bezpečnostní aktualizace Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Aktualizace Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Aplikace přenesené z vyšších verzí distribuce na Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Udržováno komunitou (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Nesvobodný (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cdrom s Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Již není oficiálně podporováno"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Omezený copyright"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Bezpečnostní aktualizace Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Aktualizace Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Aplikace přenesené z vyšších verzí distribuce na Ubuntu 4.10"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Navržené aktualizace"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Důležité bezpečnostní aktualizace"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "Software kompatibilní s DFSG, ale závisející na nesvobodných balících"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Software nekompatibilní s DFSG"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Server pro zemi \"%s\""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Hlavní server"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Uživatelem vybrané servery"
+
+#~ msgid "Daily"
+#~ msgstr "Denně"
+
+#~ msgid "Every two days"
+#~ msgstr "Obden"
+
+#~ msgid "Weekly"
+#~ msgstr "Týdně"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Každé dva týdny"
+
+#~ msgid "Every %s days"
+#~ msgstr "Každých %s dní"
+
+#~ msgid "After one week"
+#~ msgstr "Po týdnu"
+
+#~ msgid "After two weeks"
+#~ msgstr "Po dvou týdnech"
+
+#~ msgid "After one month"
+#~ msgstr "Po měsíci"
+
+#~ msgid "After %s days"
+#~ msgstr "Po %s dnech"
+
+#~ msgid "%s updates"
+#~ msgstr "Aktualizace %s"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Nejbližší server"
+
+#~ msgid "Software Channel"
+#~ msgstr "Softwarový kanál"
+
+#~ msgid "Active"
+#~ msgstr "Aktivní"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Zdrojový kód)"
+
+#~ msgid "Source Code"
+#~ msgstr "Zdrojový kód"
+
+#~ msgid "Import key"
+#~ msgstr "Importovat klíč"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Chyba při importu vybraného souboru"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Vybraný soubor asi není klíč GPG, anebo může být poškozen."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Chyba při odstraňování klíče"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Vybraný klíč nemohl být odstraněn. Prosím oznamte to jako chybu."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Chyba při načítání CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Prosím zadejte jméno disku"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Prosím vložte disk do mechaniky:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Poškozené balíky"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Váš systém obsahuje poškozené balíky, které nemohou být tímto programem "
+#~ "opraveny. Před pokračováním je prosím opravte použitím programu synaptic "
+#~ "nebo apt-get."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Nemohu aktualizovat požadované meta-balíky"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Toto by vedlo k odstranění základního balíku"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Nemohu vypočítat aktualizaci"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Při výpočtu aktualizace nastal neřešitelný problém.\n"
+#~ "\n"
+#~ "Prosím nahlaste tuto chybu jako chybu balíčku 'update-manager' a přiložte "
+#~ "soubory z adresáře /var/log/dist-upgrade/ k hlášení o chybě."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Chyba při ověřování některých balíků"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Nebylo možné ověřit pravost některých balíků. To může být způsobeno "
+#~ "přechodným problémem v síti. Možná to budete chtít zkusit později. Níže "
+#~ "je uveden seznam postižených balíků."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Nemohu nainstalovat '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Nebylo možné nainstalovat požadovaný balík. Prosím oznamte to jako chybu. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Nemohu odhadnout meta-balík"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Váš systém neobsahuje žádný z balíků ubuntu-desktop, kubuntu-desktop nebo "
+#~ "edubuntu-desktop a nebylo možné zjistit, jakou verzi Ubuntu používáte.\n"
+#~ " Před pokračováním prosím nainstalujte jeden z výše uvedených balíků "
+#~ "pomocí synaptic nebo apt-get."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Chyba při přidávání CD"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Vyskytla se chyba při přidávání CD, přechod na vyšší verzi bude přerušen. "
+#~ "Prosím nahlaste tuto situaci jako chybu, pokud používáte správné CD s "
+#~ "Ubuntu.\n"
+#~ "\n"
+#~ "Chybová zpráva byla:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "Probíhá čtení vyrovnávací paměti"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Stáhnout ze sítě údaje nutné pro přechod na vyšší verzi?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Při přechodu na vyšší verzi můžete použít síť pro získání nejnovějších "
+#~ "aktualizací a stažení balíčků, které nejsou na aktuálním CD.\n"
+#~ "Pokud máte levné připojení k síti, můžete zde odpovědět 'Ano'. Pokud je "
+#~ "vaše síťové připojené nákladné, zvolte 'Ne'."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Nebyl nalezen platný zrcadlový server"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Během prohledávání informací o zdrojích software Nebyl nalezen žádný "
+#~ "zrcadlový server obsahující aktualizace. To se může stát, pokud používáte "
+#~ "interní zrcadlový server nebo pokud jsou informace o zrcadlových "
+#~ "serverech zastaralé.\n"
+#~ "\n"
+#~ "Chcete i přesto přepsat váš soubor 'sources.list'? Zvolíte-li 'Ano', "
+#~ "budou všechny položky '%s' aktualizovány na '%s'.\n"
+#~ "Zvolíte-li 'Ne', aktualizace bude zrušena."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Vygenerovat výchozí zdroje?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Po prohledání souboru 'sources.list' nebyla pro '%s' nalezena žádná "
+#~ "odpovídající položka.\n"
+#~ "\n"
+#~ "Chcete přidat výchozí položky pro '%s'? Zvolíte-li 'Ne', aktualizace bude "
+#~ "zrušena."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Neplatná informace o zdroji"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Aktualizace informací o zdroji vyústila v neplatný soubor. Prosím oznamte "
+#~ "to jako chybu."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Zdroje třetích stran zakázány"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Některé zdroje třetích stran v souboru sources.list byly zakázány. Tyto "
+#~ "zdroje můžete opět povolit po přechodu na novou verzi pomocí jdnoho z "
+#~ "nástrojů 'Zdroje software' nebo 'Synaptic'."
+
+#~ msgid "Error during update"
+#~ msgstr "Chyba během aktualizace"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Nastala chyba během aktualizace. Toto je obvykle způsobeno chybou "
+#~ "síťového připojení. Prosím zkontrolujte své připojení k síti a zkuste to "
+#~ "znovu."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Nedostatek volného místa na disku"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Aktualizace bude nyní přerušena. Prosím, uvolněte nejméně %s místa na %s. "
+#~ "Vyprázdněte svůj koš a odstraňte dočasné balíčky z dřívějších instalací "
+#~ "pomocí 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Chcete spustit aktualizaci?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Nepodařilo se nainstalovat aktualizace"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Aktualizace byla předčasně ukončena. Váš systém může být v nepoužitelném "
+#~ "stavu. Pokus o nápravu (dpkg --configure -a) byl proveden. Zkuste prosím "
+#~ "napravit situaci pomocí 'sudo apt-get install -f' nebo pomocí Synaptic.\n"
+#~ "\n"
+#~ "Prosím nahlaste tuto chybu jako chybu balíčku 'update-manager' a přiložte "
+#~ "soubory z adresáře /var/log/dist-upgrade/ k hlášení o chybě."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Nepodařilo se stáhnout aktualizace"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Aktualizace byla předčasně ukončena. Prosím zkontrolujte připojení k "
+#~ "Internetu popř. instalační médium a zkuste to znovu. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Podpora pro některé aplikace byla ukončena"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Společnost Canonical Ltd. již neposkytuje podporu pro následující "
+#~ "softwarové balíky. Je však možné, že tyto balíky jsou nadále podporovány "
+#~ "komunitou.\n"
+#~ "\n"
+#~ "Pokud nemáte povolen software spravovaný komunitou (Universe), tyto "
+#~ "balíky budou v dalším kroku navrhnuty k odebrání."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Odebrat zastaralé balíky?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Přeskočit tento krok"
+
+#~ msgid "_Remove"
+#~ msgstr "_Odebrat"
+
+#~ msgid "Error during commit"
+#~ msgstr "Chyba při potvrzování"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Během úklidu nastal problém. Podrobnější informace jsou obsaženy v "
+#~ "následující zprávě: "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Obnovuji původní stav systému"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "Stahuji verzi '%s' přenesenou z vyšší verze distribuce"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Kontroluji správce balíků"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Příprava přechodu na vyšší verzi selhala"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Příprava systému na přechod na vyšší verzi selhala. Prosím nahlaste tuto "
+#~ "chybu jako chybu balíčku 'update-manager' a přiložte soubory z adresáře /"
+#~ "var/log/dist-upgrade/ k hlášení o chybě."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Aktualizují se informace o zdrojích"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Neplatná informace o balíku"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Po aktualizaci informací o balících nebyl nalezen nezbytný balík '%s'.\n"
+#~ "To ukazuje na závažný problém; prosím nahlaste chybu balíku 'update-"
+#~ "manager' a přiložte k hlášení o chybě soubory v adresáři /var/log/dist-"
+#~ "upgrade/."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Vyžaduji potvrzení"
+
+#~ msgid "Upgrading"
+#~ msgstr "Probíhá přechod na vyšší verzi"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Vyhledávám zastaralý software"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Přechod na vyšší verzi systému je dokončen."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Prosím vložte '%s' do mechaniky '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Stahování je dokončeno"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Stahuji soubor %li z %li  rychlostí %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Zbývá zhruba %s"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Stahuji soubor %li z %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Provádím změny"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Nelze nainstalovat '%s'"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Přechod na vyšší verzi systému byl předčasně ukončen. Nahlaste prosím "
+#~ "chybu balíku 'update-manager' a přiložte k chybovému hlášení soubory z "
+#~ "adresáře /var/log/dist-upgrade/."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Nahradit upravený soubor s nastavením\n"
+#~ "\"%s\"?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Pokud zvolíte nahrazení novější verzí, ztratíte veškeré lokální změny "
+#~ "tohoto konfiguračního souboru."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Příkaz \"diff\" nebyl nalezen"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Nastala kritická chyba"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Prosím oznamte toto jako chybu a do zprávy připojte soubory /var/log/dist-"
+#~ "upgrade/main.log a /var/log/dist-upgrade/apt.log. Přechod na novou verzi "
+#~ "bude nyní předčasně ukončen. Váš původní soubor sources.list byl uložen "
+#~ "do /etc/apt/sources.list.distUpgrade."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d balík bude odstraněn."
+#~ msgstr[1] "%d balíky budou odstraněny."
+#~ msgstr[2] "%d balíků bude odstraněno."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d nový balík bude nainstalován."
+#~ msgstr[1] "%d nové balíky budou nainstalovány."
+#~ msgstr[2] "%d nových balíků bude nainstalováno."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d balík bude nahrazen vyšší verzí."
+#~ msgstr[1] "%d balíky budou nahrazeny vyšší verzí."
+#~ msgstr[2] "%d balíky bude nahrazeno vyšší verzí."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Bude staženo celkem %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Přechod na vyšší verzi může trvat několik hodin a nelze jej vzít zpět."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr "Pro zamezení ztrátě dat uzavřete všechny aplikace a dokumenty."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Váš systém je aktuální"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr ""
+#~ "Pro váš systém nejsou k dispozici žádné aktualizace. Přechod na vyšší "
+#~ "verzi bude nyní zrušen."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Odebrat %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Nainstalovat %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Aktualizovat %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li days %li hodin %li minut"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li hodin %li minut"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minut"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li sekund"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Stahování bude trvat cca. %s linkou o rychlosti 1Mbit (DSL) a cca. %s "
+#~ "modemem o rychlosti 56kbit."
+
+#~ msgid "Reboot required"
+#~ msgstr "Je nutné restartovat počítač"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Přechod na vyšší verzi byl dokončen a je nutné restartovat počítač. "
+#~ "Chcete jej restartovat nyní?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Zrušit probíhající aktualizaci?</big></b>\n"
+#~ "\n"
+#~ "Zrušení aktualizace může systém zanechat v nepoužitelném stavu. "
+#~ "<i>Důrazně</i> doporučuji v aktualizaci pokračovat."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Pro dokončení přechodu na vyšší verzi systému restartujte "
+#~ "počítač</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Spustit přechod na vyšší verzi systému?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Přecházím na verzi systému Ubuntu v6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Probíhá úklid"
+
+#~ msgid "Details"
+#~ msgstr "Podrobnosti"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Rozdíl mezi soubory"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Stahuji a instaluji balíky potřebné pro přechod na vyšší verzi"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Upravuji softwarové kanály."
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Připravuji přechod na vyšší verzi systému"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Restartuji počítač"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminál"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Zrušit přechod na vyšší verzi systému"
+
+#~ msgid "_Continue"
+#~ msgstr "_Pokračovat"
+
+#~ msgid "_Keep"
+#~ msgstr "_Ponechat"
+
+#~ msgid "_Replace"
+#~ msgstr "_Nahradit"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Oznámit chybu"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Restartovat nyní"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Pokračovat v přechodu na vyšší verzi systému"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Začít přechod na vyšší verzi systému"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Nebyly nalezeny poznámky k vydání."
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Server může být přetížen. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Nemohu stáhnout poznámky k vydání."
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Prosím zkontrolujte své připojení k internetu."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Nemohu spustit nástroj pro aktualizaci na vyšší řadu"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Toto je s největší pravděpodobností chyba v aktualizačním nástroji. "
+#~ "Oznamte to jako chybu, prosím."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Stahuji aktualizační nástroj"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Aktualizační nástroj vás provede procesem aktualizace."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Podpis aktualizačního nástroje"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Aktualizační nástroj"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Stahování selhalo"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr "Stažení aktualizace selhalo. Pravděpodobně je problém se sítí. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Rozbalení selhalo"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Rozbalení aktualizace selhalo. Může být problém se sítí nebo se serverem. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Ověření selhalo"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Ověření aktualizace selhalo. Může jít o problém se sítí nebo se serverem. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Selhalo ověření pravosti."
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Ověření pravosti aktualizace selhalo. Může jít o problém se sítí nebo se "
+#~ "serverem. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Stahuji %(current)li. soubor z %(total)li rychlostí %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Stahuji %(current)li. soubor of %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Seznam změn není dostupný."
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Seznam změn ještě není dostupný.\n"
+#~ "Prosím, zkuste to později znovu."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Stažení seznamu změn selhalo. \n"
+#~ "Prosím zkontrolujte své internetové připojení."
+
+#~ msgid "Backports"
+#~ msgstr "Aplikace přenesené z novějších verzí distribuce"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Aktualizace distribuce"
+
+#~ msgid "Other updates"
+#~ msgstr "Ostatní aktualizace"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Verze %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Stahuji seznam změn..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "_Odznačit vše"
+
+#~ msgid "_Check All"
+#~ msgstr "_Zkontrolovat vše"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Stahovaná velikost: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Můžete instalovat %s aktualizaci"
+#~ msgstr[1] "Můžete instalovat %s aktualizace"
+#~ msgstr[2] "Můžete instalovat %s aktualizací"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Prosím čekejte, může to nějakou dobu trvat."
+
+#~ msgid "Update is complete"
+#~ msgstr "Aktualizace je dokončena"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Kontroluji dostupné aktualizace"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Z verze %(old_version)s na verzi %(new_version)s"
+
+#~ msgid "Version %s"
+#~ msgstr "Verze %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Velikost: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Vaše distribude již není podporovaná"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Pro vaší verzi Ubuntu Linux již nejsou dostupné žádné další bezpečnostní "
+#~ "opravy ani velmi důležité aktualizace. Přejděte na vyšší verzi Ubuntu "
+#~ "Linux. Pro více informací o přechodu na vyšší verzi se podívejte na "
+#~ "http://www.ubuntu.com."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Nové vydání distribuce (%s) je k dispozici</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Seznam softwaru je poškozen"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Není možné instalovat ani odebírat programy. Prosím použijte správce "
+#~ "balíčků \"Synaptic\" nebo nejdříve spusťe v terminálu \"sudo apt-get "
+#~ "install -f\" pro nápravu tohoto problému."
+
+#~ msgid "None"
+#~ msgstr "Prázdný"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Je nutné zkontrolovat aktualizace ručně</big></b>\n"
+#~ "\n"
+#~ "Váš systém nezjišťuje nové aktualizace automaticky. Toto nastavení můžete "
+#~ "změnit v \"Systém\" -> \"Správa\" -> \"Vlastnosti Software\""
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Udržujte svůj systém aktuální</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>Není možné nainstalovat všechny aktualizace</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>Spouštím správce aktualizací</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "Změny"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Změny a popis aktualizace"
+
+#~ msgid "Chec_k"
+#~ msgstr "Zaš_krtnout"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Zkontrolovat dostupnost nových aktualizací v kanálech softwaru"
+
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "Release Notes"
+#~ msgstr "Poznámky k vydáni"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Spusťte přechod na vyšší verzi distribuce - tím nainstalujete maximální "
+#~ "možný počet aktualizací. \n"
+#~ "\n"
+#~ "Toto může být způsobeno nedokončeným přechodem na vyšší verzi, "
+#~ "neoficiálními balíky se software anebo použitím vývojové verze."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Zobrazit průběh stahování jednotlivých souborů"
+
+#~ msgid "Software Updates"
+#~ msgstr "Aktualizace software"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Aktualizace softwaru opravují chyby, eliminuje bezpečnostní zranitelnosti "
+#~ "a poskytují nové vlastnosti."
+
+#~ msgid "U_pgrade"
+#~ msgstr "_Přejít na vyšší verzi"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Přejít na nejnovější verzi Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Zaškrtnout"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Přechod na vyšší verzi distribuce"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "Nadále tyto informace _nezobrazovat"
+
+#~ msgid "_Install Updates"
+#~ msgstr "Na_instalovat aktualizace"
+
+#~ msgid "_Upgrade"
+#~ msgstr "_Aktualizovat"
+
+#~ msgid "changes"
+#~ msgstr "změny"
+
+#~ msgid "updates"
+#~ msgstr "aktualizace"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Automatické aktualizace</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Aktualizace z internetu</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Zúčastněte se, prosím, ankety oblíbenosti, jejímž účelem je lépe "
+#~ "poznat zvyky uživatelů Ubuntu. Pokud tak učiníte, seznam nainstalovaného "
+#~ "software a četnost jeho použití bude každý týden <b>anonymně</b> "
+#~ "odesílána projektu Ubuntu.\n"
+#~ "\n"
+#~ "Výsledky jsou používány ke zlepšení podpory pro oblíbené aplikace a pro "
+#~ "určování pořadí aplikací ve výsledcích vyhledávání.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Přidat CD-ROM"
+
+#~ msgid "Authentication"
+#~ msgstr "Ověření"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "_Smazat stažené balíky:"
+
+#~ msgid "Download from:"
+#~ msgstr "Stáhnout z:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Importovat veřejný klíč od důvěryhodného poskytovate softwaru"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Aktualizace z Internetu"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Pouze bezpečností aktualizace z oficiálních serverů Ubuntu budou "
+#~ "instalovány automaticky"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Obnovit _výchozí"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Obnovit výchozí klíče vaší distribuce"
+
+#~ msgid "Software Sources"
+#~ msgstr "Zdroje softwaru"
+
+#~ msgid "Source code"
+#~ msgstr "Zdrojový kód"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiky"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Odeslat statistické informace"
+
+#~ msgid "Third Party"
+#~ msgstr "Třetí strana"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "_Kontrolovat aktualizace automaticky"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "Stá_hnout aktualizace automaticky, ale neinstalovat je"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Importovat soubor s klíči"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Instalovat bezpečnostní aktualizace bez potvrzení"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Informace o dostupném software jsou zastaralé</big></b>\n"
+#~ "\n"
+#~ "Pro instalaci software a aktualizací z nových nebo pozměněných zdrojů je "
+#~ "nutné obnovit informace o dostupném softwaru.\n"
+#~ "\n"
+#~ "K tomu je nutné funkční připojení k Internetu."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Komentář:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Součásti:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribuce:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Typ:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Zadejte úplnou specifikaci APT kanálu, který chcete přidat</b></"
+#~ "big>\n"
+#~ "\n"
+#~ "Řádek pro APT kanál obsahuje typ, umístění a součásti kanálu, např. <i>"
+#~ "\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "Řádka APT:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binární balíky\n"
+#~ "Balíky se zdrojovými kódy"
+
+#~ msgid "Edit Source"
+#~ msgstr "Upravit zdroj"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Prohledávám CD-ROM"
+
+#~ msgid "_Add Source"
+#~ msgstr "Přid_at zdroj"
+
+#~ msgid "_Reload"
+#~ msgstr "_Obnovit"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Zobrazit a nainstalovat dostupné aktualizace"
+
+#~ msgid "Update Manager"
+#~ msgstr "Správce aktualizací"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Automaticky kontrolovat, zda je dostupná nová verze současné distribuce a "
+#~ "nabídnout přechod na vyšší verzi, je-li to možné."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Zkontrolovat nová vydání distribuce"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Tato volba umožňuje skrytí upomínky na nutnost ručního obnovení seznamu "
+#~ "zdrojů zobrazované v případě, že automatická kontrola aktualizací je "
+#~ "zakázána."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Připomenout obnovení seznamu zdrojů"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Zobrazit detaily aktualizace"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Uchovává velikost dialogu spřávce aktualizací"
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr "Uchovává stav prvku obsahujícího seznam změn a popisů"
+
+#~ msgid "The window size"
+#~ msgstr "Velikost okna"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Konfigurovat zdroje pro instalovatelný software a aktualizace"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Bezpečnostní Aktualizace Debian 3.1 \"Sarge\""
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Stahuji %li. soubor z %li neznámou rychlostí"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Instaluji aktualizace"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Přerušit _stahování"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Žádné aktualizace na vyšší řadu nebyly nalezeny."
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Váš systém byl již aktualizován na vyšší řadu"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Přechází se na Ubuntu 6.10</span>"
+
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Důležité bezpečnostní aktualizace Ubuntu"
+
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Aktualizace Ubuntu"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Nelze nainstalovat všechny dostupné aktualizace na vyšší řadu"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>Prozkoumává se systém</b></big>\n"
+#~ "\n"
+#~ "Aktualizace softwaru opravují chyby, eliminují bezpečnostní zranitelnosti "
+#~ "a poskytují nové funkce."
+
+#~ msgid "Oficially supported"
+#~ msgstr "Oficiálně podporované"
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Budou přeskočeny následující aktualizace na vyšší řadu:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Zbývá přibližně %li sekund"
+
+#~ msgid "Download is complete"
+#~ msgstr "Stahování je hotovo"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr ""
+#~ "Aktualizace na vyšší řadu byla předčasně ukončena. Prosím oznamte to jako "
+#~ "chybu"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Aktualizuje se Ubuntu na vyšší řadu"
+
+#~ msgid "Hide details"
+#~ msgstr "Skrýt detaily"
+
+#~ msgid "Show details"
+#~ msgstr "Zobrazit detaily"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "V jednu chvíli může běžet jen jeden nástroj pro správu softwaru"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "Prosím, uzavřete nejdříve jiné aplikace jako např. \"aptitude\" nebo "
+#~ "\"Synaptic\"."
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Kanály</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Klíče</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Instalační média"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Volby softwaru"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Kanál</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Součásti</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "Přidat kanál"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Upravit kanál"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "_Přidat kanál"
+#~ msgstr[1] "_Přidat kanály"
+#~ msgstr[2] "_Přidat kanály"
+
+#~ msgid "_Custom"
+#~ msgstr "_Vlastní"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS bezpečnostní aktualizace"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS aktualizace"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS backporty"
+
+#~ msgid ""
+#~ "While scaning your repository information no valid entry for the upgrade "
+#~ "was found.\n"
+#~ msgstr ""
+#~ "Během prozkoumávání vašich zdrojů nebyla nalezený žádná platná položka "
+#~ "pro upgrade.\n"
+
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Sekce</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Sekce:</b>"

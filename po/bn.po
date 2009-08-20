@@ -1,0 +1,1124 @@
+# Bengali translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:02+0000\n"
+"Last-Translator: Khandakar Mujahidul Islam <suzan@bengalinux.org>\n"
+"Language-Team: Bengali <bn@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "উবুন্টু ৫.১০ আপডেট"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "ফ্রি নয় (মাল্টিভার্স)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "উবুন্টু ৬.০৬ 'ড্যাপার ড্রেক'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "ফ্রি নয় (মাল্টিভার্স)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "ফ্রি নয় (মাল্টিভার্স)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "উবুন্টু ৬.০৬ 'ড্যাপার ড্রেক'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "আপডেট ইন্সটল করো (_I)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "আপডেট ইন্সটল করো (_I)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "উবুন্টু ৫.১০ আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "উবুন্টু ৫.১০ ব্যাকপোর্ট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "অফিসিয়াল ভাবে সমর্থিত"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "উবুন্টু ৫.১০ আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "উবুন্টু ৫.১০ ব্যাকপোর্ট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "উবুন্টু ৫.১০ 'ব্রিজী ব্যাজার'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "ফ্রি নয় (মাল্টিভার্স)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "কিছু সফটওয়্যার অফিসিয়ালি আর সমর্থিত নয়"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+#, fuzzy
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+#, fuzzy
+msgid "Ubuntu 4.10 Updates"
+msgstr "উবুন্টু ৫.১০ আপডেট"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "উবুন্টু ৫.১০ ব্যাকপোর্ট"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "ডেবিয়ান ৩.১ \"সার্জ\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "আপডেট ইন্সটল করো (_I)"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "ডেবিয়ান \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "ডেবিয়ান \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "দৈনিক"
+
+#~ msgid "Every two days"
+#~ msgstr "প্রত্যেক দুই দিনে"
+
+#~ msgid "Weekly"
+#~ msgstr "সাপ্তাহিক"
+
+#~ msgid "Every two weeks"
+#~ msgstr "প্রত্যেক দুই সপ্তাহে"
+
+#~ msgid "Every %s days"
+#~ msgstr "প্রত্যেক %s দিনে"
+
+#~ msgid "After one week"
+#~ msgstr "এক সপ্তাহ পর"
+
+#~ msgid "After two weeks"
+#~ msgstr "দুই সপ্তাহ পর"
+
+#~ msgid "After one month"
+#~ msgstr "এক মাস পর"
+
+#~ msgid "After %s days"
+#~ msgstr "%s দিন পর"
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "সফ্টওয়্যার আপডেট"
+
+#~ msgid "Import key"
+#~ msgstr "কী ইম্পোর্ট"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "নির্বাচিত ফাইলটি ইম্পোর্ট করতে সমস্যা হয়েছে"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "বেছে নেয়া ফাইলটি মনে হয় কোন GPG কী ফাইল নয় অথবা এটি নষ্ট।"
+
+#~ msgid "Error removing the key"
+#~ msgstr "কী সরাতে সমস্যা হয়েছে"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>সিডি স্ক্যানিং এ ত্রুটি</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "ডিস্কের জন্য একটি নাম দিন"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "অনুগ্রহ করে ড্রাইভে একটি ডিস্ক দিন:"
+
+#~ msgid "Broken packages"
+#~ msgstr "ভাঙা প্যাকেজসমূহ"
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "দরকারী meta-packages আপগ্রেড করতে পারে নি"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "একটি প্রয়োজনীয় প্যকেজ অপসারণ করা হতে পারে"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "আপগ্রেড গণনা করতে পারছে না"
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "'%s' ইন্সটল করা যাচ্ছে না"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "একটি প্রয়োজনীয় প্যাকেজ ইন্সটল করা অসম্ভব ছিল। অনুগ্রহ করে একে একটি বাগ হিসাবে "
+#~ "রিপোর্ট করুন। "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "meta-package অনুমান করা যাচ্ছ না"
+
+#, fuzzy
+#~ msgid "Failed to add the CD"
+#~ msgstr "আনতে ব্যর্থ"
+
+#~ msgid "Reading cache"
+#~ msgstr "ক্যাশ পড়া হচ্ছে"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "কোন সঠিক মিরর পাওয়া যায় নি"
+
+#~ msgid "Generate default sources?"
+#~ msgstr "ডিফল্ট sources তৈরি করে?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "আপনার 'sources.list' স্ক্যান করার পর '%s' এর জন্য কোন সঠিক এন্ট্রি খুজে পাওয়া "
+#~ "যায় নি।\n"
+#~ "\n"
+#~ "'%s' জন্য ডিফল্ট যুক্ত করার উচিত? আপনি যদি 'না' নির্বাচন করেন তাহলে আপডেট "
+#~ "বাতিল হবে।"
+
+#~ msgid "Repository information invalid"
+#~ msgstr "রিপোজিটরির তথ্য সঠিক নয়"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "রিপোজিটোরি তথ্য আপগ্রেড করার সময় একটি ভুল ফাইল তৈরী হয়েছে। অনুগ্রহ করে এটিকে "
+#~ "বাগ হিসাবে রিপোর্ট করুন।"
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "তৃতীয় পার্টির উত্স নিষ্ক্রিয়"
+
+#~ msgid "Error during update"
+#~ msgstr "আপগ্রেড করার সময় সমস্যা"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "আপগ্রেড করার সময় একটি সমস্যা হয়েছে। এটি সাধারনত নেটওয়ার্কের সমস্যা, অনুগ্রহ করে "
+#~ "আপনার নেটওয়ার্ক সংযোগ পরীক্ষা করুন এবং পুনরায় চেষ্টা করুন।"
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "ডিস্কে যথেস্ট ফাঁকা জায়গা নেই"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "আপনি কি আপগ্রেড শুরু করতে চান?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "আপগ্রেড ইন্সটল করা যায় নি"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "আপগ্রেড ডাউনলোড করা যায় নি"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "আপগ্রেড এখন বন্ধ হবে। দয়া করে আপনার ইন্টারনেট সংযুক্তি বা ইনস্টলেশন মিডিয়া "
+#~ "পরীক্ষা করুন এবং আবার চেষ্টা করুন। "
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "অপ্রচলিত প্যাকেজগুলো মুছে ফেলা হবে?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "এই ধাপটি এড়িয়ে যাও (_এ)"
+
+#~ msgid "_Remove"
+#~ msgstr "সরাও (_স)"
+
+#~ msgid "Error during commit"
+#~ msgstr "প্রেরণ করার সময় সমস্যা"
+
+#~ msgid "Restoring original system state"
+#~ msgstr "সিস্টেমটি রিস্টার্ট করছি"
+
+#~ msgid "Checking package manager"
+#~ msgstr "প্যাকেজ ম্যানেজার পরীক্ষা করা হচ্ছ"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "আপগ্রেড প্রস্তুত করা হচ্ছে"
+
+#~ msgid "Updating repository information"
+#~ msgstr "রিপজিটরির তথ্য আপডেট করা হচ্ছে"
+
+#~ msgid "Invalid package information"
+#~ msgstr "ভুল প্যাকেজ তথ্য"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "তথ্যের জন্য জিজ্ঞাসা"
+
+#~ msgid "Upgrading"
+#~ msgstr "আপগ্রেড করা হচ্ছে"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "অপ্রচলিত সফ্টওয়্যার অনুসন্ধান করা হচ্ছে"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "সিস্টেম আপগ্রেড সম্পন্ন।"
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "দয়া করে '%s' ড্রাইভে '%s' প্রবেশ করান"
+
+#, fuzzy
+#~ msgid "Fetching is complete"
+#~ msgstr "আপডেট সম্পন্ন"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "%li of %li ফাইল ডাউনলোড করছে"
+
+#, fuzzy
+#~ msgid "About %s remaining"
+#~ msgstr "%li মিিনিট বাকি আছে"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "%li of %li ফাইল ডাউনলোড করছে"
+
+#~ msgid "Applying changes"
+#~ msgstr "পরিবর্তনগুলো প্রয়োগ করছি"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "'%s' ইন্সটল করা যায় নি"
+
+#, fuzzy
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "কনফিগারেশন ফাইল '%s'\n"
+#~ "কি সরানো হবে?"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "'diff' কমান্ডটি পাওয়া যায় নি"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "একটি মারাত্মক সমস্যা সংঘটিত হয়েছে"
+
+#, fuzzy
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%s টি প্যাকেজ মোছা হবে।"
+#~ msgstr[1] "%s টি প্যাকেজ মোছা হবে।"
+
+#, fuzzy
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%s টি নতুন প্যাকেজ ইনস্টল হতে যাচ্ছে।"
+#~ msgstr[1] "%s টি নতুন প্যাকেজ ইনস্টল হতে যাচ্ছে।"
+
+#, fuzzy
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%s টি নতুন প্যাকেজ আপগ্রেড হতে যাচ্ছে।"
+#~ msgstr[1] "%s টি নতুন প্যাকেজ আপগ্রেড হতে যাচ্ছে।"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "আপনাকে সর্বমোট %s ডাউনলোড করতে হবে। "
+
+#, fuzzy
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr "আপগ্রেড করতে কয়েক ঘন্টা লেগে যেতে পারে এবং পরে এটি বাতিল করা যাবে না।"
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr "তথ্য হারাতে না চাইলে সকল অ্যাপলিকেশন এবং ডকুমেন্ট বন্ধ রাখুন।"
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "আপনার সিস্টেম আপ-টু-ডেট"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>%s মুছো</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "%s ইন্সটল"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "%s আপগ্রেড"
+
+#, fuzzy
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li দিন %li ঘন্টা %li মিিনিট বাকি আছে"
+
+#, fuzzy
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li ঘন্টা %li মিিনিট বাকি আছে"
+
+#~ msgid "Reboot required"
+#~ msgstr "রিবুট করা প্রয়োজন"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr "আপগ্রেডটি সম্পন্ন এবং রিবুট করা প্রয়োজন। আপনি কি এক্ষুনি তা করতে চান?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>আপগ্রেড সম্পন্ন করতে সিস্টেমটি রিস্টার্ট করুন</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>আপগ্রেড শুরু করবো?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "পরিস্কার করছি"
+
+#~ msgid "Details"
+#~ msgstr "বিস্তারিত"
+
+#~ msgid "Difference between the files"
+#~ msgstr "ফাইলগুলোর মধ্যে পার্থক্য"
+
+#, fuzzy
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "আপগ্রেড ডাউনলোড এবং ইন্সটল করা হচ্ছে"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "সফ্টওয়্যার চ্যানেল পরিবর্তন করা হচ্ছ"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "আপগ্রেড প্রস্তুত করা হচ্ছে"
+
+#~ msgid "Restarting the system"
+#~ msgstr "সিস্টেমটি রিস্টার্ট করছি"
+
+#~ msgid "Terminal"
+#~ msgstr "টার্মিন্যাল"
+
+#, fuzzy
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "পুনরায় আপগ্রেড শুরু (_R)"
+
+#~ msgid "_Keep"
+#~ msgstr "রাখো (_K)"
+
+#~ msgid "_Replace"
+#~ msgstr "প্রতিস্হাপন (_R)"
+
+#~ msgid "_Report Bug"
+#~ msgstr "বাগ রিপোর্ট (_R)"
+
+#~ msgid "_Restart Now"
+#~ msgstr "এক্ষুনি রিস্টার্ট (_R)"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "পুনরায় আপগ্রেড শুরু (_R)"
+
+#, fuzzy
+#~ msgid "_Start Upgrade"
+#~ msgstr "পুনরায় আপগ্রেড শুরু (_R)"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "রিলিজ নোট পাওয়া যায় নি"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "সার্ভারটি মনে হয় ব্যস্ত। "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "রিলিজ নোট ডাউনলোড করা যায় নি"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন।"
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "আপগ্রেড টুলটি চালানো যায় নি"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "এটি মনে হচ্ছে আপগ্রেড টুলের একটি বাগ। অনুগ্রহ করে বাগটি রিপোর্ট করুন"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "আপগ্রেড টুল ডাউনলোড করছি"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "আপগ্রেড টুলটি আপনাকে আপগ্রেড প্রক্রিয়ায় সাহায্য করবে।"
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "আপগ্রেড টুল স্বাক্ষর"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "আপগ্রেড টুল"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "আনতে ব্যর্থ"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr "আপগ্রেডটি আনতে ব্যর্থ। নেটওয়ার্কে কোন সমস্যা থাকতে পারে। "
+
+#~ msgid "Failed to extract"
+#~ msgstr "এক্সট্রাক্ট করতে ব্যর্থ"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "আপগ্রেডটি এক্সট্রাক্ট করতে ব্যর্থ। নেটওয়ার্ক অথবা সার্ভারে সমস্যা থাকতে পারে। "
+
+#~ msgid "Verfication failed"
+#~ msgstr "যথার্থ্যতা পরীক্ষা করতে ব্যর্থ"
+
+#, fuzzy
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "আপগ্রেড যথার্থ্য হয়েছে কিনা তা পরীক্ষা করতে ব্যর্থ। নেটওয়ার্ক অথবা সার্ভারে সমস্যা "
+#~ "থাকতে পারে। "
+
+#~ msgid "Authentication failed"
+#~ msgstr "অনমোদন প্রক্রিয়া ব্যর্থ"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "পরিবর্তনের তালিকা এখনে উপস্হিত নয়। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "পরিবর্তনের তালিকা এখনে উপস্হিত নয়। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "পরিবর্তন তালিকা ডাউনলোড করতে ব্যর্থ। অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা "
+#~ "করুন।"
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "উবুন্টু ৫.১০ ব্যাকপোর্ট"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "পুনরায় আপগ্রেড শুরু (_R)"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "আপডেট ইন্সটল করো (_I)"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "ভার্সন %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "পরিবর্তনের তালিকা ডাউনলোড করা হচ্ছ..."
+
+#, fuzzy
+#~ msgid "_Check All"
+#~ msgstr "পরীক্ষা করো (_C)"
+
+#~ msgid "Download size: %s"
+#~ msgstr "ডাউনলোড এর আকার: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "আপনি %s আপডেট ইনস্টল করতে পারেন"
+#~ msgstr[1] "আপনি %s আপডেট ইনস্টল করতে পারেন"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "অনুগ্রহ করে অপেক্ষা করুন, এটি কিছুটা সময় নিতে পারে।"
+
+#~ msgid "Update is complete"
+#~ msgstr "আপডেট সম্পন্ন"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "আপডেট ইন্সটল করো (_I)"
+
+#, fuzzy
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "নতুন ভার্সন: %s (আকার: %s)"
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "ভার্সন %s:"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "আপনার ডিস্ট্রিবিউশনটি আর সমর্থিত নয়"
+
+#~ msgid "Software index is broken"
+#~ msgstr "সফ্টওয়্যার ইন্ডেক্সটি নস্ট"
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>আপনার সিস্টেম আপ-টু-ডেট রাখুন</b></big>"
+
+#, fuzzy
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>সিডি স্ক্যানিং এ ত্রুটি</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#, fuzzy
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>আপগ্রেড শুরু করবো?</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "পরিবর্তন"
+
+#~ msgid "Chec_k"
+#~ msgstr "পরীক্ষা করো (_k)"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "নতুন আপডেট এর জন্য সফ্টওয়্যার চ্যানেল পরীক্ষা করো"
+
+#~ msgid "Description"
+#~ msgstr "বর্ননা"
+
+#~ msgid "Release Notes"
+#~ msgstr "রিলিজ নোট"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "একটি ফাইলের অগ্রগতি দেখাও"
+
+#~ msgid "Software Updates"
+#~ msgstr "সফ্টওয়্যার আপডেট"
+
+#~ msgid "U_pgrade"
+#~ msgstr "আপগ্রেড (_p)"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "উবুন্টু এর সর্বশেষ ভার্সনে আপগ্রেড করো"
+
+#~ msgid "_Check"
+#~ msgstr "পরীক্ষা করো (_C)"
+
+#, fuzzy
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "পুনরায় আপগ্রেড শুরু (_R)"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "ভবিষ্যতে এই তথ্য আড়াল রাখো (_H)"
+
+#~ msgid "_Install Updates"
+#~ msgstr "আপডেট ইন্সটল করো (_I)"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "আপগ্রেড (_p)"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "পরিবর্তন"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>ইন্টারনেট আপডেট</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>ইন্টারনেট আপডেট</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>ইন্টারনেট আপডেট</b>"
+
+#, fuzzy
+#~ msgid "Add Cdrom"
+#~ msgstr "সিডিরম যোগ (_C)"
+
+#~ msgid "Authentication"
+#~ msgstr "প্রমাণীকরন"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "ডাউনলোড করা সফ্টওয়্যার ফাইল মুছো (_e):"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "ডাউনলোড সম্পন্ন"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "বিশ্বস্ত সফ্টওয়্যার প্রদানকারীর থেকে পাবলিক কী ইমপোর্ট করো"
+
+#~ msgid "Internet Updates"
+#~ msgstr "ইন্টারনেট আপডেট"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "ডিফল্ট পুনঃস্হাপন (_D)"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "আপনার ডিস্ট্রিবিউশনের ডিফল্ট কী পুনঃস্হাপন করুন"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "সফ্টওয়্যার বৈশিষ্ট্য"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "স্বয়ংক্রিয় ভাবে আপডেট পরীক্ষা করো (_C):"
+
+#, fuzzy
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "আড়ালে আপডেট ডাউনলোড করো, কিন্তু তাদেরকে ইন্সটল করো না (_D)"
+
+#~ msgid "_Import Key File"
+#~ msgstr "কী ফাইল ইম্পোর্ট(_ই)"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "নিরাপত্তা জনিত আপডেট গুলো অনুমদন ছাড়াই ইন্সটল করো (_I)"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>মন্তব্য:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>উপাদান:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>ডিস্ট্রিবিউসন:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>ধরন:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>ইউ-আর-আই:</b>"
+
+#~ msgid "APT line:"
+#~ msgstr "APT লাইন:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "বাইনারী\n"
+#~ "উৎস"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "সিডিরম স্ক্যান করা হচ্ছে"
+
+#~ msgid "_Reload"
+#~ msgstr "পুনরায় পড়ো (_R)"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "উপস্হিত আপডেট গুলো প্রদর্শন এবং ইন্সটল করো"
+
+#~ msgid "Update Manager"
+#~ msgstr "আপডেট ম্যানেজার"
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "নতুন ডিস্ট্রিবিউশন রিলিজের জন্য পরীক্ষা করো"
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "চ্যানেল তালিকা পুনরায় পড়ার কথা মনে করো"
+
+#~ msgid "Show details of an update"
+#~ msgstr "একটি আপডেটের বিস্তারিত প্রদর্শন করো"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "update-manager ডায়ালগের আকার সংরক্ষন"
+
+#~ msgid "The window size"
+#~ msgstr "উইনডোর আকার"
+
+#, fuzzy
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "সফ্টওয়্যার চ্যানেল এবং ইন্টারনেট আপডেট কনফিগার"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "ডেবিয়ান ৩.১ \"Sarge\" নিরাপত্তামুলক আপডেট"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "আপডেট ইন্সটল করো (_I)"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "ডাউনলোড বাতিল (_D)"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "কিছু সফটওয়্যার অফিসিয়ালি আর সমর্থিত নয়"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "কোন আপগ্রেড পাওয়া যায় নি"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "আপনার সিস্টেম ইতিমধ্যেই আপগ্রেড করা হয়েছে।"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">উবুন্টু \"ড্যাপার\" ৬.০৬ এ আপগ্রেড "
+#~ "করছি</span>"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "উবুন্টু ৫.১০ নিরাপত্তামুলক আপডেট"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "উবুন্টু এর সর্বশেষ ভার্সনে আপগ্রেড করো"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "সকল উপস্হিত আপডেট ইন্সটল করা যায় নি"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "অফিসিয়াল ভাবে সমর্থিত"
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "নিম্নের আপডেটগুলো বাদ দেয়া হবে:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "%li সেকেন্ড বাকি আছে"
+
+#~ msgid "Download is complete"
+#~ msgstr "ডাউনলোড সম্পন্ন"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "আপগ্রেডটি নিস্ফল ভাবে বের হয়ে যাচ্ছ। অনুগ্রহ করে এই বাগটি রিপোর্ট করুন।"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "উবুন্টু আপগ্রেড করছি"
+
+#~ msgid "Hide details"
+#~ msgstr "বিস্তারিত আড়াল"
+
+#~ msgid "Show details"
+#~ msgstr "বিস্তারিত প্রদর্শন"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "শুধুমাত্র একটি সফ্টওয়্যার ম্যানেজমেন্ট টুল একসময়ে চালানো যাবে"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "অনুগ্রহ করে অন্যান্য অ্যাপলিকেশন যেমন, 'aptitude' অথবা 'Synaptic' প্রথমে বন্ধ "
+#~ "করুন।"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>চ্যানেল</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>কী</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "ইন্সটলেশন মাধ্যম"
+
+#~ msgid "Software Preferences"
+#~ msgstr "সফ্টওয়্যার অগ্রাধিকার"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>চ্যানেল</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>উপাদান</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "চ্যানেল যোগ"
+
+#~ msgid "Edit Channel"
+#~ msgstr "চ্যানেন সম্পাদন"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "চ্যানেল যোগ (_A)"
+#~ msgstr[1] "চ্যানেল যোগ (_A)"
+
+#~ msgid "_Custom"
+#~ msgstr "নিজ হাতে (_C)"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "উবুন্টু ৬.০৬ LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "উবুন্টু ৬.০৬ নিরাপত্তামুলক আপডেট"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "উবুন্টু ৬.০৬ আপডেট"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "উবুন্টু ৬.০৬ ব্যাকপোর্ট"

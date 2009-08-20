@@ -1,0 +1,435 @@
+# Estonian translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-09 15:49+0000\n"
+"Last-Translator: margus723 <margus723@hot.ee>\n"
+"Language-Team: Estonian <et@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+msgid "Pre-released updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+msgid "Unsupported updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+msgid "Debian 3.1 'Sarge'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+msgid "Security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+msgid "Debian 'Sid' (unstable)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "Iga päev"
+
+#~ msgid "Every two days"
+#~ msgstr "Iga kahe päeva tagant"
+
+#~ msgid "Weekly"
+#~ msgstr "Iga nädal"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Iga kahe nädala tagant"
+
+#~ msgid "Every %s days"
+#~ msgstr "Iga %s päeva tagant"
+
+#~ msgid "After one week"
+#~ msgstr "Peale ühte nädalat"
+
+#~ msgid "After two weeks"
+#~ msgstr "Peale kahte nädalat"
+
+#~ msgid "After one month"
+#~ msgstr "Peale ühte kuud"
+
+#~ msgid "After %s days"
+#~ msgstr "Peale %s päeva"
+
+#~ msgid "Import key"
+#~ msgstr "Sissetoomisvõti"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Valitud faili sissetoomisel ilmes viga"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Valitud fail pole GPG võtmefail või see on rikutud."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Võtme eemaldamisel tekkis viga"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Valitud võtit pole võimalik eemaldada"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Palun sisesta kettale nimi"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Palun sisesta ketas masinasse:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Katkised paketid"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Sinu süsteem sisaldab katkiseid pakette mida pole võimalik antud "
+#~ "tarkvaraga parandada. Palun paranda need kasutades rakendust \"synaptic\" "
+#~ "või \"apt-get\" enne jätkamist."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Ei suuda uuendada nõutud metapakette"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Hädavajalik pakett tuleks eemaldada"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Ei suuda uuendusi ette valmistada"
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Mõnede pakettide tuvastamisel tekkis viga."
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Mõndasid pakette polnud võimalik tuvastada. See võib olla mõõduv võrgu "
+#~ "viga. Sa võid hiljem uuesti proovida. Vaata järgnevalt mittetuvastatud "
+#~ "pakettide nimekirja."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Ei saa paigaldada '%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "Vahemälu lugemine"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Ühtegi sobivat peeglit ei leitud"
+
+#~ msgid "Error during update"
+#~ msgstr "Uuendamise ajal ilmnes viga."
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Uuendamise ajal ilmnes viga. See on tavaliselt mingit sorti võrgu "
+#~ "probleem, palun kontrolli oma võrguühendust ning proovi hiljem uuesti."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Kõvakettal pole piisavalt vaba ruumi."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Ei suuda uuendusi alla laadida"
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Eemalda iganenud paketid?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Jäta see samm vahele"
+
+#~ msgid "_Remove"
+#~ msgstr "_Eemalda"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Kinnitamise küsimine"
+
+#~ msgid "    "
+#~ msgstr "    "

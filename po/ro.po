@@ -1,0 +1,1490 @@
+# Romanian translation of update-manager.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the update-manager package.
+# Dan Damian <dand@gnome.ro>, 2005.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:13+0000\n"
+"Last-Translator: Sami POTIRCA <spotirca@gmail.com>\n"
+"Language-Team: Romanian <gnomero-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;plural=(n==1?0:(n==0||((n%100)>0&&(n%100)<20))?"
+"1:2)\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cdrom cu Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Actualizări de Securitate Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cdrom cu Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Actualizări de Securitate Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cdrom cu Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Pachete întreţinute de comunitate (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Software în contribuţie"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cdrom cu Ubuntu 6.10 'Edgy Eft'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Pachete întreţinute de comunitate (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Pachete întreţinute de comunitate (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Pachete întreţinute de comunitate (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Pachete non-libere"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Software restricţionat (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cdrom cu Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Actualizări importante de securitate"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Actualizări recomandate"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Pachete propuse"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Actualizări portate înapoi"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cdrom cu Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Actualizări de Securitate Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Actualizări Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 Backports"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cdrom cu Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Pachete suportate oficial"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Actualizări de Securitate Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Actualizări Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.04 Backports"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Pachete întreţinute de comunitate (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Pachete non-libere (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cdrom cu Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Pachete suportate oficial"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Copyright restrictiv"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Actualizări de securitate Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Actualizări Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 Backports"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Pachete propuse"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Actualizări importante de securitate"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "Software compatibil DFSG cu dependenţe negratuite"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Software incompatibil DFSG"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Server pentru %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Server principal"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Servere preferenţiale"
+
+#~ msgid "Daily"
+#~ msgstr "Zilnic"
+
+#~ msgid "Every two days"
+#~ msgstr "La fiecare două zile"
+
+#~ msgid "Weekly"
+#~ msgstr "Săptămânal"
+
+#~ msgid "Every two weeks"
+#~ msgstr "La fiecare 2 săptămâni"
+
+#~ msgid "Every %s days"
+#~ msgstr "La fiecare %s zile"
+
+#~ msgid "After one week"
+#~ msgstr "După o saptămână"
+
+#~ msgid "After two weeks"
+#~ msgstr "După două săptămâni"
+
+#~ msgid "After one month"
+#~ msgstr "După o lună"
+
+#~ msgid "After %s days"
+#~ msgstr "După %s zile"
+
+#~ msgid "%s updates"
+#~ msgstr "%s actualizări"
+
+#~ msgid "Nearest server"
+#~ msgstr "Cel mai apropiat server"
+
+#~ msgid "Software Channel"
+#~ msgstr "Canal software"
+
+#~ msgid "Active"
+#~ msgstr "Activ"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Cod sursă)"
+
+#~ msgid "Source Code"
+#~ msgstr "Cod sursă"
+
+#, fuzzy
+#~ msgid "Import key"
+#~ msgstr "Importă cheie"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Eroare la importarea fişierului selectat"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Fişierul selectat nu pare a fi o cheie GPG sau poate fi corupt."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Eroare la ştergerea cheii."
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Cheia selectată nu poate fi ştearsă. Raportaţi această eroare."
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Eroare la scanarea CD-ului</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Introduceţi un nume pentru disc"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Introduceţi un disc în unitate:"
+
+#, fuzzy
+#~ msgid "Broken packages"
+#~ msgstr "Pachete deteriorate"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Sistemul dumneavoastră conţine pachete deteriorate care nu au putut fi "
+#~ "reparate cu acest program. Înainte de a continua vă rugăm să le remediaţi "
+#~ "utilizând synaptic sau apt-get."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Este imposibilă actualizarea meta-pachetelor cerute"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Un pachet esenţial ar trebui şters"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Imposibil de calculat actualizarea"
+
+#, fuzzy
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Eroare la autentificarea unor pachete."
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "A fost imposibilă identificarea unor pachete. Acest lucru se poate datora "
+#~ "unor probleme temporare pe reţea. Vă recomandăm să reveniţi mai târziu. "
+#~ "Dedesubt sunt afişate lista pachetelor neidentificate."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Nu pot instala '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Nu am reuşit să instalez pachetul cerut. Vă rugăm raportaţi acest lucru "
+#~ "ca bug (eroare). "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Imposibl de ghicit meta-pachet"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Sistemul conţine pachete deteriorate care nu au putut fi reparate cu "
+#~ "acest program. Înainte de a continua vă rugăm să le remediaţi utilizând "
+#~ "synaptic sau apt-get."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Adăugarea CD-ului a eşuat"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "A apărut o eroare la adăugarea CD-ului; eroarea se va opri. Vă rugăm "
+#~ "raporaţi o eroare dacă acest CD Ubuntu este unul valid.\n"
+#~ "\n"
+#~ "Mesajul de eroare a fost:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "Citire cache"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Descarc date de la reţea pentru actualizare?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Actualizarea poate cauza reţeaua să verifice ultimele actualizări şi să "
+#~ "descarce pachete care nu se găsesc pe CD-ul curent.\n"
+#~ "Dacă aveţi o conexiune rapidă sau ieftină ar trebui să răspundeti cu "
+#~ "'Da'. Dacă accesul la reţea este scump pentru dumneavoastră alegeţi 'Nu'."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Nicio oglindă validă găsită"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "În timpul scanării datelor dumneavoastră despre depozit nicio intrare "
+#~ "oglindă nu a fost găsită. Acest lucru se poate întâmpla dacă rulaţi o "
+#~ "oglindă internă sau daca informaţiile sunt învechite.\n"
+#~ "\n"
+#~ "Doriţi să rescrieţi fişierul 'sources.list' oricum? Dacă selectaţi 'Da' "
+#~ "se vor modifica toate intrările din '%s' în '%s'."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Generez surse implicite?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "După scanarea fişierului 'sources.list' nicio intrare validă pentru '%s' "
+#~ "nu a fost găsită.\n"
+#~ "\n"
+#~ "Ar trebui ca intrările implicite pentru '%s' să fie adăugate? Daca "
+#~ "selectaţi 'Nu' actualizarea va înceta."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Informaţii despre depozit nevalide"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Actualizând informaţiile despre deposit a rezultat într-un fişier "
+#~ "nevalid. Vă rugăm să reportaţi acest lucru ca eroare."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Sursele terţe ar trebui dezactivate"
+
+#~ msgid "Error during update"
+#~ msgstr "Eroare în timpul actualizării"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "A apărut o problemă în timpul actualizării. De obicei este legată de "
+#~ "reţea, vă rugăm să verificaţi conexiunea dumneavoastra şi să încercaţi "
+#~ "din nou."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Spaţiu liber insuficient"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Actualizarea se opreşte acum. Vă rugăm să eliberaţi cel puţin %s de "
+#~ "spaţiu pe disc pe %s. Goliţi coşul de gunoi şi ştergeţi pachetele "
+#~ "temporare de la instalările vechi folosind 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Vrei sa începi upgrade-ul?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Nu s-au putut instalat upgrade-urile"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Actualizarea se opreşte acum. Sistemul dumneavoastră ar putea fi într-o "
+#~ "stare în care nu funcţionează. O recuperare a fost pornita (dpkg --"
+#~ "configure -a).\n"
+#~ "Vă rugăm raportaţi această eroare la pachetul 'update-manager' şi "
+#~ "includeţi fişierele din /var/log/dist-upgrade/ în raport."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Nu pot descărca actualizările"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Actualizarea se opreşte acum. Vă rugăm să verificaţi conexiunea la "
+#~ "Internet sau sursa de instalare şi să încercaţi din nou. "
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Şterg pachetele vechi?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Sari peste acest pas"
+
+#~ msgid "_Remove"
+#~ msgstr "Şter_ge"
+
+#~ msgid "Error during commit"
+#~ msgstr "Eroare în timpul salvării"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "O problemă a apărut în timpul acţiunii de curăţenie. Vă rugăm vedeţi "
+#~ "mesajul de mai jos pentru informaţii suplimentare. "
+
+#, fuzzy
+#~ msgid "Restoring original system state"
+#~ msgstr "Se reface starea iniţială a sistemului"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Se verifică managerul de pachete"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Se pregăteşte actualizarea"
+
+#~ msgid "Updating repository information"
+#~ msgstr "Actualizez informaţii depozit"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Informaţii pachet nevalide"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "După ce informaţiile despre pachete au fost actualizate pachetul esenţial "
+#~ "'%s' nu mai poate fi găsit.\n"
+#~ "Aceasta indică o eroare serioasă, vă rugăm raportaţi o eroare la pachetul "
+#~ "'update-manager' şi includeţi fişierele din /var/log/dist-upgrade/ în "
+#~ "raport."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Se aşteaptă confirmarea"
+
+#~ msgid "Upgrading"
+#~ msgstr "Se actualizează"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Caut software învechit"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Actualizarea sistemului este completă"
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Vă rugăm introduceţi '%s' în unitatea '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Descărcare completă"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Descarc fişierul %li din %li la %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Mai rămâne aproximativ %s"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Se descarcă fişierul %li din %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Se aplică modificările"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "'%s' nu s-a putut instala"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Actualizarea se opreşte acum. Vă rugăm raportaţi o eroare la pachetul "
+#~ "'update-manager' şi includeţi fişierele din /var/log/dist-upgrade/ în "
+#~ "raport."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Comanda 'diff' nu a putut fi localizată"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "S-a produs o eroare fatală"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Vă rugăm raportaţi aceasta ca eroare şi includeţi fişierele /var/log/dist-"
+#~ "upgrade/main.log şi /var/log/dist-upgrade/apt.log în raportul "
+#~ "dumneavoastră. Actualizarea se orpeşte acum.\n"
+#~ "Fişierul iniţial sources.list a fost salvat în /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Trebuie să descărcaţi un total de %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Descărcarea şi intalarea actualizărilor poate dura câteva ore şi nu poate "
+#~ "fi abandonată mai târziu."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Pentru a preveni pierderea datelor închideţi toate aplicaţiile şi "
+#~ "documentele."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Sistemul dumneavoastră este actualizat la zi!"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Şterge %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Instalează %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Actualizează %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li zile %li ore %li minute"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li ore %li minute"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minute"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li secunde"
+
+#~ msgid "Reboot required"
+#~ msgstr "Este necesară repornirea"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Actualizarea s-a încheiat şi este necesară repornirea. Doriţi să faceţi "
+#~ "acest lucru acum?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Anulaţi actualizarea în curs de desfăşurare?</big></b>\n"
+#~ "\n"
+#~ "Este posibil ca sistemul să fie inoperabil dacă anulaţi actualizarea. Vă "
+#~ "recomandăm să continuaţi actualizarea."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>Reporniţi sistemul pentru a încheia actualizarea</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Îcepeţi actualizarea?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Curăţ"
+
+#~ msgid "Details"
+#~ msgstr "Detalii"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Diferenţa dintre fişiere"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Descarc şi instalez actualizări"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Modificând depozitele software"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Se pregăteşte actualizarea"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Se reporneşte sistemul"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#, fuzzy
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Continuă Actualizarea"
+
+#~ msgid "_Keep"
+#~ msgstr "_Păstrează"
+
+#~ msgid "_Replace"
+#~ msgstr "_Înlocuieşte"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Raportaţi eroare"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Reporneşte acum"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Continuă Actualizarea"
+
+#, fuzzy
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Continuă Actualizarea"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Nu găsesc notiţele de lansare"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Serverul ar putea fi supraîncărcat. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Nu pot descărca notiţele de lansare"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Verificaţi conexiunea internet"
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Nu pot rula utilitarul de actualizare"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Aceasta este cel mai probabil o eroare. Raportaţi acest lucru ca eroare."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Descarc utiliatul de actualizare"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Utilitarul de actualizare vă va ghida în procesul de actualizare."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Actualizează semnătura utilitarului"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Actualizează utilitar"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Descărcare eşuata"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Descărcarea actualizării a eşuat. Ar putea exista o problemă la reţea. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Nu s-a putut extrage"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Extragerea actualizării a eşuat. Ar putea exista o problemă cu reţeaua "
+#~ "sau cu serverul. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Verificare eşuată"
+
+#~ msgid "Authentication failed"
+#~ msgstr "Autentificare eşuată"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Autentificarea actualizării a eşuat.  Ar putea exista o problemă cu "
+#~ "reţeaua sau cu serverul. "
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Lista schimbărilor nu este disponibilă"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Nu există nici un pachet de actualizat."
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Nu am putut descărca lista modificărilor. Vă rog să verificaţi dacă aveţi "
+#~ "o conexiune internet activă."
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Actualizări de securitate Ubuntu 5.04"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "_Continuă Actualizarea"
+
+#~ msgid "Other updates"
+#~ msgstr "Alte actualizări"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Versiunea %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Se descarcă listă schimbărilor..."
+
+#~ msgid "Download size: %s"
+#~ msgstr "Dimensiune descărcare: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Puteţi instala actualizarea %s"
+#~ msgstr[1] "Puteţi instala actualizarea %s"
+#~ msgstr[2] "Puteţi instala actualizarea %s"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Vă rugăm aşteptaţi, ar putea dura."
+
+#~ msgid "Update is complete"
+#~ msgstr "Actualizare completă."
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "_Instalează actualizarile"
+
+#, fuzzy
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Versiunea nouă: %s (Mărime: %s)"
+
+#~ msgid "Version %s"
+#~ msgstr "Versiunea %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Dimensiune: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Distribuţia dvs. nu mai este asistată"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Nu veţi mai primi actualizări de securitate sau actualizări obligatorii. "
+#~ "Instalaţi o versiune mai nouă a Ubuntu Linux. Vedeţi http://www.ubuntu."
+#~ "com pentru mai multe informaţii legate de actualizare."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Noua versiune '%s' este disponibilă</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Indexul software este deteriorat"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Instalarea sau ştergerea de software este imposibilă. Vă rugăm să "
+#~ "folosiţi managerul de pachete \"Synaptic\" sau rulaţi \"sudo apt-get "
+#~ "install -f\" într-un terminal pentru a remedia această problemă."
+
+#~ msgid "None"
+#~ msgstr "Nimic"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Menţineţi sistemul la zi</b></big>"
+
+#, fuzzy
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>Eroare la scanarea CD-ului</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#, fuzzy
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr ""
+#~ "<big><b>Eroare la scanarea CD-ului</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Changes"
+#~ msgstr "Modificări"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Modificări şi descrierea actualizării"
+
+#~ msgid "Chec_k"
+#~ msgstr "Verific_ă"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Verifică depozitele software pentru actualizări noi"
+
+#~ msgid "Description"
+#~ msgstr "Descriere"
+
+#~ msgid "Release Notes"
+#~ msgstr "Notiţe de lansare"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Afişează progresul pentru fiecare fişier în parte"
+
+#~ msgid "Software Updates"
+#~ msgstr "Actualizări software"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Actualizările programelor corectează erorile, elimină vulnerabilităţile "
+#~ "şi vă pun la dispoziţie opţiuni suplimentare."
+
+#~ msgid "U_pgrade"
+#~ msgstr "A_ctualizează"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Instalaţi ultima versiune Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Verifică"
+
+#, fuzzy
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Continuă Actualizarea"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Nu mai afişa această informaţie pe viitor"
+
+#~ msgid "_Install Updates"
+#~ msgstr "_Instalează actualizări"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "A_ctualizează"
+
+#~ msgid "changes"
+#~ msgstr "modificări"
+
+#~ msgid "updates"
+#~ msgstr "actualizări"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Actualizări automate</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Actualizări de pe Internet</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Pentru a îmbunătăţii experienţa Ubuntu vă rugăm să luaţi parte la "
+#~ "concursul de popularitate. Dacă faceţi acest lucru lista de software "
+#~ "instalat şi frecveţa de folosire vor fi colectate şi trimise anonim către "
+#~ "proiectul Ubuntu săptămânal.\n"
+#~ "\n"
+#~ "Rezultatele sunt folosite pentru îmbunătăţirea asistenţei la aplicaţiile "
+#~ "populare şi pentru a ordona aplicaţiile în rezultatele căutărilor.</i>"
+
+#~ msgid "Authentication"
+#~ msgstr "Autentificare"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "Ş_terge fişierele software descărcate:"
+
+#~ msgid "Download from:"
+#~ msgstr "Descarcă din:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Importă cheia publică de la un furnizor software de încredere"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Actualizări de pe Internet"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Doar actualizările de securitate de pe serverele oficiale Ubuntu vor fi "
+#~ "instalate automat"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Restaurează _Setări"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Restaurează cheile iniţiale pentru distribuţia mea"
+
+#~ msgid "Software Sources"
+#~ msgstr "Surse software"
+
+#~ msgid "Source code"
+#~ msgstr "Cod sursă"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistici"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Trimite informaţii statistice"
+
+#~ msgid "Third Party"
+#~ msgstr "Terţ"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "_Verifică pentru actualizări automat:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "_Descarcă actualizări automat, dar nu le instala"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Importă fişier cheie"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Instalează actualizări de securitate fără confirmare"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Comentariu:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Componente:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribuţie:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Tip:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Introduceţi linia APT completă a locaţiei pe care doriţi să o "
+#~ "adăugaţi</b></big>\n"
+#~ "\n"
+#~ "Linia APT conţine tipul, adresa şi conţinutul unei locaţii, de exemplu<i>"
+#~ "\"deb http://ftp.debian.org sarge main\"</i>. Puteţi găsi o descriere "
+#~ "detaliată a sintaxei în documentaţie."
+
+#~ msgid "APT line:"
+#~ msgstr "Linie APT:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binar\n"
+#~ "Sursă"
+
+#~ msgid "Edit Source"
+#~ msgstr "Editează sursa"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Scanez CD-ROM"
+
+#~ msgid "_Add Source"
+#~ msgstr "_Adaugă sursă"
+
+#~ msgid "_Reload"
+#~ msgstr "_Reîncarcă"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Afişează şi instalează actualizările disponibile"
+
+#~ msgid "Update Manager"
+#~ msgstr "Manager actualizări"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Verifică automat dacă o versiune mai nouă a acestei distribuţii este "
+#~ "disponibilă şi oferă-te să actualizezi (dacă este posibil)."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Verifică pentru lansări noi de distribuţie"
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Aminteşte-mi să reîncarc lista canalelor"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Arată detaliile unei actualizări"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Salvează dimensiunea ferestrei update-manager"
+
+#~ msgid "The window size"
+#~ msgstr "Dimensiunea ferestrei"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Configurează sursele pentru software instalabil şi actualizări"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Actualizări de securitate Debian 3.1 \"Sarge\""
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "Software cu restricţii de export din SUA"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "_Instalează actualizarile"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Nu s-au găsit actualizări"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Sistemul dumneavoastră este actualizat la zi!"
+
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Actualizări importante de securitate pentru Ubuntu"
+
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Actualizări pentru Ubuntu"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Pachete suportate oficial"
+
+#~ msgid "Hide details"
+#~ msgstr "Ascunde detaliile"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Detalii</b>"
+
+#, fuzzy
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Chei</b>"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Preferinţe software"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Detalii</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Componente</b>"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Actualizări de securitate Ubuntu 5.04"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Actualizări de securitate Ubuntu 5.04"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Actualizări de securitate Ubuntu 5.04"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Actualizări de securitate Ubuntu 6.06"
+
+#~ msgid "Repositories changed"
+#~ msgstr "Locaţiile au fost schimbate"
+
+#, fuzzy
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "Informaţiile despre locaţii au fost schimbate. O copie de siguranţă a "
+#~ "fişierului sources.list a fost salvată în %s.save.\n"
+#~ "\n"
+#~ "Pentru ca modificările să aibe efect, trebuie să reîncărcaţi lista de "
+#~ "pachete de pe servere. Doriţi să faceţi acum acest lucru?"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Secţiuni:</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Secţiuni:</b>"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Reîncarcă informaţiile despre pachete de pe server."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Descarc modificările</span>\n"
+#~ "\n"
+#~ "Trebuiesc obţinute schimbările de pe serverul central"
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Surse software</b>"
+
+#, fuzzy
+#~ msgid "Automatically check for updates"
+#~ msgstr "Verifică a_utomat actualizările software."
+
+#, fuzzy
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "Pachete de instalat:"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Actualizări disponibile</b></big>\n"
+#~ "\n"
+#~ "Pachetele următoare pot fi actualizate. Puteţi instala actualizările "
+#~ "apăsând pe butonul Instalează."
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>Locaţie</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Fişiere temporare</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Interfaţă utilizator</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>Chei autentificare</b></big>\n"
+#~ "\n"
+#~ "Din acest dialog puteţi adăuga sau şterge chei de autentificare. Rolul "
+#~ "unei chei estede a permite verificarea integrităţii unui pachet software "
+#~ "descărcat."
+
+#~ msgid "A_uthentication"
+#~ msgstr "A_utentificare"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "Adăugaţi o nouă cheie în keyring-ul de încredere. Asiguraţi-vă că aţi "
+#~ "obţinut cheia printr-un canal sigur şi că aveţi încredere în proprietarul "
+#~ "ei. "
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "Curăţă automat fişierele _temporare ale pachetelor"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "Interval de curăţire în zile: "
+
+#~ msgid "Edit Repository..."
+#~ msgstr "Editează locaţia..."
+
+#, fuzzy
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "Restaurează cheile implicite furnizate împreună cu distribuţia. Această "
+#~ "acţiune nu va influenţa cheile instalate ca utilizator."
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Afişează sursele software dezactivate"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Interval de actualizare în zile: "
+
+#~ msgid "_Add Repository"
+#~ msgstr "_Adaugă locaţie"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "_Descarcă pachetele actualizate"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr ""
+#~ "Nu am găsit modificări, s-ar putea ca serverul să nu fi fost actualizat."
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Actualizările sunt în curs de aplicare."
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Puteţi rula doar un singur manager de pachete la un moment dat. Vă rog să "
+#~ "închideţi ceilalţi manageri mai întâi."
+
+#~ msgid "There are no updates available."
+#~ msgstr "Nu există nici un pachet de actualizat."
+
+#, fuzzy
+#~ msgid ""
+#~ "This usually means that another package management application (like apt-"
+#~ "get or aptitude) already running. Please close that application first"
+#~ msgstr ""
+#~ "Puteţi rula doar un singur manager de pachete la un moment dat. Vă rog să "
+#~ "închideţi ceilalţi manageri mai întâi."
+
+#~ msgid "Initializing and getting list of updates..."
+#~ msgstr "Iniţializez şi obţin lista actualizărilor..."
+
+#, fuzzy
+#~ msgid "Binary"
+#~ msgstr ""
+#~ "Binar\n"
+#~ "Sursă"
+
+#~ msgid "CD"
+#~ msgstr "CD"
+
+#~ msgid "Non-free software"
+#~ msgstr "Software non-liber"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Actualizări disponibile</b></big>\n"
+#~ "\n"
+#~ "Pachetele următoare pot fi actualizate. Puteţi instala actualizările "
+#~ "apăsând pe butonul Instalează."
+
+#~ msgid "0"
+#~ msgstr "0"

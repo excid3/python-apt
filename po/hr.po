@@ -1,0 +1,1536 @@
+# Croatian translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-18 19:37+0000\n"
+"Last-Translator: Ante Karamatić <ivoks@grad.hr>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cdrom sa Ubuntu 5.04 ' Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.04 sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "CDROM s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.04 sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "CDROM s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Održavani od strane zajednice"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Neslobodni upogonitelji za uređaje"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Neslobodni softver"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "CDROM sa Ubuntu 6.10 'Edgy Eft'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Službeno podržani Open Source softver"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Održavani od strane zajednice (universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Softver održavan od strane zajednice"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Neslobodni pogonski programi"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Neslobodni upogonitelji za uređaje "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Ograničeni softver (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Softver ograničen autorskim pravom ili legalnim pitanjima"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "CDROM s Ubuntu 6.06 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Važne sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Preporučene nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Predložene nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Backport nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "CDROM s Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 osvježenja"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 backporti"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cdrom sa Ubuntu 5.04 ' Hoary Hedgehog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Službeno podržani"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.04 sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.04 nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.04 backporti"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Wart Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Održavani od strane zajednice (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Neslobodni (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cdrom sa Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Više nisu službeno podržani"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Ograničeno autorsko pravo"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 4.10 osvježenja"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 backports"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Predložene nadogradnje"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Važne sigurnosne nadogradnje"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testni)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (nestabilni)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "DFSG-kompatibilni programi sa neslobodnim ovisnostima"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "DFSG-nekompatibilni programi"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Poslužitelj za %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Glavni poslužitelj"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Osobni poslužitelji"
+
+#~ msgid "Daily"
+#~ msgstr "Dnevno"
+
+#~ msgid "Every two days"
+#~ msgstr "Svaki drugi dan"
+
+#~ msgid "Weekly"
+#~ msgstr "Tjedno"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Svaki drugi tjedan"
+
+#~ msgid "Every %s days"
+#~ msgstr "Svakih %s dana"
+
+#~ msgid "After one week"
+#~ msgstr "Nakon tjedan dana"
+
+#~ msgid "After two weeks"
+#~ msgstr "Nakon dva tjedna"
+
+#~ msgid "After one month"
+#~ msgstr "Nakon mjesec dana"
+
+#~ msgid "After %s days"
+#~ msgstr "Nakon %s dana"
+
+#~ msgid "%s updates"
+#~ msgstr "%s nadogradnje"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Najbliži poslužitelj"
+
+#~ msgid "Software Channel"
+#~ msgstr "Softverski repozitorij"
+
+#~ msgid "Active"
+#~ msgstr "Aktivno"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Izvorni kod)"
+
+#~ msgid "Source Code"
+#~ msgstr "Izvorni kod"
+
+#~ msgid "Import key"
+#~ msgstr "Uvoz ključa"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Greška prilikom uvoza odabrane datoteke"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Odabrana datoteka možda nije GPG ključ ili je možda oštećena."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Greška prilikom brisanja ključa"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Ključ koji ste odabrali se ne može obrisati. Molimo prijavite ovu grešku."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Greška prilikom očitavanja CD-a</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Upišite ime za disk"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Ubacite CD u uređaj:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Neispravni paketi"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Vaš sistem sadrži neispravne pakete koji nisu mogli biti popravljeni s "
+#~ "ovim programom. Popravite ih koristeći synaptic ili apt-get prije "
+#~ "nastavljanja."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Ne mogu nadograditi potrebne meta-pakete"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Bitan paket bi morao biti uklonjen"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Nisam mogao riješiti nadogradnju"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Nerješiv problem se pojavio prilikom rješavanja nadogradnje. \n"
+#~ "\n"
+#~ "Molimo prijavite ovo kao grešku u 'update-manager' paketu i uključite iz /"
+#~ "var/log/dist-upgrade/ u prijavu."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Greška prilikom identificiranja nekih paketa"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Nije bilo moguće identificirati neke pakete. Ovo bi mogao biti privremeni "
+#~ "problem s mrežom i trebali biste pokušati ponovo kasnije. Pogledajte "
+#~ "popis neidentificiranih paketa."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Ne mogu instalirati '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Nije bilo moguće instalirati potreban paket. Molimo prijavite ovo kao "
+#~ "grešku. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Nisam mogao odrediti meta-paket"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Vaš sustav ne sadrži ubuntu-desktop, kubuntu-desktop ili edubuntu-desktop "
+#~ "paket i nije bilo moguće odrediti koju verziju Ubuntua koristite.\n"
+#~ " Prije nastavka, molim instalirajte jedan od gore navedenih paketa "
+#~ "koristeći synaptic ili apt-get."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Dodavanje CDa nije uspjelo"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Došlo je do greške prilikom dodavanja CD-a zbog kojeg će nadogradnja biti "
+#~ "prekinuta. Molim prijavite ovo kao grešku, ako je ovo ispravan Ubuntu "
+#~ "CD.\n"
+#~ "\n"
+#~ "Poruka je bila:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "Čitam spremnik"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Preuzeti podatke za nadogradnju putem mreže?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Nadogradnja može provjeriti dostupnost novih paketa i preuzeti pakete "
+#~ "putem Interneta, ukoliko nisu na CD-u.\n"
+#~ "Ako imate brz ili jeftin pristup mreži, trebali biste odgovoriti 'Da' "
+#~ "ovdje. Ukoliko ne želite preuzeti pakete putem mreže, odgovorite 'Ne'."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Nisam našao ispravan zrcalni poslužitelj"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Prilikom očitavanja vašeg repozitorija nisam našao unos za zrcalni "
+#~ "poslužitelj za nadogradnju. Ova greška se dogodila ako koristite "
+#~ "unutrašnji zrcalni poslužitelj ili je informacija o zrcalnom poslužitelju "
+#~ "zastarjela.\n"
+#~ "\n"
+#~ "Želite li, unatoč tome, nanovo zapisati vašu 'sources.list' datoteku ? "
+#~ "Ako odaberete 'Da' nadograditi će se svih '%s' do '%s' unosa.\n"
+#~ "Ako odaberete 'ne' nadogradnja će se prekinuti."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Kreirati uobičajene izvore?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Nakon očitavanja vaše 'sources.list' datoteke nisam našao ispravan unos "
+#~ "za '%s'.\n"
+#~ "Treba li dodati uobičajene unose za '%s' ? Ako odaberete 'Ne' nadogradnja "
+#~ "će prekinuti."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Podaci repozitorija neispravni"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Nadogradnja podataka repozitorija je rezultirala neispravnom datotekom. "
+#~ "Molim, prijavite ovo kao grešku."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Izvori trećih strana su isključeni"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Neki unosi trećih strana u vašoj sources.list datoteci su isključeni. "
+#~ "Možete ih uključiti nakon nadogradnje sa 'software-properties' alatom ili "
+#~ "sa synapticom."
+
+#~ msgid "Error during update"
+#~ msgstr "Greška prilikom nadogradnje"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Pojavio se problem prilikom nadogradnje. Obično se radi o mrežnom "
+#~ "problemu, pa vas molim da provjerite vašu mrežu i pokušate ponovo."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Nema dovoljno praznog mjesta na disku"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Nadogradnja se prekida. Molim oslobodite barem %s prostora na disku %s. "
+#~ "Ispraznite smeće i uklonite privremene pakete od prošlih instalacija "
+#~ "koristeći 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Želite li pokrenuti nadogradnju?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Nisam mogao instalirati nadogradnje"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Nadogradnja se prekida. Vaš sistem bi mogao biti u neupotrebljivom "
+#~ "stanju. Obnavljanje je pokrenuto (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Molim, prijavite ovu grešku u 'update-manager' paketu i uključite "
+#~ "datoteke u /var/log/dist-upgrade/ direktoriju u prijavu."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Nisam mogao preuzeti nadogradnje"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Nadogradnja se prekida. Molim provjerite vašu internet vezu ili "
+#~ "instalacijski medij i pokušajte ponovo. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Podrška za neke programe je gotova"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Ovi instalirani paketi više nisu službeno podržani od strane Canonicala i "
+#~ "sada se nalaze u repozitoriju kojeg održava zajednica ('Universe').\n"
+#~ "\n"
+#~ "Ako nemate omogućen 'universe' repozitorij, ovi paketi biti će predloženi "
+#~ "za uklanjanje."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Ukloniti zastarjele pakete?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Preskoči ovaj korak"
+
+#~ msgid "_Remove"
+#~ msgstr "_Ukloni"
+
+#~ msgid "Error during commit"
+#~ msgstr "Greška prilikom čina"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Neki problemi su se pojavili prilikom čišćenja. Molim pogledajte poruku "
+#~ "za više informacija. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Vraćam u početno stanje"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "Dohvaćanje backporta od '%s'"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Provjeravam upravitelja paketima"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Neuspjelo pripremanje nadogradnje"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Nerješiv problem se pojavio prilikom rješavanja nadogradnje. Molimo "
+#~ "prijavite ovo kao grešku u 'update-manager' paketu i uključite iz /var/"
+#~ "log/dist-upgrade/ u prijavu."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Nadograđujem podatke repozitorija"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Neispravni podaci paketa"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Nakon što su podaci paketa nadograđeni, bitan paket '%s' se ne može više "
+#~ "naći.\n"
+#~ "Ovo upućuje na ozbiljnu grešku, molim prijavite ovo kao grešku u 'update-"
+#~ "manager' paketu i uključite datoteke u /var/log/dist-upgrade/ direktoriju "
+#~ "u prijavu."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Pitam za potvrdu"
+
+#~ msgid "Upgrading"
+#~ msgstr "Nadograđujem"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Tražim zastarjele programe"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Nadogradnja sustava je završena."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Molim, ubacite '%s' u uređaj '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Preuzimanje je završeno"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Preuzimam datoteku %li od %li pri %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Otprilike je ostalo %s"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Preuzimam datoteku %li od %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Primjenjujem promjene"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Nisam mogao instalirati '%s'"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Nadogradnja se prekida. Molim, prijavite ovu grešku za 'update-manager' "
+#~ "paket i uključite u prijavu datoteke iz /var/log/dist-upgrade direktorija."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Zamijeniti konfiguracijsku datoteku\n"
+#~ "'%s'?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Izgubit ćete sve promjene napravljene na ovoj konfiguracijskoj datoteci "
+#~ "ako odaberete izmjenu s novijom verzijom programa."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Nisam našao naredbu 'diff'"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Pojavila se ozbiljna greška"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Molim, prijavite ovo kao bug i uključite datoteke /var/log/dist-upgrade/"
+#~ "main.log i /var/log/dist-upgrade-apt.log u vaše izvješće. Nadogradnja se "
+#~ "sada prekida.\n"
+#~ "Vaša originalna sources.list datoteka je spremljena u /etc/apt/sources."
+#~ "list.distUpgrade."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d paket će biti uklonjen."
+#~ msgstr[1] "%d paketa će biti uklonjena."
+#~ msgstr[2] "%d paketa će biti uklonjeno."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d novi paket će biti instaliran."
+#~ msgstr[1] "%d nova paketa će biti instalirana."
+#~ msgstr[2] "%d novih paketa će biti instalirano."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d paket će biti nadograđen."
+#~ msgstr[1] "%d paketa će biti nadograđena."
+#~ msgstr[2] "%d paketa će biti nadograđeno."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Morate preuzeti ukupno %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Nadogradnja može potrajati nekoliko sati i ne može biti prekinuta niti u "
+#~ "jednom trenutku."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr "Da spriječite gubitak podataka zatvorite sve programe i datoteke."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Vaš sustav sadrži posljednje nadogradnje"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr "Nema nadogradnji za vaš sustav. Nadogradnja će biti otkazana."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Ukloni %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Instaliraj %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Nadogradi %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li dana %li sati i %li minuta"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li sati i %li minuta"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minuta"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li sekundi"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Preuzimanje će trajati %s sa 1Mbit DSL vezom i otprilike %s sa 56k modemom"
+
+#~ msgid "Reboot required"
+#~ msgstr "Potrebno je ponovno pokretanje računala"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Nadogradnja je završena i potrebno je ponovo pokrenuti računalo. Želite "
+#~ "li to učiniti sada?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Prekinuti nadogradnju u tijeku?</big></b>\n"
+#~ "\n"
+#~ "Sistem bi mogao biti u neupotrebljivom stanju ako prekinete nadogradnju. "
+#~ "Preporuka je da nastavite nadogradnju."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Ponovno pokretanje računala potrebno je za završetak nadogradnje</"
+#~ "big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Pokrenuti nadogradnju?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Nadogradnja Ubuntua na verziju 6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Čišćenje"
+
+#~ msgid "Details"
+#~ msgstr "Detalji"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Razlike između datoteka"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Preuzimam i instaliram nadogradnje"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Mijenjam repozitorije"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Pripremam nadogradnju"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Ponovno pokrećem sustav"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Prekini nadogradnju"
+
+#~ msgid "_Continue"
+#~ msgstr "_Nastavi"
+
+#~ msgid "_Keep"
+#~ msgstr "_Zadrži"
+
+#~ msgid "_Replace"
+#~ msgstr "Za_mijeni"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Prijavi grešku"
+
+#~ msgid "_Restart Now"
+#~ msgstr "Ponovno pok_reni računalo"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Nastavi nadogradnju"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Pokreni nadogradnju"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Nisam mogao naći bilješke izdanja"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Poslužitelj bi mogao biti preopterećen. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Nisam mogao dohvatiti bilješke izdanja"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Molim, provjerite vašu internet vezu."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Nisam mogao pokrenuti alat za nadogradnju"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Ovo je najvjerovatnije greška u alatu za nadogradnju. Molim, prijavite "
+#~ "ovo kao grešku"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Dohvaćam alat za nadogradnju"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Alat za nadogradnju će vas voditi kroz proces nadogradnje."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Potpis alata za nadogradnju"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Alat za nadogradnju"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Preuzimanje nije uspjelo"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Preuzimanje nadogradnje nije uspjelo. Vjerojatno je problem u mreži. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Raspakiravanje nije uspjelo."
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Raspakiravanje nadogradnje nije uspjelo. Vjerojatno je problem u mreži "
+#~ "ili na poslužitelju. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Provjera nije uspjela"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Provjera nadogradnje nije uspjela. Vjerojatno je problem u mreži ili s "
+#~ "poslužiteljem. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Autorizacija nije uspjela"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Autorizacija nadogradnje nije uspjela. Vjerojatno je problem u mreži ili "
+#~ "s poslužiteljem. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Preuzimanje datoteke %(current)li od %(total)li brzinom %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Preuzimam datoteku %(current)li od %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Popis promjena nije dostupan."
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Popis promjena trenutno nije dostupan. \n"
+#~ "Molim, pokušajte ponovno kasnije."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Preuzimanje popisa promjena nije uspjelo. \n"
+#~ "Molim, provjerite svoju internet vezu."
+
+#~ msgid "Backports"
+#~ msgstr "Backporti"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Nadogranje distribucije"
+
+#~ msgid "Other updates"
+#~ msgstr "Druge nadogradnje"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Verzija %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Preuzimam popis promjena..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "_Odznači sve"
+
+#~ msgid "_Check All"
+#~ msgstr "Pro_vjeri sve"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Veličina preuzimanja: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Možete instalirati %s nadogradnju"
+#~ msgstr[1] "Možete instalirati %s nadogradnje"
+#~ msgstr[2] "Možete instalirati %s nadogradnji"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Molim pričekajte, ovo može potrajati."
+
+#~ msgid "Update is complete"
+#~ msgstr "Nadogradnja je gotova"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Tražim moguće nadogradnje"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Verzija %(old_version)s u %(new_version)s"
+
+#~ msgid "Version %s"
+#~ msgstr "Verzija %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Veličina: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Vaša distibucija više nije podržana"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Nećete više dobivati sigurnosne zakrpe ili kritične nadogradnje. "
+#~ "Nadogradite na noviju verziju Ubuntu Linuxa. Pogledajte na http://www."
+#~ "ubuntu.com za više detalja o nadogradnji."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Novo izdanje distribucije, '%s', je dostupno</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Popis programa je oštećen"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Nemoguće je instalirati ili ukloniti bilo koji program. Molim koristite "
+#~ "upravitelja paketima \"Synaptic\" ili upišite \"sudo apt-get install -f\" "
+#~ "u terminalu za ispravljanje ovog problema."
+
+#~ msgid "None"
+#~ msgstr "Ništa"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Morate ručno provjeriti postojanje nadogradnji</big></b>\n"
+#~ "\n"
+#~ "Vaš sustav ne provjerava automatski postojanje nadogradnji. Možete "
+#~ "podesiti ovo ponašanje u <i>Softver repozitoriji</i>, na <i>Internet "
+#~ "nadogradnje</i> kartici."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Održavajte vaš sustav nadograđenim</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>Greška prilikom očitavanja CD-a</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>Pokreće se upravitelj nadogradnji</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "Promjene"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Promjene i opis nadogradnje"
+
+#~ msgid "Chec_k"
+#~ msgstr "P_rovjeri"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Provjeri repozitorije za nove nadogradnje"
+
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+#~ msgid "Release Notes"
+#~ msgstr "Bilješke izdanja"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Pokreni nadogradnju distribucije, za instalaciju što više nadogradnji.\n"
+#~ "\n"
+#~ "Ovo može biti izazvano nedovršenom nadogradnjom, neslužbenim paketima ili "
+#~ "pokretanjem razvojne verzije."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Prikaži napredak pojedinih datoteka"
+
+#~ msgid "Software Updates"
+#~ msgstr "Nadogradnje programa"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Nadogradnje programa popravljaju greške, uklanjaju sigurnosne propuste i "
+#~ "donose nove mogućnosti."
+
+#~ msgid "U_pgrade"
+#~ msgstr "Na_dogradnja"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Nadogradi na zadnju verziju Ubuntua"
+
+#~ msgid "_Check"
+#~ msgstr "Pro_vjeri"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Nadogradnja distribucije"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "Ubuduće _sakrij ovu informaciju"
+
+#~ msgid "_Install Updates"
+#~ msgstr "_Instaliraj nadogradnje"
+
+#~ msgid "_Upgrade"
+#~ msgstr "Na_dogradnja"
+
+#~ msgid "changes"
+#~ msgstr "promjene"
+
+#~ msgid "updates"
+#~ msgstr "nadogradnje"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Automatske nadogradnje</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Internet nadogradnje</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Kako bismo poboljšali Ubuntu, molim odvojite trenutak i sudjelujte u "
+#~ "anketi. Ako to želite, popis instaliranog softvera i periodičnost njegove "
+#~ "uporabe biti će anonimno poslana Ubuntu projektu svaki tjedan.\n"
+#~ "\n"
+#~ "Rezultati će se iskoristiti kako bi se povećala podrška za popularne "
+#~ "programe i kako bi se programi rangirali više na ljestvici pretrage.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Dodaj CD-ROM"
+
+#~ msgid "Authentication"
+#~ msgstr "Autorizacija"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "_Obriši dobavljene datoteke programa:"
+
+#~ msgid "Download from:"
+#~ msgstr "Preuzimanje sa:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Uvezi javni ključ od pouzdanog davatelja programa"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Internet nadogradnje"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Samo sigrnosne nadogradnje sa službenih Ubuntu poslužitelja će biti "
+#~ "instalirane automatski"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Vrati _uobičajene postavke"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Vrati uobičajene ključeve vaše distribucije"
+
+#~ msgid "Software Sources"
+#~ msgstr "Softver repozitoriji"
+
+#~ msgid "Source code"
+#~ msgstr "Izvorni kod"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistike"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Pošalji statističke informacije"
+
+#~ msgid "Third Party"
+#~ msgstr "Treća strana"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "_Provjeri postojanje nadogradnji automatski:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "P_reuzmi nadogradnje automatski, ali ih ne instaliraj"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Unesi datoteku ključa"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Instaliraj sigurnosne nadogradnje bez potvrde"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Informacije o repozitoriju su prestare</big></b>\n"
+#~ "\n"
+#~ "Morate ponovno učitati repozitorij za instalaciju programa i nadogradnju "
+#~ "s novog ili promijenjenog repozitorija. \n"
+#~ "\n"
+#~ "Trebate funkcionalnu internet vezu za nastavak."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Komentar:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Komponente:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribucija:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Vrsta:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Unesite kompletnu APT liniju repozitorija koji želite dodati</b></"
+#~ "big>\n"
+#~ "\n"
+#~ "APT linija uključuje vrstu, lokaciju i komponente kanala, na primjer <i>"
+#~ "\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "APT linija:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binarni\n"
+#~ "Izvorni"
+
+#~ msgid "Edit Source"
+#~ msgstr "Uredi izvor"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Pretražujem CD-ROM"
+
+#~ msgid "_Add Source"
+#~ msgstr "_Dodaj izvor"
+
+#~ msgid "_Reload"
+#~ msgstr "_Osvježi"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Pokaži i instaliraj moguće nadogradnje"
+
+#~ msgid "Update Manager"
+#~ msgstr "Upravitelj nadogradnjama"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Automatski provjeri je li nova verzija trenutne distribucije dostupna i "
+#~ "ponudi nadogradnju (ako je moguća)."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Provjeri za nova izdanja distribucije"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Ako je automatsko provjeravanje nadogradnji isključeno, morate ručno "
+#~ "ponovno učitati popis repozitorija. Ova opcija omogućuje skrivanje "
+#~ "podsjetnika prikazanog u ovom slučaju."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Podsjeti na potrebno ponovno učitavanje kanal popisa"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Prikaži detalje nadogradnje"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Sprema veličinu prozora upravitelja nadogradnji"
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr "Sprema status programa koji sadrži popis promjena i opise"
+
+#~ msgid "The window size"
+#~ msgstr "Veličina prozora"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Podesi repozitorije i nadogradnje"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" sigurnosne nadogradnje"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Preuzimam datoteku %li od %li nepoznatom brzinom"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "_Instaliraj nadogradnje"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Prekini _preuzimanje"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Neki paketi više nisu službeno podržani"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Nisam mogao naći niti jednu nadogradnju"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Vaš sustav je već nadograđen."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Nadograđujem na Ubuntu 6.10</span>"
+
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Uvezi sigurnosne nadogradnje za Ubuntu"
+
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Ubuntu nadogradnje"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Ne mogu instalirati sve dostupne nadogradnje"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>Ispitujem vaš sustav</b></big>\n"
+#~ "\n"
+#~ "Nadogradnje programa popravljaju greške, uklanjaju sigurnosne propuste i "
+#~ "donose nove mogućnosti."
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Službeno podržani"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "Neke nadogradnje zahtijevaju uklanjanje pojedinih programa. Upotrijebite "
+#~ "opciju \"Označi sve nadogradnje\" upravitelja paketima \"Synaptic\" ili "
+#~ "upišite \"sudo apt-get dist-upgrade\" u terminalu za potpunu nadogradnju "
+#~ "vašeg sistema."
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Slijedeći paketi će biti preskočeni:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Otprilike je ostalo %li sekundi"
+
+#~ msgid "Download is complete"
+#~ msgstr "Preuzimanje je završeno"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Nadogradnja se prekida. Molim, prijavite ovaj bug."
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Nadograđujem Ubuntu"
+
+#~ msgid "Hide details"
+#~ msgstr "Sakrij detalje"
+
+#~ msgid "Show details"
+#~ msgstr "Prikaži detalje"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "Dozvoljno je pokretanje samo jednog paketnog alata u istom trenutku"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr "Molim, prvo zatvorite drugi program npr. 'aptitude' ili 'Synaptic'."
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Repozitoriji</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Kjučevi</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Instalacijski medij"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Postavke nadogradnje"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Repozitorij</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Komponente</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "Dodaj repozitorij"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Uredi repozitorij"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "_Dodaj repozitorij"
+#~ msgstr[1] "_Dodaj repoztorije"
+#~ msgstr[2] "_Dodaj repozotrije"
+
+#~ msgid "_Custom"
+#~ msgstr "_Prilagođeno"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS sigurnosne nadogradnje"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS osvježenja"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS backporti"

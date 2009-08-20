@@ -1,0 +1,1004 @@
+# translation of uk(5).po to Ukrainian
+# Maxim Dziumanenko <mvd@mylinux.ua>, 2005.
+# Vadim Abramchuck <Abram@email.ua>, 2006.
+# Ukrainian translation of update-manager.
+# Copyright (C) 2005, 2006 Free Software Foundation, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: uk(5)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:15+0000\n"
+"Last-Translator: Vadim Abramchuck <abram@email.ua>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Підтримується спільнотою (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Підтримується спільнотою (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Підтримується спільнотою (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+msgid "Pre-released updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "<b>Оновлення через Інтернет</b>"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Офіційно підтримуються"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Підтримується спільнотою (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Не-вільний (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Обмежені авторські права"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "<b>Оновлення через Інтернет</b>"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (тестовий)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (нестабільний)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "Щодня"
+
+#~ msgid "Every two days"
+#~ msgstr "Кожні два дня"
+
+#~ msgid "Weekly"
+#~ msgstr "Щотижня"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Кожні два тижня"
+
+#~ msgid "Every %s days"
+#~ msgstr "Кожні %s днів"
+
+#~ msgid "After one week"
+#~ msgstr "Через тиждень"
+
+#~ msgid "After two weeks"
+#~ msgstr "Через два тижні"
+
+#~ msgid "After one month"
+#~ msgstr "Через місяць"
+
+#~ msgid "After %s days"
+#~ msgstr "Через %s днів"
+
+#~ msgid "Import key"
+#~ msgstr "Імпортувати ключ"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Помилка імпорту вибраного файлу"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Вибраний файл, можливо, не є файлом GPG ключа або він пошкоджений."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Помилка видалення ключа"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Вибраний ключ неможливо видалити. Сповістіть про це як про помилку."
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Введіть назву диску"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Вставте диск в пристрій:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Пошкоджені пакунки"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Ваша система містить пошкоджені пакунки, котрі не можуть бути виправлені "
+#~ "цією програмою. Скористайтесь перш програмами synaptic чи apt-get."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Не можливо поновити необхідні meta-пакунки"
+
+#, fuzzy
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Це призведе до видалення !essential! пакунку системи"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Не можливо розрахувати поновлення"
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Помилка підписів в деяких пакунках"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Не вдалося перевірити деякі пакунки. Це може бути викликано проблемами в "
+#~ "мережі. Можливо, Вам захочеться спробувати пізніше. Список не перевірених "
+#~ "пакунків нижче."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Не можливо встановити '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Неможливо встановити необхідний пакунок. Сповістіть про це як про "
+#~ "помилку. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Не можливо підібрати meta-пакунок"
+
+#~ msgid "Reading cache"
+#~ msgstr "Зчитування кешу"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Не знайдено правильного зеркала"
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Створити джерела за замовчуванням?"
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Помилка в даних про репозиторій"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Поновлення файлу сховищ призвело до пошкодження. Будь ласка, сповістіть "
+#~ "про це як про помилку."
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "Помилка підчас поновлення"
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Недостатньо місця на диску"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Бажаєте почати оновлення системи?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Неможливо провести оновлення системи"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Неможливо завантажити пакунки для оновлення системи"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Оновлення системи щойно перервано. Будь ласка, перевірте з'єднання з "
+#~ "Інтернетом або зовнішній носії та спробуйте знов. "
+
+#, fuzzy
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Видалити непотрібні пакунки?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "Пропустити цей крок"
+
+#~ msgid "_Remove"
+#~ msgstr "Видалити"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "При очищенні системи виникли проблеми. Прочитайте детальнішу інформацію "
+#~ "нижче. "
+
+#~ msgid "Checking package manager"
+#~ msgstr "Перевірка програми управління пакунками"
+
+#~ msgid "Updating repository information"
+#~ msgstr "Отримання інформації про репозиторій"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Невірна інформація про пакунок"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Запит підтвердження"
+
+#~ msgid "Upgrading"
+#~ msgstr "Процес оновлення"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Пошук програм, що не використовуються"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Оновлення системи завершено."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Вставте '%s' в привід '%s'"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "Завантаження змін..."
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Не можливо встановити '%s'"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Команда 'diff' не знайдена"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Виникла невиправна помилка"
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Для запобігання втраті інформації закрийте усі програми та документи."
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Ваша система оновлена!"
+
+#, fuzzy
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Видалити %s</b>"
+
+#, fuzzy
+#~ msgid "Install %s"
+#~ msgstr "Встановити %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Оновити %s"
+
+#~ msgid "Reboot required"
+#~ msgstr "Необхідно перезавантажити систему"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Виконання оновлення завершено. Необхідно перезавантажити систему. "
+#~ "Перезавантажити зара?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Відмінити оновлення системи?</big></b>\n"
+#~ "\n"
+#~ "Зауважте, що якщо Ви скасуєте оновлення, це може призвести до "
+#~ "нестабільного стану системи. Дуже рекомендується продовжити оновлення."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>Перезавантажте систему для завершення оновлення</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Почати оновлення?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Очищення"
+
+#~ msgid "Details"
+#~ msgstr "Деталі"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Різниця між файлами"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Підготовка до апгрейду системи"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Перезавантаження системи"
+
+#~ msgid "Terminal"
+#~ msgstr "Термінал"
+
+#~ msgid "_Keep"
+#~ msgstr "Затримати"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "Перезавантажити"
+
+#~ msgid "_Report Bug"
+#~ msgstr "Повідомити про помилку"
+
+#~ msgid "_Restart Now"
+#~ msgstr "Перезапустити зараз"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "Продовжити оновлення"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Не вдалося знайти примітки випуску."
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Сервер може бути перенавантажений. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Не вдалося завантажити примітки випуску."
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Будь ласка, перевірте ваше з'єднання з Інтернетом."
+
+#, fuzzy
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Неможливо провести апргрейд системи"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "Вибраний ключ неможливо видалити. Сповістіть про це як про помилку."
+
+#, fuzzy
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Завантаження та встановлення пакунків для апгрейду"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Інструмент оновлення проведе Вас через процес оновлення."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Підпис інструменту оновлення"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Інструмент оновлення"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Не вдалося отримати"
+
+#~ msgid "Verfication failed"
+#~ msgstr "Перевірка зазнала краху"
+
+#, fuzzy
+#~ msgid "Authentication failed"
+#~ msgstr "Аутентифікація"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Версія %s: \n"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Розмір завантаження: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Ви можете встановити %s оновлення"
+#~ msgstr[1] "Ви можете встановити %s оновлення"
+#~ msgstr[2] "Ви можете встановити %s оновлень"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Будь ласка, зачекайте, це може зайняти деякий час."
+
+#~ msgid "Update is complete"
+#~ msgstr "Оновлення завершено"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Ваш дистрибутив більше не підтримується"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Ви більше не будете отримувати оновлень критичних оновлень та оновлень "
+#~ "безпеки. Оновіться до новішої версії Ubuntu Linux. Зайдіть на http://www."
+#~ "ubuntu.com для подальшої інформації про оновлення."
+
+#~ msgid "Changes"
+#~ msgstr "Зміни"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Software Updates"
+#~ msgstr "Оновлення програм"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Оновлення програм виправляють помилки, проблеми безпеки та додають нові "
+#~ "можливості."
+
+#~ msgid "U_pgrade"
+#~ msgstr "Оновити"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Встановлення оновлень..."
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Оновити"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Оновлення через Інтернет</b>"
+
+#~ msgid "Authentication"
+#~ msgstr "Аутентифікація"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Видалити виділений ключ з в'язки довірених ключів."
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "Відновити початкові параметри"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Відновити початкові ключі"
+
+#, fuzzy
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Перевіряти оновлення кожні"
+
+#~ msgid "_Import Key File"
+#~ msgstr "Імпортувати файл ключа"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "Встановлювати оновлення безпеки без підтвердження"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Коментар:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Компоненти:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Дистрибутив:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Тип:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid "APT line:"
+#~ msgstr "Рядок APT:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Двійкові\n"
+#~ "Вихідні коди"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Сканування компакт-диску"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "Перезавантажити"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Показати та встановити наявні оновлення"
+
+#~ msgid "Update Manager"
+#~ msgstr "Менеджер оновлення"
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Нагадувати про поновлення списку каналів"
+
+#~ msgid "The window size"
+#~ msgstr "Розмір вікна"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Оновлення безпеки Debian 3.1 \"Sarge\""
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid ""
+#~ "<big><b>Error scaning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Помилка сканування КД</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "A unresolvable problem occured while calculating the upgrade. Please "
+#~ "report this as a bug. "
+#~ msgstr ""
+#~ "Під час розрахунку оновлення виникла невиправна помилка. Будь ласка, "
+#~ "повідомте про це як про помилку програми. "
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are runing.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Ваша система не містить пакунків ubuntu-desktop, kubuntu-desktop або "
+#~ "edubuntu-desktop, через що не вдалося встановити, яку версію ubuntu Ви "
+#~ "використовуєте.\n"
+#~ " Будь ласка, спочатку встановіть один з цих пакетів, використовуючи "
+#~ "synaptic або apt-get."
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a)."
+#~ msgstr ""
+#~ "Оновлення системи щойно зупинено. Внаслідок цього система може працювати "
+#~ "нестабільно. Виконайте команду 'sudo apt-get install -f', або "
+#~ "скористайтесь програмою Synaptic для налаштування системи."
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Деяке програмне забезпечення більше офіційно не підтримується"
+
+#, fuzzy
+#~ msgid "Restoring originale system state"
+#~ msgstr "Перезавантаження системи"
+
+#~ msgid "About %li minutes remaining"
+#~ msgstr "Залишилось близько %li хвилин"
+
+#~ msgid "Download is complete"
+#~ msgstr "Завантадення пакунків завершено"
+
+#~ msgid "Downloading file %li of %li at %s/s"
+#~ msgstr "Завантажується файл %li of %li at %s/s"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Вибраний ключ неможливо видалити. Сповістіть про це як про помилку."
+
+#~ msgid ""
+#~ "Replace configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Замінити файл налаштування\n"
+#~ "'%s'?"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade."
+#~ "log and /var/log/dist-upgrade-apt.log in your report. The upgrade aborts "
+#~ "now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Будь ласка, повідмте це я помилку, включивши в повідомлення файли ~/dist-"
+#~ "upgrade.log and ~/dist-upgrade-apt.log . Апргрейд щойно перервано."
+
+#~ msgid "%s package is going to be removed."
+#~ msgid_plural "%s packages are going to be removed."
+#~ msgstr[0] "%s пакунків буде видалено."
+#~ msgstr[1] ""
+#~ msgstr[2] ""
+
+#~ msgid "%s new package is going to be installed."
+#~ msgid_plural "%s new packages are going to be installed."
+#~ msgstr[0] "%s пакунків буде встановлено."
+#~ msgstr[1] ""
+#~ msgstr[2] ""
+
+#~ msgid "%s package is going to be upgraded."
+#~ msgid_plural "%s packages are going to be upgraded."
+#~ msgstr[0] "буде проведено оновлення %s пакунка."
+#~ msgstr[1] "буде проведено оновлення %s пакунків."
+#~ msgstr[2] "буде проведено оновлення %s пакунків."
+
+#~ msgid "You have to download a total of %s."
+#~ msgstr "Потрібно завантажити всього %s пакунків."
+
+#~ msgid ""
+#~ "The upgrade can take several hours and cannot be canceled at any time "
+#~ "later."
+#~ msgstr ""
+#~ "Оновлення може тривати декілька годин; зауважте, що цей процес не може "
+#~ "бути перервано протягом усього часу."
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Не знайдено пакунків для оновлення"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Оновлення вашої системи вже проведено."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.06 LTS</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Оновлення до Ubuntu 6.06 LTS</span>"
+
+#~ msgid "Downloading and installing the upgrades"
+#~ msgstr "Завантаження та встановлення пакунків для апгрейду"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Оновлення системи Ubuntu"
+
+#, fuzzy
+#~ msgid "Downloading file %li of %li with %s/s"
+#~ msgstr "Завантажується файл %li of %li at %s/s"
+
+#, fuzzy
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Завантажується файл %li of %li на невизначенії швидкості"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. Please check your Internet "
+#~ "connection."
+#~ msgstr ""
+#~ "не вдається завантажити зміни. Перевірте чи активне з'єднання з Інтернет."
+
+#, fuzzy
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Пошук пакунків для апгрейду"
+
+#, fuzzy
+#~ msgid "Downloading the list of changes..."
+#~ msgstr "Завантаження змін"
+
+#~ msgid "Hide details"
+#~ msgstr "Сховати деталі"
+
+#~ msgid "Show details"
+#~ msgstr "Показати деталі"
+
+#~ msgid "New version: %s   (Size: %s)"
+#~ msgstr "Нова версія: %s   (Розмір: %s)"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Скасувати Завантаження"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Канали</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Ключі</b>"
+
+#~ msgid "Add _Cdrom"
+#~ msgstr "Додати компакт-диск"
+
+#~ msgid "Installation Media"
+#~ msgstr "Носій встановлення"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Параметри програм"
+
+#~ msgid "_Download updates in the background, but do not install them"
+#~ msgstr "Завантажувати оновлення у фоні, але не встановлювати їх"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Канал</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Компоненти</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the channel that you want to add</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a channel, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Введіть повний рядок сховища APT, який ви бажаєте додати</b></"
+#~ "big>\n"
+#~ "\n"
+#~ "Рядок APT містить тип, адресу та вміст сховища, наприклад <i>\"deb http://"
+#~ "ftp.debian.org sarge main\"</i>. Докладні приклади можна знайти у "
+#~ "документації."
+
+#~ msgid "Add Channel"
+#~ msgstr "Додати канал"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Редагувати канал"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "Додати канал"
+#~ msgstr[1] "Додати канали"
+#~ msgstr[2] "Додати канали"
+
+#~ msgid "_Custom"
+#~ msgstr "Власний"
+
+#~ msgid "Software Properties"
+#~ msgstr "Властивості програм"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Оновлення безпеки Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Оновлення Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Зворотні порти Ubuntu 6.06 LTS"

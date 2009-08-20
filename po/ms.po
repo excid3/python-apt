@@ -1,0 +1,645 @@
+# Malay translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:04+0000\n"
+"Last-Translator: azlinux <azlinux@gmail.com>\n"
+"Language-Team: Malay <ms@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+msgid "Pre-released updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+msgid "Unsupported updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Sesetengah sofwer tidak ada sokongan/bantuan rasmi lagi."
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+msgid "Debian 3.1 'Sarge'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+msgid "Security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+msgid "Debian 'Sid' (unstable)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "Daily"
+#~ msgstr "Harian"
+
+#~ msgid "Every two days"
+#~ msgstr "Setiap dua hari"
+
+#~ msgid "Weekly"
+#~ msgstr "Mingguan"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Setiap dua minggu"
+
+#~ msgid "Every %s days"
+#~ msgstr "Setiap %s hari"
+
+#~ msgid "After one week"
+#~ msgstr "Selepas satu minggu"
+
+#~ msgid "After two weeks"
+#~ msgstr "Selepas dua minggu"
+
+#~ msgid "After one month"
+#~ msgstr "Selepas satu bulan"
+
+#~ msgid "After %s days"
+#~ msgstr "Selepas %s hari"
+
+#~ msgid "Import key"
+#~ msgstr "Kekunci impot"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Ralat semasa mengimpot fail yang dipilih"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Fail yang dipilih mungkin bukan fail kekunci GPG atau fail mungkin rosak"
+
+#~ msgid "Error removing the key"
+#~ msgstr "Ralat semasa mengeluarkan kekunci"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Kekunci yang anda pilih tidak dapat di keluarkan. Sila laporkan ini "
+#~ "sebagai ralat pepijat."
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Ralat semasa mengimbas Cakera Padat</b></big>↵\n"
+#~ "↵\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Sila masukkan nama untuk cakera padat"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Sila masukkan cakera padat kedalam pemacu"
+
+#~ msgid "Broken packages"
+#~ msgstr "Pakej rosak"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Sistem anda mengandungi pakej rosak yang tidak dapat diperbetulkan "
+#~ "menggunakan sofwer ini. Sila baiki dahulu menggunakan synaptic atau apt-"
+#~ "get sebelum meneruskan."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Tidak dapat menaikkan taraf pakej-meta yang diperlukan"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Satu pakej yang perlu terpaksa dikeluarkan"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Tidak dapat menjangka penaikkan taraf"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Satu masaalah yang tidak dapat perbetulkan berlaku ketika menjangkakan "
+#~ "taraf penaikkan. Sila laporkan ini sebagai ralat pepijat."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Ralat mengesahkan sesetengah pakej"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Tidak mungkin untuk mengesahkan sesetengah pakej. Ini mungkin disebabkan "
+#~ "masalah sementara rangkaian. Anda mungkin mahu mencuba lagi kemudian. "
+#~ "Lihat dibawah untuk pakej-pakej yang belum disahkan."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Tidak dapat memasang '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Pakej yang diperlukan tidak dapat dipasang. Sila laporkan ini sebagai "
+#~ "ralat pepijat. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Pakej meta tidak dapat diduga."
+
+#, fuzzy
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Sistem anda tidak mengandungi pakej 'ubuntu-dektop', 'kubuntu-desktop' "
+#~ "ataupun 'edubuntu-desktop' yang mana sukar untuk mengesan versi ubuntu "
+#~ "yang anda gunakan.\n"
+#~ "Sila pasangkan salah satu pakej diatas dahulu menggunakan synaptic "
+#~ "ataupun apt-get sebelum meneruskan pemasangan."
+
+#~ msgid "Reading cache"
+#~ msgstr "Membaca cache"
+
+#, fuzzy
+#~ msgid "No valid mirror found"
+#~ msgstr "Tiada mirror yang sah dijumpai"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Tiada mirror untuk naiktaraf dijumpai semasa mengimbas maklumat "
+#~ "repositori. Ini boleh berlaku sekiranya anda menjalankan mirror dalaman "
+#~ "atau maklumat mirror telah lapuk.\n"
+#~ "\n"
+#~ "Adakah anda tetap mahu menulis semula fail 'Sources.list' anda? Jika anda "
+#~ "memilih 'Ya' disini ianya akan mengemaskini kesemua kemasukan '%s' kepada "
+#~ "'%s'.\n"
+#~ "Jika anda memilih 'tidak' kemaskinian akan dibatalkan."
+
+#, fuzzy
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Tiada kemasukan yang sah dijumpai untuk '%s' selepas mengimbas 'sources."
+#~ "list' anda.\n"
+#~ "\n"
+#~ "Adakah kemasukan default untuk '%s' perlu ditambah? Jika anda memilih "
+#~ "'Tidak' kemaskinian akan dibatalkan."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Maklumat repositori tidak sah"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Kemaskinian maklumat repositori menyebabkan fail yang tidak sah. Sila "
+#~ "laporkan ini sebagai masalah."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Sumber ketiga tidak diaktifkan."
+
+#, fuzzy
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Sesetengah kemasukan sumber ketiga didalam 'sources.list' anda telah "
+#~ "dibekukan. Anda boleh mengaktifkan semula kemasukan sumber ketiga anda "
+#~ "selepas penaikkan taraf  menggunakan alatan 'software-properties' ataupun "
+#~ "'synaptic'."
+
+#~ msgid "Error during update"
+#~ msgstr "Ralat semasa pengemaskinian."
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Satu ralat berlaku semasa pemgemaskinian. Ini selalunya berlaku "
+#~ "disebabkan yang berkaitan dengan masaalah rangkaian, sila periksa dan "
+#~ "cuba lagi sambungan rangkaian anda."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Muatak cakera keras tidak mencukupi."
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Penaikkan taraf tidak dapat diteruskan. Sila pastikan ruang sebanyak %s "
+#~ "di cakera keras %s anda. Kosong dan padamkan pakej-pakej sementara dari "
+#~ "pemasangan sebelum ini menggunakan 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Anda mahu mulakan penaikkan taraf?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Tidak dapat memasang pakej-pakej penaikkan taraf."
+
+#, fuzzy
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Penaikkan taraf tidak dapat diteruskan. Sistem anda mungkin tidak stabil. "
+#~ "Sistem 'recovery' telah dijalankan (dpkg --configure -a)"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Pakej-pakej penaikan taraf tidak dapat dicapai."
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Penaikkan taraf tidak dapat diteruskan. Sila semak sambungan 'internet' "
+#~ "atau media pemasangan anda dan cuba lagi. "
+
+#, fuzzy
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Pakej-pakej yang telah dipasang ini sudah tidak ada sokonga/bantuan rasmi "
+#~ "dan ianya hanya dibantu/sokong oleh 'community-supported('universe')\n"
+#~ "Jika anda tidak megaktifkan 'universe', pakej-pakej ini akan dicadangkan "
+#~ "untuk dikeluarkan di peringkat selanjutnya."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Keluarkan pakej-pakej yang sudah luput?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Abaikan langkah ini"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Satu masaalah yang tidak dapat perbetulkan berlaku ketika menjangkakan "
+#~ "taraf penaikkan. Sila laporkan ini sebagai ralat pepijat."
+
+#~ msgid "Upgrading"
+#~ msgstr "Mengemaskini"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Mencari perisian yang lapuk"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Naiktaraf sistem sempurna."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Sila masukkan '%s' kedalam pemacu '%s'"
+
+#, fuzzy
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "Satu pakej yang perlu terpaksa dikeluarkan"
+#~ msgstr[1] "Satu pakej yang perlu terpaksa dikeluarkan"
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Untuk mengelakkan kehilangan data tutup kesemua aplikasi dan dokumen."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Buang %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Pasang %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Naiktaraf %s"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Tidak dapat memasang pakej-pakej penaikkan taraf."
+
+#, fuzzy
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>Ralat semasa mengimbas Cakera Padat</b></big>↵\n"
+#~ "↵\n"
+#~ "%s"
+
+#, fuzzy
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr ""
+#~ "<big><b>Ralat semasa mengimbas Cakera Padat</b></big>↵\n"
+#~ "↵\n"
+#~ "%s"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Naiktaraf %s"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Sesetengah sofwer tidak ada sokongan/bantuan rasmi lagi."

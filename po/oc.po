@@ -1,0 +1,843 @@
+# Occitan (post 1500) translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-18 10:01+0000\n"
+"Last-Translator: Yannig MARCHEGAY (Kokoyaya) <yannick.marchegay@lokanova."
+"com>\n"
+"Language-Team: Occitan (post 1500) <oc@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "CD-ROM que conten Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Mesas a jorn de seguretat per Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "CD-ROM amb Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Mesas a jorn de seguretat per Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "CD-ROM amb Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Pas liure (multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "CD-ROM que conten Ubuntu 6.10 'Edgy Eft'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Mesas a jorn per Ubuntu 6.06 LTS"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Pilòts pas liures"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Pas liure (multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "CD-ROM que conten Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Mesas a jorn de seguretat importantas"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Autras mesas a jorn"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Mesas a jorn de seguretat importantas"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "CD-ROM amb Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Mesas a jorn de seguretat per Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+#, fuzzy
+msgid "Ubuntu 5.10 Updates"
+msgstr "Mesas a jorn per Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "CD-ROM que conten Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Mesas a jorn de seguretat per Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "Mesas a jorn per Ubuntu 6.06 LTS"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Pas liure (multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+#, fuzzy
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Mesas a jorn per Ubuntu 6.06 LTS"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+#, fuzzy
+msgid "Ubuntu 4.10 Updates"
+msgstr "Mesas a jorn per Ubuntu 6.06 LTS"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Mesas a jorn de seguretat importantas"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (en tèst)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (instable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Servidor per %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Servidor principal"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Servidors personalizats"
+
+#~ msgid "Daily"
+#~ msgstr "Cada jorn"
+
+#~ msgid "Every two days"
+#~ msgstr "Cada dos jorns"
+
+#~ msgid "Weekly"
+#~ msgstr "Cada setmana"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Cada dos setmanas"
+
+#~ msgid "Every %s days"
+#~ msgstr "Cada %s jorns"
+
+#~ msgid "After one week"
+#~ msgstr "Una setmana aprèp"
+
+#~ msgid "After two weeks"
+#~ msgstr "Doas setmanas aprèp"
+
+#~ msgid "After one month"
+#~ msgstr "Un mes aprèp"
+
+#~ msgid "After %s days"
+#~ msgstr "%s jorns aprèp"
+
+#~ msgid "%s updates"
+#~ msgstr "%s mesas a jorn"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Servidor mai prèp"
+
+#~ msgid "Active"
+#~ msgstr "Actiu"
+
+#~ msgid "Import key"
+#~ msgstr "Importar clau"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Error al moment d'importar lo fichièr seleccionat"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Lo fichièr seleccionat es benlèu pas una clau GPG o es possible que siá "
+#~ "corrumput."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Error al moment de suprimir la clau"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Avem pas poscut suprimir la clau qu'avètz seleccionada. Raportatz "
+#~ "l'anomalia."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Error a moment d'examinar lo CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Picatz un nom pel disc"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Metètz un disc dins lo legidor :"
+
+#~ msgid "Broken packages"
+#~ msgstr "Paquetatges corromputs"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Impossible de calcular la mesa a jorn"
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Impossible d'installar '%s'"
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Impossible d'apondre lo CD"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "I a agut una error al moment d'apondre lo CD, anam anullar la mesa a "
+#~ "jorn. Raportatz aquò coma una anomalia s'es un CD valid d'Ubuntu.\n"
+#~ "\n"
+#~ "Lo messatge d'error era :\n"
+#~ "'%s'"
+
+#~ msgid "Error during update"
+#~ msgstr "Error al moment de metre a jorn"
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Pas pro d'espaci liure"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Volètz començar la mesa a jorn ?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Impossible d'installar las mesas a jorn"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Impossible de descargar las mesas a jorn"
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Suprimir los paquetatges obsolets ?"
+
+#~ msgid "_Remove"
+#~ msgstr "_Suprimir"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Verificacion del gestionari de paquetatges"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Preparacion de la mesa a jorn impossibla"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Demanda de confirmacion"
+
+#~ msgid "Upgrading"
+#~ msgstr "Mesa a jorn"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Recèrca de logicials obsolets"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "La mesa a jorn del sistèma es acabada."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Inserissètz lo disc '%s' dins lo legidor '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "La telecarga dels fichièrs es terminada"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Telecarga del fichièr %li sus %li a %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Environ %s restantas"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Telecarga del fichièr %li sus %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Aplicacion dels cambis"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Impossible d'installar '%s'"
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Remplaçar lo fichièr de configuracion personalisat\n"
+#~ "'%s' ?"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Impossible de trobar la comanda 'diff'"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "I a agut una error fatala"
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "Anam suprimir %d paquetatge."
+#~ msgstr[1] "Anam suprimir %d paquetatges."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "Anam installar %d paquetatge nòu."
+#~ msgstr[1] "Anam installar %d paquetatges nòus."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "Anam metre a jorn %d paquetatge."
+#~ msgstr[1] "Anam metre a jorn %d paquetatges."
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Debètz telecargar un total de %s. "
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Vòstre sistèma es a jorn"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Suprimir %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Installar %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Metre a jorn %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li jorns %li oras %li minutas"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li jorns %li oras"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minutas"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li segondas"
+
+#~ msgid "Reboot required"
+#~ msgstr "Debètz tornar aviar l'ordenador"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Tornatz aviar lo sistèma per terminar la mesa a jorn</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Aviar la mesa a jorn ?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Mesa a jorn d'Ubuntu cap a la version 6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Netejatge"
+
+#~ msgid "Details"
+#~ msgstr "Detalhs"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Diferéncia entre los fichièrs"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Impossible d'installar las mesas a jorn"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Preparacion de la mesa a jorn"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Anullar la mesa a jorn"
+
+#~ msgid "_Continue"
+#~ msgstr "_Contunhar"
+
+#~ msgid "_Keep"
+#~ msgstr "_Conservar"
+
+#~ msgid "_Replace"
+#~ msgstr "_Remplaçar"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Raportar una anomalia"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Tornar aviar ara"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Contunhar la mesa a jorn"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Aviar la mesa a jorn"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Impossible de trobar las informacions de version"
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Impossible de telecargar las informacions de version"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Verificatz vòstra connection internet."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Impossible aviar l'esplech de mesa a jorn"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Telecarga del esplech de mesa a jorn"
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Signatura del esplech de mesa a jorn"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Esplech de mesa a jorn"
+
+#~ msgid "Failed to extract"
+#~ msgstr "Impossible de traire"
+
+#~ msgid "Verfication failed"
+#~ msgstr "La verificacion a pas capitat"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "La tièra de las modificacioons es pas disponibla"
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#~ msgid "Distribution updates"
+#~ msgstr "<b>Mesas a jorn de la distribucion</b>"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Version %s : \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Telecarga de la tièra de las modificacions"
+
+#~ msgid "_Check All"
+#~ msgstr "Tot _verificar"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Talha de la descarga : %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Podètz installar %s mesa a jorn"
+#~ msgstr[1] "Podètz installar %s mesas a jorn"
+
+#~ msgid "Update is complete"
+#~ msgstr "La mesa a jorn es terminada"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Verificacion de mesas a jorn"
+
+#~ msgid "Version %s"
+#~ msgstr "Version %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Talha : %s)"
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Una version nòva '%s' es disponibla</b>"
+
+#~ msgid "None"
+#~ msgstr "Pas cap"
+
+#~ msgid "1 KB"
+#~ msgstr "1 ko"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f ko"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f Mo"
+
+#, fuzzy
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>Impossible d'installar totas las mesas a jorn</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<big><b>Aviada del gestionari de paquetatges</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Cambis"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Cambis e descripcion de la mesa a jorn"
+
+#~ msgid "Chec_k"
+#~ msgstr "_Verificar"
+
+#~ msgid "Description"
+#~ msgstr "Descripcion"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Mostrar la progression de cada fichièr"
+
+#~ msgid "Software Updates"
+#~ msgstr "Mesa a jorn dels logicials"
+
+#~ msgid "U_pgrade"
+#~ msgstr "_Metre a jorn"
+
+#~ msgid "_Check"
+#~ msgstr "_Verificar"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "Mesa a jorn de la _distribucion"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Amagar aquestas informacions a partir d'ara"
+
+#~ msgid "_Install Updates"
+#~ msgstr "_Installar las mesas a jorn"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "_Metre a jorn"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "cambis"
+
+#~ msgid "updates"
+#~ msgstr "mesas a jorn"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Mesas a jorn automaticas</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CD-ROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Mesas a jorn per internet</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Apondre un CD-ROM"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "Suprimir los fichièrs dels logicials t_elecargats :"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "Talha de la descarga : %s"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Mesas a jorn per internet"
+
+#~ msgid "Statistics"
+#~ msgstr "Estadisticas"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Comentari :</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Components :</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribucion :</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Tipe :</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI :</b>"
+
+#~ msgid "APT line:"
+#~ msgstr "Linha APT :"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Examèn del CD-ROM"
+
+#~ msgid "_Reload"
+#~ msgstr "_Tornar cargar"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Mostrar e installar las mesas a jorn disponiblas"
+
+#~ msgid "Update Manager"
+#~ msgstr "Gestionari de mesas a jorn"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Mostrar los detalhs d'una mesa a jorn"
+
+#~ msgid "The window size"
+#~ msgstr "La talha de la fenèstra"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Mesas a jorn de securitat per Debian 3.1 \"Sarge\""
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "<b>Mesas a jorn per internet</b>"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Metre a jorn Ubuntu"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Claus</b>"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Components</b>"
+
+#~ msgid "_Custom"
+#~ msgstr "_Personalisar"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"

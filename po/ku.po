@@ -1,0 +1,1423 @@
+# Kurdish translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-17 09:50+0000\n"
+"Last-Translator: rizoye-xerzi <rizoxerzi@gmail.com>\n"
+"Language-Team: Kurdish <ku@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cdroma Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Rojanekirinên Ewlekariyên yên Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cdroma Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Rojanekirinên Ewlekariyên yên Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cdroma Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Yên ji aliyê komekê ber çav hatiye derbaskirin"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Ji bo cîhazan ajokerên ku çavkaniyên wan girtî ne"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Nivîsbariya bi sînor"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cdroma Ubuntu 6.10 'Edgy Eft'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Çavkaniya xwezayî ya li gorî bingeha nermalavê"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Yên ji aliyê koman lê hatine nihêrtin"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr ""
+"Nivîsbariyên Kodên Çavkaniyên Azad yên ji aliyê koman lê hatine nihêrtin"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Ajokerên ne azad"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Ji bo cîhazan ajokarên xwedî-bawername "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Nivîsbariya bi sînor"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Nivîsbariya bi mafên weşan û belavkirinê sînor kirî"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cdroma Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Rojanekirinên ewlekariyê yên girîng"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Rojanekirinên têne pêşniyarkirin"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Rojanekirinên hatine pêşniyarkirin"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Rojanekirinên paş de hatine kişandin"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cdroma Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Rojanekirinên Ewlekariyê yên Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Rojanekirina Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Rojanekirinên Paş de Hatine Kişandin yên Ubuntu 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cdroma Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Bi piştgiriya fermî"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Rojanekirinên Ewlekariyên yên Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Rojanekirinên Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Rojanekirinên Paş de Hatine Kişandin yên Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Yên ji aliyê koman ve lê tê nihêrîn (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Ne-azad (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cdroma Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Êdi bi awayekî fermî nayê destekkirin"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Mafê kopîkrinê yê sînorkirî"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Rojanekirinên Ubuntu 4.10 yên Ewlekarî"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Rojanekirinên Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 nivîsbariyên bi paş de kişandî (Backports)"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Rojanekirinên hatine pêşniyarkirin"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Rojanekirinên ewlekariyê yên girîng"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "DFSG-nivîsbariya hevgirtî ya ne azad"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "nivîsbariya hevgirtî ya ne li gorî -DFSG"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Pêşkêşkera %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Pêşkêşkera Mak"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Pêşkêşkera taybet"
+
+#~ msgid "Daily"
+#~ msgstr "Rojane"
+
+#~ msgid "Every two days"
+#~ msgstr "Her du rojan"
+
+#~ msgid "Weekly"
+#~ msgstr "Heftane"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Her du hefteyan"
+
+#~ msgid "Every %s days"
+#~ msgstr "Her %s rojan"
+
+#~ msgid "After one week"
+#~ msgstr "Piştî hefteyekê"
+
+#~ msgid "After two weeks"
+#~ msgstr "Piştî du hefteyan"
+
+#~ msgid "After one month"
+#~ msgstr "Piştî mehekê"
+
+#~ msgid "After %s days"
+#~ msgstr "Piştî %s roj"
+
+#~ msgid "%s updates"
+#~ msgstr "%s rojanekirin"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Pêşkêşkera herî nêzîk"
+
+#~ msgid "Software Channel"
+#~ msgstr "Qanala Nivîsbariyê"
+
+#~ msgid "Active"
+#~ msgstr "Çalak"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Koda Çavkanî)"
+
+#~ msgid "Source Code"
+#~ msgstr "Koda Çavkaniyê"
+
+#~ msgid "Import key"
+#~ msgstr "Mifteyê veguhezîne"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Di dema veguheztina dosyeya hilbijartî de çewtî"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Dosyeya hilbijartî dibe ku ne dosyeya mifteyan ya GPG be an jî dibe ku "
+#~ "xerabe be."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Di dema rakirina mifteyan de çewtî"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Mifteya ku te hilbijart nehate rakirin. Ji kerema xwe re vê weke "
+#~ "çewtiyekê ragihîne."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Di venihêrina CDyê de çewtî</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Ji kerema xwe navê ji bo diskê binivîse"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Ji kerema xwe re dîskekê têxe ajokar:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Paketên şikestî"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Pergala te tevî vê nivîsbariyê hin pakêtên xerabe yên ku nayên "
+#~ "sererastkirin dihewîne. Berî ku tu berdewam bikî ji kerema xwe van "
+#~ "bernameyan bi synaptic an jî i apt-get sererast bikî."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Pakêtên agahiyan yên pêwist nayên rojanekirin."
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Dê pêwiste be ku pakêta bingehîn were jêbirin"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Rojanekirin nikaribû were hesabkirin"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Dema bilindkirin hesab dikir çewtiyeke ku nayê veçirandin derkete holê.\n"
+#~ "\n"
+#~ "Ji kerema xwe re vê çewtiyê bo 'update-manager' ragihîne, pelgehên ku li /"
+#~ "var/log/dist-upgrade/ de ye jî li rapora çewtiyan zêde bike."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Di piştrastkirina çend paketan de çewtî derket"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Hin pakêt nehatin piştrastkirin. Dibe ku ev pirsgirêkeke derbasdar ya "
+#~ "torê be. Ji bo lîsteya pakêtên ku nehatine piştrastkirin li jêr binihêre."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Nikarî '%s' saz bike"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Pakêta pêwist nehate barkirin. Ji kerema xwe re vê yekê weke çewtiyekê "
+#~ "ragihîne. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Pakêta-meta nehate kifşkirin"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Pergala te tu pakêtên sermaseya-ubuntu, sermaseya-kubuntu yan jî "
+#~ "sermaseya-kubuntu nahundirîne û nehate tespîtkirin ku tu kîjan guhertoya "
+#~ "ubuntuyê bikar tîne.\n"
+#~ "Ji kerema xwe re berî ku tu berdewam bikî, bi synaptic yan jî bi apt-getê "
+#~ "pakêtên ku li jor in yekê saz bike."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Dema têxistina CDyê de çewtî"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Dema CD lê dihate zêdekirin, bilindkirin disekine. Heke tu CDyeke rast ya "
+#~ "Ubuntuyê bikar tîne vê çewtiyê ragihîne.\n"
+#~ "\n"
+#~ "Peyama çewtiyê:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "veşartok tê xwendin"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Ji bo bilindkirinê bila dane ji toreyê were daxistin?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Tu dikarî bi xêra tora bilindkirinê rojanekirinên herî dawî kontrol bike "
+#~ "û pakêtên ku di CDyê de tuneye daxe.\n"
+#~ "Heke gihiştina te ya torê ne lez be yan jî ne biha be divê tu pêl 'Ere' "
+#~ "bike. Yan jî pêl 'Na' bike."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Şewqdereke derbasdar nehate dîtin."
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Dema çav li agahiyên we yên depoyê dihate gerîn bo rojanekirinê ketana "
+#~ "şewqderê nehate dîtin. Dibe ku sedema wê ev be; yan te şewqdereke "
+#~ "hundurîn bikar aniye an jî agahiyên şewqderê ne rojane ye.\n"
+#~ "\n"
+#~ "Tu dixwazî dosyeya xwe ya 'sources.list' ji nû ve çêbike?\n"
+#~ "Heke tu li vir 'Erê' hilbijêrî hemû ketanên 'ji %s' heta '%s' wê bêne "
+#~ "rojanekirin.\n"
+#~ "Heke tu bibêjî 'Na' wê rojanekirin betal bibe."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Bile çavkaniyên rawêjî pêk bên?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Piştî ku çav li 'sources.list' gerand ji bo '%s' tu têketineke derbasdar "
+#~ "nedît.\n"
+#~ "\n"
+#~ "Ji bo '%s' bila têketinên heyî lê zêde bibe? Heke tu bibêjî 'Na'  dê "
+#~ "rojanekirin were betalkirin."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Agahiya depoyê ne derbasdar e"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Karê rojanekirina agahiya depoyê, dosyeye nederbasdar çêkir. Ji kerema "
+#~ "xwe re vê çewtiyê ragihîne."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Ji çavkaniyên partiyên sêyemîn têkilî hate birîn."
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Ketanên aligirên sêyemîn yên di pelê sources.listê de ne bandora wan hate "
+#~ "rakirin. Piştî bilindkirinê tu dikarî van ketanan bi 'software-"
+#~ "properties' yan jî bi synapticê dîsa çalak bike."
+
+#~ msgid "Error during update"
+#~ msgstr "Di rojanekirinê de çewtî derket"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Di dema rojanekirinê de çewtiyek derket. Ev çewtî piranî pirsgirêka torê "
+#~ "ye, ji kerema xwe re girêdana xwe ya torê kontrol bike û ji nû ve "
+#~ "biceribîne."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Cihê vala yê diskê têr nake"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Bilindkirin diqede. Ji kerema xwe re di %s de herî kêm %s qada dîskê vala "
+#~ "bike. Çopa xwe vala bikin û xêra 'sudo apt-get clean' pakêtên derbasdar "
+#~ "yên sazkirinên berê rake."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Tu dixwazî dest bi bilindkirinê bikî?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Sazkirina hemû bilindkirinan biserneket"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Bêyî bilindkirin niha tê betalkirin. Dibe ku pergala te di rewşeke dudilî "
+#~ "de be. Karekî xelaskirinê pêk hat. (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Ji kerema xwe re bo pakêta 'update-manager' vê çewtiyê ragihîne. Dosyeyên "
+#~ "ku li /var/log/dist-upgrade/ de ye jî li peyama çewtiyê zêde bike."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Daxistina bilindkirinan serneket"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Rojanekirin niha tê betalkirin. Ji kerema xwe girêdana înternetê an "
+#~ "medyaya sazkirinê kontrol bike û ji nû ve biceribîne. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Ji bo hin sepanan piştrastkirin qediya"
+
+#, fuzzy
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Canonical Ltd. êdî nema xizmetan ji van pakêtên nermalav re pêşkêş dike. "
+#~ "Tu hê jî dikarî sûdê ji komeleyê bigire.\n"
+#~ "\n"
+#~ "heke destûra te ji bo nivîsbariyê tunebe, Di gava duyemîn de ev pakêt dê "
+#~ "ji bo jêbirinê werin tercîhkirin."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Bila pakêtên ku nayên bikaranîn were rakirin?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "Vê gavê derbas bike"
+
+#~ msgid "_Remove"
+#~ msgstr "_Jê bibe"
+
+#~ msgid "Error during commit"
+#~ msgstr "çewtî di dema xebitandinê de"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Di dema paqijkirinê de hin pirsgirêk derketin. Ji bo agahiyan ji kerema "
+#~ "xwe re li peyama jêr binihêre. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Vedigere rewşa pergala orjînal"
+
+#, fuzzy
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "backport a  '%s' vedigerîne"
+
+#~ msgid "Checking package manager"
+#~ msgstr "Bireveberiya paketan tê kontrol kirin"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Amadekrinên nûjenkirinê biserneket"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Pergalê ji bo têkçûneke mezin amade dike. Ji kerema xwe re bike rapor li "
+#~ "dijî pakêta rojanekirina gerînende 'update-manager'"
+
+#~ msgid "Updating repository information"
+#~ msgstr "Agahiyên depoyê tê rojanekirin"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Agahiya paketê nederbasdar e"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Piştî ku agahiyê te yên pakêtê hate rojanekirin, yek ji wan pakêtên "
+#~ "girîng '%s' êdî nayê dîtin.\n"
+#~ "Dibe ku ev çewtiyeke girîng e, ji kerema xwe re bo pakêta 'update-"
+#~ "manager' vê çewtiyê ragihîne. Dosyeyên ku li /var/log/dist-upgrade/ de ye "
+#~ "jî li peyama çewtiyê zêde bike."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Pirsa piştrastkirinê"
+
+#~ msgid "Upgrading"
+#~ msgstr "Tê bilindkirin"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Li nivîsbariya kevin tê gerandin"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Bilindkirina sîstemê temam bû."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Ji kerema xwe '%s' bixe nav ajokera '%s'"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Rojanekirin temam bû"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Dosyan dadixe %li daxistin ji %li di %s/s de"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Nêzîka %s ma"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Dosyan dadixe %li daxistin ji %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Guherandin tê bi kar anîn"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Nikaribû '%s' saz bike"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Bilindkirin tê betalkirin. Ji kerema xwe re bo pakêta 'update-manager' vê "
+#~ "çewtiyê ragihîne. Dosyeyên ku li /var/log/dist-upgrade/ de ye jî li "
+#~ "peyama xwe ya çewtiyê zêde bike."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Pelgeha veavakirinan ya hatiye taybetkirin ya\n"
+#~ "'%s' bila were guherandin?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Heke tu vê guhertoyê bi yeke nû biguherînî tu yê hemû guhertinên xwe yên "
+#~ "di pelê mîhengkirinê de winda bikî."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Fermana 'diff' nehatiye dîtin"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Çewtiyeke giran derket"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Ji kerema xwe re vê çewtiyê ragihîne.Dosyeyên ku li /var/log/dist-"
+#~ "upgrade/ de ye jî li peyama xwe ya çewtiyê zêde bike. Bilindkirin niha tê "
+#~ "betalkirin.\n"
+#~ "Dosyeya te ya sources.list ya orjînal wekî /etc/apt/sources.list."
+#~ "distUpgrade hate tomarkirin."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d pakêt dê were rakirin."
+#~ msgstr[1] "%d pakêt dê werine rakirin."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "Dê %d pakêtên nû were sazkirin."
+#~ msgstr[1] "Dê %d pakêtên nû werine sazkirin."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "Dê %d pakêt were bilindkirin"
+#~ msgstr[1] "Dê %d pakêt werine bilindkirin"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Pêwîst e tu %s bi tevahî daxî. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Daxistin û sazkirina bilindkirinê dibe ku bi saetan bidome û dû re jî tu "
+#~ "nikare betal bike."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Ji bo ku dane winda nebin hemû sepan û pelgeyên ku vekirî ne bigire."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Sîstema te rojane ye"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr ""
+#~ "Ji bo pergala te bilindkirin tuneye. Karê bilindkirinê wê a niha were "
+#~ "betalkirin."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>%s rake</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "%s saz bike"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "%s bilind bike"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li roj %li saet %li xulek"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li saet %li xulek"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li xulek"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li çirke"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Ev daxistin dê derdora %s bidomîne bi têkiliya 1Mbit DSL û derdora %s bi  "
+#~ "56k modem."
+
+#~ msgid "Reboot required"
+#~ msgstr "Destpêkirina nû pêwîst e"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Bilindkirin bi dawî bû û destpêkirina nû pêwîst e. Tu dixwazî niha bikî?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Bilindkirina çalak bila were betal kirin?</big></b>\n"
+#~ "\n"
+#~ "Dibe ku pergal neyê bikaranîn. Pêşniyar ew e ku bilindkirin were "
+#~ "dewamkirin."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Ji bo bidawîanîna bilindkirinê pergalê ji nû ve bide destpêkirin</"
+#~ "big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Dest bi bilindkirinê were kirin?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Ubuntu li guhertoya 6.10 tê bilindkirin</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Tê pakij kirin"
+
+#~ msgid "Details"
+#~ msgstr "Hûragahî"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Cudahiyên navbera dosiyan"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Bilindkirin nehatne sazkirin"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Kanalên nivîsbariyê tên guherandin"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Bilinkirin amade dibe"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Pergal tê nûdestpêkirin"
+
+#~ msgid "Terminal"
+#~ msgstr "Termînal"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Ji nûjenkirinê derkeve"
+
+#~ msgid "_Continue"
+#~ msgstr "_Bidomîne"
+
+#~ msgid "_Keep"
+#~ msgstr "Bi_parêze"
+
+#~ msgid "_Replace"
+#~ msgstr "Bide _ser"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_çewtiyeke sepanê"
+
+#~ msgid "_Restart Now"
+#~ msgstr "Niha _ji nû ve bide destpêkirin"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "Bilindkirinan _Bidomînî"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Destpêkirina nûjenkirinê"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "nîşeyên derxistinan nayên dîtin"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Dibe ku barê pêşkêşkerê pir zêde be "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Nîşeyên weşanê nehate daxistin"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Ji kerema xwe girêdana înternetê kontrol bike."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Amûra bilindkirinê nikaribû bimeşîne"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Qey ev çewtiyeke amûra bilindkirinê ye. Ji kerema xwe çewtiyê rapor bike"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Amûra bilindkirinê tê daxistin"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Amûra bilindkirinê te ber bi pêvajoya bilindkirinê dibe."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Destnîşana amûra bilindkirinê"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Amûra bilindkirinê"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Anîn biserneket"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr "Anîna bilindkirinê biserneket. Dibe ku pirsgirêkeke torê hebe. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Derxistin biserneket"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Derxistina bilindkirinê biserneket. Dibe ku pirsgirekeke tor an "
+#~ "pêşkêşkarê hebe. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Piştrastkirin biserneket."
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Di dema erêkirina bilindkirinê de çewtî. Dibe ku yan di torê de yan jî di "
+#~ "pêşkêşkerê de pirsgirêk hebe "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Naskirin lê nehat"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Naskirina bilindkirnê lê nehat. Dibe ku pirsgirekeke tor an pêşkêşkarê "
+#~ "hebe. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Pelgeha %(current)li ji %(total)li bi %(speed)s/ç tê daxistin"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Pelgeha %(current)li ji %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Lîsteya guherînan ne gihiştbar e"
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Lîsteya guhertinan hîna jî ne derbasbare.\n"
+#~ "ji kerema xwe re piştre cardin biceribîne."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Daxistina lîsteya guhertinan biserneket.\n"
+#~ "Ji kerema xwe re girêdana internetê kontrol bike."
+
+#~ msgid "Backports"
+#~ msgstr "Nivîsbariyên bi paş de şandî"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Rojanekirinên dîstrîbusiyonê"
+
+#~ msgid "Other updates"
+#~ msgstr "Rojanekirinên din"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Guherto %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Lîsteya guhartinan tê daxistin..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "Yekê Jî _Hilnebijêre"
+
+#~ msgid "_Check All"
+#~ msgstr "Hemûyan _Hilbijêrî"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Mezinahiya daxistinê: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Tu dikarî %s rojanekirinê saz bikî"
+#~ msgstr[1] "Tu dikarî %s rojanekirinan saz bikî"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Divê raweste, dibe ku ev hinekî demdijêj be."
+
+#~ msgid "Update is complete"
+#~ msgstr "Rojanekirin temam bû"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Rojanekirin têne venihartin."
+
+#, fuzzy
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Guhertoya nû: %s (Mezinahî: %s)"
+
+#~ msgid "Version %s"
+#~ msgstr "Guherto %s:"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Mezinahî:%s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Belavkariya ku tu êdî bikar tîne nayê destekirin"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Ji vir û pê ve tu yê êdî sererastkirinên ewlehiyê û rojanekirinên krîtîk "
+#~ "nestîne. Pergala xwe ya xebatê bilindî guhertoya Ubuntu Linuxê bike. Ji "
+#~ "bo agahiyên berfireh malpera http://www.ubuntu.com ziyaret bike."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Weşana belavkariya nû dikare bigihêje '%s'</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Pêrista nivîsbariyê xera bûye"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Sazkirin an jî rakirina nivîsbariyê qet ne gengaz e. Ji kerema xwe berî "
+#~ "her tiştî vê pirsgirêkê bi gerînendeyê pakêtan ya \"Synaptic\" and jî bi "
+#~ "fermana \"sudo apt-get install -f\" re di termînalê de çareser bike."
+
+#~ msgid "None"
+#~ msgstr "Ne yek jî"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Divê tu bi destan rojane bikî</big></b>\n"
+#~ "Pergala ta rê nade rojanekirina jixweber. Tu dikarî vê tevgerê mîheng "
+#~ "bikî  <i>Software Sources</i> di tabloya <i>rojanekirina internetê</i>de."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Pergala xwe rojane hilîne</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>Di lênihertina CDyê de çewtî</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<big><b>Rêveberê rojanekirinê tê destpêkirin</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Guhartin"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Daxuyaniya guherîn û rojanekirinan"
+
+#~ msgid "Chec_k"
+#~ msgstr "_Kontrol bike"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Ji bo rojanekirinên nû qanalên nivîsbariyê kontrol bike"
+
+#~ msgid "Description"
+#~ msgstr "Daxuyanî"
+
+#~ msgid "Release Notes"
+#~ msgstr "Nîşeyên Weşanê"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Ji bo hemû rojanekirinên gengaz in bilindkirina belavkariyê pêk bîne.\n"
+#~ "\n"
+#~ "Dibe ku ev ji ber bilindkirina nehatiye temamkirin, pakêtên nermalavên ne "
+#~ "fermî yan jî ji ber ku guhertoya pêşvebirinê hatiye bikaranîn pêk hatibe."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Pêşketina dosiyan yek bi yek nîşan bide"
+
+#~ msgid "Software Updates"
+#~ msgstr "Rojanekirinên Nivîsbariyê"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Rojanekirinên nivîsbariyê çewtiyan serrast dikin, valahiyên ewlêkariyê "
+#~ "dadigirin û funksiyonên nû tînin."
+
+#~ msgid "U_pgrade"
+#~ msgstr "_Bilindkirin"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Ber bi guhertoya dawî ya Ubuntu bilind bike"
+
+#~ msgid "_Check"
+#~ msgstr "_Kontrol bike"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "Bilindkirina _Belavkirinê"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "Di pêşerojê de vê agahiyê _veşêre"
+
+#~ msgid "_Install Updates"
+#~ msgstr "Rojanekirinan _Saz bike"
+
+#~ msgid "_Upgrade"
+#~ msgstr "_Bilindkirin"
+
+#~ msgid "changes"
+#~ msgstr "guhertin"
+
+#~ msgid "updates"
+#~ msgstr "rojanekirin"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Rojanekirina bixweber</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Rojanekirinên înternetê</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Înternet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>Ji bo pêşvebirina azmûna Ubuntuyê ya bikarhêneran ji kerema xwe re tev "
+#~ "li pêşbirka populertiyê bibe. Heke tu beşdar bibe, wê nivîsbariyên ku tê "
+#~ "de tu agahiyên şexsî tê de tuneye û bikaranîna van tiştan wê bi hefteyî "
+#~ "ji projeya Ubuntuyê re were ragihandin.\n"
+#~ "\n"
+#~ "Encam wê ji bo pêşvebirina desteka ku ji bo sepanan û ji bo diyarkirina "
+#~ "rêzkirina lêgerînan were bikaranîn.<i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Cdrom lê zêde bike"
+
+#~ msgid "Authentication"
+#~ msgstr "Erêkirina Nasnameyê"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "Dosiyên nivîsbariyê yên daxistî _jê bibe:"
+
+#~ msgid "Download from:"
+#~ msgstr "Daxistin ji:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Ji peydakereke ku tu pê ewle yî, mifteyeke vekirî veguhezîne hundir"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Rojanekirinên Înternetê"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Rojanekirinên ewlehiyê tenê wê ji aliyê pêşkêşkerên fermî yên Ubuntuyê ve "
+#~ "bixweber were sazkirin."
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "Vegerîne ser Nirxên _Destpêke"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Mifteyên peşdanasînî yên belavkariya te paş de vedigerîne"
+
+#~ msgid "Software Sources"
+#~ msgstr "Çavkaniyên Nivîsbariyê"
+
+#~ msgid "Source code"
+#~ msgstr "Koda çavkanî"
+
+#~ msgid "Statistics"
+#~ msgstr "Îstatîstîk"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Agahiyên Îstatîskî Ragihîne"
+
+#~ msgid "Third Party"
+#~ msgstr "Aliyê Sêyemîn"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Xwebixwe li rojanekirinan bi_gerîne:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "Rojanekirinan bixweber _daxe lê saz neke"
+
+#~ msgid "_Import Key File"
+#~ msgstr "Dosyeya mifteyan _veguhezîne hundir"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "Bêpesendkirin rojaneyên ewlehiyê _saz bike"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Agahiyên nivîsbariyê yên mevcûd ne rojane ye</big></b>\n"
+#~ "\n"
+#~ "Ji bo ku tu karibî ji çavkaniyên ku nû lê hatine barkirin yan jî yên "
+#~ "guherîne nivîsbarî û rojanekirinan bar bike divê tu agahiyên nivîsbariyê "
+#~ "dîsa bar bike.\n"
+#~ "\n"
+#~ "Ji bo domandinê girêdaneke înternetê ya dixebite pêwist e."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Şîrove:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Parçe:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Belavkirin:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Cure:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid "APT line:"
+#~ msgstr "Rêzika APT:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Dubendî (Binary)\n"
+#~ "Çavkanî (Source)"
+
+#~ msgid "Edit Source"
+#~ msgstr "Sererastkirina Çavkaniyê"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Li CD-ROM tê gerîn"
+
+#~ msgid "_Add Source"
+#~ msgstr "Çavkaniyekê _Têxê"
+
+#~ msgid "_Reload"
+#~ msgstr "_Rojane bike"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Rojanekirinên amade nîşan bide û saz bike"
+
+#~ msgid "Update Manager"
+#~ msgstr "Rêveberiya Rojanekirinê"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Bixweber kontrol bike bê ka guhertoya nû ya belavkariya mevcûd heye yan "
+#~ "na  û (heke pêkan be) bê ka bilindkirinan pêşkeş dike yan na."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Li derketina belavkirina nû bigerîne"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Heke rojanekirinên jixweber ne çalak be, pêwiste tu qenalê lîsteyê bi "
+#~ "destan daxî. Ev vebijark xuyakirina bibîrxistker vedişêre."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Ji nû ve barkirina lîsteya kanalan bi bîr bixe"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Hûragahiyên rojanekirinekê nîşan bide"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Mezinahiya paceya rêveberê rojanekirinan hiltîne."
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr ""
+#~ "Rewşa pêşdebirên ku di wan de lîsteya guhertinan û şîrove hene , ambar "
+#~ "dike"
+
+#~ msgid "The window size"
+#~ msgstr "Mezinahiyê paceyê"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "Ji bo nivîsbarî û rojanekirinên têne sazkirin çavkaniyan veava bike"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" Rojanekirinên Ewlekariyê"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Daxistinê _betal bike"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Sîstema xwe berê hat bilindkirin."
+
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Rojanekirinên Ubuntu"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Bi piştgirtiya fermî"
+
+#~ msgid "Download is complete"
+#~ msgstr "Daxistin hatiye temam kirin"
+
+#~ msgid "Hide details"
+#~ msgstr "Hûragahiyan veşêre"
+
+#~ msgid "Show details"
+#~ msgstr "Hûragahiyan nîşan bide"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Kanal</b>"
+
+#~ msgid "     "
+#~ msgstr "     "

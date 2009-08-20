@@ -1,0 +1,587 @@
+python-apt (0.7.8) unstable; urgency=low
+
+  [ Michael Vogt ]
+  * python/cache.cc:
+    - fix crash if Ver.PriorityType() returns NULL 
+    - fix GetCandidateVer() reporting incorrect versions after
+      SetCandidateVer() was used. Thanks to Julian Andres Klode for
+      the test-case (LP: #237372)
+  * python/apt_instmodule.cc:
+    - do not change working dir in debExtractArchive() (LP: #184093)
+  * apt/cache.py:
+    - support "in" in apt.Cache() (LP: #251587)
+  * apt/package.py:
+    - do not return None in sourcePackageName (LP: #123062)
+  * python/progress.cc:
+    - when pulse() does not return a boolean assume "true"
+      (thanks to Martin Pitt for telling me about the problem)
+  * python/apt_pkgmodule.cc:
+    - add "SelState{Unknown,Install,Hold,DeInstall,Purge}" constants
+  * aptsources/__init__.py, aptsources/distinfo.py:
+    - run apt_pkg.init() when aptsources gets imported and not
+      the distinfo function
+    - fix detection of cdrom sources and add test for it
+  * python/metaindex.cc
+    - fix crash when incorrect attribute is given
+  * data/templates/Ubuntu.info.in:
+    - updated
+  * aptsources/distro.py:
+    - add parameter to get_distro() to make unit testing easier
+  * tests/test_aptsources_ports.py:
+    - add test for arch specific handling (when sub arch is on
+      a different mirror than "main" arches)
+
+  [ Julian Andres Klode ]
+  * python/acquire.cc (GetPkgAcqFile): Support DestDir and DestFilename.
+
+ -- Michael Vogt <mvo@debian.org>  Mon, 24 Nov 2008 10:24:30 +0200
+
+python-apt (0.7.7.1+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * data/templates/Debian.info.in: Set the BaseURI to security.debian.org for
+    lenny/updates, etch/updates and sarge/updates. (Closes: #503237)
+
+ -- Jonny Lamb <jonny@debian.org>  Fri, 24 Oct 2008 12:44:33 +0100
+
+python-apt (0.7.7.1) unstable; urgency=low
+
+  * data/templates/Debian.info.in:
+    - add 'lenny' template info (closes: #476364)
+  * aptsources/distinfo.py:
+    - fix template matching for arch specific code (LP: #244093)
+
+ -- Michael Vogt <mvo@debian.org>  Fri, 25 Jul 2008 18:13:53 +0200
+
+python-apt (0.7.7) unstable; urgency=low
+
+  [ Emanuele Rocca ]
+  * data/templates/Debian.info.in:
+    - s/MatchUri/MatchURI/. Thanks, Gustavo Noronha Silva (closes: #487673)
+  * python/cache.cc:
+    - Throw an exception rather than segfaulting when GetCache() is called
+      before InitSystem() (closes: #369147)
+  * doc/examples/config.py:
+    - Fix config.py --help (closes: #257007)
+
+  [ Michael Vogt ]
+  * python/apt_pkgmodule.cc:
+    - fix bug in hashsum calculation when the original string
+      contains \0 charackters (thanks to Celso Providelo and 
+      Ryan Hass for the test-case) LP: #243630
+  * tests/test_hashsums.py:
+    - add tests for the hashsum code
+  * apt/package.py:
+    - add "isAutoRemovable()" method
+  * python/pkgsrcrecords.cc:
+    - add "Record" attribute to the PkgSrcRecord to access the
+      full source record
+  * debian/rules:
+    - remove the arch-build target, we have bzr-builddeb now
+
+ -- Michael Vogt <mvo@debian.org>  Tue, 22 Jul 2008 10:16:03 +0200
+
+python-apt (0.7.6) unstable; urgency=low
+
+  * apt/cache.py:
+    - add "memonly" option to apt.Cache() to force python-apt to
+      not touch the pkgcache.bin file (this works around a possible
+      race condition in the pkgcache.bin handling)
+  * data/templates/Ubuntu.info.in:
+    - added ubuntu 'intrepid'
+  * debian/README.source: 
+    - added (basic) documentation how to build python-apt
+  * aptsources/distinfo.py:
+    - support arch specific BaseURI, MatchURI and MirrosFile fields
+      in the distinfo template
+  * debian/control:
+    - move bzr branch to bzr.debian.org and update Vcs-Bzr
+
+ -- Michael Vogt <mvo@debian.org>  Wed, 18 Jun 2008 14:46:43 +0200
+
+python-apt (0.7.5) unstable; urgency=low
+
+  * use the new ListUpdate() code
+  * add example in doc/examples/update.py
+  * python/pkgrecords.cc:
+    - export the Homepage field
+  * python/tar.cc:
+    - fix .lzma extraction (thanks to bigjools)
+  * python/sourcelist.cc:
+    - support GetIndexes() GetAll argument to implement
+      something like --print-uris
+  * python/apt_pkgmodule.cc:
+    - add InstState{Ok,ReInstReq,Hold,HoldReInstReq} constants
+  * apt/cache.py:
+    - add reqReinstallPkgs property that lists all packages in
+      ReInstReq or HoldReInstReq
+
+ -- Michael Vogt <mvo@debian.org>  Tue, 19 Feb 2008 21:06:36 +0100
+
+python-apt (0.7.4) unstable; urgency=low
+
+  * apt/debfile.py:
+    - added wrapper around apt_inst.debExtract()
+    - support dictionary like access 
+  * apt/package.py:
+    - fix apt.package.Dependency.relation initialization
+  * python/apt_instmodule.cc:
+    - added arCheckMember()
+    - fix typo
+  * aptsources/distro.py:
+    - throw NoDistroTemplateException if not distribution template
+      can be found
+  * python/string.cc:
+    - fix overflow in SizeToStr()
+  * python/metaindex.cc:
+    - added support for the metaIndex objects
+  * python/sourceslist.cc:
+    - support new "List" attribute that returns the list of
+      metaIndex source entries
+  * python/depcache.cc:
+    - be more threading friendly
+  * python/tag.cc
+    - support "None" as default in 
+      ParseSection(control).get(field, default), LP: #44470
+  * python/progress.cc:
+    - fix refcount problem in OpProgress
+    - fix refcount problem in FetchProgress
+    - fix refcount problem in CdromProgress
+  * apt/README.apt:
+    - fix typo (thanks to Thomas Schoepf, closes: #387787)
+  * po/fr.po:
+    - merge update, thanks to Christian Perrier (closes:  #435918)
+  * data/templates/:
+    - update templates
+
+ -- Michael Vogt <mvo@debian.org>  Thu, 06 Dec 2007 15:35:46 +0100
+
+python-apt (0.7.3.1) unstable; urgency=low
+
+  * NMU
+  * Fix version to not use CPU and OS since it's not available on APT
+    anymore (closes: #435653, #435674)
+
+ -- Otavio Salvador <otavio@debian.org>  Thu, 02 Aug 2007 18:45:25 -0300
+
+python-apt (0.7.3) unstable; urgency=low
+
+  * apt/package.py:
+    - added Record class that can be accessed like a dictionary
+      and return it in candidateRecord and installedRecord
+      (thanks to Alexander Sack for discussing this with me)
+  * doc/examples/records.py:
+    - added example how to use the new Records class
+  * apt/cache.py:
+    - throw FetchCancelleException, FetchFailedException, 
+      LockFailedException exceptions when something goes wrong
+  * aptsources/distro.py:
+    - generalized some code, bringing it into the Distribution
+      class, and wrote some missing methods for the DebianDistribution
+      one (thanks to Gustavo Noronha Silva)
+  * debian/control:
+    - updated for python-distutils-extra (>= 1.9.0)
+  * debian/python-apt.install:
+    - fix i18n files
+  * python/indexfile.cc:
+    - increase str buffer in PackageIndexFileRepr
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Fri, 27 Jul 2007 16:57:28 +0200
+
+python-apt (0.7.2) unstable; urgency=low
+
+  * build against the new apt
+  * support for new "aptsources" pythn module
+    (thanks to Sebastian Heinlein) 
+  * merged support for translated package descriptions
+  * merged support for automatic removal of unused dependencies
+
+ -- Michael Vogt <mvo@debian.org>  Sun, 10 Jun 2007 20:13:38 +0200
+
+python-apt (0.7.1) experimental; urgency=low
+
+  * merged http://glatzor.de/bzr/python-apt/sebi:
+    - this means that the new aptsources modules is available
+
+ -- Michael Vogt <mvo@debian.org>  Mon, 14 May 2007 13:33:42 +0200
+
+python-apt (0.7.0) experimental; urgency=low
+
+  * support translated pacakge descriptions
+  * support automatic dependency information
+
+ -- Michael Vogt <mvo@debian.org>  Wed,  2 May 2007 18:41:53 +0200
+
+python-apt (0.6.22) unstable; urgency=low
+
+  * python/apt_pkgmodule.cc:
+    - added pkgCache::State::PkgCurrentState enums
+  * python/pkgrecords.cc:
+    - added SourceVer
+
+ -- Michael Vogt <mvo@debian.org>  Wed, 23 May 2007 09:44:03 +0200
+
+python-apt (0.6.21) unstable; urgency=low
+
+  * apt/cdrom.py:
+    - better cdrom handling support
+  * apt/package.py:
+    - added candidateDependencies, installedDependencies
+    - SizeToString supports PyLong too 
+    - support pkg.architecture
+    - support candidateRecord, installedRecord
+  * apt/cache.py:
+    - fix rootdir
+  * apt/cdrom.py:
+    - fix bug in cdrom mountpoint handling
+
+ -- Michael Vogt <mvo@debian.org>  Tue, 24 Apr 2007 21:24:28 +0200
+
+python-apt (0.6.20) unstable; urgency=low
+
+  * python/generic.h:
+    - fix incorrect use of PyMem_DEL(), use pyObject_DEL()
+      instead. This fixes a nasty segfault with python2.5
+      (lp: 63226)
+  * python/pkgrecords.cc:
+    - export SHA1Hash() as well
+  * debian/rules: Remove dh_python call.
+  * apt/progress.cc:
+    - protect against not-parsable strings send from dpkg (lp: 68553)
+  * python/pkgmanager.cc:
+    - fix typo (closes: #382853)
+  * debian/control:
+    - tightend dependency (closes: #383478)
+  * apt/progress.py:
+    - use os._exit() in the child (lp: #53298)
+    - use select() when checking for statusfd (lp: #53282)
+  * acknoledge NMU (closes: #378048, #373512)
+  * python/apt_pkgmodule.cc:
+    - fix missing docstring (closes: #368907), 
+      Thanks to Josh Triplett
+  * make it build against python2.5
+  * python/progress.cc:
+    - fix memleak (lp: #43096)
+
+ -- Michael Vogt <mvo@debian.org>  Tue, 19 Dec 2006 13:32:11 +0100
+
+python-apt (0.6.19) unstable; urgency=low
+
+  [ Michael Vogt ]
+  * doc/examples/print_uris.py:
+    - added a example to show how the indexfile.ArchiveURI() can be used
+      with binary packages
+  * python/apt_pkgmodule.cc:
+    - export sha256 generation
+
+  [ Otavio Salvador ]
+  * apt/cache.py:
+    - fix commit doc string to also cite the open related callbacks
+    - allow change of rootdir for APT database loading
+    - add dh_installexamples in package building Closes: #376014
+  * python/depcache.cc:
+    - "IsGarbage()" method added (to support auto-mark)
+
+ -- Michael Vogt <mvo@debian.org>  Thu, 27 Jul 2006 00:42:20 +0200
+
+python-apt (0.6.18-0.2) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Add ${shlibs:Depends} and ${misc:Depends} (Closes: #377615).
+
+ -- Christoph Berg <myon@debian.org>  Tue, 18 Jul 2006 11:39:52 +0200
+
+python-apt (0.6.18-0.1) unstable; urgency=high
+
+  * Non-maintainer upload.
+  * Call dh_pycentral and dh_python before dh_installdeb, to make sure
+    the dh_pycentral snippets are put into the maintainer scripts; patch from
+    Sam Morris. (Closes: #376416)
+
+ -- Steinar H. Gunderson <sesse@debian.org>  Wed, 12 Jul 2006 23:26:50 +0200
+
+python-apt (0.6.18) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Update for the new Python policy. Closes: #373512
+
+ -- Raphael Hertzog <hertzog@debian.org>  Sat, 17 Jun 2006 15:09:28 +0200
+
+python-apt (0.6.17) unstable; urgency=low
+
+  * apt/progress.py: 
+    - initialize FetchProgress.eta with the correct type
+    - strip the staus str before passing it to InstallProgress.statusChanged()
+    - added InstallProgress.statusChange(pkg, percent, status) 
+    - make DumbInstallProgress a new-style class 
+      (thanks to kamion for the suggestions)
+    - fix various pychecker warnings
+  * apt/cache.py:
+    - return useful values on Cache.update()
+    - Release locks on failure (thanks to Colin Watson)
+    - fix various pychecker warnings
+  * apt/package.py: 
+    - fix various pychecker warnings
+    - check if looupRecords succeeded
+    - fix bug in the return statement of _downloadable()
+  * python/srcrecords.cc:
+    - add "Restart" method
+    - don't run auto "Restart" before performing a Lookup 
+    - fix the initalization (no need to pass a PkgCacheType to the records)
+    - added "Index" attribute
+  * python/indexfile.cc:
+    - added ArchiveURI() method
+  
+ -- Michael Vogt <mvo@debian.org>  Mon,  8 May 2006 22:34:58 +0200
+
+python-apt (0.6.16.2) unstable; urgency=low
+  
+  * Non-maintainer upload.
+  * debian/control:
+    + Replaces: python-apt (<< 0.6.11), instead of Conflicts which is not
+      correct here. (closes: #308586).
+
+ -- Pierre Habouzit <madcoder@debian.org>  Fri, 14 Apr 2006 19:30:51 +0200
+  
+python-apt (0.6.16.1) unstable; urgency=low
+
+  * memleak fixed when pkgCache objects are deallocated
+  * typos fixed (thanks to Gustavo Franco)
+  * pkgRecords.Record added to get raw record data
+  * python/cache.cc: "key" in pkgCache::VerIterator.DependsList[key] is
+                     no longer locale specific but always english
+
+ -- Michael Vogt <mvo@debian.org>  Wed, 22 Feb 2006 10:41:13 +0100
+
+python-apt (0.6.16) unstable; urgency=low
+
+  * added GetPkgAcqFile to queue individual file downloads with the 
+    system (dosn't make use of the improved pkgAcqFile yet)
+  * added SourceList.GetIndexes()
+  * rewrote apt.cache.update() to use the improved aquire interface
+  * apt/ API change: apt.Package.candidateOrigin returns a list of origins 
+    now instead of a single one
+  * apt_pkg.Cdrom.Add() returns a boolean now, CdromProgress has totalSteps
+  * added support for pkgIndexFile and added SourcesList.FindIndex()
+  * added "trusted" to the Origin class
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Thu,  5 Jan 2006 00:56:36 +0100
+
+python-apt (0.6.15) unstable; urgency=low
+
+  * rewrote cache.Commit() and make it raise proper Exception if stuff
+    goes wrong
+  * fix a invalid return from cache.commit(), fail if a download failed
+  * apt.Package.candidateOrigin returns a class now
+  * added pkgAcquire, pkgPackageManager and a example (acquire.py)
+  * tightend build-dependencies for new apt and the c++ transition
+
+ -- Michael Vogt <mvo@debian.org>  Mon, 28 Nov 2005 23:48:37 +0100
+
+python-apt (0.6.14) unstable; urgency=low
+
+  * doc/examples/build-deps.py:
+    - fixed/improved (thanks to Martin Michlmayr, closes: #321507)
+  * apt_pkg.Cache.Update() does no longer reopen the cache
+    (this is the job of the caller now)
+  * python/srcrecords.cc:
+    - support for "srcrecords.Files" added
+    - always run "Restart" before performing a Lookup 
+  * export locking via: GetLock(),PkgSystem{Lock,UnLock} 
+  * apt/cache.py:
+    - added  __iter__ to make "for pkg in apt.Cache:" stuff possible
+
+ -- Michael Vogt <mvo@debian.org>  Wed,  9 Nov 2005 04:52:08 +0100
+
+python-apt (0.6.13) unstable; urgency=low
+
+  * support for depcache added
+  * support for the PkgProblemResolver added
+  * support for PkgSrcRecord.BuildDepends added
+  * support for cdrom handling (add, ident) added
+  * support for progress reporting from operations added
+    (e.g. OpProgress, FetchProgress, InstallProgress, CdromProgress)
+  * added tests/ directory with various tests for the code
+  * native apt/ python directory added that contains
+    a more pythonic interface to apt_pkg
+  * made the apt/ python code PEP08 conform
+  * python exceptions return the apt error message now 
+    (thanks to Chris Halls for the patch)
+  
+ -- Michael Vogt <mvo@debian.org>  Fri,  5 Aug 2005 10:30:31 +0200
+
+python-apt (0.6.12.2) unstable; urgency=low
+
+   * rebuild against the latest apt (c++ transition)
+
+ -- Michael Vogt <mvo@debian.org>  Mon, 1 Aug 2005 11:06:03 +0200
+
+python-apt (0.6.12.1) unstable; urgency=low
+
+   * rebuild against the latest apt
+
+ -- Michael Vogt <mvo@debian.org>  Tue, 28 Jun 2005 18:29:57 +0200 
+
+python-apt (0.6.12ubuntu1) breezy; urgency=low
+
+  * Greek0@gmx.net--2005-main/python-apt--debian--0.6:
+    - python2.{3,4}-apt conflicts with python-apt (<< 0.6.11)
+      (closes: #308586)
+      (closes ubuntu: #11380)
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Thu, 12 May 2005 11:34:05 +0200
+
+python-apt (0.6.12) breezy; urgency=low
+  
+  * added a tests/ directory
+  * added tests/pkgsrcrecords.py that will check if the pkgsrcrecords
+    interface does not segfault
+  * new native python "apt" interface that hides the details of apt_pkg
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Fri,  6 May 2005 10:11:52 +0200
+  
+python-apt (0.6.11) experimental; urgency=low
+
+  * fixed some reference count problems in the depcache and 
+    pkgsrcrecords code
+  * DepCache.Init() is never called implicit now
+  * merged with python-apt tree from Greek0@gmx.net--2005-main
+
+ -- Michael Vogt <mvo@debian.org>  Fri,  6 May 2005 10:04:38 +0200
+
+python-apt (0.5.36ubuntu2) hoary; urgency=low
+
+  * return "None" in GetCandidateVer() if no Candidate is found
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Tue, 15 Mar 2005 12:30:06 +0100
+
+python-apt (0.5.36ubuntu1) hoary; urgency=low
+
+  * DepCache.ReadPinFile() added
+  * Fixed a bug in DepCache.Upgrade()
+
+ -- Michael Vogt <michael.vogt@ubuntu.com>  Wed,  2 Mar 2005 11:32:15 +0100
+
+python-apt (0.5.36) hoary; urgency=low
+
+  * Fix build-depends, somehow lost in merge
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sat, 26 Feb 2005 18:53:54 -0800
+
+python-apt (0.5.35) hoary; urgency=low
+
+  * Target hoary this time
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sat, 26 Feb 2005 15:57:21 -0800
+
+python-apt (0.5.34) unstable; urgency=low
+
+  * Restore Ubuntu changes
+    - Build python 2.4 as default, add python2.3-apt
+    - Typo fix (Ubuntu #4677)
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sat, 26 Feb 2005 15:53:30 -0800
+
+python-apt (0.5.33) unstable; urgency=low
+
+  * Merge michael.vogt@ubuntu.com--2005/python-apt--pkgDepCache--0
+    - Basic depcache API (Ubuntu #6889)
+
+ -- Matt Zimmerman <mdz@ubuntu.com>  Sat, 26 Feb 2005 15:37:48 -0800
+
+python-apt (0.5.32) unstable; urgency=low
+
+  * Update to work with apt 0.5.32 (bzip2 deb support)
+
+ -- Matt Zimmerman <mdz@debian.org>  Sun, 12 Dec 2004 09:44:45 -0800
+
+python-apt (0.5.10) unstable; urgency=low
+
+  * Recompile with apt 0.5
+
+ -- Matt Zimmerman <mdz@debian.org>  Fri, 26 Dec 2003 09:09:40 -0800
+
+python-apt (0.5.9) unstable; urgency=low
+
+  * Fix broken object initialization in sourcelist.cc and srcrecords.cc
+    (Closes: #215792)
+
+ -- Matt Zimmerman <mdz@debian.org>  Thu, 25 Dec 2003 12:12:04 -0800
+
+python-apt (0.5.8) unstable; urgency=low
+
+  * Adjust build-depends to build with python2.3.  No other changes.
+  * This seems to break the new source package support, probably because
+    the new source package support is buggy.
+
+ -- Matt Zimmerman <mdz@debian.org>  Fri,  8 Aug 2003 09:01:12 -0400
+
+python-apt (0.5.5.2) unstable; urgency=low
+
+  * Add myself to Uploaders so that bugs don't get tagged as NMU-fixed anymore 
+  * Initial support for working with source packages (Closes: #199716)
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue, 22 Jul 2003 22:20:00 -0400
+
+python-apt (0.5.5.1) unstable; urgency=low
+
+  * DepIterator::GlobOr increments the iterator; don't increment it again.
+    This caused every other dependency to be skipped (Closes: #195805)
+  * Avoid a null pointer dereference when calling keys() on an empty
+    configuration (Closes: #149380) 
+
+ -- Matt Zimmerman <mdz@debian.org>  Mon,  2 Jun 2003 23:18:53 -0400
+
+python-apt (0.5.5) unstable; urgency=low
+
+  * Rebuild with apt 0.5.5
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue,  6 May 2003 10:01:22 -0400
+
+python-apt (0.5.4.9) unstable; urgency=low
+
+  * Parse /var/lib/dpkg/status in examples/tagfile.py, so that it works
+    out of the box (Closes: #175340)
+  * Rebuild with apt 0.5.4.9 (libapt-pkg-libc6.3-5-3.3)
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue, 18 Feb 2003 16:42:24 -0500
+
+python-apt (0.5.4.4) unstable; urgency=low
+
+  * Fix for memory leak with TmpGetCache.
+    Closes: #151489
+  * Include additional examples from Moshe Zadka <m@moshez.org>
+    Closes: #150091, #152048
+  * Rebuild for python2.2, which is now the default version
+    Closes: #158460
+  * No CVS directories in source tarball
+    Closes: #157773
+
+ -- Matt Zimmerman <mdz@debian.org>  Tue, 27 Aug 2002 19:22:10 -0400
+  
+python-apt (0.5.4.3) unstable; urgency=low
+
+  * #include <new> in python/generic.h so that we can build on ia64, which
+    uses g++-2.96 (Closes: #137467)
+
+ -- Matt Zimmerman <mdz@debian.org>  Sat,  9 Mar 2002 23:34:13 -0500
+
+python-apt (0.5.4.2) unstable; urgency=high
+
+  * Fix g++-3.0 compilation issues (Closes: #134020)
+
+ -- Matt Zimmerman <mdz@debian.org>  Sun, 24 Feb 2002 00:20:22 -0500
+
+python-apt (0.5.4.1) unstable; urgency=low
+
+  * Add apt-utils to build-depends, since libapt-pkg-dev doesn't pull it
+    in.  This should allow python-apt to be autobuilt more readily.
+
+ -- Matt Zimmerman <mdz@debian.org>  Sat, 23 Feb 2002 19:01:15 -0500
+
+python-apt (0.5.4) unstable; urgency=low
+
+  * Initial release.
+  * Initial packaging by Jason Gunthorpe, et al.
+
+ -- Matt Zimmerman <mdz@debian.org>  Wed, 16 Jan 2002 01:37:56 -0500

@@ -1,0 +1,1447 @@
+# translation of mk.po to Macedonian
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
+# Арангел Ангов <ufo@linux.net.mk>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:04+0000\n"
+"Last-Translator: Арангел Ангов <ufo@linux.net.mk>\n"
+"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural= n==1 || n%10==1 ? 0 : 1\n"
+"X-Generator: KBabel 1.10\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "CD диск со Убунту 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "CD диск со Убунту 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Безбедносни надградби за Убунту 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "CD диск со Убунту 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Безбедносни надградби за Убунту 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "CD диск со Убунту 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Надградби за Убунту 5.10"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Оддржувано од заедницата (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Додатен софтвер"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "CD диск со Убунту 4.10 \"Warty Warthog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Надградби за Убунту 5.04"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Оддржувано од заедницата (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Оддржувано од заедницата (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Оддржувано од заедницата (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "Неслободно (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Неслободно (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Надградби за Убунту 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Безбедносни надградби за Debian Stable"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Инсталирам надградби..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Инсталирам надградби..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+#, fuzzy
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "CD диск со Убунту 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "CD диск со Убунту 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Безбедносни надградби за Убунту 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Надградби за Убунту 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "Надградби за Убунту 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "CD диск со Убунту 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "CD диск со Убунту 5.04 \"Hoary Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Официјално поддржано"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Безбедносни надградби за Убунту 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Надградби за Убунту 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "Надградби за Убунту 5.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "CD диск со Убунту 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Оддржувано од заедницата (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Неслободно (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+#, fuzzy
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "CD диск со Убунту 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Официјално поддржано"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Restricted copyright"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Безбедносни надградби за Убунту 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Надградби за Убунту 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "Надградби за Убунту 5.10"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Инсталирам надградби..."
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Безбедносни надградби за Debian Stable"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+#, fuzzy
+msgid "Debian current stable release"
+msgstr "Debian Unstable \"Sid\""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian Testing"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian Non-US (Unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "DFSG-компатибилен софтвер со неслободни зависности"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Не-DFSG-компатибилен софтвер"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Daily"
+#~ msgstr "Дневно"
+
+#~ msgid "Every two days"
+#~ msgstr "Секои два дена"
+
+#~ msgid "Weekly"
+#~ msgstr "Неделно"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Секои две недели"
+
+#~ msgid "Every %s days"
+#~ msgstr "Секои %s дена"
+
+#~ msgid "After one week"
+#~ msgstr "После една недела"
+
+#~ msgid "After two weeks"
+#~ msgstr "После две недели"
+
+#~ msgid "After one month"
+#~ msgstr "После еден месец"
+
+#~ msgid "After %s days"
+#~ msgstr "После %s дена"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "Инсталирам надградби..."
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Надградба на софтвер"
+
+#, fuzzy
+#~ msgid "(Source Code)"
+#~ msgstr "Изворен код"
+
+#, fuzzy
+#~ msgid "Source Code"
+#~ msgstr "Изворен код"
+
+#~ msgid "Import key"
+#~ msgstr "Внеси клуч"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Грешка при увоз на избраната датотека"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Избраната датотека може да не е GPG датотека или пак може да е расипана."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Грешка при отстранување на клучот"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка."
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Ве молам внесете име за дискот"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Ве молам внесете диск во уредот:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Оштетени пакети"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Вашиот систем содржи оштетени пакети кои не може да се поправат со овој "
+#~ "софтвер. Ве молам поправете ги со Синаптик или apt-get пред да продолжите."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Не може да се надградат потребните мета пакети"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Важен пакет мора да се отстрани"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Не може да се одреди надградбата"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Грешка при автентикација на некои пакети"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Не можат да се автентицираат некои пакети. Може да има мрежни пречки. "
+#~ "Обидете се повторно. Видете подолу за листа на неавтентицирани пакети."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Не може да се инсталира %s'"
+
+#, fuzzy
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Не може да се погоди мета пакетот"
+
+#~ msgid "Reading cache"
+#~ msgstr "Читање на кешот"
+
+#, fuzzy
+#~ msgid "No valid mirror found"
+#~ msgstr "Не е пронајден валиден помошен сервер"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "При скенирањето на Вашите информации за складиштата не беше најден запис "
+#~ "за помошен сервер. Ова може да се случи ако извршувате внатрешен сервер "
+#~ "или ако информациите за помошниот сервер се застарени.\n"
+#~ "\n"
+#~ "Дали сакате да го презапишете Вашиот „sources.list“ и покрај тоа? Ако "
+#~ "изберете „Да“, ќе ги надградам '%s' до '%s' записи.\n"
+#~ "Ако изберете „не“, надградбата ќе прекине."
+
+#, fuzzy
+#~ msgid "Generate default sources?"
+#~ msgstr "Врати ги стандардните клучеви"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "По скенирањето на вашиот 'sources.list' не е пронајден валиден запис за '%"
+#~ "s'.\n"
+#~ "\n"
+#~ "Дали треба стандардните записи за '%s' да бидат додадени? Ако изберете "
+#~ "„Не“, надградувањето ќе прекини."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Информациите за складиштето се невалидни"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Од надградувањето на информациите за складиштето произлезе невалидна "
+#~ "датотека. Ве молам пријавете го ова како бубачка."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Додатните извори се оневозможени"
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "Грешка при отстранување на клучот"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Се случи проблем при надградбата. Ова е обично некој проблем со мрежата и "
+#~ "Ве молиме да ја проверете Вашата мрежна врска и да се обидете повторно."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Нема доволно место на дискот"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Надградбата сега прекинува. Ве молам, ослободете најмалку %s место на "
+#~ "дискот на %s. Испразнете го ѓубрето и отстранете ги привремените пакети "
+#~ "или поранешни инсталации со помош на 'sudo apt-get clean'."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Дали сакате да ја започнете надградбата?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Не можам да ги инсталирам надградбите"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Не можам да ги симнам надградбите"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Надградбата сега прекинува. Проверете ја Вашата интернет врска или "
+#~ "медиумот за инсталација и обидете се повторно. "
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Да ги отстранам застарените пакети?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Прескокни го овој чекор"
+
+#~ msgid "_Remove"
+#~ msgstr "_Отстрани"
+
+#, fuzzy
+#~ msgid "Error during commit"
+#~ msgstr "Грешка во извршувањето"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Се случи некој проблем при расчистувањето. Видете ја пораката подолу за "
+#~ "повеќе информации. "
+
+#, fuzzy
+#~ msgid "Checking package manager"
+#~ msgstr "Веќе работи друг менаџер за пакети"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Преземам промени"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Ги ажурирам информациите за складиштето"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Невалидни информации за пакетот"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Прашувам за потврда"
+
+#, fuzzy
+#~ msgid "Upgrading"
+#~ msgstr "Надградбата е завршена"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Барам застарен софтвер"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Надградбата на системот е завршена."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Внесете '%s' во драјвот '%s'"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "Преземам промени..."
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Не можам да инсталирам '%s'"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Командата „diff“ не беше пронајдена"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Се случи фатална грешка"
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "За да спречите загуба на податоци, затворете ги сите отворени апликации и "
+#~ "документи."
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Вашиот систем е надграден!"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Отстрани %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Инсталирај %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Надгради %s"
+
+#~ msgid "Reboot required"
+#~ msgstr "Потребно е рестартирање"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Надградбата е завршена и потребно е рестартирање. Дали сакате да го "
+#~ "направите сега?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Да ја прекинам тековната надградба?</big></b>\n"
+#~ "\n"
+#~ "Системот може да е во неупотреблива состојба ако ја прекинете "
+#~ "надградбата. Строго препорачливо е да надградбата да продолжи."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Рестартирајте го системот за да ја завршите надградбата</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Да ја започнам надградбата?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Расчистувам"
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "<b>Детали</b>"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Разлика помеѓу датотеките"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Ги модифицирам софтверските канали"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Ја подготвувам надградбата"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Го рестартирам системот"
+
+#~ msgid "Terminal"
+#~ msgstr "Терминал"
+
+#~ msgid "_Keep"
+#~ msgstr "_Чувај"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "Освежи"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Пријави бубачка"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Рестартирај сега"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Продолжи со надградбата"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Не можам да ги најдам белешките за изданието"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Серверот може да е преоптоварен. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Не можам да ги преземам белешките за изданието"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Ве молам проверете ја Вашата интернет врска."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Не можам да ја извршам алатката за надградба"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка."
+
+#, fuzzy
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Преземам промени"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "Алатката за надградба ќе Ве води низ процесот на надградба."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Потпис на алатката за надградба"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Алатка за надградба"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Не можам да симнам"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Симнувањето на надградбите не успеа. Можеби има проблем со мрежата. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Не можам да отпакувам"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Отпакувањето на надградбата не успеа. Можеби има проблем со мрежата или "
+#~ "серверот. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Проверката не успеа"
+
+#, fuzzy
+#~ msgid "Authentication failed"
+#~ msgstr "Проверка"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Проверката на автентичност на надградбата не успеа. Можеби има проблем со "
+#~ "мрежата или серверот. "
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "Достапна е нова верзија на Убунту!"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Достапна е нова верзија на Убунту!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Не успеав да ги преземам промените. Ве молам проверете дали Вашата "
+#~ "интернет врска е активна."
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Надградби за Убунту 5.10"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "Инсталирам надградби..."
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Инсталирам надградби..."
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Верзија %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Преземам промени"
+
+#, fuzzy
+#~ msgid "Download size: %s"
+#~ msgstr "Преземам промени"
+
+#, fuzzy
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Инсталирам надградби..."
+#~ msgstr[1] "Инсталирам надградби..."
+#~ msgstr[2] "Инсталирам надградби..."
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Ве молам, почекајте, ова може да потрае."
+
+#~ msgid "Update is complete"
+#~ msgstr "Надградбата е завршена"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Проверувам за надградби..."
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "Верзија %s:"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Вашата дистрибуција повеќе не е поддржана"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Повеќе нема да добивате безбедносни поправки или критични надградби. "
+#~ "Надградете го системот на понова верзија на Ubuntu Linux. Видете на "
+#~ "http://www.ubuntu.com за повеќе информации за надградувањето."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Новото издание на дистрибуцијата, '%s', е достапно</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Индексот на софтвер е расипан"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Невозможно е да инсталирам или избришам некој софтвер. Користете го "
+#~ "менаџерот за пакети Синаптик или прво извршете „sudo apt-ge install -f“ "
+#~ "во терминал за да го надминете овој проблем."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Чувајте го Вашиот систем надграден</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Промени"
+
+#~ msgid "Chec_k"
+#~ msgstr "Провер_и"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Провери ги софтверските канали за нови надградби"
+
+#~ msgid "Description"
+#~ msgstr "Опис"
+
+#~ msgid "Release Notes"
+#~ msgstr "Белешки за изданието"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Покажувај го напредокот поединечно"
+
+#~ msgid "Software Updates"
+#~ msgstr "Надградба на софтвер"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Надградбата на софтверот ги поправа грешките, ги елиминира сигурносните "
+#~ "пропусти и овозможува нови карактеристики."
+
+#~ msgid "U_pgrade"
+#~ msgstr "Н_адгради"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Надгради во најновата верзија на Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Провери"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Криј ги овие информации во иднина"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Инсталирам надградби..."
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Н_адгради"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "Промени"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Надградби од интернет</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Надградби од интернет</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Надградби од интернет</b>"
+
+#~ msgid "Authentication"
+#~ msgstr "Проверка"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "И_збриши ги преземените софтверски датотеки:"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "Преземам промени"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Отстрани го избраниот клуч од доверливиот привезок."
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "<b>Надградби од интернет</b>"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Само безбедносните надградби од официјалните Ubuntu сервери ќе бидат "
+#~ "инсталирани автоматски"
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "Врати стандардно"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Врати ги стандардните клучеви"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "Софтверски својства"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "Изворен код"
+
+#, fuzzy
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Проверувај за надградби на секои"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Внеси датотека-клуч"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Инсталирај ги безбедносните ажурирања без потврдување"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Коментар:</b>"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Компоненти</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Дистрибуција:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Тип:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>Адреса:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Внесете ја комплетната линија за APT складиштето за да го "
+#~ "додадете</b></big>\n"
+#~ "\n"
+#~ "APT линијата го содржи типот, локацијата и содржината на складиштето за "
+#~ "на пример <i>\"deb http://ftp.debian.org sarge main\"</i>. Во "
+#~ "документацијата можете да најдете детален опис на синтаксата."
+
+#~ msgid "APT line:"
+#~ msgstr "APT линија:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Бинарни\n"
+#~ "Изворен код"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "Изворен код"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Скенирам CD-ROM"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "Изворен код"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "Освежи"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Прикажи и инсталирај ги достапните надградби"
+
+#~ msgid "Update Manager"
+#~ msgstr "Менаџер за надградба"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Провери автоматски дали е достапна нова верзија на дистрибуцијата и "
+#~ "понуди надградба (ако е возможно)."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Провери за нови изданија од дистрибуцијата"
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Потсети за одново вчитување на листата со канали"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Прикажи детали за надградбата"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Ја зачувува големината на дијалогот на update-manager"
+
+#~ msgid "The window size"
+#~ msgstr "Големината на прозорецот"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#, fuzzy
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Безбедносни надградби за Debian Stable"
+
+#, fuzzy
+#~ msgid "Debian \"Etch\" (testing)"
+#~ msgstr "Debian Testing"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "Забранет софтвер во САД"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Инсталирам надградби..."
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Безбедносни надградби за Debian Stable"
+
+#, fuzzy
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Проверувам за надградби..."
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Официјално поддржано"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr ""
+#~ "Клучот што го избравте не може да биде отстранет. Ве молам пријавете го "
+#~ "ова како бубачка."
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<b>Детали</b>"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Копчиња</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Копчиња</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "Медиум за инсталација"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Софтверски преференци"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Копчиња</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Компоненти</b>"
+
+#~ msgid "_Custom"
+#~ msgstr "_Сопствено"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Надградби за Убунту 5.10"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Безбедносни надградби за Убунту 5.04"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Надградби за Убунту 5.10"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Надградби за Убунту 5.10"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Оддели:</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Оддели:</b>"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Уреди софтверски извори и поставувања"
+
+#~ msgid "<b>Internet Updates</b>"
+#~ msgstr "<b>Надградби од интернет</b>"
+
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Извори</b>"
+
+#~ msgid "Check for updates every"
+#~ msgstr "Проверувај за надградби на секои"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "Врати стандардно"
+
+#~ msgid "day(s)"
+#~ msgstr "ден(а)"
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>Складиште</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Привремени датотеки</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Кориснички интерфејс</b>"
+
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>Клучеви за проверка</b></big>\n"
+#~ "\n"
+#~ "Во овој дијалог можете да додадете или пак да отстраните клучеви за "
+#~ "проверка. Клучот Ви овозможува да се уверите во интегритетот на софтверот "
+#~ "што го преземате."
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add</b></big>\n"
+#~ "\n"
+#~ "The APT line contains the type, location and content of a repository, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>. You can find a "
+#~ "detailed description of the syntax in the documentation."
+#~ msgstr ""
+#~ "<big><b>Внесете ја комплетната линија за APT складиштето за да го "
+#~ "додадете</b></big>\n"
+#~ "\n"
+#~ "APT линијата го содржи типот, локацијата и содржината на складиштето за "
+#~ "на пример <i>\"deb http://ftp.debian.org sarge main\"</i>. Во "
+#~ "документацијата можете да најдете детален опис на синтаксата."
+
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "Додајте нова датотека со клуч во доверливиот привезок. Осигурајте се дека "
+#~ "сте го добиле клучот преку безбеден канал и дека му верувате на неговиот "
+#~ "сопственик. "
+
+#~ msgid "Add repository..."
+#~ msgstr "Додај складиште..."
+
+#~ msgid "Automatically check for software _updates."
+#~ msgstr "Автоматски проверувај за софтверски _надградби."
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "Автоматски чисти ги _привремените пакети"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "Интервал за чистење во денови: "
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "Избриши _стари пакети од кешот за пакети"
+
+#~ msgid "Edit Repository..."
+#~ msgstr "Уреди складиште..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "Максимална старост во денови:"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Максимална големина во MB:"
+
+#~ msgid "Remove the selected key from the trusted keyring."
+#~ msgstr "Отстрани го избраниот клуч од доверливиот привезок."
+
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "Врати ги стандардните клучеви на дистрибуцијата. Ова нема да ги смени "
+#~ "клучевите инсталирани од корисникот."
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "Постави _ја максималната големина на кешот за пакети"
+
+#~ msgid "Settings"
+#~ msgstr "Поставувања"
+
+#~ msgid "Show detailed package versions"
+#~ msgstr "Покажи детали за верзиите на пакетите"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Покажи исклучени софтверски извори"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Интервал за надградба во денови: "
+
+#~ msgid "_Add Repository"
+#~ msgstr "_Додај складиште"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "_Преземи ги надградливите пакети"
+
+#~ msgid "<b>Details</b>"
+#~ msgstr "<b>Детали</b>"
+
+#~ msgid "<b>Status:</b>"
+#~ msgstr "<b>Статус:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Достапни надградби</b></big>\n"
+#~ "\n"
+#~ "Следниве пакети се надградливи. Можете да ги надградите со кликнување на "
+#~ "копчето „Инсталирај“."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Ги преземам промените</span>\n"
+#~ "\n"
+#~ "Треба да ги преземам промените од централниот сервер."
+
+#~ msgid "Cancel downloading the changelog"
+#~ msgstr "Откажи го преземањето на логот со промени"
+
+#~ msgid "Reload"
+#~ msgstr "Освежи"
+
+#~ msgid "Reload the package information from the server."
+#~ msgstr "Освежи ги информациите за пакетите на серверот."
+
+#~ msgid "_Install"
+#~ msgstr "_Инсталирај"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Покажи достапни надградби и избери кои да бидат инсталирани"
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "Треба да сте root за да ја извршите оваа програма"
+
+#~ msgid "Binary"
+#~ msgstr "Бинарни"
+
+#~ msgid "Non-free software"
+#~ msgstr "Неслободен софтвер"
+
+#~ msgid "Debian 3.0 \"Woody\""
+#~ msgstr "Debian 3.0 \"Woody\""
+
+#~ msgid "Debian Stable"
+#~ msgstr "Debian Stable"
+
+#~ msgid "Debian Non-US (Stable)"
+#~ msgstr "Debian Non-US (Stable)"
+
+#~ msgid "Debian Non-US (Testing)"
+#~ msgstr "Debian Non-US (Testing)"
+
+#~ msgid "Debian Non-US (Unstable)"
+#~ msgstr "Debian Non-US (Unstable)"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "Одберете датотека за клуч"
+
+#~ msgid "There is one package available for updating."
+#~ msgstr "Има еден достапен пакет за надградба."
+
+#~ msgid "There are %s packages available for updating."
+#~ msgstr "Има %s достапни пакети за надградба."
+
+#~ msgid "There are no updated packages"
+#~ msgstr "Нема надградени пакети"
+
+#~ msgid "You did not select any of the %s updated package"
+#~ msgid_plural "You did not select any of the %s updated packages"
+#~ msgstr[0] "Не избравте ниеден од %s пакет за надградба."
+#~ msgstr[1] "Не избравте ниеден од %s пакети за надградба."
+#~ msgstr[2] "Не избравте ниеден од %s пакети за надградба."
+
+#~ msgid "You have selected %s updated package, size %s"
+#~ msgid_plural "You have selected all %s updated packages, total size %s"
+#~ msgstr[0] "Избравте %s пакет за надградба, со големина од %s"
+#~ msgstr[1] "Избравте %s пакети за надградба, со големина од %s"
+#~ msgstr[2] "Избравте %s пакети за надградба, со големина од %s"
+
+#~ msgid "You have selected %s out of %s updated package, size %s"
+#~ msgid_plural ""
+#~ "You have selected %s out of %s updated packages, total size %s"
+#~ msgstr[0] "Избравте %s од %s пакет за надградба, со големина од %s"
+#~ msgstr[1] "Избравте %s од %s пакети за надградба, со големина од %s"
+#~ msgstr[2] "Избравте %s од %s пакети за надградба, со големина од %s"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Наградбите се применуваат."
+
+#~ msgid "Upgrade finished"
+#~ msgstr "Надградбата е завршена"
+
+#~ msgid "Another package manager is running"
+#~ msgstr "Веќе работи друг менаџер за пакети"
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Можете да работите само со една апликација за менаџмент на пакети "
+#~ "одеднаш. Ве молам прво исклучете ја оваа апликацијата."
+
+#~ msgid "Updating package list..."
+#~ msgstr "Ја ажурирам листата на пакети..."
+
+#~ msgid "Installing updates..."
+#~ msgstr "Инсталирам надградби..."
+
+#~ msgid "There are no updates available."
+#~ msgstr "Нема достапни надградби."
+
+#~ msgid "New version:"
+#~ msgstr "Нова верзија:"
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "Ве молам надградете до понова верзија на Убунту Линукс. Верзијата на која "
+#~ "што работите повеќе нема да биде поддржана во смисол на безбедносни "
+#~ "поправки и други технички надградби. Ве молам побарајте информации за "
+#~ "надградба на http://www.ubuntulinux.org."
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "Постои ново издание објавено под кодното име '%s'. Ве молам побарајте ги "
+#~ "инструкциите за надградба на http://www.ubuntulinux.org."
+
+#~ msgid "Never show this message again"
+#~ msgstr "Никогаш пак не ја покажувај поракава"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr "Не се пронајдени промени, серверот може да не е надграден сеуште."

@@ -1,0 +1,1872 @@
+# Ubuntu-ja translation of update-manager.
+# Copyright (C) 2006 THE update-manager'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the update-manager package.
+# Ikuya Awashiro <ikuya@fruitsbasket.info>, 2006.
+# Hiroyuki Ikezoe <ikezoe@good-day.co.jp>, 2005
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager 0.42.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:03+0000\n"
+"Last-Translator: Ikuya Awashiro <ikuya@fruitsbasket.info>\n"
+"Language-Team: Ubuntu Japanese Team <ubuntu-ja-users@freeml.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu·5.04·\"Hoary·Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu·5.04·\"Hoary·Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu·5.10·'Breezy·Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu·5.10·'Breezy·Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "コミュニティによるメンテナンス"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "デバイス用のプロプライエタリなドライバ"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "制限のあるソフトウェア"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft' のCD-ROM"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Canonical によってサポートされるオープンソースソフトウェア"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "コミュニティによるメンテナンス (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "コミュニティによるメンテナンスされるオープンソースソフトウェア"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "フリーではないドライバ"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "デバイス用のプロプライエタリなドライバ "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "制限されたソフトウェア (Multiuniverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake' の CD-ROM"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "アップデートをインストール中"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "バックポートされたアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu·5.10·'Breezy·Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu·5.10·'Breezy·Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 アップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 バックポート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu·5.04·\"Hoary·Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu·5.04·\"Hoary·Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Officially supported"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.10 アップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.10 バックポート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu·5.10·'Breezy·Badger'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Community maintained (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Non-free (Multiuniverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog' のCD-ROM"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "いくつかのソフトウェアはもう公式にサポートされません"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Restricted copyright"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+#, fuzzy
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 5.10 アップデート"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 5.10 バックポート"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian·3.1·\"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "アップデートをインストール中"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian·\"Etch\"·(testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian·\"Sid\"·(unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "非フリーな依存関係のあるDFSG適合ソフトウェア"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "DFSGに適合しないソフトウェア"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "%s のサーバ"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "メインサーバ"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "カスタムサーバ"
+
+#~ msgid "Daily"
+#~ msgstr "毎日"
+
+#~ msgid "Every two days"
+#~ msgstr "2日ごと"
+
+#~ msgid "Weekly"
+#~ msgstr "毎週"
+
+#~ msgid "Every two weeks"
+#~ msgstr "2週ごと"
+
+#~ msgid "Every %s days"
+#~ msgstr "%s 日ごと"
+
+#~ msgid "After one week"
+#~ msgstr "1週間後"
+
+#~ msgid "After two weeks"
+#~ msgstr "2週間後"
+
+#~ msgid "After one month"
+#~ msgstr "1ヶ月後"
+
+#~ msgid "After %s days"
+#~ msgstr "%s 日後"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "アップデートをインストール中"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "最も近いサーバ"
+
+#~ msgid "Software Channel"
+#~ msgstr "ソフトウェアチャンネル"
+
+#~ msgid "Active"
+#~ msgstr "有効"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(ソースコード)"
+
+#~ msgid "Source Code"
+#~ msgstr "ソースコード"
+
+#~ msgid "Import key"
+#~ msgstr "鍵のインポート"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "選択したファイルのインポートエラー"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "選択したファイルはGPG鍵ファイルではないか、壊れている可能性があります。"
+
+#~ msgid "Error removing the key"
+#~ msgstr "鍵削除のエラー"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "選択した鍵を削除できませんでした。バグとして報告してください。"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>CDスキャン中のエラー</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "ディスク名を入力してください"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "ディスクをドライブに挿入してください:"
+
+#~ msgid "Broken packages"
+#~ msgstr "壊れたパッケージ"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "システムにはこのソフトウェアでは修復できない壊れたパッケージが含まれていま"
+#~ "す。 Synaptic や apt-get を使って最初に修正してください。"
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "要求されたメタパッケージがアップグレードできません"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "必須パッケージが削除されます"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "アップグレードが算定できません"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr "算定中に解決できない問題がおきました。バグとして報告してください。"
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "いくつかのパッケージが認証されませんでした"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "いくつかのパッケージが認証できませんでした。これはおそらく一時的なネット"
+#~ "ワークの問題でしょう。あとで再び試してみてください。下に認証できなかった"
+#~ "パッケージが表示されます。"
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "'%s' がインストールできません"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "要求されたパッケージのインストールができません。バグとして報告してくださ"
+#~ "い。 "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "メタパッケージを推測できません"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "システムに ubuntu-desktop, kubuntu-desktop ないし edubuntu-desktop パッ"
+#~ "ケージ が含まれていません。また、実行している ubuntu のバージョンが検出で"
+#~ "きません。 \n"
+#~ " 開始前に Synaptic や apt-get を使用して上記のパッケージのうちのひとつをイ"
+#~ "ンストールしてください。"
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "CDの追加に失敗しました"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "CD の追加に失敗したため、アップグレードは終了されます。この CD が正規の "
+#~ "Ubuntu CD の場合は、このことをバグとして報告してください。\n"
+#~ "\n"
+#~ "エラーメッセージ：\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "キャッシュを読み込み中"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "アップグレードをするためにネットワーク経由でデータを取得しますか？"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "アップグレードは、ネットワークを利用して最新のアップデートを確認し、現在"
+#~ "の CD に無いパッケージを取得することができます。\n"
+#~ "高速、または安価なネットワークアクセスがある場合は、ここで 'はい' を選んで"
+#~ "ください。そのようなネットワークが無い場合は 'いいえ' を選んでください。"
+
+#~ msgid "No valid mirror found"
+#~ msgstr "正しいミラーが見つかりません"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "リポジトリ情報をスキャン中、アップグレードのためのミラーエントリが見つかり"
+#~ "ませんでした。内部ミラーないしミラー情報が古いと思われます。\n"
+#~ "\n"
+#~ "'sources.list' ファイルを書き換えますか？　'はい' を選択すると '%s' エント"
+#~ "リを '%s' エントリにアップデートします。 'いいえ' を選択するとアップデート"
+#~ "をキャンセルします。"
+
+#~ msgid "Generate default sources?"
+#~ msgstr "標準のソースを生成しますか？"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "'sources.list' をスキャン中、 '%s' の正しいエントリが見つかりませんでし"
+#~ "た。\n"
+#~ "\n"
+#~ "'%s' のデフォルトエントリを追加しますか？ 'いいえ' を選択するとアップデー"
+#~ "トをキャンセルします。"
+
+#~ msgid "Repository information invalid"
+#~ msgstr "リポジトリ情報が無効です"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "リポジトリ情報をアップグレード中に無効なファイルを生成しました。バグとして"
+#~ "報告してください。"
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "公式ではないソースが無効になりました"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "sources.list にある公式ではないエントリを無効にしました。再び有効にするに"
+#~ "は、アップグレード後に 'ソフトウェアの配布元' ツールか Synaptic を使用して"
+#~ "ください。"
+
+#~ msgid "Error during update"
+#~ msgstr "アップデート中にエラー発生"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "アップデート中に問題が発生しました。おそらくある種のネットワークの問題で"
+#~ "す。ネットワーク接続をチェックし、再びアップデートしてください。"
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "ディスクの空き領域が足りません"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "アップグレードを中断しました。少なくとも %s の空き容量を %s に用意してくだ"
+#~ "さい。ごみ箱を空にし、'sudo apt-get clean' コマンドを実行して以前インス"
+#~ "トールした一時パッケージを削除してください。"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "アップグレードを開始しますか？"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "アップグレードをインストールできません"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "アップグレードを中断しました。システムが使用できない状態になっている可能性"
+#~ "があります。ただいま修正を実行中です (dpkg --configure -a)。\n"
+#~ "\n"
+#~ "このバグを 'update-manager' パッケージのバグとして報告して下さい。その際、"
+#~ "バグ報告に /var/log/dist-upgrade/ 中のファイルを含めて下さい。"
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "アップグレードをダウンロードできません"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "アップグレードを中断しました。インターネット接続またはインストールメディア"
+#~ "(CD-ROMなど)をチェックし。再試行してください。 "
+
+#, fuzzy
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "インストールされているこれらのパッケージは、もう公式にサポートされておら"
+#~ "ず、コミュニティサポートになっています('universe')。\n"
+#~ "\n"
+#~ "'universe' を有効にしないと、これらのパッケージは次のステップで削除するこ"
+#~ "とを提案します。"
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "不要なパッケージを削除しますか？"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "このステップをスキップ(_S)"
+
+#~ msgid "_Remove"
+#~ msgstr "削除(_R)"
+
+#~ msgid "Error during commit"
+#~ msgstr "コミット中にエラー"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "クリーンアップ中になんらかの問題が発生しました。下記の詳しいメッセージをご"
+#~ "覧ください。 "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "システムを元に戻し中"
+
+#~ msgid "Checking package manager"
+#~ msgstr "パッケージマネージャをチェック中"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "アップグレードの準備中"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr "算定中に解決できない問題がおきました。バグとして報告してください。"
+
+#~ msgid "Updating repository information"
+#~ msgstr "リポジトリ情報をアップデート"
+
+#~ msgid "Invalid package information"
+#~ msgstr "無効なパッケージ情報"
+
+#, fuzzy
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "パッケージ情報のアップデートのあと、重要パッケージ '%s' が見つかりませ"
+#~ "ん。\n"
+#~ "このメッセージは深刻なエラーです。バグとして報告してください。"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "確認する"
+
+#~ msgid "Upgrading"
+#~ msgstr "アップグレード中"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "古いソフトウェアを検索する"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "システムのアップグレードが完了しました。"
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "ドライブ '%s' に'%s' を挿入してください"
+
+#, fuzzy
+#~ msgid "Fetching is complete"
+#~ msgstr "アップデートが完了しました"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "ダウンロード中: %li のうち %li 速度 %s/秒"
+
+#, fuzzy
+#~ msgid "About %s remaining"
+#~ msgstr "およそ残り %li 分"
+
+#, fuzzy
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "%i のうち %i をダウンロード中"
+
+#~ msgid "Applying changes"
+#~ msgstr "変更を適用中"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "'%s' がインストールできません"
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "カスタマイズ済みの設定ファイル %s を\n"
+#~ "置き換えますか？"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "'diff' コマンドが見つかりません"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "重大なエラーが発生しました"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "~/dist-upgrade.log と ~/dist-upgrade-apt.log を含めて不具合として報告して"
+#~ "ください。アップグレードは中断しました。\n"
+#~ "元の sources.list は /etc/apt/sources.list.distUpgrade として保存されてい"
+#~ "ます。"
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d 個のパッケージが削除されます。"
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d 個のパッケージがインストールされます。"
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d 個のパッケージがアップグレードされます。"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "全部で %s つのパッケージをダウンロードする必要があります。 "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "アップグレードの取得とインストールには数時間かかり、今後一切キャンセルはで"
+#~ "きません。"
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "データの損失を避けるため、すべてのアプリケーションとドキュメントを閉じてく"
+#~ "ださい。"
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "システムは最新の状態です!"
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>削除されるパッケージ: %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "インストール %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "アップグレード %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li 日 %li 時間 %li 分"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li 時間 %li 分"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li 分"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li 秒"
+
+#~ msgid "Reboot required"
+#~ msgstr "再起動してください"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "アップグレードが終了しました。再起動が必要ですが、すぐに実行しますか？"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>アップグレードをキャンセルしますか？</big></b>\n"
+#~ "\n"
+#~ "アップグレードをキャンセルすると、おそらくシステムは不安定な状態になりま"
+#~ "す。アップグレードを再開することを強くおすすめします。"
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>アップグレードを完了するためにシステムの再起動が必要です</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>アップグレードを開始しますか？</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Ubuntu to version 6.10 にアップグレード中</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "クリーンアップ"
+
+#~ msgid "Details"
+#~ msgstr "詳細情報"
+
+#~ msgid "Difference between the files"
+#~ msgstr "ファイル間の違いを表示"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "アップグレードをダウンロードしてインストール"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "ソフトウェア・チャンネルを最適化"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "アップグレードの準備中"
+
+#~ msgid "Restarting the system"
+#~ msgstr "システムを再スタート中"
+
+#~ msgid "Terminal"
+#~ msgstr "端末"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "アップグレードを中断(_C)"
+
+#~ msgid "_Continue"
+#~ msgstr "続行する(_C)"
+
+#~ msgid "_Keep"
+#~ msgstr "そのまま(_K)"
+
+#~ msgid "_Replace"
+#~ msgstr "置き換える(_R)"
+
+#~ msgid "_Report Bug"
+#~ msgstr "バグを報告する(_R)"
+
+#~ msgid "_Restart Now"
+#~ msgstr "すぐに再起動(_R)"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "アップグレードを再開する(_R)"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "アップグレードを開始(_S)"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "リリースノートが見つかりません"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "サーバに過負荷がかかっています。 "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "リリースノートををダウンロードできません"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "インターネット接続を確認してください。"
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "アップグレードツールを実行できません"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr "これはおそらくアップグレードツールのバグです。報告してください。"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "アップグレードツールをダウンロード"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "アップグレードツールはアップグレードの状況をガイドします。"
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "アップグレードツールの署名"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "アップグレード ツール"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "取得に失敗しました"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "アップグレードの取得に失敗しました。おそらくネットワークの問題です。 "
+
+#~ msgid "Failed to extract"
+#~ msgstr "抽出に失敗しました"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "アップグレードの抽出に失敗しました。おそらくネットワークまたはサーバの問題"
+#~ "です。 "
+
+#~ msgid "Verfication failed"
+#~ msgstr "検証に失敗しました"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "アップグレードの検証に失敗しました。ネットワーク接続もしくはサーバに問題が"
+#~ "あるかもしれません。 "
+
+#~ msgid "Authentication failed"
+#~ msgstr "認証に失敗しました"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "アップグレードの認証に失敗しました。おそらくネットワークまたはサーバの問題"
+#~ "です。 "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr ""
+#~ "%(total)li のうち %(current)li 番目のファイルをダウンロード中 (%(speed)s/"
+#~ "秒)"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "%(total)li のうち %(current)li 番目のファイルをダウンロード中"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "変更点のリストが利用できません。"
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "変更点のリストはまだ取得できません。\n"
+#~ "あとで試してください。"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "変更点の取得に失敗しました。インターネットに接続されているか確認してくださ"
+#~ "い。"
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "Ubuntu 6.04 バックポート"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "アップグレードを再開する(_R)"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "アップデートをインストール中"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "バージョン %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "変更点を取得中..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "すべてのチェックをはずす(_U)"
+
+#, fuzzy
+#~ msgid "_Check All"
+#~ msgstr "チェック(_C)"
+
+#~ msgid "Download size: %s"
+#~ msgstr "ダウンロードサイズ: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "%s 個のアップデートがインストールされます"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "しばらくお待ちください。少々時間がかかります。"
+
+#~ msgid "Update is complete"
+#~ msgstr "アップデートが完了しました"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "インストールできるアップデートをチェック"
+
+#, fuzzy
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "新しいバージョン: %s (サイズ: %s)"
+
+#~ msgid "Version %s"
+#~ msgstr "バージョン %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(サイズ: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "このディストリビューションはすでにサポート対象外です"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "セキュリティフィックスやアップデートはもう提供されません。最新バージョン"
+#~ "の Ubuntu Linux にアップグレードしてください。\r\n"
+#~ "アップグレードに関する詳細な情報は http://www.ubuntu.com をご覧ください。"
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>新しいディストリビューション '%s' にアップグレードできます</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "ソフトウェアのインデックスが壊れています"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "何らかのソフトウェアがインストールないし削除できません。 \"Synaptic\" パッ"
+#~ "ケージマネージャを使用するか、 まずこの問題を解決するために \"sudo apt-"
+#~ "get install -f\" コマンドをターミナルで実行してください。"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>アップデートの情報を手動でチェックしてください</big></b>\n"
+#~ "\n"
+#~ "システムはアップデートを自動的にチェックしません。この動作の変更は、<i>ソ"
+#~ "フトウェアの配布元</i>の<i>インターネットアップデート</i>タブで行います。"
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>システムを最新の状態にする</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr ""
+#~ "<big><b>一部のアップデートだけがインストールされました</b></big>\r\n"
+#~ "\r\n"
+#~ "%s"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>アップデートマネージャを開始しています</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "変更"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "アップデートの変更点と詳細"
+
+#~ msgid "Chec_k"
+#~ msgstr "再チェック(_K)"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr ""
+#~ "新しいアップデートの調査のためにソフトウェアチャンネルをチェックします"
+
+#~ msgid "Description"
+#~ msgstr "詳細"
+
+#~ msgid "Release Notes"
+#~ msgstr "リリースノート"
+
+#~ msgid "Show progress of single files"
+#~ msgstr "個々のファイルの進捗を表示"
+
+#~ msgid "Software Updates"
+#~ msgstr "ソフトウェアのアップデート"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "ソフトウェアアップデートはエラーを訂正し、セキュリティホールを修正し、新機"
+#~ "能を提供します。"
+
+#~ msgid "U_pgrade"
+#~ msgstr "アップグレード(_P)"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Ubuntu の最新バージョンにアップグレード"
+
+#~ msgid "_Check"
+#~ msgstr "チェック(_C)"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "ディストリビューションのアップグレード(_D)"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "今後この情報を隠す(_H)"
+
+#~ msgid "_Install Updates"
+#~ msgstr "アップデートをインストール(_I)"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "アップグレード(_P)"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "変更点"
+
+#~ msgid "updates"
+#~ msgstr "アップデート"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>自動アップデート</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>インターネットアップデート</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>インターネット</b>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "CD-ROM の追加"
+
+#~ msgid "Authentication"
+#~ msgstr "認証"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "ダウンロードしたファイルを削除(_E):"
+
+#~ msgid "Download from:"
+#~ msgstr "ダウンロード元:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "信頼したソフトウェア供給者の公開鍵をインポートする"
+
+#~ msgid "Internet Updates"
+#~ msgstr "インターネットアップデート"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "公式な Ubuntu サーバからのセキュリティアップデートだけ自動的にインストール"
+#~ "されます。"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "デフォルトに戻す(_D)"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "ディストリビューション標準の鍵を元に戻す"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "ソフトウェアのプロパティ"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "ソース"
+
+#~ msgid "Third Party"
+#~ msgstr "サードパーティ"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "アップデートを自動的にチェックする(_C):"
+
+#, fuzzy
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "アップデートを自動的にダウンロード、ただしインストールはしない(_D)"
+
+#~ msgid "_Import Key File"
+#~ msgstr "鍵ファイルのインポート(_I)"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "確認せずにセキュリティアップデートをインストール(_I)"
+
+#, fuzzy
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>チャンネルの情報が古いです</big></b>\n"
+#~ "\n"
+#~ "新規追加ないし変更したチャンネルからインストールまたはアップデートを行うた"
+#~ "め、チャンネルを再読み込みしてください。\n"
+#~ "\n"
+#~ "続けるためには、インターネット接続が有効になっている必要があります。"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>コメント:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>コンポーネント:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>ディストリビューション:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>タイプ:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>追加したい完全な APT line を入力してください。</b></big>\n"
+#~ "\n"
+#~ "APT lineにはタイプ、場所、チャンネルのセクションなどを含めることができま"
+#~ "す。例:<i>\"deb http://ftp.debian.org sarge main\"</i>"
+
+#~ msgid "APT line:"
+#~ msgstr "APT line:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "バイナリ\n"
+#~ "ソース"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "ソース"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "CD-ROM を検査中"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "ソース"
+
+#~ msgid "_Reload"
+#~ msgstr "再読込(_R)"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "インストールできるアップデートを表示し、インストール"
+
+#~ msgid "Update Manager"
+#~ msgstr "アップデートマネージャー"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "現在使用中のディストリビューションの最新バージョンが存在する場合自動的に"
+#~ "チェックし、可能ならアップグレードを提案する"
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "新しいディストリビューションのリリースをチェックする"
+
+#, fuzzy
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "アップデートの自動チェックを無効にすると、チャンネルリストを手動で再読み込"
+#~ "みしなければなりません。このオプションはその場合の催促をしないようにしま"
+#~ "す。"
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "チャンネルリストの再読み込みを催促する"
+
+#~ msgid "Show details of an update"
+#~ msgstr "アップデートの詳細を表示"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "アップデートマネージャのダイアログサイズを復元"
+
+#, fuzzy
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr "変更点と概要のリストを含んだ欄の状態を復元する"
+
+#~ msgid "The window size"
+#~ msgstr "ウィンドウのサイズ"
+
+#, fuzzy
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "ソフトウェアチャンネルとインターネットアップデートを設定"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian·3.1·\"Sarge\"·セキュリティアップデート"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "アメリカ合衆国外への輸出が禁止されているソフトウェア"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "ダウンロード中: 速度不明で %li のうち %li"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "アップデートをインストール中"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "ダウンロードをキャンセル(_D)"
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "いくつかのソフトウェアはもう公式にサポートされません"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "アップグレードが見つかりません"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "システムはすでに最新の状態です。"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Ubuntu 6.06 LTS にアップデート中</"
+#~ "span>"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Ubuntu 5.10 セキュリティアップデート"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "Ubuntu の最新バージョンにアップグレード"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "すべてのアップデートをインストールすることができません"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>システムを解析中です</b></big>\n"
+#~ "\n"
+#~ "ソフトウェアアップデートはエラーを修正し、セキュリティホールを修正し、新機"
+#~ "能を提供します。"
+
+#~ msgid "Oficially supported"
+#~ msgstr "公式サポート"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "ほかのソフトを削除しなければならないアップデートがあります。完全にアップグ"
+#~ "レードするためにはパッケージマネージャ \"Synaptic\" の \"すべてのアップグ"
+#~ "レードににマーク\"機能を使うか。端末から \"sudo apt-get dist-upgrade\" を"
+#~ "実行してください。"
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "これらのパッケージはアップグレードされません:"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "およそ残り %li 秒"
+
+#~ msgid "Download is complete"
+#~ msgstr "ダウンロードが完了しました"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "アップグレードが中断しました。不具合を報告してください。"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Ubuntu のアップグレード中"
+
+#~ msgid "Hide details"
+#~ msgstr "詳細を隠す"
+
+#~ msgid "Show details"
+#~ msgstr "詳細を表示"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr ""
+#~ "ソフトウェアマネージメントツールは同時に1つしか実行することができません"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "まず 'aptitude' または 'Synaptic' など、ほかのアプリケーションを終了してく"
+#~ "ださい。"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>チャンネル</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>鍵</b>"
+
+#~ msgid "Installation Media"
+#~ msgstr "インストールメディア"
+
+#~ msgid "Software Preferences"
+#~ msgstr "ソフトウェアの設定"
+
+#~ msgid "_Download updates in the background, but do not install them"
+#~ msgstr "アップデートをダウンロードはするが、インストールはしない(_D)"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>チャンネル</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>コンポーネント</b>"
+
+#~ msgid "Add Channel"
+#~ msgstr "チャンネルを追加"
+
+#~ msgid "Edit Channel"
+#~ msgstr "チャンネルを編集"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "チャンネルを追加(_A)"
+
+#~ msgid "_Custom"
+#~ msgstr "カスタム(C)"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS セキュリティアップデート"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS アップデート"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS バックポート"
+
+#~ msgid ""
+#~ "While scaning your repository information no valid entry for the upgrade "
+#~ "was found.\n"
+#~ msgstr ""
+#~ "アップグレードするためにリポジトリ情報を調べている際、正しくないエントリが"
+#~ "みつかりました。\n"
+
+#~ msgid "Repositories changed"
+#~ msgstr "リポジトリが変更されました"
+
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "変更点を有効にするためにパッケージリストをサーバから再取得する必要がありま"
+#~ "す。今すぐ実行しますか?"
+
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>セクション:</b>"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. Please "
+#~ "try 'sudo apt-get install -f' or Synaptic to fix your system."
+#~ msgstr ""
+#~ "アップグレードを中断しました。システムが不安定な状態になっています。システ"
+#~ "ムを修正するために 'sudo apt-get install -f ' または Synapticを試してみて"
+#~ "ください。"
+
+#~ msgid "Remove obsolete Packages?"
+#~ msgstr "古いパッケージ削除しますか？"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu \"Dapper\" "
+#~ "6.04</span>"
+#~ msgstr ""
+#~ "<span·weight=\"bold\"·size=\"x-large\">Ubuntu·\"Dapper\"·6.04 にアップグ"
+#~ "レード中</span>"
+
+#~ msgid ""
+#~ "<big><b>Checking for available updates</b></big>\n"
+#~ "\n"
+#~ "Software updates can correct errors, eliminate security vulnerabilities, "
+#~ "and provide new features to you."
+#~ msgstr ""
+#~ "<big><b>アップデートをチェック中</b></big>\n"
+#~ "\n"
+#~ "アップデートによってソフトウェアの問題を修正し、セキュリティホールを除去"
+#~ "し、新機能を追加します。"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>セクション:</b>"
+
+#~ msgid "Ubuntu 6.04 'Dapper Drake'"
+#~ msgstr "Ubuntu·6.04·'Dapper·Drake'"
+
+#~ msgid "Ubuntu 6.04 Security Updates"
+#~ msgstr "Ubuntu 6.04 セキュリティアップデート"
+
+#~ msgid "Ubuntu 6.04 Updates"
+#~ msgstr "Ubuntu 6.04 アップデート"
+
+#~ msgid "Ubuntu 6.04 Backports"
+#~ msgstr "Ubuntu 6.04 バックポート"
+
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "アップデートに関する最新情報を再読み込み"
+
+#, fuzzy
+#~ msgid "Add the following software channel?"
+#~ msgid_plural "Add the following software channels?"
+#~ msgstr[0] "ソフトウェア・チャンネルを最適化"
+
+#, fuzzy
+#~ msgid "Could not add any software channels"
+#~ msgstr "ソフトウェア・チャンネルを最適化"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">変更点を取得中</span>\n"
+#~ "\n"
+#~ "中央サーバから変更点を取得する必要があります"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "アップデート可能なファイルの表示とインストール"
+
+#~ msgid ""
+#~ "There is not enough free space on your system to download the required "
+#~ "pacakges. Please free some space before trying again with e.g. 'sudo apt-"
+#~ "get clean'"
+#~ msgstr ""
+#~ "システムに要求されたパッケージをダウンロードするだけの十分な空き容量があり"
+#~ "ません。再び試行する前に 'sudo apt-get clean' などで空き容量を確保してくだ"
+#~ "さい"
+
+#~ msgid "Error fetching the packages"
+#~ msgstr "パッケージ取得中にエラー"
+
+#~ msgid ""
+#~ "Some problem occured during the fetching of the packages. This is most "
+#~ "likely a network problem. Please check your network and try again. "
+#~ msgstr ""
+#~ "パッケージを取得中になんらかのエラーが発生しました。おそらくネットワークの"
+#~ "問題です。ネットワークを確認して再試行してください。 "
+
+#~ msgid ""
+#~ "%s packages are going to be removed.\n"
+#~ "%s packages are going to be newly installed.\n"
+#~ "%s packages are going to be upgraded.\n"
+#~ "\n"
+#~ "%s needs to be fetched"
+#~ msgstr ""
+#~ "%s·つのパッケージが削除されます。\n"
+#~ "%s·つのパッケージが新規インストールされます。\n"
+#~ "%s·つのパッケージがアップグレードされます。\n"
+#~ "\n"
+#~ "%s·つのパッケージを取得します"
+
+#~ msgid "To be installed: %s"
+#~ msgstr "インストールされるパッケージ:·%s"
+
+#~ msgid "To be upgraded: %s"
+#~ msgstr "アップグレードされるパッケージ:·%s"
+
+#~ msgid "Are you sure you want cancel?"
+#~ msgstr "本当にキャンセルしますか？"
+
+#~ msgid ""
+#~ "Canceling during a upgrade can leave the system in a unstable state. It "
+#~ "is strongly adviced to continue the operation. "
+#~ msgstr ""
+#~ "アップグレード中にキャンセルすると、システムが不安定な状態になります。動作"
+#~ "を継続することを強く忠告します。 "
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>ソフトウェア取得元</b>"
+
+#, fuzzy
+#~ msgid "Automatically check for updates"
+#~ msgstr "アップデートを自動的にチェックする(_U)"
+
+#, fuzzy
+#~ msgid "Cancel downloading of the changelog"
+#~ msgstr "変更点の取得を中止"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "キーファイルを選択"
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>リポジトリ</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>一時ファイル</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "ユーザインターフェース"
+
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>認証鍵</b></big>\n"
+#~ "\n"
+#~ "認証鍵の追加と削除が行えます。認証鍵によりダウンロードしたソフトウェアが完"
+#~ "全なものか確認することができます。"
+
+#~ msgid "A_uthentication"
+#~ msgstr "認証(_U)"
+
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "新しい鍵ファイルを信頼されたキーリングに追加します。セキュアなチャンネル経"
+#~ "由で鍵を取得し、信頼される持ち主のものか確認してください。 "
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "一時ファイルを自動的に削除する(_T)"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "削除する間隔(日): "
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "パッケージキャッシュにある古いパッケージを削除する(_O)"
+
+#~ msgid "Edit Repository..."
+#~ msgstr "リポジトリの編集..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "最長の保存期間(日):"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "最大量(MB):"
+
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "ディストリビューション付属のデフォルトの鍵を元に戻します。この変更により"
+#~ "ユーザが追加した鍵が失われることはありません。"
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "パッケージキャッシュの最大量を設定する(_M)"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "無効なソフトウェア取得元を表示"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "アップデートする間隔(日): "
+
+#~ msgid "_Add Repository"
+#~ msgstr "リポジトリの追加(_A)"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "アップグレード可能なパッケージを取得する(_D)"
+
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "<b>インストールするパッケージ:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>アップデートがあります</b></big>\n"
+#~ "\n"
+#~ "以下のパッケージがアップグレード可能です。インストールボタンを押すとこれら"
+#~ "のパッケージがインストールされます。"
+
+#~ msgid ""
+#~ "Reload the package information from the server. \n"
+#~ "\n"
+#~ "If you have a permanent internet connection this is done automatically. "
+#~ "If you are behind an internet connection that needs to be started by hand "
+#~ "(e.g. a modem) you should use this button so that update-manager knows "
+#~ "about new updates."
+#~ msgstr ""
+#~ "サーバからパッケージ情報を読み込み直します。\n"
+#~ "\n"
+#~ "ずっとインターネットに接続されたままなら、自動的に行います。アナログモデム"
+#~ "などでそうではないなら、アップデートマネージャに新しいアップデートがあるか"
+#~ "どうかを知らせるため、このボタンを使用して手動で行う必要があります。"
+
+#~ msgid "Binary"
+#~ msgstr "バイナリ"
+
+#~ msgid "CD"
+#~ msgstr "CD"
+
+#~ msgid "Non-free software"
+#~ msgstr "非フリーソフトウェア"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+
+#~ msgid ""
+#~ "This means that some dependencies of the installed packages are not "
+#~ "satisfied. Please use \"Synaptic\" or \"apt-get\" to fix the situation."
+#~ msgstr ""
+#~ "インストールされたパッケージの依存性が満たせないようです。\"Synaptic\" ま"
+#~ "たは \"apt-get\" を使用して修正してください。"
+
+#~ msgid "It is not possible to upgrade all packages."
+#~ msgstr "全てのパッケージをアップグレードすることは不可能です。"
+
+#~ msgid ""
+#~ "This means that besides the actual upgrade of the packages some further "
+#~ "action (such as installing or removing packages) is required. Please use "
+#~ "Synaptic \"Smart Upgrade\" or \"apt-get dist-upgrade\" to fix the "
+#~ "situation."
+#~ msgstr ""
+#~ "パッケージのアップグレードの他にパッケージのインストールや削除などの別の対"
+#~ "処がいるようです。Synaptic \"Smart Upgrade\"か\"apt-get dist-upgrade\"を実"
+#~ "行して問題を修正してください。"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr ""
+#~ "変更点は見つかりませんでした。サーバはまだアップデートされていないようで"
+#~ "す。"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "アップデートされました。"
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "同時にひとつのパッケージマネージャしか起動できません。先に他のアプリケー"
+#~ "ションマネージャを終了してください。"
+
+#~ msgid "Updating package list..."
+#~ msgstr "アップデートされるパッケージのリスト..."
+
+#~ msgid "There are no updates available."
+#~ msgstr "アップデートするものはありません。"
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "新しいUbuntu Linuxにアップグレードしてください。現在お使いのシステムにはセ"
+#~ "キュリティフィクスや危急のアップデートはすでに提供されていません。アップグ"
+#~ "レードに関する情報は http://www.ubuntulinux.org/ を見てください。"
+
+#~ msgid "There is a new release of Ubuntu available!"
+#~ msgstr "Ubuntuの新しいリリース版があります！"
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "コードネーム '%s' という新しいリリース版があります。アップグレードするため"
+#~ "に http://www.ubuntulinux.org/ をご覧ください。"
+
+#~ msgid "Never show this message again"
+#~ msgstr "このメッセージを二度と表示しない"
+
+#~ msgid "Unable to get exclusive lock"
+#~ msgstr "排他的なロックができません"
+
+#~ msgid ""
+#~ "This usually means that another package management application (like apt-"
+#~ "get or aptitude) already running. Please close that application first"
+#~ msgstr ""
+#~ "同時にひとつのパッケージマネージャしか起動できません。先に atp-get や "
+#~ "aptitudeのような他のパッケージマネージャを終了してください。"
+
+#~ msgid "Initializing and getting list of updates..."
+#~ msgstr "アップデートリストを取得中..."
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "rootで実行してください"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "ソフトウェアのソースと設定を編集"
+
+#~ msgid "Ubuntu Update Manager"
+#~ msgstr "Ubuntuアップデートマネージャ"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>利用可能なアップデート</b></big>\n"
+#~ "\n"
+#~ "以下のパッケージがアップグレード可能です。インストールボタンを押すとこれら"
+#~ "のパッケージがインストールされます。"

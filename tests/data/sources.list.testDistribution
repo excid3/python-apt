@@ -1,0 +1,13 @@
+deb http://de.archive.ubuntu.com/ubuntu/ hardy main
+deb http://de.archive.ubuntu.com/ubuntu/ hardy restricted
+deb http://de.archive.ubuntu.com/ubuntu/ hardy universe
+deb http://de.archive.ubuntu.com/ubuntu/ hardy-updates universe multiverse
+deb http://de.archive.ubuntu.com/ubuntu/ hardy-updates restricted
+deb http://de.archive.ubuntu.com/ubuntu/ hardy-security main
+deb http://de.archive.ubuntu.com/ubuntu/ hardy-security multiverse
+deb http://ftp.debian.org/debian sid main
+deb http://ubuntu.cs.uaf.edu/ubuntu/ hardy main
+deb http://ubuntu.cs.uaf.edu/ubuntu/ hardy-backports main
+deb http://archive.ubuntu.com/ubuntu/ intrepid main
+deb cdrom:[Ubuntu 8.10 _Intrepid Ibex_ - Alpha]/ intrepid main
+deb cdrom:[Ubuntu 8.04 _Hardy Heron_] hardy main

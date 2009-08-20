@@ -1,0 +1,448 @@
+# Xhosa translation of update-notifier
+# Copyright (C) 2005 Canonical Ltd.
+# This file is distributed under the same license as the update-notifier package.
+# Translation by Canonical Ltd <translations@canonical.com> with thanks to
+# Translation World CC in South Africa, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-notifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-05 20:45+0000\n"
+"Last-Translator: Canonical Ltd <translations@canonical.com>\n"
+"Language-Team: Xhosa <xh-translate@ubuntu.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Bonisa izihlaziyo"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Bonisa izihlaziyo"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Bonisa izihlaziyo"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+msgid "Debian 3.1 'Sarge'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Bonisa izihlaziyo"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Bonisa izihlaziyo"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+msgid "Debian 'Sid' (unstable)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Bonisa izihlaziyo"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "Kukho i-%i yohlaziyo ekhoyo"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Kukho i-%i yohlaziyo ekhoyo"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "Software Updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "Update Manager"
+#~ msgstr "UMlawuli woMqulu weNkqubo"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Bonisa izihlaziyo"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "Installation Media"
+#~ msgstr "Seka zonke izihlaziyo"
+
+#, fuzzy
+#~ msgid "Software Preferences"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "Uluhlu lwezinto ezikhethwayo zeenkqubo zekhompyutha"
+
+#, fuzzy
+#~ msgid "Updating package list..."
+#~ msgstr "Hlaziya uluhlu lomqulu wenkqubo ngoku"
+
+#, fuzzy
+#~ msgid "There are no updates available."
+#~ msgstr "Kukho i-%i yohlaziyo ekhoyo"
+
+#~ msgid ""
+#~ "Please enter your password to run:\n"
+#~ " %s"
+#~ msgstr ""
+#~ "Nceda faka i-password yakho ukuqhuba:\n"
+#~ " %s"
+
+#~ msgid "Press this icon to show the updates."
+#~ msgstr "Cofa lo mfanekiso ungumqondiso ukubonisa izihlaziyo."
+
+#~ msgid "There are %i post-update informations available!"
+#~ msgstr "Kukho i-%i yolwazi lwasemva kohlaziyo olukhoyo!"
+
+#~ msgid "Press this icon to show the information."
+#~ msgstr "Cofa lo mfanekiso ungumqondiso ukubonisa ulwazi."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Update information</span>\n"
+#~ "\n"
+#~ "There is some post software update information available. Please read the "
+#~ "following information carefully."
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Ulwazi oluhlaziyiweyo</span>\n"
+#~ "\n"
+#~ "Kukho iinkqubo zekhompyutha zasemva kohlaziyo zolwazi olukhoyo. Nceda "
+#~ "funda olu lwazi lulandelayo ngocoselelo."
+
+#~ msgid "Run now"
+#~ msgstr "Phumeza inkqubo ngoku"

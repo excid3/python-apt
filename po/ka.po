@@ -1,0 +1,1523 @@
+# translation of update-manager.po to Georgian
+# Georgian translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+# Vladimer Sichinava <alinux@siena.linux.it>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-18 01:28+0000\n"
+"Last-Translator: Malkhaz Barkalaya <malxaz@gmail.com>\n"
+"Language-Team: Georgian <geognome@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'-ის ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.04 უსაფრთხოების განახლება"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.10 'Breezy Badger'-ის ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.04 უსაფრთხოების განახლება"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.10 'Breezy Badger'-ის ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "universe საზოგადოების მხრდაჭერით"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "მოწყობილობების საკუთარი დრაივერები"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "არათავისუფალი პროგრამები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 'Edgy Eft'-ს ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "თავისუფალი პროგრამები (Open Source) Canonical-ის მხარდაჭერით"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "universe საზოგადოების მხრდაჭერით"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "თავისუფალი პროგრამები (Open Source) universe საზოგადოების მხარდაჭერით"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "არათავისუფალი დრაივერები"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "მოწყობილობების საკუთარი დრაივერები "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "არათავისუფალი პროგრამები (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "პატენტებითა და კანონებით შეზღუდული პროგრამები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS 'Dapper Drake'-ის ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "უსაფრთხოების მნიშვნელოვანი განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "რეკომენდებული განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "შემოთავაზებული განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Backport-განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 'Breezy Badger'-ის ლაზერული დისკი"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 უსაფრთხოების განახლება"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 ბექპორტები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 'Hoary Hedgehog'-ის ლაზერული დისკი"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "ოფიციალური მხარდაჭერით"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.04 უსაფრთხოების განახლება"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.04 განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.04 ბექპორტები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "საზოგადოების მხარდაჭერით (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "არათავისუფალი (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 'Warty Warthog'-ის ლაზერული დისკი"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "მოხსნილი აქვს ოფიციალური მხარდაჭერა"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "შეზღუდული საავტორო უფლება"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 უსაფრთხოების განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 4.10 განახლებები"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 4.10 ბექპორტები"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "შემოთავაზებული განახლებები"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "უსაფრთხოების მნიშვნელოვანი განახლებები"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "არათავისუფალ პროგრამებზე დამოკიდებული DFSG-თავსებადი პროგრამები"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "DFSG-არათავსებადი პროგრამები"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "%s სერვერი"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "მთავარი სერვერი"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "საკუთარი სერვერები"
+
+#~ msgid "Daily"
+#~ msgstr "ყოველდღიურად"
+
+#~ msgid "Every two days"
+#~ msgstr "ყოველ 2 დღეში"
+
+#~ msgid "Weekly"
+#~ msgstr "ყოველკვირეულად"
+
+#~ msgid "Every two weeks"
+#~ msgstr "ყოველ 2 კვირაში"
+
+#~ msgid "Every %s days"
+#~ msgstr "ყოველ %s დღეში"
+
+#~ msgid "After one week"
+#~ msgstr "ერთი კვირის შემდგომ"
+
+#~ msgid "After two weeks"
+#~ msgstr "ორი კვირის შემდგომ"
+
+#~ msgid "After one month"
+#~ msgstr "ერთი თვის შემდგომ"
+
+#~ msgid "After %s days"
+#~ msgstr "%s დღის შემდეგ"
+
+#~ msgid "%s updates"
+#~ msgstr "%s განახლება"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "უახლოესი სერვერი"
+
+#~ msgid "Software Channel"
+#~ msgstr "პროგრამების მიღება წყაროებიდან"
+
+#~ msgid "Active"
+#~ msgstr "აქტიური"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(საწყისი კოდი)"
+
+#~ msgid "Source Code"
+#~ msgstr "საწყისი კოდი"
+
+#~ msgid "Import key"
+#~ msgstr "გასაღების იმპორტი"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "ამორჩეული ფაილის იმპორტი ვერ მოხერხდა"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "ამორჩეული ფაილი შეიძლება არ იყოს GPG გასაღების ფაილი ან შეიძლება იყოს "
+#~ "დაზიანებული."
+
+#~ msgid "Error removing the key"
+#~ msgstr "გასღების წაშლა ვერ მოხერხდა"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "ამორჩეული გასაღების წაშლა ვერ მოხერხდა. გთხოვთ აცნობოთ ეს როგორც ხარვეზი."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>დაიშვა შეცდომა CD-ს წაკითხვისას</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "შეიყვანეთ დისკის სახელი"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "მოათავსეთ დისკი დისკამძრავში:"
+
+#~ msgid "Broken packages"
+#~ msgstr "დაზიანებული პაკეტები"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "თქვენს სისტემაში არის დაზიანებული პაკეტები, რომელთა გამართვა ვერ ხერხდება "
+#~ "ამ პროგრამით. ჯერ გამართეთ დაზიანებული პაკეტები synaptic ან apt-get "
+#~ "პროგრამით და შემდეგ გააგრძელეთ."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "საჭირო მეტა-პაკეტების განახლება ვერ მოხერხდა"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "ამით საჭირო პაკეტი წაიშლება"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "სისტემა ვერ მომზადდა განახლებისათვის"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "მოხდა დაუდგენელი შეცდომა განახლებისათვის მზადებისას.\n"
+#~ "\n"
+#~ "შეატყობინეთ ეს ხარვეზი 'update-manager' პაკეტის საშუალებით, შეტყობინებას "
+#~ "დაურთეთ ფაილები /var/log/dist-upgrade/-დან."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "ზოგიერთი პაკეტის ავთენთიფიკაციის შეცდომა"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "ვერ ხერხდება ზოგიერთი პაკეტის ავთენთიფიკაცია. ეს შეიძლება იყოს კავშირის "
+#~ "ბრაკი. სცადეთ მოგვიანებით. ქვევით იხილეთ არა-ავთენთიფიცერული პაკეტების "
+#~ "სია."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "'%s' ვერ დაყენდა"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "საჭირო პაკეტის დაყენება ვერ მოხერხდა. შეატყობინეთ ეს როგორც ხარვეზი. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "მეტა-პაკეტი ვერ შეირჩა"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "თქვენს სისტემაში არ არის ubuntu-desktop, kubuntu-desktop ან edubuntu-"
+#~ "desktop პაკეტებიდან არცერთი, რის გამოც უბუნტუს ვერსიის დადგენა ვერ "
+#~ "ხერხდება.\n"
+#~ "  სანამ გააგრძელებდეთ, დააყენეთ რომელიმე მათგანი synaptic ან apt-get-ის "
+#~ "გამოყენებით."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "ვერ განხორციელდა CD-ს დამატება"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "შეცდომა CD-ს დამატებისას; განახლების პროცესი შეწყვეტილია. თუ დარწმუნებული "
+#~ "ხართ, რიმ ეს უბუნტუს CD0ს ბრალი არ არის, შეატყობინეთ ამ ხარვეზის "
+#~ "შესახებ.\n"
+#~ "\n"
+#~ "ინფორმაცია შეცდომის შესახებ:\n"
+#~ "'%s'"
+
+#~ msgid "Reading cache"
+#~ msgstr "ქეშის კითხვა"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "მივიღოთ ქსელიდან მონაცემები განახლების შესახებ?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "განახლების პროგრამას შეუძლია მიიღოს ქსელიდან განახლებები და პაკეტები, "
+#~ "რომლებიც არ არის ამ CD-ზე.\n"
+#~ "დაეთანხმეთ განახლების მიღებას, ან უარი თქვით, თუ თქვენი ქსელი ძალიან "
+#~ "ნელია ან ძვირი."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "არ მოინახა შესაბამისი სარკე"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "რეპოზიტორიის შესახებ ინფორმაციაში არ არის მითითებული სარკე სისტემის "
+#~ "განახლებისათვის. შესაძლოა თქვენ შიდა სარკეს იყენებთ, ან ინფორმაცია სარკის "
+#~ "შესახებ მოძველებულია.\n"
+#~ "\n"
+#~ "თუ თქვენ მაინც გინდათ 'sources.list' ფაილის განახლება, დასტურის "
+#~ "შემთხვევაში ყველა ჩანაწერი %s'-დან '%s'-მდე განახლდება.\n"
+#~ "უარის შემთხვევაში განახლება არ მოხდება."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "გავუშვათ ნაგულისხმევი წყაროების გენერაცია?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "თქვენს  'sources.list'-ში არ აღმოჩნდა არც ერთი სათანადო ჩანაწერი '%s'-"
+#~ "სთვის.\n"
+#~ "\n"
+#~ "დავამატოთ ნაგულისხმევი ჩანაწერები '%s'-სთვის? უარის შემთხვევაში განახლება "
+#~ "არ მოხდება."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "რეპოზიტორიების ინფორმაცია არასწორია"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "რეპოზიტორიების განახლების შედეგად დაზიანდა ფაილი. შეატყობინეთ ეს როგორხ "
+#~ "ხარვეზი."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "მესამე მხარის წყაროები გამორთულია"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "მესამე მხარის ზოგი წყარო sources.list-ში გამორთულია. განახლების შემდეგ "
+#~ "შეგეძლებათ მათი ჩართვა 'software-properties' ან synaptic-ის საშუალებით."
+
+#~ msgid "Error during update"
+#~ msgstr "განახლებისას მოხდა შეცდომა"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "განახლებისას მოხდა შეცდომა. როგორც წესი ეს არის კავშირის პრობლემა, "
+#~ "შეამოწმეთ თქვენი კავშირი და სცადეთ კიდევ ერთხელ."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "დისკზე არ არის საკმარისი თავისუფალი ადგილი"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "განახლება შეწყვეტილია. გაათავისუფლეთ არანაკლებ %s ზომის ადგილი %s დისკზე. "
+#~ "გამოიყენეთ 'sudo apt-get clean' ურნიდან ფაილებისა და წინა ინსტალაციის "
+#~ "დროებითი პაკეტების წასაშლელად."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "გნებავთ განახლების დაწყება?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "განახლებების დაყენება ვერ ხერხდება"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "განახლება შეწყვეტილია. სისტემამ, შესაძლოა, დაკარგა მუშაობის უნარი. "
+#~ "გაშვებულია აღდგენის პროცესი (dpkg --configure -a).\n"
+#~ "\n"
+#~ "შეატყობინეთ ხარვეზის შესახებ 'update-manager' პაკეტის საშუალებით, "
+#~ "შეტყობინებაში ჩართეთ ფაილები var/log/dist-upgrade/-დან."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "განახლებების ჩამოტვირთვა ვერ ხერხდება"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "განახლება შეწყვეტილია. შეამოწმეთ ხელახლა ქსელი და საინსტალაციო დისკი. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "ზოგ პროგრამას მხარდაჭერა აღარა აქვს"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "ამ პაკეტებს Canonical Ltd.-ს ნაცვლად საზოგადოება უჭერს მხარს.\n"
+#~ "\n"
+#~ "თუ თქვენ არა გაქვთ საზოგადოების რეპოზიტორია (universe), მაშინ შემდეგ "
+#~ "ეტაპზე შემოთავაზებული იქნება ამ პაკეტების წაშლა."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "წავშალოთ მოძველებული პაკეტები?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "ეტაპის გა_მოტოვება"
+
+#~ msgid "_Remove"
+#~ msgstr "_წაშლა"
+
+#~ msgid "Error during commit"
+#~ msgstr "შეცდომა გადაცემისას"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr "შეცდომა გასუფთავებისას. დაწვრილებით იხილეთ ქვემოთ. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "სისტემის საწყისი მდგომარეობის აღდგენა"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "%s'-ის მიღება backport-იდან"
+
+#~ msgid "Checking package manager"
+#~ msgstr "პროგრამულ მენეჯერის შემოწმება"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "შეცდომა განახლების მომზადებისას"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "მოხდა დაუდგენელი შეცდომა განახლების მომზადებისას. შეატყობინეთ 'update-"
+#~ "manager'-ის ეს ხარვეზი, ანგარიშს დაურთეთ ფაილები /var/log/dist-upgrade/-"
+#~ "დან."
+
+#~ msgid "Updating repository information"
+#~ msgstr "რეპოზიტორიის ინფორმაციის განახლება"
+
+#~ msgid "Invalid package information"
+#~ msgstr "ინფორმაცია პაკეტის შესახებ არასწორია"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "პაკეტის შესახებ ინფორმაციის განახლების შემდეგ ვერ მოიძებნა მნიშვნელოვანი "
+#~ "პაკეტი '%s'.\n"
+#~ "ეს სერიოზული შეცდომაა, შეატყობინეთ 'update-manager'-ის ეს ხარვეზი, "
+#~ "ანგარიშს დაურთეთ ფაილები /var/log/dist-upgrade/-დან."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "დასტურის მოთხოვნა"
+
+#~ msgid "Upgrading"
+#~ msgstr "მიმდინარეობს განახლება"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "მოძველებული პროდუქტების ძებნა"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "სისტემის განახლება დასრულებულია."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "ჩადევით '%s'  '%s'-ში"
+
+#~ msgid "Fetching is complete"
+#~ msgstr "ჩატვირთვა დასრულებულია"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "იტვირთება %li ფაილი %li-დან, სიჩქარე - %s/წმ"
+
+#~ msgid "About %s remaining"
+#~ msgstr "დარჩა დაახლოებით %s"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "იტვირთება %li ფაილი %li-დან"
+
+#~ msgid "Applying changes"
+#~ msgstr "ცვლილებების დამტკიცება"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "ვერ დადგა '%s'"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "განახლება შეწყვეტილია. შეატყობინეთ 'update-manager'-ის ეს ხარვეზი, "
+#~ "ანგარიშს დაურთეთ ფაილები /var/log/dist-upgrade/-დან."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "გადავაწეროთ ადრინდელს კონფიგურაციის განახლებული ფაილი\n"
+#~ "'%s'?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "თუ დაეთანხმებით, კონფიგურაციის ფაილში თქვენს მიერ ადრე შეტანილი "
+#~ "ცვლილებები დაიკარგება."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "'diff' ბრძანება ვერ მოინახა"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "ფატალური შეცდომა"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "შეატყობინეთ ეს ხარვეზი, ანგარიშს დაურთეთ ფაილები /var/log/dist-upgrade/"
+#~ "main.log და var/log/dist-upgrade/apt.log-დან. განახლება შეწყვეტილია.\n"
+#~ "თქვენი პირვანდელი  sources.list შენახულია /etc/apt/sources.list."
+#~ "distUpgrade-ში."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "წაიშლება %d პაკეტი."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "დადგება %d ახალი პაკეტი."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "განახლდება %d პაკეტი."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "სულ გადმოიტვირთება %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "განახლების გადმოტვირთვასა და დაყენებას სჭირდება რამდენიმე საათი და მისი "
+#~ "შეწყვეტა არ არის სასურველი."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "დახურეთ გახსნილი პროგრამები და დოკუმენტები, მონაცემების დაკარგვის თავიდან "
+#~ "ასაცილებლად."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "თქვენი სისტემა განახლებულია"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr "თქვენი სისტემისათვის არ არის განახლებები. პროცედურა შეწყვეტილია."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b> ამოშლა %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "დაყენება %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "ჩასაყენებელი განახლება %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li დღე %li საათი %li წუთი"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li საათი %li წუთი"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li წუთი"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li წამი"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "ჩამოტვირთვის ხანგრძლივობა: %s - 1Mbit DSL-სათვის,  %s 56k-მოდემისათვის."
+
+#~ msgid "Reboot required"
+#~ msgstr "საჭიროა გადატვირთვა"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr "განახლება დასრულდა, საჭიროა გადატვირთვა. გადავიტვირთოთ ახლა?"
+
+#, fuzzy
+#~ msgid "    "
+#~ msgstr "ეს არ ვიცი როგორ ვთარგმნო, ვერცერთ ლექსიკონში ვერ ვნახე :)    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>შევწყვიტოთ განახლების პროცესი?</big></b>\n"
+#~ "\n"
+#~ "განახლების შეწყვეტამ შეიძლება სისტემას მუშაობის უნარი დაუკარგოს. "
+#~ "დაბეჯითებით გირჩევთ არ შეწყვიტოთ განახლების პროცესი."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>სისტემის გადატვირთვა განახლების დასასრულებლად</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>განახლების დაწყება</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Ubuntu-ს განახლება 6.10 ვერსიამდე</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "გასუფთავება"
+
+#~ msgid "Details"
+#~ msgstr "ცნობები"
+
+#~ msgid "Difference between the files"
+#~ msgstr "განსხვავება ფაილებს შორის"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "მიმდინარეობს განახლებების ჩამოქაჩვა და დაყენება"
+
+#, fuzzy
+#~ msgid "Modifying the software channels"
+#~ msgstr "პროგრამების მიღების არხების შეცვლა"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "განახლებისათვის მომზადება"
+
+#~ msgid "Restarting the system"
+#~ msgstr "სისტემის გადატვირთვა"
+
+#~ msgid "Terminal"
+#~ msgstr "ტერმინალი"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "განახლების _შეწყვეტა"
+
+#~ msgid "_Continue"
+#~ msgstr "_გაგრძელება"
+
+#~ msgid "_Keep"
+#~ msgstr "_დატოვება"
+
+#~ msgid "_Replace"
+#~ msgstr "_ჩანაცვლება"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_ხარვეზის ანგარიშის გაგზავნა"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_გადატვირთვა"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "განახლების _გაგრძელება"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "განახლების _დაწყება"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "ვერ მოინახა ჩანაწერი გამოშვების შესახებ"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "შესაძლებელია სერვერი გადატვირთულია. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "შეუძლებელია გამოშვების შესახებ ჩანაწერის ჩამოქაჩვა"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "გთხოვთ შეამოწმოთ თქვენი ინტერნეტ-კავშირი."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "განახლების უტილიტა ვერ გაიშვა"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "როგორც სჩანს, ეს განახლების უტილიტის ბრალია. გაგზავნეთ ხარვეზის "
+#~ "შეტყობინება"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "მიმდინარეობს განახლების უტილიტის ჩამოქაჩვა"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr "განახლების უტილიტა დაგეხმარებათ განახლების მიმდინარეობისას."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "განახლების უტილიტის ხელმოწერა"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "განახლების უტილიტა"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "მიღება ვერ მოხერხდა"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr "ვერ მოხერხდა განახლების მიღება. შესაძლოა ქსელის პრობლემა იყოს. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "განარქივება ვერ განხორციელდა"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "განახლების განარქივება ვერ განხორციელდა. შესაძლოა ქსელის ან სერვერის "
+#~ "პრობლემა იყოს. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "შეცდომა გადამოწმებისას"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "განახლების შეჯერება წარუმატებლად დამთავრდა. შესაძლოა ქსელის ან სერვერის "
+#~ "პრობლემა იყოს. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "აუტენტიფიკაცია ვერ მოხერხდა"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "განახლების აუტენტიფიკაცია ვერ მოხერხდა. შესაძლოა ქსელის ან სერვერის "
+#~ "პრობლემა იყოს. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr ""
+#~ "მე-%(current)li ფაილის ჩამოქაჩვა %(total)li-დან. სიჩქარე - %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "მე-%(current)li ფაილის ჩამოქაჩვა %(total)li-დან"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "ცვლილებების სია არ არის ხელმისაწვდომი."
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "ცვლილებების სია ჯერჯერობით არ არის ხელმისაწვდომი. \n"
+#~ "სცადეთ მოგვიანებით."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "ვერ განხორციელდა ცვლილებების სიის ჩამოქაჩვა.\n"
+#~ "შეამოწმეთ ინტერნეტ-კავშირი."
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "ბექპორტები"
+
+#~ msgid "Distribution updates"
+#~ msgstr "დისტრიბუტივის განახლებები"
+
+#~ msgid "Other updates"
+#~ msgstr "სხვა განახლებები"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "ვერსია %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "მიმდინარეობს ცვლილებათა სიის ჩამოქაჩვა..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "_ყველას გაუქმება"
+
+#~ msgid "_Check All"
+#~ msgstr "_ყველას მონიშვნა"
+
+#~ msgid "Download size: %s"
+#~ msgstr "ჩამოსატვირთის ზომა: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "თქვენ შეგიძლიათ %s განახლების ჩადგმა"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "გთხოვთ მოითმინოთ, მიმდინარე პროცესს საკმაო დრო სჭირდება."
+
+#~ msgid "Update is complete"
+#~ msgstr "განახლება გასრულებულია"
+
+#~ msgid "Checking for updates"
+#~ msgstr "განახლებების არსებობის შემოწმება"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "%(old_version)s ვერსიიდან %(new_version)s-მდე"
+
+#~ msgid "Version %s"
+#~ msgstr "ვერსია %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(ზომა: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "თქვენს დისტრიბუტივს აღარ გააჩნია მხარდაჭერა"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "თქვენ ვეღარ მიიღებთ უსაფრთხოების შესწორებებსა და კრიტიკულ განახლებებს. "
+#~ "განაახლეთ სისტემა უბუნტუ-ლინუქსის ახალ ვერსიამდე. იხილეთ http://www."
+#~ "ubuntu.com."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>ხელმისწვდომია ახალი გამოშვება '%s'</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "პროგრამების სიის ინდექსი დაზიანებულია"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "შეუძლებელია პროგრამების დაყენება ან წაშლა. ჯერ გამოასწორეთ დეფექტი "
+#~ "პაკეტების მენეჯერით Synaptic ან ტერმინალში \"sudo apt-get install -f\" "
+#~ "ბრძანებით."
+
+#, fuzzy
+#~ msgid "None"
+#~ msgstr "არაფერი"
+
+#~ msgid "1 KB"
+#~ msgstr "1 კბ"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f კბ"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f მბ"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>თქვენ თვითონ მოსინჯეთ განახლებები</big></b>\n"
+#~ "\n"
+#~ "სისტემამ არ ეძებს განახლებებს ავტომატურ რეჟიმში. შეგიძლიათ ეს თვისება "
+#~ "შეცვალოთ ჩანართში <i>განახლება ინტერნეტიდან</i> ფანჯარაში <i>წყარო-"
+#~ "პროგრამები</i>."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>განაახლეთ ხოლმე სისტემა</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>ვერ მოხერხდა ყველა განახლების დაყენება</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<b><big>განახლების მენეჯერის გაშვება</big></b>"
+
+#~ msgid "Changes"
+#~ msgstr "ცვლილებები"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "განახლების აღწერა და ცვლილებები"
+
+#~ msgid "Chec_k"
+#~ msgstr "შე_მოწმება"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "პროგრამათა წყაროების შემოწმება განახლებების არსებობაზე"
+
+#~ msgid "Description"
+#~ msgstr "აღწერილობა"
+
+#~ msgid "Release Notes"
+#~ msgstr "გამოშვების მონაცემები"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "მაქსიმალური განახლებისათვის გაუშვით დისტრიბუტივის განახლება.\n"
+#~ "\n"
+#~ "ამის მიზეზი შეიძლება იყოს განახლების შეწყვეტა, არაოფიციალური პროგრამებისა "
+#~ "და დეველოპერ-ვერსიის გამოყენება."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "პროგრესის ჩვენება ცალკეული ფაილებისათვის"
+
+#~ msgid "Software Updates"
+#~ msgstr "პროგრამათა განახლებები"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "პროგრამათა განახლებები ასწორებს შეცდომებს, უსაფრთხოების ხარვეზებს და "
+#~ "ამატებს ახალ შესაძლებლობებს."
+
+#~ msgid "U_pgrade"
+#~ msgstr "_განახლება"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "განახლება უბუნტუს ბოლო ვერსიამდე"
+
+#~ msgid "_Check"
+#~ msgstr "შ_ემოწმება"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_დისტრიბუტივის განახლება"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_დავმალოთ ეს ინფორმაცია მომავალში"
+
+#~ msgid "_Install Updates"
+#~ msgstr "განახლებების _დაყენება"
+
+#~ msgid "_Upgrade"
+#~ msgstr "_განახლება"
+
+#~ msgid "changes"
+#~ msgstr "ცვლილებები"
+
+#~ msgid "updates"
+#~ msgstr "განახლებები"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>ავტომატური განახლებები</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>CDROM/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>ინტერნეტ-განახლებები</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>ინტერნეტი</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>მიიღეთ მონაწილეობა პოპულარობის რეიტინგის შექმნაში - ამით თქვენ ხელს "
+#~ "შეუწყობთ უბუნტუს გაუმჯობესებას; შეიქმნება თქვენს მიერ დაყენებული "
+#~ "პროგრამების სია მათი გამოყენების სიხშირის ჩვენებით, რომელიც ანონიმურად, "
+#~ "კვირაში ერთხელ გაიგზავნება უბუნტუს პროექტში.\n"
+#~ "\n"
+#~ "შედეგები გამოყენებულ იქნება პოპულარული პროგრამების უკეთ მხარდაჭერისათვის "
+#~ "და ძებნის შედეგებში პროგრამების რეიტინგის შესაფასებლად.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Cdrom-ის დამატება"
+
+#~ msgid "Authentication"
+#~ msgstr "აუთენტიფიკაცია"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "ჩამოტვირთული პროგრამების ფაილების წ_აშლა:"
+
+#~ msgid "Download from:"
+#~ msgstr "ჩამოტვირთვა წყაროდან:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "სანდო პროგრამების მომწოდებლის ღია გასაღების იმპორტი"
+
+#~ msgid "Internet Updates"
+#~ msgstr "ინტერნეტ-განახლებები"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "ავტომატურად დაყენდება მხოლოდ უსაფრთხოების განახლებები უბუნტუს ოფიციალური "
+#~ "სერვერებიდან"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "ნაგულისხმევი პარამეტრების აღდგენა"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "ნაგულისხმევი გასაღებების აღდგენა დისტრიბუტივიდან"
+
+#~ msgid "Software Sources"
+#~ msgstr "წყარო-პროგრამები"
+
+#~ msgid "Source code"
+#~ msgstr "საწყისი კოდი"
+
+#~ msgid "Statistics"
+#~ msgstr "სტატისტიკა"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "სტატისტიკური ინფორმაციის გაგზავნა"
+
+#~ msgid "Third Party"
+#~ msgstr "სხვა მომწოდებლები"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "განახლებების ავტომატური შ_ემოწმება:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "_განახლებების ავტომატური ჩამოტვირთვა დაყენების გარეშე"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_გასაღები ფაილის იმპორტი"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_უსაფრთხოების განახლებების დაყენება შეკითხვის გარეშე"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>ინფორმაცია ხელმისაწვდომი პროგრამების შესახებ ვადაგასულია</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "ახალი ან შეცვლილი წყაროდან პროგრამის დასაყენებლად განაახლეთ ინფორმაცია "
+#~ "ხელმისაწვდომი პროგრამების შესახებ."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>კომენტარი:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>კომპონენტები:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>დისტრიბუტივი:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>ტიპი:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>შეიყვანეთ წყაროდ დასამატებელი რეპოზიტორიის სრული APT-სტრიქონი</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "\n"
+#~ "APT-სტრიქონი შეიცავს რეპოზიტორიის ტიპს, მდებარეობასა და კომპონენტებს. "
+#~ "მაგალითად <i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "APT-სტრიქონი:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "ორობითი\n"
+#~ "წყარო"
+
+#~ msgid "Edit Source"
+#~ msgstr "წყაროს შეცვლა"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "CD-ROM-ის სკანირება"
+
+#~ msgid "_Add Source"
+#~ msgstr "_წყაროს დამატება"
+
+#~ msgid "_Reload"
+#~ msgstr "_გადატვირთვა"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "ახალი განახლებების ჩვენება და ჩადგმა"
+
+#~ msgid "Update Manager"
+#~ msgstr "განახლების მენეჯერი"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "დისტრიბუტივის ახალი ვერსიის ავტომატური მონახვა და თუ შესაძლებელია, "
+#~ "განახლების შემოთავაზება."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "დისტრიბუტივის ახალი გამოშვების მოსინჯვა"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "როცა განახლებების ავტომატური მოსინჯვის ფუნქცია გამორთულია, თქვენ ხელით "
+#~ "უნდა მოახდინოთ წყაროთა სიის განახლება, რასაც სისტემა შეგახსენებთ. ამ "
+#~ "პარამეტრით შეიძლება შეხსენების აკრძალვა."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "წყაროთა სიის განახლების შეხსენება"
+
+#~ msgid "Show details of an update"
+#~ msgstr "განახლების დეტალების ჩვენება"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "ინახავს განახლების მენეჯერის ფანჯრის ზომას"
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr ""
+#~ "ინახავს ცვლილებებისა და აღწერილობების შემცველი ექსპანდერის მდგომარეობას"
+
+#~ msgid "The window size"
+#~ msgstr "ფანჯრის ზომა"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr "პროგრამების დაყენებისა და განახლების წყაროების კონფიგურირება"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" უსაფრთხოების განახლებები"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://http.us.debian.org/debian/"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "განახლებების _დაყენება"
+
+#~ msgid "Cancel _Download"
+#~ msgstr "ჩამოტვირთვის _გაუქმება"
+
+#, fuzzy
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "არა"
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "ვერ ვპოულობ განახლებებს"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "თქვენი სისტემა სულ ახლახანს განახლდა."
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.10</span>"
+#~ msgstr "<span weight=\"bold\" size=\"x-large\"> -სკენ</span>"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Ubuntu 5.10 უსაფრთხოების განახლება"
+
+#, fuzzy
+#~ msgid "Updates of Ubuntu"
+#~ msgstr "განახლება -სკენ ვერსია ის"
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "შეუძლებელია ყველა არსებული განახლების ჩაყენება"
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>ვამოწმებ თქვენს სისტემას</b></big>\n"
+#~ "\n"
+#~ "მოცემული პროგრამა გიჩვენებთ განახლებებს, გაასწორებს სისტემურ შეცდომებს და "
+#~ "წარმოგიდგენთ ახალ შესაძლებლობებს."
+
+#, fuzzy
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "ის გამოყენება მონიშვნა ყველა ის Synaptic ან sudo -ში a ტერმინალი -სკენ "
+#~ "განახლება."
+
+#, fuzzy
+#~ msgid "Download is complete"
+#~ msgstr "ჩამოტვირთვა ტოლია სრული"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "ახლა."
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "მიმდინარეობს უბუნტუს განახლებების ჩაყენება"
+
+#~ msgid "Hide details"
+#~ msgstr "დეტალების დამალვა"
+
+#~ msgid "Show details"
+#~ msgstr "დეტალების ჩვენება"
+
+#, fuzzy
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "მხოლოდ ტოლია -სკენ დრო"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr "დახურვა სხვა პროგრამა e ან Synaptic."
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>არხები</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>გასაღებები</b>"
+
+#, fuzzy
+#~ msgid "Installation Media"
+#~ msgstr "დაყენება მედია"
+
+#~ msgid "Software Preferences"
+#~ msgstr "პროგრამების პარამეტრები"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>არხი</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>კომპონენტები</b>"
+
+#, fuzzy
+#~ msgid "Add Channel"
+#~ msgstr "არხის დამატება"
+
+#~ msgid "Edit Channel"
+#~ msgstr "არხის რედაქტორება"
+
+#, fuzzy
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "დამატება არხი"
+
+#~ msgid "_Custom"
+#~ msgstr "_პირადი"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 განახლებები"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS უსაფრთხოების განახლება"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS განახლებები"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS დამატებითი პროგრამები"

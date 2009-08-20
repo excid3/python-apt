@@ -1,0 +1,975 @@
+# translation of update-manager.HEAD.po to Nepali
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Pawan Chitrakar <pawan@mpp.org.np>, 2005.
+# Jaydeep Bhusal <zaydeep@hotmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager.HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:13+0000\n"
+"Last-Translator: Jaydeep Bhusal <zaydeep@hotmail.com>\n"
+"Language-Team: Nepali <info@mpp.org.np>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2;plural=(n!=0)\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "समुदाय सम्हालिएको (ब्रह्माण्ड)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "योगदान गरिएको सफ्टवेयर"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "समुदाय सम्हालिएको (ब्रह्माण्ड)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "समुदाय सम्हालिएको (ब्रह्माण्ड)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "समुदाय सम्हालिएको (ब्रह्माण्ड)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "नन-फ्री (बहुभर्स)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "नन-फ्री (बहुभर्स)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+#, fuzzy
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+#, fuzzy
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+#, fuzzy
+msgid "Ubuntu 5.10 Updates"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+#, fuzzy
+msgid "Officially supported"
+msgstr "कार्यालय बाट समर्थित"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "समुदाय सम्हालिएको (ब्रह्माण्ड)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "नन-फ्री (बहुभर्स)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "कार्यालय बाट समर्थित"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "निषेधित प्रतिलिपि अधिकार"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "युबन्टु ४.१० सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+#, fuzzy
+msgid "Ubuntu 4.10 Updates"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "डेबियन अचल सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+#, fuzzy
+msgid "Debian current stable release"
+msgstr "डेबियन अचल सुरक्षा अद्यावधिकहरु"
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "डेबियन अचल सुरक्षा अद्यावधिकहरु"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Daily"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "सफ्टवेयर अद्यावधिकहरु"
+
+#, fuzzy
+#~ msgid "(Source Code)"
+#~ msgstr "स्रोत"
+
+#, fuzzy
+#~ msgid "Source Code"
+#~ msgstr "स्रोत"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "चयन गरिएको फाइल आयात गर्दा त्रुटि"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "चयन गरिएको फाइल जिपिजि कुञ्जि फइल नहुन सक्छ अथवा यो दुषित हुन सक्दछ"
+
+#~ msgid "Error removing the key"
+#~ msgstr "कुञ्जि हटाउँदा त्रुटि"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस"
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस"
+
+#, fuzzy
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस "
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "कुञ्जि हटाउँदा त्रुटि"
+
+#, fuzzy
+#~ msgid "Checking package manager"
+#~ msgstr "अर्को प्याकेज व्यवस्थापक चलिरेको छ"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस"
+
+#, fuzzy
+#~ msgid "Upgrading"
+#~ msgstr "स्तरवृद्धि समाप्त"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "तपाइं को प्रणालि अप-टु-डेट छ!"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "फेरि लोड गर्नुहोस"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस"
+
+#, fuzzy
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid "Authentication failed"
+#~ msgstr "प्रमाणिकरण"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "युबन्टुको एउटा नयाँ विमोचन उपलब्ध छ!"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "युबन्टुको एउटा नयाँ विमोचन उपलब्ध छ!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्न असफल. यदि सक्रिय इन्टरनेट जडान छ भने जाँच्नुहोस"
+
+#, fuzzy
+#~ msgid "Backports"
+#~ msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "संस्करण %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid "Download size: %s"
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "स्तरवृद्धिहरु स्थापना गर्दै"
+#~ msgstr[1] "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "संस्करण %s:"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "तपाईंको वितरण समर्थित छैन"
+
+#~ msgid "Changes"
+#~ msgstr "परिवर्तनहरु"
+
+#~ msgid "Description"
+#~ msgstr "बर्णन"
+
+#~ msgid "Software Updates"
+#~ msgstr "सफ्टवेयर अद्यावधिकहरु"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "स्तरवृद्धि समाप्त"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "परिवर्तनहरु"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>इन्टरनेट अद्यावधिकहरु</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>इन्टरनेट अद्यावधिकहरु</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>इन्टरनेट अद्यावधिकहरु</b>"
+
+#, fuzzy
+#~ msgid "Add Cdrom"
+#~ msgstr "सिडि थप्नुहोस"
+
+#, fuzzy
+#~ msgid "Authentication"
+#~ msgstr "प्रमाणिकरण"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "परिवर्तनहरु डाउनलोड गर्दै"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "विश्वास गरिएको कुञ्जिरिंग बाट चयन गरिएको कुञ्जि हटाउनुहोस"
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "<b>इन्टरनेट अद्यावधिकहरु</b>"
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "पुर्वनिर्धारित कुञ्जिहरु पुर्वावस्थामा ल्याउनुहोस"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "पुर्वनिर्धारित कुञ्जिहरु पुर्वावस्थामा ल्याउनुहोस"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "सफ्टवेयर गुणहरु"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "स्रोत"
+
+#, fuzzy
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>टिप्पणि:</b>"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>तत्वहरु</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>वितरण:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>प्रकार:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>युआरएल:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>तपाईंले थप्न चाहेको कोषको पुर्ण एपिटि हरफ प्रविष्ट गर्नुहोस</b></big>\n"
+#~ "\n"
+#~ "एपिटि हरफमा कोषको प्रकार, स्थान र सामग्री समाहित हुन्छ, उदाहरण को लागि <i>"
+#~ "\"deb http://ftp.debian.org sarge main\"</i>. तपाईंले मिसिलिकरण मा वाक्य "
+#~ "संरचनाको एउटा विस्तृत विवरण पाउन सक्नुहुन्छ"
+
+#~ msgid "APT line:"
+#~ msgstr "एपिटि हरफ:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "बाइनरी\n"
+#~ "स्रोत"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "स्रोत"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "स्रोत"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "फेरि लोड गर्नुहोस"
+
+#~ msgid "Update Manager"
+#~ msgstr "अद्यावधिक व्यवस्थापक"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "युएस निषेधित सफ्टवेयर"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#, fuzzy
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "तपाईंको प्रणालीमा टुटेका प्याकेजहरु छन!"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "कार्यालय बाट समर्थित"
+
+#, fuzzy
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "निम्न प्याकेजहरु स्तरवृद्धि गरिएको छैन"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr ""
+#~ "तपाईंले चयन गरेको कुञ्जि हटाउन सकिएन. कृपया यसको प्रतिवेदन त्रुटिको रुपमा दिनुहोस"
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "Installation Media"
+#~ msgstr "स्तरवृद्धिहरु स्थापना गर्दै"
+
+#~ msgid "Software Preferences"
+#~ msgstr "सफ्टवेयर प्राथमिकताहरु"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>विवरणहरु</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>तत्वहरु</b>"
+
+#~ msgid "_Custom"
+#~ msgstr "अनुकुलन गर्नुहोस"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "युबन्टु ५.०४ सुरक्षा अद्यावधिकहरु"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "युबन्टु ५.०४ अद्यावधिकहरु"
+
+#~ msgid "Repositories changed"
+#~ msgstr "कोषहरु परिवर्तित"
+
+#, fuzzy
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "कोष जानकारी संग परिवर्तनहरु छन. %s मा तपाईंको स्रोतहरु को सुची को ब्याकअप प्रति "
+#~ "भण्डारण गरिएको छ. बचत गर्नुहोस. \n"
+#~ "\n"
+#~ "तपाईको परिवर्तनहरुले प्रभाव लिनको लागि तपाईंले सर्भरहरु बाट प्याकेज सुची  फेरि लोड "
+#~ "गर्नुपर्दछ. के तपाईं यो अहिले गर्न चाहनुहुन्छ?"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>सेक्सनहरु:</b>"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>सेक्सनहरु:</b>"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "सर्भर बाट प्याकेज जानकारी फेरि लोड गर्नुहोस"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">परिवर्तनहरु डसउनलोड गर्दै</span>\n"
+#~ "\n"
+#~ "केन्द्रिय सर्भर बाट परिवर्तनहरु प्राप्त गर्न आवश्यक छ"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "उपलब्ध अद्यावधिकहरु देखाउनुहोस र कुन स्थापना गर्ने रोज्नुहोस"
+
+#, fuzzy
+#~ msgid "Error fetching the packages"
+#~ msgstr "कुञ्जि हटाउँदा त्रुटि"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "सफ्टवेयर स्रोतहरु र सेटिंगहरु सम्पादन गर्नुहोस"
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>सफ्टवेयर स्रोतहरु</b>"
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>कोष</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>अस्थायी फाइलहरु</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>प्रयोगकर्ता इन्टरफेस</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>प्रमाणीकरण कुञ्जिहरु</b></big>\n"
+#~ "\n"
+#~ "तपाईंले यो संवाद भित्र प्रमाणीकरण कुञ्जिहरु थप्न र हटाउन सक्नुहुन्छ. तपाईंले डाउनलोड "
+#~ "गरेको सफ्टवेयर को विश्वसनियता रुजु जाँच गर्नको लागि एउटा कुञ्जिले संभव पार्दछ"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "विश्वास गरिएको कुञ्जिरिंग मा एउटा नयाँ कुञ्जि फाइल थप्नुहोस. विश्वस्त हुनुहोस कि तपाईंले "
+#~ "एउटा सुरक्षित माध्यम माथि कुञ्जि प्राप्त गर्नुभयो र तपाईं मालिकलाइ विश्वास गर्नुहुन्छ. "
+
+#, fuzzy
+#~ msgid "Add repository..."
+#~ msgstr "कोष थप्नुहोस"
+
+#~ msgid "Automatically check for software _updates."
+#~ msgstr "सफ्टवेयर अद्यावधिकहरुको लागि स्वत:जाँच गर्नुहोस"
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "अस्थायी प्याकेजहरु फाइलहरु स्वत:सफा गर्नुहोस"
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "दिनहरु मा समयान्तर सफा गर्नुहोस "
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "प्याकेज क्यास मा पुरानो प्याकेजहरु मेट्नुहोस"
+
+#~ msgid "Edit Repository..."
+#~ msgstr "कोष सम्पादन गर्नुहोस"
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "दिनहरुमा अधिकतम आयु"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "एमबि मा अधिकतन आकार"
+
+#, fuzzy
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr ""
+#~ "वितरण संग शिप गरिएको पुर्वनिर्धारित कुञ्जिहरु पुर्वावस्थामा ल्याउनुहोस. यसले प्रयोगकर्ता "
+#~ "स्थापना गरिएको कुञ्जिहरु परिवर्तन गर्दैन"
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "प्याकेज क्यासको लागि अधिकतम आकार सेट गर्नुहोस"
+
+#~ msgid "Settings"
+#~ msgstr "सेटिंगहरु"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "अक्षम पारिएको सफ्टवेयर स्रोतहरु देखाउनुहोस"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "दिनहरुमा समयान्तर अद्यावधिक गर्नुहोस "
+
+#~ msgid "_Add Repository"
+#~ msgstr "कोष थप्नुहोस"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "स्तरवृद्धि गर्न योग्य प्याकेजहरु डाउनलोड गर्नुहोस"
+
+#, fuzzy
+#~ msgid "<b>Status:</b>"
+#~ msgstr "<b>सेक्सनहरु:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>उपलब्ध अद्यावधिकहरु</b></big>\n"
+#~ "\n"
+#~ "निम्न प्याकेजहरु स्तरवृद्धि गर्न योग्य पाइयो. तपाईंले तिनिहरु लाइ स्थापना बटन प्रयोग "
+#~ "गरेर स्तरवृद्धि गर्न सक्नुहुन्छ"
+
+#~ msgid "Cancel downloading the changelog"
+#~ msgstr "परिवर्तनलग को डाउनलोड रद्द गर्नुहोस"
+
+#, fuzzy
+#~ msgid "Oficial Distribution"
+#~ msgstr "<b>वितरण:</b>"
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "यो कार्यक्रम चलाउनको लागि तपाईं रुट हुनुपर्दछ"
+
+#~ msgid "Binary"
+#~ msgstr "बाईनरी"
+
+#~ msgid "Non-free software"
+#~ msgstr "नन-फ्री सफ्टवेयर"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "युबन्टु संग्रह स्वचालित हस्ताक्षर कुञ्जि <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "युबन्टु सिडि छवि स्वचालित हस्ताक्षर कुञ्जि <cdimage@ubuntu.com>"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "एउटा कुञ्जि-फाइल रोज्नुहोस"
+
+#, fuzzy
+#~ msgid "There is one package available for updating."
+#~ msgstr "कुनै स्तरवृद्धिहरु उपलब्ध छैन"
+
+#, fuzzy
+#~ msgid "There are %s packages available for updating."
+#~ msgstr "कुनै स्तरवृद्धिहरु उपलब्ध छैन"
+
+#, fuzzy
+#~ msgid "There are no updated packages"
+#~ msgstr "कुनै स्तरवृद्धिहरु उपलब्ध छैन"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "स्तरवृद्धिहरु लागु हुँदैछन"
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "तपाईंले उहि समयमा केवल एउटा प्याकेज व्यवस्थापन अनुप्रयोग चलाउन सक्नुहुन्छ.कृपया पहिला "
+#~ "यो अन्य अनुप्रयोग बन्द गर्नुहोस"
+
+#~ msgid "Updating package list..."
+#~ msgstr "प्याकेज सुची स्तरवृद्धि गर्दै"
+
+#~ msgid "There are no updates available."
+#~ msgstr "कुनै स्तरवृद्धिहरु उपलब्ध छैन"
+
+#, fuzzy
+#~ msgid "New version:"
+#~ msgstr "नयाँ संस्करण: %s"
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "कृपया युबन्टु लिनक्स को नयाँ संस्करण मा स्तरवृद्धि गर्नुहोस. तपाईंले चलाइरहेको संस्करण ले "
+#~ "सुरक्षा स्थिरहरु वा अन्य सूक्ष्म स्तरवृद्धिहरु प्राप्त गर्नेछैन. कृपया स्तरवृद्धि जानकारी को "
+#~ "लागि http://www.ubuntulinux.org हेर्नुहोस"
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "एउटा नयाँ संकेतनाम '%s' भएको विमोचन उपलब्ध छ.  कृपया स्तरवृद्धि निर्देशन को लागि://"
+#~ "www.ubuntulinux.org/ हेर्नुहोस."
+
+#~ msgid "Never show this message again"
+#~ msgstr "यो संदेश फेरि कहिले पनि नदेखाउनुहोस"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr "परिवर्तनहरु भेटिएन, सर्भर अझै स्तरवृद्धि नगरिएको हुन सक्दछ."
+
+#~ msgid "Ubuntu Update Manager"
+#~ msgstr "युबन्टु अद्यावधिक व्यवस्थापक"
+
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "<b>स्थापना गर्ने प्याकेजहरु:</b>"
+
+#~ msgid "CD"
+#~ msgstr "सिडि"
+
+#~ msgid ""
+#~ "This means that some dependencies of the installed packages are not "
+#~ "satisfied. Please use \"Synaptic\" or \"apt-get\" to fix the situation."
+#~ msgstr ""
+#~ "यसको मतलब स्थापना गरिएका प्याकेजहरु को केहि निर्भरताहरु सन्तुष्ट छैनन. कृपया स्थिति "
+#~ "ठीक गर्नको लागि \"साइनाप्टिक\" अथवा \"एपिटि-गेट\" प्रयोग गर्नुहोस"
+
+#~ msgid "It is not possible to upgrade all packages."
+#~ msgstr "सबै प्याकेजहरु स्तरवृद्धि गर्न संभव छैन"
+
+#~ msgid ""
+#~ "This means that besides the actual upgrade of the packages some further "
+#~ "action (such as installing or removing packages) is required. Please use "
+#~ "Synaptic \"Smart Upgrade\" or \"apt-get dist-upgrade\" to fix the "
+#~ "situation."
+#~ msgstr ""
+#~ "यसको मतलब प्याकेजहरु को उचित स्तरवृद्धि बाहेक केहि अधिक कार्य (जस्तै प्याकेजहरुको स्थापन "
+#~ "र विस्थापन) आवश्यक छ. कृपया स्थिति ठीक गर्नको लागि साइनाप्टिक \"स्मार्ट स्तरवृद्धि\" "
+#~ "अथवा \"एपिटि-गेट डिस्ट-स्तरवृद्धि\" प्रयोग गर्नुहोस"
+
+#~ msgid "Initializing and getting list of updates..."
+#~ msgstr "अद्यावधिकहरुको इनिसियलाइज गर्दै र सुची प्राप्त गर्दै"

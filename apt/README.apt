@@ -1,0 +1,21 @@
+In addition to "apt_pkg" and "apt_inst" (that are thin wrappers around
+the c++ libapt code) a new python module "apt" is provided since version
+0.6.13 of python-apt.
+
+It is a more python like interface to work with libapt (it uses apt_pkg
+internally). Although there are already applications written against the new
+apt python interface the API may change in the future and should not be
+considered stable. If in doubt, please contact deity@lists.debian.org.
+
+WARNING !!! The API is not 100% stable yet !!!
+
+
+Style Guides:
+-------------
+
+Follow PEP08.
+
+Internal variables/methods are prefixed with a "_" (e.g. _foo).
+
+
+

@@ -1,0 +1,1022 @@
+# translation of nb.po to Norwegian Bokmal
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Terance Edward Sola <terance@lyse.net>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2005-06-08 23:10+0200\n"
+"Last-Translator: Terance Edward Sola <terance@lyse.net>\n"
+"Language-Team: Norwegian Bokmal <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "CD med Ubuntu 5.04 «Hoary Hedgedog»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "CD med Ubuntu 5.04 «Hoary Hedgedog»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "CD med Ubuntu 5.10 «Breezy Badger»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "CD med Ubuntu 5.10 «Breezy Badger»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+#, fuzzy
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 5.10 Updates"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Vedlikeholdt av miljøet (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+#, fuzzy
+msgid "Restricted software"
+msgstr "Bidratt programvare"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "CD med Ubuntu 4.10 «Warty Warthog»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+#, fuzzy
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 5.04 Updates"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Vedlikeholdt av miljøet (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Vedlikeholdt av miljøet (Universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Vedlikeholdt av miljøet (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+#, fuzzy
+msgid "Non-free drivers"
+msgstr "Non-free (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+#, fuzzy
+msgid "Restricted software (Multiverse)"
+msgstr "Non-free (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+#, fuzzy
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 5.04 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+#, fuzzy
+msgid "Important security updates"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Installerer oppdateringer..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Installerer oppdateringer..."
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+#, fuzzy
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "CD med Ubuntu 5.10 «Breezy Badger»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "CD med Ubuntu 5.10 «Breezy Badger»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+#, fuzzy
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+#, fuzzy
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "CD med Ubuntu 5.04 «Hoary Hedgedog»"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+#, fuzzy
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "CD med Ubuntu 5.04 «Hoary Hedgedog»"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+#, fuzzy
+msgid "Officially supported"
+msgstr "Offisielt støttet"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+#, fuzzy
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+#, fuzzy
+msgid "Ubuntu 5.04 Updates"
+msgstr "Ubuntu 5.10 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+#, fuzzy
+msgid "Ubuntu 5.04 Backports"
+msgstr "Ubuntu 5.10 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+#, fuzzy
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "CD med Ubuntu 4.10 «Warty Warthog»"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Vedlikeholdt av miljøet (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Non-free (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+#, fuzzy
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "CD med Ubuntu 4.10 «Warty Warthog»"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+#, fuzzy
+msgid "No longer officially supported"
+msgstr "Offisielt støttet"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Begrenset opphavsrett"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Ubuntu 4.10 Security Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Ubuntu 4.10 Updates"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+#, fuzzy
+msgid "Ubuntu 4.10 Backports"
+msgstr "Ubuntu 5.10 Updates"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+#, fuzzy
+msgid "Debian 4.0 'Etch' "
+msgstr "Debian Testing"
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 «Sarge»"
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+#, fuzzy
+msgid "Proposed updates"
+msgstr "Installerer oppdateringer..."
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Ubuntu 5.10 Security Updates"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+#, fuzzy
+msgid "Debian current stable release"
+msgstr "Debian Unstable «Sid»"
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian Testing"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian Non-US (Unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Daily"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "%s updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "Software Channel"
+#~ msgstr "Programvareoppdateringer"
+
+#, fuzzy
+#~ msgid "(Source Code)"
+#~ msgstr "Kilde"
+
+#, fuzzy
+#~ msgid "Source Code"
+#~ msgstr "Kilde"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Feil under importering av fil"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr "Den valgte filen er ikke en GPG-fil eller så er den skadet."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Feil under fjerning av nøkkel"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid "Error during update"
+#~ msgstr "Feil under fjerning av nøkkel"
+
+#, fuzzy
+#~ msgid "Checking package manager"
+#~ msgstr "En annen pakkehåndterer kjører"
+
+#, fuzzy
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Laster ned endringer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid "Asking for confirmation"
+#~ msgstr "Undersøker systemkonfigurasjon"
+
+#, fuzzy
+#~ msgid "Upgrading"
+#~ msgstr "Oppgradering fullført"
+
+#, fuzzy
+#~ msgid "Applying changes"
+#~ msgstr "Laster ned endringer..."
+
+#, fuzzy
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Systemet er helt oppdatert!"
+
+#, fuzzy
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "Install %s"
+#~ msgstr "_Installer"
+
+#, fuzzy
+#~ msgid "Upgrade %s"
+#~ msgstr "Oppgradering fullført"
+
+#, fuzzy
+#~ msgid "Details"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "_Replace"
+#~ msgstr "Oppdater"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Laster ned endringer"
+
+#, fuzzy
+#~ msgid "Upgrade tool"
+#~ msgstr "Oppgradering fullført"
+
+#, fuzzy
+#~ msgid "Authentication failed"
+#~ msgstr "Autentisering"
+
+#, fuzzy
+#~ msgid "The list of changes is not available"
+#~ msgstr "Det er en ny versjon av Ubuntu tilgjengelig!"
+
+#, fuzzy
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr "Det er en ny versjon av Ubuntu tilgjengelig!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Feil under nedlasting av endringer. Sjekk tilkoblingen til internett."
+
+#, fuzzy
+#~ msgid "Distribution updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "Other updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Versjon %s: \n"
+
+#, fuzzy
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Laster ned endringer"
+
+#, fuzzy
+#~ msgid "Download size: %s"
+#~ msgstr "Laster ned endringer"
+
+#, fuzzy
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Installerer oppdateringer..."
+#~ msgstr[1] "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "Checking for updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "Version %s"
+#~ msgstr "Versjon %s: \n"
+
+#, fuzzy
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Din distribusjon er ikke lenger støttet"
+
+#~ msgid "Changes"
+#~ msgstr "Endringer"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Software Updates"
+#~ msgstr "Programvareoppdateringer"
+
+#, fuzzy
+#~ msgid "_Install Updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Oppgradering fullført"
+
+#, fuzzy
+#~ msgid "changes"
+#~ msgstr "Endringer"
+
+#, fuzzy
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Oppdateringer fra Internett</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Oppdateringer fra Internett</b>"
+
+#, fuzzy
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Oppdateringer fra Internett</b>"
+
+#, fuzzy
+#~ msgid "Add Cdrom"
+#~ msgstr "Legg til _CD"
+
+#~ msgid "Authentication"
+#~ msgstr "Autentisering"
+
+#, fuzzy
+#~ msgid "Download from:"
+#~ msgstr "Laster ned endringer"
+
+#, fuzzy
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Fjern den valgte nøkkelen fra den sikre nøkkelringen."
+
+#, fuzzy
+#~ msgid "Internet Updates"
+#~ msgstr "<b>Oppdateringer fra Internett</b>"
+
+#, fuzzy
+#~ msgid "Restore _Defaults"
+#~ msgstr "Gjenopprettt forvalgte nøkler"
+
+#, fuzzy
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Gjenopprettt forvalgte nøkler"
+
+#, fuzzy
+#~ msgid "Software Sources"
+#~ msgstr "Egenskaper for programvare"
+
+#, fuzzy
+#~ msgid "Source code"
+#~ msgstr "Kilde"
+
+#, fuzzy
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Installerer oppdateringer..."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Kommentar:</b>"
+
+#, fuzzy
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Komponenter</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribusjon:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Type:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Skriv inn hele APT-linjen til arkivet du vil legge til</b> </"
+#~ "big>\n"
+#~ "\n"
+#~ "APT-linjen inneholder typen, adressen og innholdet til et arkiv, for "
+#~ "eksempel <i>«deb http://ftp.debian.org sarge main»</i>. Du kan finne en "
+#~ "detaljert beskrivelse av syntaksen i dokumentasjonen."
+
+#~ msgid "APT line:"
+#~ msgstr "APT-linje:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binær\n"
+#~ "Kilde"
+
+#, fuzzy
+#~ msgid "Edit Source"
+#~ msgstr "Kilde"
+
+#, fuzzy
+#~ msgid "_Add Source"
+#~ msgstr "Kilde"
+
+#, fuzzy
+#~ msgid "_Reload"
+#~ msgstr "Oppdater"
+
+#~ msgid "Update Manager"
+#~ msgstr "Oppdateringshåndterer"
+
+#, fuzzy
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian Stable Security Updates"
+
+#, fuzzy
+#~ msgid "By copyright or legal issues restricted software"
+#~ msgstr "US eksport begrenset programvare"
+
+#, fuzzy
+#~ msgid "Normal updates"
+#~ msgstr "Installerer oppdateringer..."
+
+#, fuzzy
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Systemet har ødelagte pakker!"
+
+#, fuzzy
+#~ msgid "Important security updates of Ubuntu"
+#~ msgstr "Ubuntu 5.10 Security Updates"
+
+#, fuzzy
+#~ msgid "Oficially supported"
+#~ msgstr "Offisielt støttet"
+
+#, fuzzy
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "De følgende pakkene er ikke oppgradert:"
+
+#, fuzzy
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr ""
+#~ "Nøkkelen du valgte kan ikke bli fjernet. Vennligst rapporter denne feilen."
+
+#, fuzzy
+#~ msgid "Hide details"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "Installation Media"
+#~ msgstr "Installerer oppdateringer..."
+
+#~ msgid "Software Preferences"
+#~ msgstr "Brukervalg for programvare"
+
+#, fuzzy
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Detaljer</b>"
+
+#, fuzzy
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Komponenter</b>"
+
+#~ msgid "_Custom"
+#~ msgstr "_Tilpasset"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 5.10 Updates"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 5.04 Security Updates"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 5.10 Updates"
+
+#, fuzzy
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 5.10 Updates"
+
+#~ msgid "Repositories changed"
+#~ msgstr "Arkiv har blitt endret"
+
+#, fuzzy
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "Arkivinformasjonen har blitt endret. En sikkerhetskopi av «sources.list»-"
+#~ "filen er lagret i %s.save.\n"
+#~ "\n"
+#~ "Du må oppdatere pakkelisten fra tjenerene for at endringene skal tre i "
+#~ "kraft. Vil du gjøre det nå?"
+
+#, fuzzy
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Seksjoner:</b>"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Oppdater pakkeinformasjonen fra tjeneren."
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Seksjoner:</b>"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Laster ned endringer</span>\n"
+#~ "\n"
+#~ "Må få endringene fra den sentrale tjeneren"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Vis tilgjengelige oppdateringer og velg hvilke som skal installeres"
+
+#, fuzzy
+#~ msgid "Error fetching the packages"
+#~ msgstr "Feil under fjerning av nøkkel"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Rediger programvarekilder og instillinger"
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Programvarekilder</b>"
+
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>Arkiv</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Midlertidige filer</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Brukergrensesnitt</b>"
+
+#~ msgid ""
+#~ "<big><b>Authentication keys</b></big>\n"
+#~ "\n"
+#~ "You can add and remove authentication keys in this dialog. A key makes it "
+#~ "possible to verify the integrity of the software you download."
+#~ msgstr ""
+#~ "<big><b>Autentiseringsnøkler</b></big>\n"
+#~ "\n"
+#~ "Du kan legge til eller fjerne autentiseringsnøkler i dette vinduet. "
+#~ "Nøkler gjør det mulig å kontrollere integriteten til programvare som blir "
+#~ "lastet ned. "
+
+#~ msgid ""
+#~ "Add a new key file to the trusted keyring. Make sure that you received "
+#~ "the key over a secure channel and that you trust the owner. "
+#~ msgstr ""
+#~ "Legg til en ny nøkkelfil til den sikre nøkkelringen. Vær sikker på at du "
+#~ "mottok nøkkelen over en sikker kanal og at du stoler på eieren."
+
+#, fuzzy
+#~ msgid "Add repository..."
+#~ msgstr "_Legg til arkiv"
+
+#~ msgid "Automatically check for software _updates."
+#~ msgstr "Se etter programvare_oppdateringer automatisk."
+
+#~ msgid "Automatically clean _temporary packages files"
+#~ msgstr "Fjern _midlertidige pakkefiler automatisk."
+
+#~ msgid "Clean interval in days: "
+#~ msgstr "Intervaller for tømming i dager:"
+
+#~ msgid "Delete _old packages in the package cache"
+#~ msgstr "Slett _gamle pakker i pakkelageret."
+
+#~ msgid "Edit Repository..."
+#~ msgstr "Rediger arkiv..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "Maksimum alder i dager:"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Maksimum størrelse i MB:"
+
+#~ msgid ""
+#~ "Restore the default keys shipped with the distribution. This will not "
+#~ "change user installed keys."
+#~ msgstr "Gjenoppret nøklene som kom med distri"
+
+#~ msgid "Set _maximum size for the package cache"
+#~ msgstr "Sett _maksimal størrelse på hurtiglageret"
+
+#~ msgid "Settings"
+#~ msgstr "Instillinger"
+
+#~ msgid "Show detailed package versions"
+#~ msgstr "Vis detaljert pakkeversjoner"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Vis deaktiverte programvarekilder"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Intervall for oppdatering i dager:"
+
+#~ msgid "_Add Repository"
+#~ msgstr "_Legg til arkiv"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "_Last ned oppgraderbare pakker"
+
+#~ msgid "<b>Status:</b>"
+#~ msgstr "<b>Status:</b>"
+
+#~ msgid ""
+#~ "<big><b>Available Updates</b></big>\n"
+#~ "\n"
+#~ "The following packages are found to be upgradable. You can upgrade them "
+#~ "by using the Install button."
+#~ msgstr ""
+#~ "<big><b>Tilgjengelige oppdateringer</b></big>\n"
+#~ "\n"
+#~ "De følgende pakkene kan oppgraderes. Du kan oppgradere dem ved å trykke "
+#~ "på «Installer»-knappen."
+
+#~ msgid "Cancel downloading the changelog"
+#~ msgstr "Avbryt nedlasting av endringslogg"
+
+#, fuzzy
+#~ msgid "Debian sarge"
+#~ msgstr "Debian 3.1 «Sarge»"
+
+#, fuzzy
+#~ msgid "Debian sid"
+#~ msgstr "Debian Testing"
+
+#, fuzzy
+#~ msgid "Oficial Distribution"
+#~ msgstr "<b>Distribusjon:</b>"
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "Du må være «root» for å kjøre dette programmet"
+
+#~ msgid "Binary"
+#~ msgstr "Binær"
+
+#~ msgid "Non-free software"
+#~ msgstr "Non-free programvare"
+
+#~ msgid "Debian 3.0 \"Woody\""
+#~ msgstr "Debian 3.0 «Woody»"
+
+#~ msgid "Debian Stable"
+#~ msgstr "Debian Stable"
+
+#~ msgid "Debian Non-US (Stable)"
+#~ msgstr "Debian Non-US (Stable)"
+
+#~ msgid "Debian Non-US (Testing)"
+#~ msgstr "Debian Non-US (Testing)"
+
+#~ msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+#~ msgstr "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+
+#~ msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+#~ msgstr "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+
+#~ msgid "Choose a key-file"
+#~ msgstr "Velg en nøkkelfil"
+
+#, fuzzy
+#~ msgid "There is one package available for updating."
+#~ msgstr "Det er ingen tilgjengelige oppdateringer."
+
+#, fuzzy
+#~ msgid "There are %s packages available for updating."
+#~ msgstr "Det er ingen tilgjengelige oppdateringer."
+
+#~ msgid "There are no updated packages"
+#~ msgstr "Det er ingen utdaterte pakker"
+
+#~ msgid "You did not select any of the %s updated package"
+#~ msgid_plural "You did not select any of the %s updated packages"
+#~ msgstr[0] "Du valgte ikke den %s oppdaterte pakken"
+#~ msgstr[1] "Du valgte ingen av de %s oppdaterte pakkene"
+
+#~ msgid "You have selected %s updated package, size %s"
+#~ msgid_plural "You have selected all %s updated packages, total size %s"
+#~ msgstr[0] "Du har valgt %s oppdatert pakke, størrelse %s"
+#~ msgstr[1] "Du har valgt alle de %s oppdaterte pakkene, total størrelse %s"
+
+#~ msgid "You have selected %s out of %s updated package, size %s"
+#~ msgid_plural ""
+#~ "You have selected %s out of %s updated packages, total size %s"
+#~ msgstr[0] "Du har valgt %s av %s oppdaterte pakker, størrelse %s "
+#~ msgstr[1] "Du har valgt %s av de %s oppdaterte pakkene, total størrelse %s"
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Oppdateringene blir tilført."
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Du kan bare kjøre et pakkehåndteringsprogram samtidig. Lukk det andre "
+#~ "programmet først."
+
+#~ msgid "Updating package list..."
+#~ msgstr "Oppdaterer pakkeliste..."
+
+#~ msgid "There are no updates available."
+#~ msgstr "Det er ingen tilgjengelige oppdateringer."
+
+#~ msgid "New version:"
+#~ msgstr "Ny versjon:"
+
+#~ msgid ""
+#~ "Please upgrade to a newer version of Ubuntu Linux. The version you are "
+#~ "running will no longer get security fixes or other critical updates. "
+#~ "Please see http://www.ubuntulinux.org for upgrade information."
+#~ msgstr ""
+#~ "Oppgrader til en nyere versjon av Ubuntu Linux. Versjonen du kjører får "
+#~ "ikke sikkerhetsoppdateringer eller andre kritiske oppdateringer lenger. "
+#~ "Se http://www.ubuntulinux.org for informasjon om oppgradering."
+
+#~ msgid ""
+#~ "A new release with the codename '%s' is available. Please see http://www."
+#~ "ubuntulinux.org/ for upgrade instructions."
+#~ msgstr ""
+#~ "En ny versjon med kodenavnet «%s» er tilgjengelig. Se http://www. "
+#~ "ubuntulinux.org/ for instruksjoner om oppgradering."
+
+#~ msgid "Never show this message again"
+#~ msgstr "Ikke vis denne beskjeden igjen"
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr "Ingen endringer funnet, tjeneren er kanskje ikke oppdatert enda."
+
+#~ msgid "A_uthentication"
+#~ msgstr "A_utentisering"
+
+#~ msgid "_Settings"
+#~ msgstr "_Instillinger"
+
+#~ msgid "Ubuntu Update Manager"
+#~ msgstr "Ubuntu oppdateringshåndterer"
+
+#~ msgid ""
+#~ "This means that some dependencies of the installed packages are not "
+#~ "satisfied. Please use \"Synaptic\" or \"apt-get\" to fix the situation."
+#~ msgstr ""
+#~ "Dette betyr at det finnes avhengigheter til pakker som ikke er møtt. Bruk "
+#~ "«Synaptic» eller «apt-get» for å fikse problemet."
+
+#~ msgid "It is not possible to upgrade all packages."
+#~ msgstr "Det er ikke mulig å oppgradere alle pakkene."
+
+#~ msgid ""
+#~ "This means that besides the actual upgrade of the packages some further "
+#~ "action (such as installing or removing packages) is required. Please use "
+#~ "Synaptic \"Smart Upgrade\" or \"apt-get dist-upgrade\" to fix the "
+#~ "situation."
+#~ msgstr ""
+#~ "Dette betyr at ved siden av å oppgradere pakkene kreves det ekstra "
+#~ "handling (som å installere eller fjerne pakker). Bruk «Synaptic» eller «apt-"
+#~ "get dist-upgrade» for å løse problemet."

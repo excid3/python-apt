@@ -1,0 +1,4 @@
+[encoding: UTF-8]
+[type: gettext/rfc822deb] data/templates/Ubuntu.info.in
+[type: gettext/rfc822deb] data/templates/Debian.info.in
+aptsources/distro.py

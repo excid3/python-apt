@@ -1,0 +1,42 @@
+Source: python-apt
+Section: python
+Priority: optional
+Maintainer: APT Development Team <deity@lists.debian.org>
+Uploaders: Matt Zimmerman <mdz@debian.org>, Michael Vogt <mvo@debian.org>
+Standards-Version: 3.7.2.2
+XS-Python-Version: all
+Build-Depends: debhelper (>= 5.0.37.1), libapt-pkg-dev (>= 0.7.10), apt-utils, python-all-dev, python-distutils-extra (>= 1.9.0), cdbs, python-central (>= 0.5), python-all-dbg
+Vcs-Bzr: http://bzr.debian.org/apt/python-apt/debian-sid
+
+Package: python-apt
+Architecture: any
+Depends: ${python:Depends}, ${shlibs:Depends}, ${misc:Depends}, lsb-release
+Priority: optional
+Replaces: python2.3-apt (<< 0.6.18), python2.4-apt (<< 0.6.18)
+Conflicts: python2.3-apt (<< 0.6.18), python2.4-apt (<< 0.6.18)
+Provides: ${python:Provides}
+Suggests: python-apt-dbg
+XB-Python-Version: ${python:Versions}
+Description: Python interface to libapt-pkg
+ The apt_pkg Python interface will provide full access to the internal 
+ libapt-pkg structures allowing Python programs to easily perform a
+ variety of functions, such as:
+ .
+  - Access to the APT configuration system
+  - Access to the APT package information database
+  - Parsing of Debian package control files, and other files with a
+    similar structure
+ .
+ The included 'aptsources' Python interface provides an abstraction of 
+ the sources.list configuration on the repository and the distro level.
+
+Package: python-apt-dbg
+Priority: extra
+Architecture: any
+Depends: python-dbg, python-apt (= ${Source-Version}), ${shlibs:Depends}
+Description: Python interface to libapt-pkg (debug extension)
+ The apt_pkg Python interface will provide full access to the internal 
+ libapt-pkg structures allowing Python programs to easily perform a
+ variety of functions.
+ .
+ This package contains the extension built for the python debug interpreter.

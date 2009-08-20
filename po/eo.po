@@ -1,0 +1,573 @@
+# Esperanto translation for update-manager
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the update-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 04:05+0000\n"
+"Last-Translator: Ed Glez <herzo2@gmail.com>\n"
+"Language-Team: Esperanto <eo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+msgid "Community-maintained"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+msgid "Canonical-supported Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+msgid "Community-maintained (universe)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+msgid "Community-maintained Open Source software"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr ""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+msgid "Pre-released updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+msgid "Unsupported updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Oficiale subtenata"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+msgid "Community-maintained (Universe)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr ""
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+msgid "Security updates"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+msgid "Debian testing"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+msgid "Debian 'Sid' (unstable)"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr ""
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr ""
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr ""
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr ""
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr ""
+
+#~ msgid "After one week"
+#~ msgstr "Post unu semajno"
+
+#~ msgid "After two weeks"
+#~ msgstr "Post du semajnoj"
+
+#~ msgid "After one month"
+#~ msgstr "Post unu monato"
+
+#~ msgid "After %s days"
+#~ msgstr "Post %s tagoj"
+
+#~ msgid "Import key"
+#~ msgstr "Importi sxlosilon"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Eraro dum importado de elektita dosiero"
+
+#~ msgid "Error removing the key"
+#~ msgstr "Eraro dum forigo de sxlosilo"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr ""
+#~ "La sxlosilo elektita ne povis esti forigata. Bonvolu raporti cxi tion "
+#~ "kiel cimon."
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Bonvolu entajpi nomon por la disko"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Bonvolu enmeti diskon en la diskingo:"
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Ne eblis instalo de '%s'"
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Estis neebla instalo de bezonata pakajxo. Bonvolu raporti cxi tion kiel "
+#~ "cimo. "
+
+#~ msgid "Reading cache"
+#~ msgstr "Legado de kasxmemoro"
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Deponeja informo ne valida"
+
+#, fuzzy
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Promociado de deponeja informo igis nevalidan dosieron. Bonvolu raporti "
+#~ "cxi tion kiel cimo."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Aliulaj fontoj malsxaltitaj"
+
+#~ msgid "Error during update"
+#~ msgstr "Eraro dum gxisdatigo"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Problemo okazis dum la gxisdatigo. Kutime tio okazas pro retaj problemoj, "
+#~ "bonvolu kontroli vian retan konekton kaj reprovi."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Ne estas suficxa libera loko en disko"
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Cxu vi volas komenci la promociadon?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Ne eblis instali la promociojn"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Kelkaj problemoj okazis dum la purigado. Bonvolu vidi suban mesagxon por "
+#~ "pliaj informoj. "
+
+#~ msgid "Checking package manager"
+#~ msgstr "Kontrolado de pakajxa direktisto"
+
+#~ msgid "Updating repository information"
+#~ msgstr "Gxisdatigo de deponeja informo"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Nevalida pakajxa informo"
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Petado de konfirmo"
+
+#~ msgid "Upgrading"
+#~ msgstr "Promociado"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Sercxado de ne plu uzata programaro"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Sistema promocio estas kompleta."
+
+#~ msgid "Applying changes"
+#~ msgstr "Aplikado de sxangxoj"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Ne eblis instali '%s'"
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "La komando 'diff' ne estis trovata"
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Via sistemo estas gxisdatigita"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Cxu nuligi la rulantan promociadon?</big></b>\n"
+#~ "\n"
+#~ "La sistemo povas esti neuzebla se vi nuligas la promociadon. Ni forte "
+#~ "konsilas dauxrigi la promociadon."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr "<b><big>Rekomenci la sistemon por kompletigi la promocion</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Cxu komenci la promociadon?</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Purigado"
+
+#~ msgid "Details"
+#~ msgstr "Detaloj"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Diferenco inter la dosieroj"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Rekomencado de la sistemo"
+
+#~ msgid "_Keep"
+#~ msgstr "Konservi"
+
+#~ msgid "_Replace"
+#~ msgstr "Anstatauxigi"
+
+#~ msgid "_Restart Now"
+#~ msgstr "Rekomenci Nun"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Bonvolu kontroli vian interretan konekton."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Ne eblis ruli la promocian ilon"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Tio cxi sxajnas esti cimo en la promocia ilo. Bonvolu raporti cxi tion "
+#~ "kiel cimo"
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Elsxutado de la promocia ilo"
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Subskribo de promocia ilo"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Promocia ilo"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Versio %s: \n"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Elsxuta grando: %s"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Via distribuo ne estas plu subtenata"
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Nova distribua eldono '%s' estas disponebla</b>"
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Konservi vian sistemon gxisdatigita</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Sxangxoj"
+
+#~ msgid "Chec_k"
+#~ msgstr "Kontroli"
+
+#~ msgid "Description"
+#~ msgstr "Priskribo"
+
+#~ msgid "U_pgrade"
+#~ msgstr "Promocii"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Promocii al lasta versio de Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "Kontroli"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "Kasxi cxi tiujn informojn estonte"
+
+#~ msgid "_Install Updates"
+#~ msgstr "Instali Gxisdatigojn"
+
+#, fuzzy
+#~ msgid "_Upgrade"
+#~ msgstr "Promocii"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Interretaj gxisdatigoj</b>"
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Komento:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Elementoj:</b>"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Duuma\n"
+#~ "Fonto"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Skanado de KD"
+
+#~ msgid "_Reload"
+#~ msgstr "Resxargi"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Vidigas kaj instalas disponeblajn gxisdatigojn"
+
+#~ msgid "Update Manager"
+#~ msgstr "Gxisdatiga Direktisto"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Kontroli auxtomate se nova versio de la aktuala distribuo estas "
+#~ "disponebla kaj proponi promocion (se eblas)."

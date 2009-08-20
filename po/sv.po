@@ -1,0 +1,3902 @@
+# Swedish messages for update-manager.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# Daniel Nylander <po@danielnylander.se>, 2006.
+# Christian Rose <menthos@menthos.com>, 2005.
+#
+# $Id: sv.po,v 1.5 2005/04/04 08:49:52 mvogt Exp $
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 16:50+0100\n"
+"PO-Revision-Date: 2006-10-16 05:06+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+#. ChangelogURI
+#: ../data/templates/Ubuntu.info.in.h:4
+#, no-c-format
+msgid "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:8
+#, fuzzy
+msgid "Ubuntu 8.04 'Hardy Heron'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:25
+#, fuzzy
+msgid "Cdrom with Ubuntu 8.04 'Hardy Heron'"
+msgstr "Cd-rom med Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:60
+#, fuzzy
+msgid "Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Säkerhetsuppdateringar för Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:77
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.10 'Gutsy Gibbon'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:112
+#, fuzzy
+msgid "Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Säkerhetsuppdateringar för Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:129
+#, fuzzy
+msgid "Cdrom with Ubuntu 7.04 'Feisty Fawn'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:163
+msgid "Ubuntu 6.10 'Edgy Eft'"
+msgstr "Ubuntu 6.10 \"Edgy Eft\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:168
+#, fuzzy
+msgid "Community-maintained"
+msgstr "Gemenskapsunderhållen"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:172
+msgid "Proprietary drivers for devices"
+msgstr "Properitära drivrutiner för enheter"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:174
+msgid "Restricted software"
+msgstr "Inskränkt programvara"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:180
+msgid "Cdrom with Ubuntu 6.10 'Edgy Eft'"
+msgstr "Cd-rom med Ubuntu 6.10 \"Edgy Eft\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:214
+msgid "Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Ubuntu 6.06 LTS \"Dapper Drake\""
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:217
+#, fuzzy
+msgid "Canonical-supported Open Source software"
+msgstr "Öppen källkodsprogramvara som stöds av Canonical"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:219
+#, fuzzy
+msgid "Community-maintained (universe)"
+msgstr "Gemenskapsunderhållen (universe)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:220
+#, fuzzy
+msgid "Community-maintained Open Source software"
+msgstr "Öppen källkodsprogramvara underhållen av gemenskapen"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:222
+msgid "Non-free drivers"
+msgstr "Ickefria drivrutiner"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:223
+msgid "Proprietary drivers for devices "
+msgstr "Properitära drivrutiner för enheter "
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:225
+msgid "Restricted software (Multiverse)"
+msgstr "Inskränkt programvara (Multiverse)"
+
+#. CompDescriptionLong
+#: ../data/templates/Ubuntu.info.in:226
+msgid "Software restricted by copyright or legal issues"
+msgstr "Programvara begränsad av upphovsrätt eller juridiska avtal"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:231
+msgid "Cdrom with Ubuntu 6.06 LTS 'Dapper Drake'"
+msgstr "Cd-rom med Ubuntu 6.06 LTS \"Dapper Drake\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:243
+msgid "Important security updates"
+msgstr "Viktiga säkerhetsuppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:248
+msgid "Recommended updates"
+msgstr "Rekommenderade uppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:253
+#, fuzzy
+msgid "Pre-released updates"
+msgstr "Föreslagna uppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:258
+#, fuzzy
+msgid "Unsupported updates"
+msgstr "Bakåtporterade uppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:265
+msgid "Ubuntu 5.10 'Breezy Badger'"
+msgstr "Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:278
+msgid "Cdrom with Ubuntu 5.10 'Breezy Badger'"
+msgstr "Cd-rom med Ubuntu 5.10 \"Breezy Badger\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:290
+msgid "Ubuntu 5.10 Security Updates"
+msgstr "Ubuntu 5.10 Säkerhetsuppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:295
+msgid "Ubuntu 5.10 Updates"
+msgstr "Ubuntu 5.10 Uppdateringar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:300
+msgid "Ubuntu 5.10 Backports"
+msgstr "Ubuntu 5.10 Bakåtportar"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:307
+msgid "Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:320
+msgid "Cdrom with Ubuntu 5.04 'Hoary Hedgehog'"
+msgstr "Cd-rom med Ubuntu 5.04 \"Hoary Hedgehog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:323 ../data/templates/Debian.info.in:94
+msgid "Officially supported"
+msgstr "Stöds officiellt"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:332
+msgid "Ubuntu 5.04 Security Updates"
+msgstr "Säkerhetsuppdateringar för Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:337
+msgid "Ubuntu 5.04 Updates"
+msgstr "Uppdateringar för Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:342
+msgid "Ubuntu 5.04 Backports"
+msgstr "Bakåtporteringar för Ubuntu 5.04"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:348
+msgid "Ubuntu 4.10 'Warty Warthog'"
+msgstr "Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:354
+#, fuzzy
+msgid "Community-maintained (Universe)"
+msgstr "Gemenskapsunderhållen (Universe)"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:356
+msgid "Non-free (Multiverse)"
+msgstr "Ickefri (Multiverse)"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:361
+msgid "Cdrom with Ubuntu 4.10 'Warty Warthog'"
+msgstr "Cd-rom med Ubuntu 4.10 \"Warty Warthog\""
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:364
+msgid "No longer officially supported"
+msgstr "Stöds inte längre officiellt"
+
+#. CompDescription
+#: ../data/templates/Ubuntu.info.in:366
+msgid "Restricted copyright"
+msgstr "Begränsad upphovsrätt"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:373
+msgid "Ubuntu 4.10 Security Updates"
+msgstr "Säkerhetsuppdateringar för Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:378
+msgid "Ubuntu 4.10 Updates"
+msgstr "Uppdateringar för Ubuntu 4.10"
+
+#. Description
+#: ../data/templates/Ubuntu.info.in:383
+msgid "Ubuntu 4.10 Backports"
+msgstr "Bakåtporteringar för Ubuntu 4.10"
+
+#. ChangelogURI
+#: ../data/templates/Debian.info.in.h:4
+#, no-c-format
+msgid "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+msgstr "http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog"
+
+#. Description
+#: ../data/templates/Debian.info.in:8
+msgid "Debian 4.0 'Etch' "
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:31
+#, fuzzy
+msgid "Debian 3.1 'Sarge'"
+msgstr "Debian 3.1 \"Sarge\""
+
+#. Description
+#: ../data/templates/Debian.info.in:42
+msgid "Proposed updates"
+msgstr "Föreslagna uppdateringar"
+
+#. Description
+#: ../data/templates/Debian.info.in:47
+#, fuzzy
+msgid "Security updates"
+msgstr "Viktiga säkerhetsuppdateringar"
+
+#. Description
+#: ../data/templates/Debian.info.in:54
+msgid "Debian current stable release"
+msgstr ""
+
+#. Description
+#: ../data/templates/Debian.info.in:67
+#, fuzzy
+msgid "Debian testing"
+msgstr "Debian \"Etch\" (testing)"
+
+#. Description
+#: ../data/templates/Debian.info.in:92
+#, fuzzy
+msgid "Debian 'Sid' (unstable)"
+msgstr "Debian \"Sid\" (unstable)"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:96
+msgid "DFSG-compatible Software with Non-Free Dependencies"
+msgstr "DFSG-kompatibel programvara med icke-fria beroenden"
+
+#. CompDescription
+#: ../data/templates/Debian.info.in:98
+msgid "Non-DFSG-compatible Software"
+msgstr "Icke-DFSG-kompatibel programvara"
+
+#. TRANSLATORS: %s is a country
+#: ../aptsources/distro.py:194 ../aptsources/distro.py:401
+#, python-format
+msgid "Server for %s"
+msgstr "Server för %s"
+
+#. More than one server is used. Since we don't handle this case
+#. in the user interface we set "custom servers" to true and
+#. append a list of all used servers
+#: ../aptsources/distro.py:213 ../aptsources/distro.py:218
+#: ../aptsources/distro.py:232
+msgid "Main server"
+msgstr "Huvudserver"
+
+#: ../aptsources/distro.py:235
+msgid "Custom servers"
+msgstr "Anpassade servrar"
+
+#~ msgid "Daily"
+#~ msgstr "Dagligen"
+
+#~ msgid "Every two days"
+#~ msgstr "Varannan dag"
+
+#~ msgid "Weekly"
+#~ msgstr "Varje vecka"
+
+#~ msgid "Every two weeks"
+#~ msgstr "Varannan vecka"
+
+#~ msgid "Every %s days"
+#~ msgstr "Var %s:e dag"
+
+#~ msgid "After one week"
+#~ msgstr "Efter en vecka"
+
+#~ msgid "After two weeks"
+#~ msgstr "Efter två veckor"
+
+#~ msgid "After one month"
+#~ msgstr "Efter en månad"
+
+#~ msgid "After %s days"
+#~ msgstr "Efter %s dagar"
+
+#~ msgid "%s updates"
+#~ msgstr "Uppdateringar för %s"
+
+#~ msgid "%s (%s)"
+#~ msgstr "%s (%s)"
+
+#~ msgid "Nearest server"
+#~ msgstr "Närmaste server"
+
+#~ msgid "Software Channel"
+#~ msgstr "Programvarukanal"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid "(Source Code)"
+#~ msgstr "(Källkod)"
+
+#~ msgid "Source Code"
+#~ msgstr "Källkod"
+
+#~ msgid "Import key"
+#~ msgstr "Importera nyckel"
+
+#~ msgid "Error importing selected file"
+#~ msgstr "Fel vid importing av vald fil"
+
+#~ msgid "The selected file may not be a GPG key file or it might be corrupt."
+#~ msgstr ""
+#~ "Den valda filen verkar inte vara en GPG-nyckel eller så är filen trasig."
+
+#~ msgid "Error removing the key"
+#~ msgstr "Fel vid borttagning av nyckeln"
+
+#~ msgid ""
+#~ "The key you selected could not be removed. Please report this as a bug."
+#~ msgstr "Nyckeln du valde kan inte tas bort. Rapportera detta som ett fel."
+
+#~ msgid ""
+#~ "<big><b>Error scanning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Fel vid avsökning av cd-skiva</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Please enter a name for the disc"
+#~ msgstr "Ange ett namn för skivan"
+
+#~ msgid "Please insert a disc in the drive:"
+#~ msgstr "Mata in en skiva i enheten:"
+
+#~ msgid "Broken packages"
+#~ msgstr "Trasiga paket"
+
+#~ msgid ""
+#~ "Your system contains broken packages that couldn't be fixed with this "
+#~ "software. Please fix them first using synaptic or apt-get before "
+#~ "proceeding."
+#~ msgstr ""
+#~ "Ditt system innehåller trasiga paket som inte kunde repareras med det här "
+#~ "programmet. Reparera dem först med synaptic eller apt-get innan du "
+#~ "fortsätter."
+
+#~ msgid "Can't upgrade required meta-packages"
+#~ msgstr "Kan inte uppdatera de obligatoriska meta-paketen"
+
+#~ msgid "A essential package would have to be removed"
+#~ msgstr "Ett grundläggande paket skulle behöva tas bort"
+
+#~ msgid "Could not calculate the upgrade"
+#~ msgstr "Kunde inte beräkna uppgraderingen"
+
+#~ msgid ""
+#~ "A unresolvable problem occurred while calculating the upgrade.\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Ett problem utan lösning inträffade vid beräkning av uppgraderingen.\n"
+#~ "\n"
+#~ "Rapportera det här felet mot paketet \"update-manager\" och inkludera "
+#~ "filerna i /var/log/dist-upgrade/ i felrapporten."
+
+#~ msgid "Error authenticating some packages"
+#~ msgstr "Det gick inte att autentisiera vissa paket"
+
+#~ msgid ""
+#~ "It was not possible to authenticate some packages. This may be a "
+#~ "transient network problem. You may want to try again later. See below for "
+#~ "a list of unauthenticated packages."
+#~ msgstr ""
+#~ "Det gick inte att autentisiera vissa paket. Det kan vara ett tillfälligt "
+#~ "nätverksfel. Det kan hjälpa med att försöka senare. Se nedan för en lista "
+#~ "med icke-autentisierade paket."
+
+#~ msgid "Can't install '%s'"
+#~ msgstr "Kan inte installera \"%s\""
+
+#~ msgid ""
+#~ "It was impossible to install a required package. Please report this as a "
+#~ "bug. "
+#~ msgstr ""
+#~ "Det var inte möjligt att installera ett nödvändigt paket. Rapportera "
+#~ "detta som ett fel. "
+
+#~ msgid "Can't guess meta-package"
+#~ msgstr "Kan inte gissa meta-paket"
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are running.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Ditt system innehåller inte något av paketen ubuntu-desktop, kubuntu-"
+#~ "desktop eller edubuntu-desktop och det var inte möjligt att identifiera "
+#~ "vilken version av Ubuntu som du kör.\n"
+#~ " Installera först ett av paketen ovan med Synaptic eller apt-get innan du "
+#~ "fortsätter."
+
+#~ msgid "Failed to add the CD"
+#~ msgstr "Misslyckades med att lägga till cd-skivan"
+
+#~ msgid ""
+#~ "There was a error adding the CD, the upgrade will abort. Please report "
+#~ "this as a bug if this is a valid Ubuntu CD.\n"
+#~ "\n"
+#~ "The error message was:\n"
+#~ "'%s'"
+#~ msgstr ""
+#~ "Det inträffade ett fel när cd-skivan lades till, uppgraderingen kommer "
+#~ "att avbrytas. Rapportera detta som ett fel om det gäller en giltig Ubuntu-"
+#~ "cd.\n"
+#~ "\n"
+#~ "Felmeddelandet var:\n"
+#~ "\"%s\""
+
+#~ msgid "Reading cache"
+#~ msgstr "Läser cache"
+
+#~ msgid "Fetch data from the network for the upgrade?"
+#~ msgstr "Hämta uppgraderingsdata från nätverket?"
+
+#~ msgid ""
+#~ "The upgrade can use the network to check the latest updates and to fetch "
+#~ "packages that are not on the current CD.\n"
+#~ "If you have fast or inexpensive network access you should answer 'Yes' "
+#~ "here. If networking is expensive for you choose 'No'."
+#~ msgstr ""
+#~ "Uppgraderingen kan använda nätverket för att leta efter de senaste "
+#~ "uppdateringarna och för att hämta paketen som inte finns på den aktuella "
+#~ "cd-skivan.\n"
+#~ "\n"
+#~ "Om du har en snabb nätverksanslutning bör du svara \"Ja\" här. Om "
+#~ "nätverket är långsamt kan du svara \"Nej\"."
+
+#~ msgid "No valid mirror found"
+#~ msgstr "Hittade ingen giltig serverspegel"
+
+#~ msgid ""
+#~ "While scaning your repository information no mirror entry for the upgrade "
+#~ "was found.This cam happen if you run a internal mirror or if the mirror "
+#~ "information is out of date.\n"
+#~ "\n"
+#~ "Do you want to rewrite your 'sources.list' file anyway? If you choose "
+#~ "'Yes' here it will update all '%s' to '%s' entries.\n"
+#~ "If you select 'no' the update will cancel."
+#~ msgstr ""
+#~ "Kunde inte hitta någon serverspegelpost för uppgraderingen när "
+#~ "förrådsinformationen söktes igenom. Det här kan hända om du kör en intern "
+#~ "spegel eller om spegelinformationen är utdaterad.\n"
+#~ "\n"
+#~ "Vill du skriva över filen \"sources.list\" i alla fall? Om du väljer \"Ja"
+#~ "\" här kommer det att uppdatera alla \"%s\" till \"%s\".\n"
+#~ "Om du väljer \"Nej\" kommer uppdateringen avbrytas."
+
+#~ msgid "Generate default sources?"
+#~ msgstr "Generera standardkällor?"
+
+#~ msgid ""
+#~ "After scanning your 'sources.list' no valid entry for '%s' was found.\n"
+#~ "\n"
+#~ "Should default entries for '%s' be added? If you select 'No' the update "
+#~ "will cancel."
+#~ msgstr ""
+#~ "Hittade ingen giltig post för \"%s\" när \"sources.list\" söktes igenom.\n"
+#~ "\n"
+#~ "Ska standardposter för \"%s\" läggas till? Om du väljer \"Nej\" kommer "
+#~ "uppdateringen avbrytas."
+
+#~ msgid "Repository information invalid"
+#~ msgstr "Förrådsinformationen är ogiltig"
+
+#~ msgid ""
+#~ "Upgrading the repository information resulted in a invalid file. Please "
+#~ "report this as a bug."
+#~ msgstr ""
+#~ "Uppdatering av förrådsinformationen orsakade en ogiltig fil. Rapportera "
+#~ "detta som ett fel."
+
+#~ msgid "Third party sources disabled"
+#~ msgstr "Tredjepartskällor inaktiverade"
+
+#~ msgid ""
+#~ "Some third party entries in your sources.list were disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Vissa tredjepartsposter i din sources.list blev inaktiverade. Du kan "
+#~ "återaktivera dem efter uppgraderingen med verktyget \"software-properties"
+#~ "\" eller med Synaptic."
+
+#~ msgid "Error during update"
+#~ msgstr "Fel vid uppdatering"
+
+#~ msgid ""
+#~ "A problem occured during the update. This is usually some sort of network "
+#~ "problem, please check your network connection and retry."
+#~ msgstr ""
+#~ "Ett problem inträffade under uppdateringen. Detta beror oftast på någon "
+#~ "form av nätverksproblem, var god kontrollera din nätverksanslutning och "
+#~ "försök igen."
+
+#~ msgid "Not enough free disk space"
+#~ msgstr "Inte tillräckligt med ledigt diskutrymme"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space on %s. "
+#~ "Empty your trash and remove temporary packages of former installations "
+#~ "using 'sudo apt-get clean'."
+#~ msgstr ""
+#~ "Uppgraderingen avbryts nu. Frigör åtminstone %s diskutrymme på %s. Töm "
+#~ "din papperskorg och ta bort temporära paket från tidigare installationer "
+#~ "genom att använda \"sudo apt-get clean\"."
+
+#~ msgid "Do you want to start the upgrade?"
+#~ msgstr "Vill du starta uppgraderingen?"
+
+#~ msgid "Could not install the upgrades"
+#~ msgstr "Det gick inte att installera uppgraderingarna"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system could be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Please report this bug against the 'update-manager' package and include "
+#~ "the files in /var/log/dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Uppgraderingen avbryts nu. Ditt system kan vara i ett oanvändbart "
+#~ "tillstånd. En återhämtning kördes (dpkg --configure -a).\n"
+#~ "\n"
+#~ "Rapportera detta fel mot paketet \"update-manager\" och bifoga filerna i /"
+#~ "var/log/dist-upgrade/ i felrapporten."
+
+#~ msgid "Could not download the upgrades"
+#~ msgstr "Det gick inte att hämta uppgraderingarna"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please check your internet connection or "
+#~ "installation media and try again. "
+#~ msgstr ""
+#~ "Uppgraderingen avbryts nu. Var god kontrollera din Internetanslutning "
+#~ "eller ditt installationsmedia, och försök igen. "
+
+#~ msgid "Support for some applications ended"
+#~ msgstr "Stöd för vissa program har upphört"
+
+#~ msgid ""
+#~ "Canonical Ltd. no longer provides support for the following software "
+#~ "packages. You can still get support from the community.\n"
+#~ "\n"
+#~ "If you have not enabled community maintained software (universe), these "
+#~ "packages will be suggested for removal in the next step."
+#~ msgstr ""
+#~ "Canonical Ltd. tillhandahåller inte längre stöd för följande "
+#~ "programvarupaket. Du kan fortfarande få stöd från gemenskapen.\n"
+#~ "\n"
+#~ "Om du inte har aktiverat gemenskapsunderhållen programvara (universe), "
+#~ "kommer dessa paket att föreslås för borttagning i nästa steg."
+
+#~ msgid "Remove obsolete packages?"
+#~ msgstr "Ta bort föråldrade paket?"
+
+#~ msgid "_Skip This Step"
+#~ msgstr "_Hoppa över det här steget"
+
+#~ msgid "_Remove"
+#~ msgstr "_Ta bort"
+
+#~ msgid "Error during commit"
+#~ msgstr "Fel inträffade vid verkställandet"
+
+#~ msgid ""
+#~ "Some problem occured during the clean-up. Please see the below message "
+#~ "for more information. "
+#~ msgstr ""
+#~ "Något fel inträffade vid upprensningen. Se meddelandet nedan för mer "
+#~ "information. "
+
+#~ msgid "Restoring original system state"
+#~ msgstr "Återställer ursprungligt systemtillstånd"
+
+#~ msgid "Fetching backport of '%s'"
+#~ msgstr "Hämtar bakåtportering av \"%s\""
+
+#~ msgid "Checking package manager"
+#~ msgstr "Kontrollerar pakethanterare"
+
+#~ msgid "Preparing the upgrade failed"
+#~ msgstr "Förberedelse av uppgradering misslyckades"
+
+#~ msgid ""
+#~ "Preparing the system for the upgrade failed. Please report this as a bug "
+#~ "against the 'update-manager' package and include the files in /var/log/"
+#~ "dist-upgrade/ in the bugreport."
+#~ msgstr ""
+#~ "Förberedelse av systemet för uppgraderingen misslyckades. Rapportera det "
+#~ "här som ett fel mot paketet \"update-manager\" och inkludera filerna i /"
+#~ "var/log/dist-upgrade/ i felrapporten."
+
+#~ msgid "Updating repository information"
+#~ msgstr "Uppdaterar förrådsinformation"
+
+#~ msgid "Invalid package information"
+#~ msgstr "Ogiltig paketinformation"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this bug against the "
+#~ "'update-manager' package and include the files in /var/log/dist-upgrade/ "
+#~ "in the bugreport."
+#~ msgstr ""
+#~ "Efter att din paketinformation blev uppdaterad kan det systemkritiska "
+#~ "paketet \"%s\" inte längre hittas.\n"
+#~ "Detta innebär att det finns ett allvarligt fel, vänligen rapportera detta "
+#~ "fel mot paketet \"update-manager\" och bifoga filerna i /var/log/dist-"
+#~ "upgrade/ i felrapporten."
+
+#~ msgid "Asking for confirmation"
+#~ msgstr "Ber om bekräftelse"
+
+#~ msgid "Upgrading"
+#~ msgstr "Uppgraderar"
+
+#~ msgid "Searching for obsolete software"
+#~ msgstr "Söker efter föråldrad programvara"
+
+#~ msgid "System upgrade is complete."
+#~ msgstr "Systemuppdateringen är klar."
+
+#~ msgid "Please insert '%s' into the drive '%s'"
+#~ msgstr "Mata in \"%s\" i enheten \"%s\""
+
+#~ msgid "Fetching is complete"
+#~ msgstr "Hämtning är klar"
+
+#~ msgid "Fetching file %li of %li at %s/s"
+#~ msgstr "Hämtar fil %li av %li i %s/s"
+
+#~ msgid "About %s remaining"
+#~ msgstr "Ungefär %s återstående"
+
+#~ msgid "Fetching file %li of %li"
+#~ msgstr "Hämtar fil %li av %li"
+
+#~ msgid "Applying changes"
+#~ msgstr "Verkställer ändringar"
+
+#~ msgid "Could not install '%s'"
+#~ msgstr "Kunde inte installera \"%s\""
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please report this bug against the 'update-"
+#~ "manager' package and include the files in /var/log/dist-upgrade/ in the "
+#~ "bugreport."
+#~ msgstr ""
+#~ "Uppgraderingen avbryter nu. Rapportera detta fel mot paketet \"update-"
+#~ "manager\" och bifoga filerna i /var/log/dist-upgrade/ i felrapporten."
+
+#~ msgid ""
+#~ "Replace the customized configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Ersätt den anpassade konfigurationsfilen\n"
+#~ "\"%s\"?"
+
+#~ msgid ""
+#~ "You will lose any changes you have made to this configuration file if you "
+#~ "choose to replace it with a newer version."
+#~ msgstr ""
+#~ "Du kommer att förlora de ändringar du har gjort i den här "
+#~ "konfigurationsfilen om du väljer att ersätta den med en senare version."
+
+#~ msgid "The 'diff' command was not found"
+#~ msgstr "Kommandot \"diff\" hittades inte"
+
+#~ msgid "A fatal error occured"
+#~ msgstr "Ett ödesdigert fel uppstod"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade/"
+#~ "main.log and /var/log/dist-upgrade/apt.log in your report. The upgrade "
+#~ "aborts now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Rapportera detta som ett fel och bifoga filerna /var/log/dist-upgrade/"
+#~ "main.log och /var/log/dist-upgrade/apt.log i din rapport. Uppgraderingen "
+#~ "avbryts nu.\n"
+#~ "Din ursprungliga sources.list sparades som /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#~ msgid "%d package is going to be removed."
+#~ msgid_plural "%d packages are going to be removed."
+#~ msgstr[0] "%d paket kommer att tas bort."
+#~ msgstr[1] "%d paket kommer att tas bort."
+
+#~ msgid "%d new package is going to be installed."
+#~ msgid_plural "%d new packages are going to be installed."
+#~ msgstr[0] "%d nytt paket kommer att installeras."
+#~ msgstr[1] "%d nya paket kommer att installeras."
+
+#~ msgid "%d package is going to be upgraded."
+#~ msgid_plural "%d packages are going to be upgraded."
+#~ msgstr[0] "%d paket kommer att uppgraderas."
+#~ msgstr[1] "%d paket kommer att uppgraderas."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You have to download a total of %s. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Du måste hämta totalt %s. "
+
+#~ msgid ""
+#~ "Fetching and installing the upgrade can take several hours and cannot be "
+#~ "canceled at any time later."
+#~ msgstr ""
+#~ "Hämtning och installation av uppgraderingen kan ta flera timmar och kan "
+#~ "inte avbrytas."
+
+#~ msgid "To prevent data loss close all open applications and documents."
+#~ msgstr ""
+#~ "Stäng alla öppna program och dokument för att förhindra dataförlust."
+
+#~ msgid "Your system is up-to-date"
+#~ msgstr "Ditt system är uppdaterat"
+
+#~ msgid ""
+#~ "There are no upgrades available for your system. The upgrade will now be "
+#~ "canceled."
+#~ msgstr ""
+#~ "Det finns inga tillgängliga uppgraderingar för ditt system. "
+#~ "Uppgraderingen kommer nu att avbrytas."
+
+#~ msgid "<b>Remove %s</b>"
+#~ msgstr "<b>Ta bort %s</b>"
+
+#~ msgid "Install %s"
+#~ msgstr "Installera %s"
+
+#~ msgid "Upgrade %s"
+#~ msgstr "Uppgradera %s"
+
+#~ msgid "%li days %li hours %li minutes"
+#~ msgstr "%li dagar %li timmar %li minuter"
+
+#~ msgid "%li hours %li minutes"
+#~ msgstr "%li timmar %li minuter"
+
+#~ msgid "%li minutes"
+#~ msgstr "%li minuter"
+
+#~ msgid "%li seconds"
+#~ msgstr "%li sekunder"
+
+#~ msgid ""
+#~ "This download will take about %s with a 1Mbit DSL connection and about %s "
+#~ "with a 56k modem"
+#~ msgstr ""
+#~ "Den här hämtningen kommer att ta ungefär %s med en 1 Mbit DSL-"
+#~ "anslutningen och ungefär %s med ett 56k-modem"
+
+#~ msgid "Reboot required"
+#~ msgstr "Omstart krävs"
+
+#~ msgid ""
+#~ "The upgrade is finished and a reboot is required. Do you want to do this "
+#~ "now?"
+#~ msgstr ""
+#~ "Uppgraderingen är klar och datorn behöver startas om. Vill du göra det nu?"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid ""
+#~ "<b><big>Cancel the running upgrade?</big></b>\n"
+#~ "\n"
+#~ "The system could be in an unusable state if you cancel the upgrade. You "
+#~ "are strongly adviced to resume the upgrade."
+#~ msgstr ""
+#~ "<b><big>Avbryt pågående uppgradering?</big></b>\n"
+#~ "\n"
+#~ "Systemet kan hamna i ett oanvändbart tillstånd om du avbryter "
+#~ "uppgraderingen. Det rekommenderas starkt att du fortsätter uppgraderingen."
+
+#~ msgid "<b><big>Restart the system to complete the upgrade</big></b>"
+#~ msgstr ""
+#~ "<b><big>Starta om systemet för att färdigställa uppgraderingen</big></b>"
+
+#~ msgid "<b><big>Start the upgrade?</big></b>"
+#~ msgstr "<b><big>Starta uppgraderingen?</big></b>"
+
+#~ msgid "<b><big>Upgrading Ubuntu to version 6.10</big></b>"
+#~ msgstr "<b><big>Uppgraderar Ubuntu till version 6.10</big></b>"
+
+#~ msgid "Cleaning up"
+#~ msgstr "Rensar upp"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Difference between the files"
+#~ msgstr "Skillnad mellan filerna"
+
+#~ msgid "Fetching and installing the upgrades"
+#~ msgstr "Hämtar och installerar uppgraderingarna"
+
+#~ msgid "Modifying the software channels"
+#~ msgstr "Ändrar programvarukanalerna"
+
+#~ msgid "Preparing the upgrade"
+#~ msgstr "Förbereder uppgraderingen"
+
+#~ msgid "Restarting the system"
+#~ msgstr "Startar om datorn"
+
+#~ msgid "Terminal"
+#~ msgstr "Terminalfönster"
+
+#~ msgid "_Cancel Upgrade"
+#~ msgstr "_Avbryt uppgradering"
+
+#~ msgid "_Continue"
+#~ msgstr "_Fortsätt"
+
+#~ msgid "_Keep"
+#~ msgstr "_Behåll"
+
+#~ msgid "_Replace"
+#~ msgstr "_Ersätt"
+
+#~ msgid "_Report Bug"
+#~ msgstr "_Rapportera fel"
+
+#~ msgid "_Restart Now"
+#~ msgstr "_Starta om nu"
+
+#~ msgid "_Resume Upgrade"
+#~ msgstr "_Återuppta uppgraderingen"
+
+#~ msgid "_Start Upgrade"
+#~ msgstr "_Starta uppgradering"
+
+#~ msgid "Could not find the release notes"
+#~ msgstr "Det gick inte att hitta versionsfaktan"
+
+#~ msgid "The server may be overloaded. "
+#~ msgstr "Servern kan vara överbelastad. "
+
+#~ msgid "Could not download the release notes"
+#~ msgstr "Det gick inte att hämta versionsfaktan"
+
+#~ msgid "Please check your internet connection."
+#~ msgstr "Kontrollera din Internetanslutning."
+
+#~ msgid "Could not run the upgrade tool"
+#~ msgstr "Det gick inte att köra uppgraderingsverktyget"
+
+#~ msgid ""
+#~ "This is most likely a bug in the upgrade tool. Please report it as a bug"
+#~ msgstr ""
+#~ "Det är troligen ett fel i uppgraderingsverktyget. Rapportera det som ett "
+#~ "fel."
+
+#~ msgid "Downloading the upgrade tool"
+#~ msgstr "Hämtar uppgraderingsverktyget"
+
+#~ msgid "The upgrade tool will guide you through the upgrade process."
+#~ msgstr ""
+#~ "Uppgraderingsverktyget kommer att guida dig genom uppgraderingsprocessen."
+
+#~ msgid "Upgrade tool signature"
+#~ msgstr "Uppgraderingsverktygets signatur"
+
+#~ msgid "Upgrade tool"
+#~ msgstr "Uppgraderingsverktyg"
+
+#~ msgid "Failed to fetch"
+#~ msgstr "Misslyckades med att hämta"
+
+#~ msgid "Fetching the upgrade failed. There may be a network problem. "
+#~ msgstr ""
+#~ "Hämtningen av uppgraderingen misslyckades. Det kan vara ett problem med "
+#~ "nätverket. "
+
+#~ msgid "Failed to extract"
+#~ msgstr "Misslyckades med att extrahera"
+
+#~ msgid ""
+#~ "Extracting the upgrade failed. There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Extraheringen av uppgraderingen misslyckades. Det kan vara ett problem "
+#~ "med nätverket eller med servern. "
+
+#~ msgid "Verfication failed"
+#~ msgstr "Verifieringen misslyckades"
+
+#~ msgid ""
+#~ "Verifying the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Validering av uppgraderingen misslyckades. Det kan finnas ett problem i "
+#~ "nätverket eller med servern. "
+
+#~ msgid "Authentication failed"
+#~ msgstr "Autentisering misslyckades"
+
+#~ msgid ""
+#~ "Authenticating the upgrade failed. There may be a problem with the "
+#~ "network or with the server. "
+#~ msgstr ""
+#~ "Autentisering av uppgraderingen misslyckades. Det kan vara ett problem "
+#~ "med nätverket eller med servern. "
+
+#~ msgid "Downloading file %(current)li of %(total)li with %(speed)s/s"
+#~ msgstr "Hämtar fil %(current)li av %(total)li med %(speed)s/s"
+
+#~ msgid "Downloading file %(current)li of %(total)li"
+#~ msgstr "Hämtar fil %(current)li av %(total)li"
+
+#~ msgid "The list of changes is not available"
+#~ msgstr "Listan över ändringar finns inte tillgänglig"
+
+#~ msgid ""
+#~ "The list of changes is not available yet.\n"
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Listan över ändringar är ännu inte tillgänglig.\n"
+#~ "Försök igen senare."
+
+#~ msgid ""
+#~ "Failed to download the list of changes. \n"
+#~ "Please check your Internet connection."
+#~ msgstr ""
+#~ "Misslyckades med att hämta listan över ändringar. \n"
+#~ "Kontrollera din Internetanslutning."
+
+#~ msgid "Backports"
+#~ msgstr "Bakåtporteringar"
+
+#~ msgid "Distribution updates"
+#~ msgstr "Uppdateringar för utgåva"
+
+#~ msgid "Other updates"
+#~ msgstr "Övriga uppdateringar"
+
+#~ msgid "Version %s: \n"
+#~ msgstr "Version %s: \n"
+
+#~ msgid "Downloading list of changes..."
+#~ msgstr "Hämtar lista över ändringar..."
+
+#~ msgid "_Uncheck All"
+#~ msgstr "_Avmarkera allt"
+
+#~ msgid "_Check All"
+#~ msgstr "_Kontrollera alla"
+
+#~ msgid "Download size: %s"
+#~ msgstr "Hämtningsstorlek: %s"
+
+#~ msgid "You can install %s update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Du kan installera %s uppdatering"
+#~ msgstr[1] "Du kan installera %s uppdateringar"
+
+#~ msgid "Please wait, this can take some time."
+#~ msgstr "Var god vänta, det här kan ta lite tid."
+
+#~ msgid "Update is complete"
+#~ msgstr "Uppdateringen är färdig"
+
+#~ msgid "Checking for updates"
+#~ msgstr "Letar efter uppdateringar"
+
+#~ msgid "From version %(old_version)s to %(new_version)s"
+#~ msgstr "Från version %(old_version)s till %(new_version)s"
+
+#~ msgid "Version %s"
+#~ msgstr "Version %s"
+
+#~ msgid "(Size: %s)"
+#~ msgstr "(Storlek: %s)"
+
+#~ msgid "Your distribution is not supported anymore"
+#~ msgstr "Din distribution stöds inte längre"
+
+#~ msgid ""
+#~ "You will not get any further security fixes or critical updates. Upgrade "
+#~ "to a later version of Ubuntu Linux. See http://www.ubuntu.com for more "
+#~ "information on upgrading."
+#~ msgstr ""
+#~ "Du kommer inte längre att få säkerhets- eller kritiska uppdateringar. "
+#~ "Uppgradera till en senare version av Ubuntu Linux. Se http://www.ubuntu."
+#~ "com för mer information om hur man uppgraderar."
+
+#~ msgid "<b>New distribution release '%s' is available</b>"
+#~ msgstr "<b>Ny distributionsutgåva \"%s\" finns tillgänglig</b>"
+
+#~ msgid "Software index is broken"
+#~ msgstr "Programindexet är trasigt"
+
+#~ msgid ""
+#~ "It is impossible to install or remove any software. Please use the "
+#~ "package manager \"Synaptic\" or run \"sudo apt-get install -f\" in a "
+#~ "terminal to fix this issue at first."
+#~ msgstr ""
+#~ "Det är inte möjligt att installera eller ta bort några program. Använd "
+#~ "pakethanteraren \"Synaptic\" eller kör \"sudo apt-get install -f\" i en "
+#~ "terminal för att rätta till det här problemet först."
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "1 KB"
+#~ msgstr "1 KB"
+
+#~ msgid "%.0f KB"
+#~ msgstr "%.0f KB"
+
+#~ msgid "%.1f MB"
+#~ msgstr "%.1f MB"
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in <i>Software Sources</i> on the <i>Internet Updates</i> "
+#~ "tab."
+#~ msgstr ""
+#~ "<b><big>Du måste manuellt leta efter uppdateringar</big></b>\n"
+#~ "\n"
+#~ "Ditt system letar inte automatiskt efter uppdateringar. Du kan konfiguera "
+#~ "det här beteendet i <i>Programvarukällor</i> under fliken "
+#~ "<i>Internetuppdateringar</i>."
+
+#~ msgid "<big><b>Keep your system up-to-date</b></big>"
+#~ msgstr "<big><b>Håll ditt system uppdaterat</b></big>"
+
+#~ msgid "<big><b>Not all updates can be installed</b></big>"
+#~ msgstr "<big><b>Inte alla uppdateringar kan installeras</b></big>"
+
+#~ msgid "<big><b>Starting update manager</b></big>"
+#~ msgstr "<big><b>Startar Uppdateringshanterare</b></big>"
+
+#~ msgid "Changes"
+#~ msgstr "Ändringar"
+
+#~ msgid "Changes and description of the update"
+#~ msgstr "Ändringar och beskrivning av uppdateringen"
+
+#~ msgid "Chec_k"
+#~ msgstr "_Kontrollera"
+
+#~ msgid "Check the software channels for new updates"
+#~ msgstr "Leta efter nya uppdateringar i programvarukanalerna"
+
+#~ msgid "Description"
+#~ msgstr "Beskrivning"
+
+#~ msgid "Release Notes"
+#~ msgstr "Versionsfakta"
+
+#~ msgid ""
+#~ "Run a distribution upgrade, to install as many updates as possible. \n"
+#~ "\n"
+#~ "This can be caused by an uncompleted upgrade, unofficial software "
+#~ "packages or by running a development version."
+#~ msgstr ""
+#~ "Kör en uppgradering av utgåvan för att installera så många uppdateringar "
+#~ "som möjligt. \n"
+#~ "\n"
+#~ "Det här kan orsakas av en icke-komplett uppgradering, inofficiella "
+#~ "programvarupaket eller genom att köra en utvecklingsversion."
+
+#~ msgid "Show progress of single files"
+#~ msgstr "Visa förlopp för enstaka filer"
+
+#~ msgid "Software Updates"
+#~ msgstr "Programvaruuppdateringar"
+
+#~ msgid ""
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "Programvaruuppdateringar rättar till fel, eliminerar säkerhetsproblem och "
+#~ "ger dig nya funktioner."
+
+#~ msgid "U_pgrade"
+#~ msgstr "U_ppgradera"
+
+#~ msgid "Upgrade to the latest version of Ubuntu"
+#~ msgstr "Uppgradera till senaste versionen av Ubuntu"
+
+#~ msgid "_Check"
+#~ msgstr "_Kontrollera"
+
+#~ msgid "_Distribution Upgrade"
+#~ msgstr "_Uppgradering av utgåva"
+
+#~ msgid "_Hide this information in the future"
+#~ msgstr "_Dölj denna information i framtiden"
+
+#~ msgid "_Install Updates"
+#~ msgstr "_Installera uppdateringar"
+
+#~ msgid "_Upgrade"
+#~ msgstr "_Uppgradera"
+
+#~ msgid "changes"
+#~ msgstr "ändrar"
+
+#~ msgid "updates"
+#~ msgstr "uppdaterar"
+
+#~ msgid "<b>Automatic updates</b>"
+#~ msgstr "<b>Automatiska uppdateringar</b>"
+
+#~ msgid "<b>CDROM/DVD</b>"
+#~ msgstr "<b>Cd-rom/DVD</b>"
+
+#~ msgid "<b>Internet updates</b>"
+#~ msgstr "<b>Internetuppdateringar</b>"
+
+#~ msgid "<b>Internet</b>"
+#~ msgstr "<b>Internet</b>"
+
+#~ msgid ""
+#~ "<i>To improve the user experience of Ubuntu please take part in the "
+#~ "popularity contest. If you do so the list of installed software and how "
+#~ "often it was used will be collected and sent anonymously to the Ubuntu "
+#~ "project  on a weekly basis.\n"
+#~ "\n"
+#~ "The results are used to improve the support for popular applications and "
+#~ "to rank applications in the search results.</i>"
+#~ msgstr ""
+#~ "<i>För att förbättra Ubuntus användarvänlighet ber vi dig att delta i "
+#~ "Ubuntus populäritetstävling. Om du deltar kommer en lista över de program "
+#~ "du har installerat och uppgifter om hur ofta de används att samlas in. "
+#~ "Listan skickas anonymt till Ubuntu-projektet veckovis.\n"
+#~ "\n"
+#~ "Resultatet används för att förbättra stödet för populära program och för "
+#~ "att ranka program i sökresultat.</i>"
+
+#~ msgid "Add Cdrom"
+#~ msgstr "Lägg till cd-rom"
+
+#~ msgid "Authentication"
+#~ msgstr "Autentisering"
+
+#~ msgid "D_elete downloaded software files:"
+#~ msgstr "_Ta bort hämtade programvarufiler:"
+
+#~ msgid "Download from:"
+#~ msgstr "Hämta från:"
+
+#~ msgid "Import the public key from a trusted software provider"
+#~ msgstr "Importera den publika nyckeln från en betrodd programvaruleverantör"
+
+#~ msgid "Internet Updates"
+#~ msgstr "Internetuppdateringar"
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically"
+#~ msgstr ""
+#~ "Endast säkerhetsuppdateringar från de officiella Ubuntuservrarna kommer "
+#~ "installeras automatiskt"
+
+#~ msgid "Restore _Defaults"
+#~ msgstr "_Återställ standardvärden"
+
+#~ msgid "Restore the default keys of your distribution"
+#~ msgstr "Återställ standardnycklarna för din distribution"
+
+#~ msgid "Software Sources"
+#~ msgstr "Programvarukällor"
+
+#~ msgid "Source code"
+#~ msgstr "Källkod"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
+
+#~ msgid "Submit statistical information"
+#~ msgstr "Skicka in statistik"
+
+#~ msgid "Third Party"
+#~ msgstr "Tredjepart"
+
+#~ msgid "_Check for updates automatically:"
+#~ msgstr "Leta efter uppdateringar _automatiskt:"
+
+#~ msgid "_Download updates automatically, but do not install them"
+#~ msgstr "_Hämta automatiskt uppdateringar, men installera dem inte"
+
+#~ msgid "_Import Key File"
+#~ msgstr "_Importera nyckelfil"
+
+#~ msgid "_Install security updates without confirmation"
+#~ msgstr "_Installera säkerhetsuppdateringar utan bekräftelse"
+
+#~ msgid ""
+#~ "<b><big>The information about available software is out-of-date</big></"
+#~ "b>\n"
+#~ "\n"
+#~ "To install software and updates from newly added or changed sources, you "
+#~ "have to reload the information about available software.\n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Informationen om tillgänglig programvara är utdaterad</big></b>\n"
+#~ "\n"
+#~ "För att installera programvara och uppdateringar från nyligen tillagda "
+#~ "eller ändrade källor behöver du läsa om information om tillgänglig "
+#~ "programvara.\n"
+#~ "\n"
+#~ "Du behöver en fungerande Internetanslutning för att fortsätta."
+
+#~ msgid "<b>Comment:</b>"
+#~ msgstr "<b>Kommentar:</b>"
+
+#~ msgid "<b>Components:</b>"
+#~ msgstr "<b>Komponenter:</b>"
+
+#~ msgid "<b>Distribution:</b>"
+#~ msgstr "<b>Distribution:</b>"
+
+#~ msgid "<b>Type:</b>"
+#~ msgstr "<b>Typ:</b>"
+
+#~ msgid "<b>URI:</b>"
+#~ msgstr "<b>URI:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the repository that you want to "
+#~ "add as source</b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a repository, "
+#~ "for example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Ange den kompletta APT-raden till förrådet som du vill lägga till "
+#~ "som källa</b></big>\n"
+#~ "\n"
+#~ "APT-raden inkluderar typen, platsen och komponenterna för ett förråd, "
+#~ "till exempel <i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "APT line:"
+#~ msgstr "APT-rad:"
+
+#~ msgid ""
+#~ "Binary\n"
+#~ "Source"
+#~ msgstr ""
+#~ "Binär\n"
+#~ "Källkod"
+
+#~ msgid "Edit Source"
+#~ msgstr "Redigera källa"
+
+#~ msgid "Scanning CD-ROM"
+#~ msgstr "Söker igenom cd-skivan"
+
+#~ msgid "_Add Source"
+#~ msgstr "_Lägg till källa"
+
+#~ msgid "_Reload"
+#~ msgstr "_Läs om"
+
+#~ msgid "Show and install available updates"
+#~ msgstr "Visa och installera tillgängliga uppdateringar"
+
+#~ msgid "Update Manager"
+#~ msgstr "Uppdateringshanterare"
+
+#~ msgid ""
+#~ "Check automatically if a new version of the current distribution is "
+#~ "available and offer to upgrade (if possible)."
+#~ msgstr ""
+#~ "Kontrollera automatiskt om en snare version för nuvarande distribution "
+#~ "finns tillgänglig och fråga om du vill uppgradera (om möjligt)."
+
+#~ msgid "Check for new distribution releases"
+#~ msgstr "Sök efter nya utgåvor av distributionen"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabled, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Om automatisk kontroll efter uppdatering är inaktiverad behöver du läsa "
+#~ "om kanallistan manuellt. Det här alternativet tillåter att påminnelsen "
+#~ "döljs i det här fallet."
+
+#~ msgid "Remind to reload the channel list"
+#~ msgstr "Påminn om att uppdatera kanallistan"
+
+#~ msgid "Show details of an update"
+#~ msgstr "Visa detaljer för en uppdatering"
+
+#~ msgid "Stores the size of the update-manager dialog"
+#~ msgstr "Lagrar storleken för uppdateringshanterarens dialogfönster"
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changes and "
+#~ "the description"
+#~ msgstr ""
+#~ "Lagrar tillståndet för expanderaren som innehåller listan av ändringar "
+#~ "och beskrivningen"
+
+#~ msgid "The window size"
+#~ msgstr "Fönsterstorleken"
+
+#~ msgid "Configure the sources for installable software and updates"
+#~ msgstr ""
+#~ "Konfigurera källorna för installerbara programvaror och uppdateringar"
+
+#~ msgid "http://security.debian.org/"
+#~ msgstr "http://security.debian.org/"
+
+#~ msgid "Debian 3.1 \"Sarge\" Security Updates"
+#~ msgstr "Debian 3.1 \"Sarge\" Säkerhetsuppdateringar"
+
+#~ msgid "http://http.us.debian.org/debian/"
+#~ msgstr "http://ftp.se.debian.org/debian/"
+
+#~ msgid ""
+#~ "<big><b>Error scaning the CD</b></big>\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "<big><b>Fel vid genomsökning av cd-skiva</b></big>\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid ""
+#~ "A unresolvable problem occured while calculating the upgrade. Please "
+#~ "report this as a bug. "
+#~ msgstr ""
+#~ "Ett problem uppstod som inte gick att lösa när uppgraderingen beräknades. "
+#~ "Rapportera detta som ett fel. "
+
+#~ msgid ""
+#~ "Your system does not contain a ubuntu-desktop, kubuntu-desktop or "
+#~ "edubuntu-desktop package and it was not possible to detect which version "
+#~ "of ubuntu you are runing.\n"
+#~ " Please install one of the packages above first using synaptic or apt-get "
+#~ "before proceeding."
+#~ msgstr ""
+#~ "Ditt system innehåller varken ubuntu-desktop, kubuntu-desktop eller "
+#~ "edubuntu-desktop och det gick inte att identifiera vilken version av "
+#~ "Ubuntu du använder.\n"
+#~ " Installera ett av dessa paket först med synaptic eller apt-get innan du "
+#~ "fortsätter."
+
+#~ msgid ""
+#~ "Some third party entries in your souces.list where disabled. You can re-"
+#~ "enable them after the upgrade with the 'software-properties' tool or with "
+#~ "synaptic."
+#~ msgstr ""
+#~ "Vissa tredjepartskällor i din sources.list blev inaktiverade. Du kan "
+#~ "återaktivera dem efter uppgraderingen med verktyget \"software-properties"
+#~ "\" eller med synaptic."
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. A "
+#~ "recovery was run (dpkg --configure -a)."
+#~ msgstr ""
+#~ "Uppgraderingen avbryts nu. Ditt system kan vara i ett oanvändbart "
+#~ "tillstånd. En återhämtning kördes (dpkg --configure -a)."
+
+#~ msgid "Some software no longer officially supported"
+#~ msgstr "Viss programvara stöds inte officiellt längre"
+
+#~ msgid ""
+#~ "These installed packages are no longer officially supported, and are now "
+#~ "only community-supported ('universe').\n"
+#~ "\n"
+#~ "If you don't have 'universe' enabled these packages will be suggested for "
+#~ "removal in the next step. "
+#~ msgstr ""
+#~ "Dessa installerade paket har inte längre officiellt stöd, och är nu "
+#~ "enbart gemenskapsunderhållna (\"universe\").Om du inte har \"universe\" "
+#~ "aktiverat kommer dessa paket föreslås för borttagning i nästa steg. "
+
+#~ msgid "Restoring originale system state"
+#~ msgstr "Återställer ursprunglig systemstatus"
+
+#~ msgid ""
+#~ "After your package information was updated the essential package '%s' can "
+#~ "not be found anymore.\n"
+#~ "This indicates a serious error, please report this as a bug."
+#~ msgstr ""
+#~ "Efter att paketinformationen uppdaterades går det inte att hitta det "
+#~ "nödvändiga paketet \"%s\" längre.\n"
+#~ "Det här tyder på ett allvarligt fel, rapportera detta som ett fel."
+
+#~ msgid "About %li days %li hours %li minutes remaining"
+#~ msgstr "Ungefär %li dagar, %li timmar och %li minuter återstår"
+
+#~ msgid "About %li hours %li minutes remaining"
+#~ msgstr "Ungefär %li timmar och %li minuter återstår"
+
+#~ msgid "About %li minutes remaining"
+#~ msgstr "Ungefär %li minuter återstår"
+
+#~ msgid "About %li seconds remaining"
+#~ msgstr "Ungefär %li sekunder återstår"
+
+#~ msgid "Download is complete"
+#~ msgstr "Hämtningen är färdig"
+
+#~ msgid "Downloading file %li of %li at %s/s"
+#~ msgstr "Hämtar fil %li av %li i %s/s"
+
+#~ msgid "Downloading file %li of %li"
+#~ msgstr "Hämtar fil %li av %li"
+
+#~ msgid "The upgrade aborts now. Please report this bug."
+#~ msgstr "Uppdateringen avbryts nu. Rapportera detta som ett fel."
+
+#~ msgid ""
+#~ "Replace configuration file\n"
+#~ "'%s'?"
+#~ msgstr ""
+#~ "Ersätt konfigurationsfilen\n"
+#~ "\"%s\"?"
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files /var/log/dist-upgrade."
+#~ "log and /var/log/dist-upgrade-apt.log in your report. The upgrade aborts "
+#~ "now.\n"
+#~ "Your original sources.list was saved in /etc/apt/sources.list.distUpgrade."
+#~ msgstr ""
+#~ "Rapportera detta som ett fel och inkludera filerna /var/log/dist-upgrade."
+#~ "log och /var/log/dist-upgrade-apt.log i din rapport. Uppgraderingen "
+#~ "avbryts nu.\n"
+#~ "Din ursprungliga sources.list sparades i /etc/apt/sources.list."
+#~ "distUpgrade."
+
+#~ msgid "%s package is going to be removed."
+#~ msgid_plural "%s packages are going to be removed."
+#~ msgstr[0] "%s paket kommer att tas bort."
+#~ msgstr[1] "%s paket kommer att tas bort."
+
+#~ msgid "%s new package is going to be installed."
+#~ msgid_plural "%s new packages are going to be installed."
+#~ msgstr[0] "%s nytt paket kommer att installeras."
+#~ msgstr[1] "%s nya paket kommer att installeras."
+
+#~ msgid "%s package is going to be upgraded."
+#~ msgid_plural "%s packages are going to be upgraded."
+#~ msgstr[0] "%s paket kommer att uppgraderas."
+#~ msgstr[1] "%s paket kommer att uppgraderas."
+
+#~ msgid "You have to download a total of %s."
+#~ msgstr "Du behöver hämta totalt %s."
+
+#~ msgid ""
+#~ "The upgrade can take several hours and cannot be canceled at any time "
+#~ "later."
+#~ msgstr ""
+#~ "Uppgraderingen kan ta flera timmar och kan inte avbrytas under tiden."
+
+#~ msgid "Could not find any upgrades"
+#~ msgstr "Kunde inte hitta några uppgraderingar"
+
+#~ msgid "Your system has already been upgraded."
+#~ msgstr "Ditt system har redan uppgraderats."
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"x-large\">Upgrading to Ubuntu 6.06 LTS</span>"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Uppgraderar till Ubuntu 6.06 LTS</"
+#~ "span>"
+
+#~ msgid "Downloading and installing the upgrades"
+#~ msgstr "Hämtar och installerar uppgraderingarna"
+
+#~ msgid "Upgrading Ubuntu"
+#~ msgstr "Uppgraderar Ubuntu"
+
+#~ msgid ""
+#~ "Verfing the upgrade failed.  There may be a problem with the network or "
+#~ "with the server. "
+#~ msgstr ""
+#~ "Verifieringen av uppgraderingen misslyckades. Det kan vara ett problem "
+#~ "med nätverket eller med servern. "
+
+#~ msgid "Downloading file %li of %li with %s/s"
+#~ msgstr "Hämtar fil %li av %li i %s/s"
+
+#~ msgid "Downloading file %li of %li with unknown speed"
+#~ msgstr "Hämtar fil %li av %li med okänd hastighet"
+
+#~ msgid "The list of changes is not available yet. Please try again later."
+#~ msgstr "Listan med ändringar är inte tillgänglig ännu. Försök igen senare"
+
+#~ msgid ""
+#~ "Failed to download the list of changes. Please check your Internet "
+#~ "connection."
+#~ msgstr ""
+#~ "Misslyckades med att hämta listan med ändringar. Kontrollera din "
+#~ "Internetanslutning."
+
+#~ msgid "Cannot install all available updates"
+#~ msgstr "Det går inte att installera alla tillgängliga uppdateringar"
+
+#~ msgid ""
+#~ "Some updates require the removal of further software. Use the function "
+#~ "\"Mark All Upgrades\" of the package manager \"Synaptic\" or run \"sudo "
+#~ "apt-get dist-upgrade\" in a terminal to update your system completely."
+#~ msgstr ""
+#~ "Vissa uppdateringar kräver att andra program avinstalleras. Använd "
+#~ "funktionen \"Markera alla uppgraderingar\" i pakethanteraren Synaptic "
+#~ "eller kör \"sudo apt-get dist-upgrade\" i en terminal för att uppdatera "
+#~ "ditt system helt och hållet."
+
+#~ msgid "The following updates will be skipped:"
+#~ msgstr "Följande uppdateringar kommer att hoppas över:"
+
+#~ msgid "Downloading the list of changes..."
+#~ msgstr "Hämtar listan med ändringar..."
+
+#~ msgid "Hide details"
+#~ msgstr "Dölj detaljer"
+
+#~ msgid "Show details"
+#~ msgstr "Visa detaljer"
+
+#~ msgid "New version: %s   (Size: %s)"
+#~ msgstr "Ny version: %s (storlek: %s)"
+
+#~ msgid "Only one software management tool is allowed to run at the same time"
+#~ msgstr "Endast ett programvaruhanteringsverktyg tillåts att köra samtidigt"
+
+#~ msgid ""
+#~ "Please close the other application e.g. 'aptitude' or 'Synaptic' first."
+#~ msgstr ""
+#~ "Stäng det andra programmet först, t.ex. \"aptitude\" eller \"Synaptic\"."
+
+#~ msgid ""
+#~ "<b><big>You must check for updates manually</big></b>\n"
+#~ "\n"
+#~ "Your system does not check for updates automatically. You can configure "
+#~ "this behavior in \"System\" -> \"Administration\" -> \"Software Properties"
+#~ "\"."
+#~ msgstr ""
+#~ "<b><big>Du måste leta efter uppdateringar manuellt</big></b>\n"
+#~ "\n"
+#~ "Ditt system letar inte efter uppdateringar automatiskt. Du kan "
+#~ "konfigurera detta beteende i \"System\" -> \"Administration\" -> "
+#~ "\"Programvaruinställningar\"."
+
+#~ msgid ""
+#~ "<big><b>Examining your system</b></big>\n"
+#~ "\n"
+#~ "Software updates correct errors, eliminate security vulnerabilities and "
+#~ "provide new features."
+#~ msgstr ""
+#~ "<big><b>Undersöker ditt system</b></big>\n"
+#~ "\n"
+#~ "Programvaruuppdateringar rättar till fel, eliminerar säkerhetsproblem och "
+#~ "ger dig nya funktioner."
+
+#~ msgid "Cancel _Download"
+#~ msgstr "Avbryt _hämtningen"
+
+#~ msgid "<b>Channels</b>"
+#~ msgstr "<b>Kanaler</b>"
+
+#~ msgid "<b>Keys</b>"
+#~ msgstr "<b>Nycklar</b>"
+
+#~ msgid "Add _Cdrom"
+#~ msgstr "Lägg till _cd-skiva"
+
+#~ msgid "Installation Media"
+#~ msgstr "Installationsmedia"
+
+#~ msgid "Software Preferences"
+#~ msgstr "Programvaruinställningar"
+
+#~ msgid "_Download updates in the background, but do not install them"
+#~ msgstr "_Hämta uppdateringar i bakgrunden, men installera dem inte"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid ""
+#~ "<b><big>The channel information is out-of-date</big></b>\n"
+#~ "\n"
+#~ "You have to reload the channel information to install software and "
+#~ "updates from newly added or changed channels. \n"
+#~ "\n"
+#~ "You need a working internet connection to continue."
+#~ msgstr ""
+#~ "<b><big>Kanalinformationen är gammal</big></b>\n"
+#~ "\n"
+#~ "Du behöver uppdatera kanalinformationen för att installera program och "
+#~ "uppdateringar från nya eller ändrade kanaler. \n"
+#~ "\n"
+#~ "Du behöver en fungerande Internetanslutning för att kunna fortsätta."
+
+#~ msgid "<b>Channel</b>"
+#~ msgstr "<b>Kanal</b>"
+
+#~ msgid "<b>Components</b>"
+#~ msgstr "<b>Komponenter</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the channel that you want to add</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "The APT line includes the type, location and components of a channel, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Skriv in hela APT-raden till kanalen du vill lägga till</b></"
+#~ "big>\n"
+#~ "\n"
+#~ "APT-raden innehåller typ, plats och komponenter för en kanal, till "
+#~ "exempel <i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "Add Channel"
+#~ msgstr "Lägg till kanal"
+
+#~ msgid "Edit Channel"
+#~ msgstr "Redigera kanal"
+
+#~ msgid "_Add Channel"
+#~ msgid_plural "_Add Channels"
+#~ msgstr[0] "_Lägg till kanal"
+#~ msgstr[1] "_Lägg till kanaler"
+
+#~ msgid "_Custom"
+#~ msgstr "An_passad"
+
+#~ msgid ""
+#~ "If automatic checking for updates is disabeld, you have to reload the "
+#~ "channel list manually. This option allows to hide the reminder shown in "
+#~ "this case."
+#~ msgstr ""
+#~ "Om automatisk kontroll av uppdateringar är inaktiverad behöver du läsa om "
+#~ "kanallistan manuellt. Det här alternativet möjliggör att dölja "
+#~ "påminnelser som visas i det här läget."
+
+#~ msgid ""
+#~ "Stores the state of the expander that contains the list of changs and the "
+#~ "description"
+#~ msgstr ""
+#~ "Lagrar tillståndet på expanderaren som innehåller listan på ändringar och "
+#~ "beskrivningar"
+
+#~ msgid "Configure software channels and internet updates"
+#~ msgstr "Konfigurera programvarukanaler och Internetuppdateringar"
+
+#~ msgid "Software Properties"
+#~ msgstr "Programvaruegenskaper"
+
+#~ msgid "Ubuntu 6.06 LTS"
+#~ msgstr "Ubuntu 6.06 LTS"
+
+#~ msgid "Ubuntu 6.06 LTS Security Updates"
+#~ msgstr "Ubuntu 6.06 LTS Säkerhetsuppdateringar"
+
+#~ msgid "Ubuntu 6.06 LTS Updates"
+#~ msgstr "Ubuntu 6.06 LTS Uppdateringar"
+
+#~ msgid "Ubuntu 6.06 LTS Backports"
+#~ msgstr "Ubuntu 6.06 LTS Bakåtporteringar"
+
+#~ msgid "Ubuntu 6.06 'Dapper Drake'"
+#~ msgstr "Ubuntu 6.06 \"Dapper Drake\""
+
+#~ msgid ""
+#~ "The upgrade aborts now. Please free at least %s of disk space. Empty your "
+#~ "trash and remove temporary packages of former installations using 'sudo "
+#~ "apt-get clean'."
+#~ msgstr ""
+#~ "Uppdateringen avbryter nu. Vänligen frigör minst %s diskutrymme. Töm din "
+#~ "papperskorg och ta bort temporära paket från tidigare installationer "
+#~ "genom att köra \"sudo apt-get clean\"."
+
+#~ msgid "%s remaining"
+#~ msgstr "%s återstår"
+
+#~ msgid "No valid entry found"
+#~ msgstr "Ingen giltig källa funnen"
+
+#~ msgid ""
+#~ "While scaning your repository information no valid entry for the upgrade "
+#~ "was found.\n"
+#~ msgstr ""
+#~ "Ingen giltig källa för uppdatering hittades när din förrådsinformation "
+#~ "söktes igenom.\n"
+
+#~ msgid ""
+#~ "The upgrade aborts now. Your system can be in an unusable state. A "
+#~ "recovery is now run (dpkg --configure -a)."
+#~ msgstr ""
+#~ "Uppdateringen avbryts nu. Ditt system kan vara i ett oanvändbart läge. En "
+#~ "återställning körs nu (dpkg --configure -a)."
+
+#~ msgid ""
+#~ "Please report this as a bug and include the files ~/dist-upgrade.log and "
+#~ "~/dist-upgrade-apt.log in your report. The upgrade aborts now. "
+#~ msgstr ""
+#~ "Var vänlig rapportera detta som en bugg och inkludera filerna ~/dist-"
+#~ "upgrade.log och ~/dist-upgrade-apt.log i din rapport. Uppdateringen "
+#~ "avbryts nu. "
+
+#~ msgid "You can install one update"
+#~ msgid_plural "You can install %s updates"
+#~ msgstr[0] "Du kan installera en uppdatering"
+#~ msgstr[1] "Du kan installera %s uppdateringar"
+
+#~ msgid "Repositories changed"
+#~ msgstr "Förråd ändrade"
+
+#~ msgid ""
+#~ "You need to reload the package list from the servers for your changes to "
+#~ "take effect. Do you want to do this now?"
+#~ msgstr ""
+#~ "Du behöver uppdatera paketlistan från servrarna för att dina förändringar "
+#~ "ska börja gälla. Vill du göra det nu?"
+
+#~ msgid ""
+#~ "<big><b>Analysing your system</b></big>\n"
+#~ "\n"
+#~ "Software updates can correct errors, eliminate security vulnerabilities, "
+#~ "and provide new features to you."
+#~ msgstr ""
+#~ "<big><b>Analyserar ditt system</b></big>\n"
+#~ "\n"
+#~ "Programvaruuppdateringar kan åtgärda fel, eliminera säkerhetshål och ge "
+#~ "dig nya funktioner."
+
+#~ msgid ""
+#~ "Software updates can correct errors, eliminate security vulnerabilities, "
+#~ "and provide new features to you."
+#~ msgstr ""
+#~ "Programuppdateringar kan åtgärda fel, eliminera säkerhetshål och ge dina "
+#~ "program nya funktioner."
+
+#~ msgid ""
+#~ "Only security updates from the official Ubuntu servers will be installed "
+#~ "automatically. The software package \"unattended-upgrades\" needs to be "
+#~ "installed therefor"
+#~ msgstr ""
+#~ "Endast säkerhetsuppdateringar från de officiella Ubuntu-servrarna kommer "
+#~ "att installeras automatiskt. Programpaketet \"unattended-upgrades\" "
+#~ "behöver därför installeras"
+
+#~ msgid "<b>Sections</b>"
+#~ msgstr "<b>Avdelningar:</b>"
+
+#~ msgid ""
+#~ "<big><b>Enter the complete APT line of the channel that you want to add</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "The APT line contains the type, location and sections of a channel, for "
+#~ "example <i>\"deb http://ftp.debian.org sarge main\"</i>."
+#~ msgstr ""
+#~ "<big><b>Skriv in den kompletta APT-raden för kanalen du vill lägga till</"
+#~ "b></big>\n"
+#~ "\n"
+#~ "APT-raden innehåller typ, plats och avdelningar för kanalen, till exempel "
+#~ "<i>\"deb http://ftp.debian.org sarge main\"</i>."
+
+#~ msgid "Oficially supported"
+#~ msgstr "Stöds officiellt"
+
+#~ msgid "Installing updates"
+#~ msgstr "Installerar uppdateringar"
+
+#~ msgid "Check for available updates"
+#~ msgstr "Kontrollera efter tillgängliga uppdateringar"
+
+#~ msgid "<b>Sections:</b>"
+#~ msgstr "<b>Avdelningar:</b>"
+
+#, fuzzy
+#~ msgid "Reload the latest information about updates"
+#~ msgstr "Läs om paketinformationen från servern."
+
+#, fuzzy
+#~ msgid "Add Software Channels"
+#~ msgstr "Programvaruuppdateringar"
+
+#, fuzzy
+#~ msgid "Could not add any software channels"
+#~ msgstr "inte installerad"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"larger\">Downloading changes</span>\n"
+#~ "\n"
+#~ "Need to get the changes from the central server"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"larger\">Nätverksinställningar</span>\n"
+#~ "Använd detta verktyg för att konfigurera det sätt som ditt system kommer "
+#~ "åt andra datorer"
+
+#~ msgid "Show available updates and choose which to install"
+#~ msgstr "Visa tillgängliga uppdateringar och välj vilka som ska installeras"
+
+#, fuzzy
+#~ msgid "Error fetching the packages"
+#~ msgstr "Inga matchande paket hittades"
+
+#, fuzzy
+#~ msgid "To be installed: %s"
+#~ msgstr "inte installerad"
+
+#, fuzzy
+#~ msgid "Are you sure you want cancel?"
+#~ msgstr "Är du säker på att du vill avsluta?"
+
+#, fuzzy
+#~ msgid "<b>Sources</b>"
+#~ msgstr "<b>Programvarukällor</b>"
+
+#, fuzzy
+#~ msgid "Cancel downloading of the changelog"
+#~ msgstr "Avbryt hämtningen av changelog"
+
+#~ msgid "_Install"
+#~ msgstr "_Installera"
+
+#, fuzzy
+#~ msgid "Choose a key-file"
+#~ msgstr "Välj en spegel"
+
+#~ msgid "<b>Details</b>"
+#~ msgstr "<b>Detaljer</b>"
+
+#~ msgid "<b>Packages to install:</b>"
+#~ msgstr "<b>Paket att installera:</b>"
+
+#, fuzzy
+#~ msgid "<b>Repository</b>"
+#~ msgstr "<b>Säkerhet</b>"
+
+#~ msgid "<b>Temporary files</b>"
+#~ msgstr "<b>Temporära filer</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Användargränssnitt</b>"
+
+#~ msgid "A_uthentication"
+#~ msgstr "A_utentisering"
+
+#, fuzzy
+#~ msgid "Edit Repository..."
+#~ msgstr "Redigera värdar..."
+
+#~ msgid "Maximum age in days:"
+#~ msgstr "Maximal ålder i dagar:"
+
+#~ msgid "Maximum size in MB:"
+#~ msgstr "Maximal storlek i MB:"
+
+#~ msgid "Settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "Show disabled software sources"
+#~ msgstr "Visa inaktiverade programvarukällor"
+
+#~ msgid "Update interval in days: "
+#~ msgstr "Uppdateringsintervall i dagar: "
+
+#, fuzzy
+#~ msgid "_Add Repository"
+#~ msgstr "_Lägg till värd"
+
+#~ msgid "_Download upgradable packages"
+#~ msgstr "_Hämta uppgraderingsbara paket"
+
+#~ msgid "It is not possible to upgrade all packages."
+#~ msgstr "Det går inte att uppgradera alla paket."
+
+#~ msgid "Changes not found, the server may not be updated yet."
+#~ msgstr ""
+#~ "Ändringar kunde inte hittas, servern har kanske inte uppdaterats än."
+
+#~ msgid "The updates are being applied."
+#~ msgstr "Uppdateringarna verkställs."
+
+#~ msgid "Upgrade finished"
+#~ msgstr "Uppgradering slutförd"
+
+#~ msgid ""
+#~ "You can run only one package management application at the same time. "
+#~ "Please close this other application first."
+#~ msgstr ""
+#~ "Du kan endast köra ett pakethanteringsprogram på samma gång. Stäng det "
+#~ "andra programmet först."
+
+#, fuzzy
+#~ msgid "Updating package list..."
+#~ msgstr "Hittade %d matchande paket"
+
+#~ msgid "There are no updates available."
+#~ msgstr "Det finns inga tillgängliga uppdateringar."
+
+#, fuzzy
+#~ msgid "There is a new release of Ubuntu available!"
+#~ msgstr "Det finns inga tillgängliga uppdateringar."
+
+#~ msgid "Never show this message again"
+#~ msgstr "Visa aldrig detta meddelande igen"
+
+#, fuzzy
+#~ msgid "Unable to get exclusive lock"
+#~ msgstr "Kan inte aktivera"
+
+#, fuzzy
+#~ msgid ""
+#~ "This usually means that another package management application (like apt-"
+#~ "get or aptitude) already running. Please close that application first"
+#~ msgstr ""
+#~ "Du kan endast köra ett pakethanteringsprogram på samma gång. Stäng det "
+#~ "andra programmet först."
+
+#~ msgid "Initializing and getting list of updates..."
+#~ msgstr "Initierar och hämtar lista med uppdateringar..."
+
+#~ msgid "You need to be root to run this program"
+#~ msgstr "Du måste vara root för att kunna köra detta program"
+
+#~ msgid "Edit software sources and settings"
+#~ msgstr "Redigera källor och inställningar för programvaror"
+
+#~ msgid "Ubuntu Update Manager"
+#~ msgstr "Ubuntu-uppdateringshanterare"
+
+#~ msgid "Binary"
+#~ msgstr "Binär"
+
+#~ msgid "Source"
+#~ msgstr "Källkod"
+
+#~ msgid "CD"
+#~ msgstr "CD"
+
+#~ msgid "Contributed software"
+#~ msgstr "Bidragen programvara"
+
+#~ msgid "Non-free software"
+#~ msgstr "Ickefri programvara"
+
+#~ msgid "US export restricted software"
+#~ msgstr "Programvara med USA-exportbegränsningar"
+
+#~ msgid "Sources"
+#~ msgstr "Källor"
+
+#~ msgid "Temporary files"
+#~ msgstr "Temporära filer"
+
+#~ msgid "Packages to install:"
+#~ msgstr "Paket att installera:"
+
+#~ msgid ""
+#~ "Failed to download changes. Please check if there is an active Internet "
+#~ "connection."
+#~ msgstr ""
+#~ "Misslyckades med att hämta ändringar. Kontrollera att det finns en aktiv "
+#~ "Internetanslutning."
+
+#~ msgid "Packages to install: "
+#~ msgstr "Paket att installera: "
+
+#~ msgid "Properties"
+#~ msgstr "Egenskaper"
+
+#~ msgid "Comment:"
+#~ msgstr "Kommentar:"
+
+#~ msgid "Components"
+#~ msgstr "Komponenter"
+
+#~ msgid "Distribution:"
+#~ msgstr "Distribution:"
+
+#~ msgid "Type:"
+#~ msgstr "Typ:"
+
+#~ msgid "<b>URL:</b>"
+#~ msgstr "<b>URL:</b>"
+
+#~ msgid "URI:"
+#~ msgstr "URI:"
+
+#~ msgid "URL:"
+#~ msgstr "URL:"
+
+#~ msgid "User Interface"
+#~ msgstr "Användargränssnitt"
+
+#~ msgid "Version %s:"
+#~ msgstr "Version %s:"
+
+#~ msgid "New version:"
+#~ msgstr "Ny version"
+
+#~ msgid "Please wait while getting data."
+#~ msgstr "Var vänlig vänta vid hämtande av data."
+
+#~ msgid "Please ensure that your network settings are correct."
+#~ msgstr "Försäkra dig om att dina nätverksinställningar är korrekta."
+
+#~ msgid "Refreshing channel data"
+#~ msgstr "Uppdaterar kanaldata"
+
+#~ msgid "Downloading channel information"
+#~ msgstr "Hämtar kanalinformation"
+
+#~ msgid "Verifying"
+#~ msgstr "Verifierar"
+
+#~ msgid "Unable to verify package signature for"
+#~ msgstr "Kan inte verifiera paketsignatur för"
+
+#~ msgid "There is no package signature for"
+#~ msgstr "Det finns ingen paketsignatur för"
+
+#~ msgid "Installing"
+#~ msgstr "Installerar"
+
+#~ msgid "Removing"
+#~ msgstr "Tar bort"
+
+#~ msgid "Configuring"
+#~ msgstr "Konfigurerar"
+
+#~ msgid "Brought to you by:"
+#~ msgstr "Presenteras av:"
+
+#~ msgid "With love from:"
+#~ msgstr "Kramar från:"
+
+#~ msgid "Best wishes from:"
+#~ msgstr "Hälsningar från:"
+
+#~ msgid "Sincerely:"
+#~ msgstr "Med vänliga hälsningar:"
+
+#~ msgid "Developed by chimps:"
+#~ msgstr "Utvecklat av chimpanser:"
+
+#~ msgid "Licensed under the GNU General Public License, version 2"
+#~ msgstr "Licensierat under GNU General Public License, version 2"
+
+#~ msgid "Group Activation"
+#~ msgstr "Gruppaktivering"
+
+#~ msgid "Service:"
+#~ msgstr "Tjänst:"
+
+#~ msgid "Email:"
+#~ msgstr "E-post:"
+
+#~ msgid "Activation Code:"
+#~ msgstr "Aktiveringskod:"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivera"
+
+#~ msgid "Please fill in both email and activation code."
+#~ msgstr "Fyll i både e-postadress och aktiveringskod."
+
+#~ msgid ""
+#~ "Please ensure you typed the email address and activation code correctly"
+#~ msgstr ""
+#~ "Försäkra dig om att du angav e-postadressen och aktiveringskoden korrekt"
+
+#~ msgid ""
+#~ "Unable to show help because the help files were missing.  Please report "
+#~ "this to your vendor."
+#~ msgstr ""
+#~ "Kan inte visa hjälp eftersom hjälpfilerna saknas. Rapportera detta till "
+#~ "din leverantör."
+
+#~ msgid ""
+#~ "Unable to show help because there are no applications available to view "
+#~ "help."
+#~ msgstr ""
+#~ "Kan inte visa hjälp eftersom inga program för att visa hjälp är "
+#~ "tillgängliga."
+
+#~ msgid "Are you sure you want to open %d package information windows?"
+#~ msgstr "Är du säker på att du vill öppna %d fönster med paketinformation?"
+
+#~ msgid "Run Now"
+#~ msgstr "Kör nu"
+
+#~ msgid "Perform installations and removals"
+#~ msgstr "Utför installationer och borttagningar"
+
+#~ msgid "Change your channel subscriptions"
+#~ msgstr "Ändra dina kanalprenumerationer"
+
+#~ msgid "Refresh"
+#~ msgstr "Uppdatera"
+
+#~ msgid "Refresh channel data"
+#~ msgstr "Uppdatera kanaldata"
+
+#~ msgid "Mark for _Installation"
+#~ msgstr "Markera för _installation"
+
+#~ msgid "Mark selected packages for installation"
+#~ msgstr "Markera valda paket för installation"
+
+#~ msgid "Mark for _Removal"
+#~ msgstr "Markera för _borttagning"
+
+#~ msgid "Mark selected packages for removal"
+#~ msgstr "Markera valda paket för borttagning"
+
+#~ msgid "_Cancel"
+#~ msgstr "_Avbryt"
+
+#~ msgid "Cancel marked package actions"
+#~ msgstr "Avbryt markerade paketåtgärder"
+
+#~ msgid "I_nformation"
+#~ msgstr "I_nformation"
+
+#~ msgid "_File"
+#~ msgstr "_Arkiv"
+
+#~ msgid "_Edit"
+#~ msgstr "_Redigera"
+
+#~ msgid "_View"
+#~ msgstr "_Visa"
+
+#~ msgid "_Actions"
+#~ msgstr "_Åtgärder"
+
+#~ msgid "Connect to daemon..."
+#~ msgstr "Anslut till demon..."
+
+#~ msgid "Connect to a remote daemon"
+#~ msgstr "Anslut till en fjärrdemon"
+
+#~ msgid "Install from _File..."
+#~ msgstr "Installera från _fil..."
+
+#~ msgid "Install a package from a local file"
+#~ msgstr "Installera ett paket från en lokal fil"
+
+#~ msgid "Install from _URL..."
+#~ msgstr "Installera från _URL..."
+
+#~ msgid "Install a package from a remote URL"
+#~ msgstr "Installera ett paket från en fjärr-URL"
+
+#~ msgid "_Mount Directory..."
+#~ msgstr "_Montera katalog..."
+
+#~ msgid "Mount a directory as a channel"
+#~ msgstr "Montera en katalog som en kanal"
+
+#~ msgid "U_nmount Directory..."
+#~ msgstr "A_vmontera katalog..."
+
+#~ msgid "Unmount a directory"
+#~ msgstr "Avmontera en katalog"
+
+#~ msgid "_Activate..."
+#~ msgstr "_Aktivera..."
+
+#~ msgid "Quit"
+#~ msgstr "Avsluta"
+
+#~ msgid "Select _All"
+#~ msgstr "Markera _alla"
+
+#~ msgid "Select all items"
+#~ msgstr "Markera alla objekt"
+
+#~ msgid "Select _None"
+#~ msgstr "Markera _inga"
+
+#~ msgid "Deselect all items"
+#~ msgstr "Avmarkera alla objekt"
+
+#~ msgid "Services..."
+#~ msgstr "Tjänster..."
+
+#~ msgid "Edit services"
+#~ msgstr "Redigera tjänster"
+
+#~ msgid "Channel _Subscriptions..."
+#~ msgstr "Kanal_prenumerationer..."
+
+#~ msgid "Edit your channel subscriptions"
+#~ msgstr "Redigera dina kanalprenumerationer"
+
+#~ msgid "_Preferences..."
+#~ msgstr "_Inställningar..."
+
+#~ msgid "_Users..."
+#~ msgstr "_Användare..."
+
+#~ msgid "Edit user permissions for this daemon"
+#~ msgstr "Redigera användarrättigheter för denna demon"
+
+#~ msgid "_Sidebar"
+#~ msgstr "_Sidopanel"
+
+#~ msgid "Hide or show the Pending Actions sidebar"
+#~ msgstr "Dölj eller visa sidopanelen med förestående åtgärder"
+
+#~ msgid "_Advanced Search Options"
+#~ msgstr "_Avancerade sökalternativ"
+
+#~ msgid "Hide or show advanced search options"
+#~ msgstr "Dölj eller visa avancerade sökalternativ"
+
+#~ msgid "_Channel Names"
+#~ msgstr "_Kanalnamn"
+
+#~ msgid "Hide or show channel names in package lists"
+#~ msgstr "Dölj eller visa kanalnamn i paketlistor"
+
+#~ msgid "Package _Information..."
+#~ msgstr "Paket_information..."
+
+#~ msgid "View information about currently selected packages"
+#~ msgstr "Visa information om för tillfället markerade paket"
+
+#~ msgid "_Daemon Information..."
+#~ msgstr "_Demoninformation..."
+
+#~ msgid "View information about this daemon"
+#~ msgstr "Visa information om denna demon"
+
+#~ msgid "Run _Now"
+#~ msgstr "Kör _nu"
+
+#~ msgid "Run the current transaction"
+#~ msgstr "Kör den aktuella transaktionen"
+
+#~ msgid "_Verify System Dependencies"
+#~ msgstr "_Verifiera systemberoenden"
+
+#~ msgid "Verify that all system dependencies are met"
+#~ msgstr "Verifiera att alla systemberoenden är lösta"
+
+#~ msgid "Mark for I_nstallation"
+#~ msgstr "Markera för i_nstallation"
+
+#~ msgid "Mark this package for installation"
+#~ msgstr "Markera detta paket för installation"
+
+#~ msgid "Mark this package for removal"
+#~ msgstr "Markera detta paket för borttagning"
+
+#~ msgid "Cancel installation or removal mark"
+#~ msgstr "Ta bort installations- eller borttagningsmarkering"
+
+#~ msgid "Re_fresh Channel Data"
+#~ msgstr "_Uppdatera kanaldata"
+
+#~ msgid "Download latest channel data"
+#~ msgstr "Hämta senaste kanaldata"
+
+#~ msgid "_Contents"
+#~ msgstr "_Innehåll"
+
+#~ msgid "_About..."
+#~ msgstr "_Om..."
+
+#~ msgid "Go to the '%s' page"
+#~ msgstr "Gå till sidan \"%s\""
+
+#~ msgid "All Subscribed Channels"
+#~ msgstr "Alla prenumererade kanaler"
+
+#~ msgid "No Channel/Unknown Channel"
+#~ msgstr "Ingen kanal/Okänd kanal"
+
+#~ msgid ""
+#~ "Unable to connect to the daemon:\n"
+#~ " '%s'."
+#~ msgstr ""
+#~ "Kan inte ansluta till demonen:\n"
+#~ " \"%s\"."
+
+#~ msgid "Starting daemon..."
+#~ msgstr "Startar demon..."
+
+#~ msgid "Connect to this system"
+#~ msgstr "Anslut till detta system"
+
+#~ msgid "Connect to a remote system"
+#~ msgstr "Anslut till ett fjärrsystem"
+
+#~ msgid "Server:"
+#~ msgstr "Server:"
+
+#~ msgid "User name:"
+#~ msgstr "Användarnamn:"
+
+#~ msgid "Password:"
+#~ msgstr "Lösenord:"
+
+#~ msgid "Connect"
+#~ msgstr "Anslut"
+
+#~ msgid "Connection to daemon restored.\n"
+#~ msgstr "Anslutningen till demonen återställd.\n"
+
+#~ msgid "Lost contact with the daemon!"
+#~ msgstr "Tappade kontakten med demonen!"
+
+#~ msgid "Dependency Resolution"
+#~ msgstr "Beroendeupplösning"
+
+#~ msgid "Verifying System"
+#~ msgstr "Verifierar system"
+
+#~ msgid "Resolving Dependencies"
+#~ msgstr "Löser beroenden"
+
+#~ msgid ""
+#~ "You must agree to the licenses covering this software before installing "
+#~ "it."
+#~ msgstr ""
+#~ "Du måste acceptera villkoren i licenserna som rör denna programvara innan "
+#~ "du kan installera den."
+
+#~ msgid "I Agree"
+#~ msgstr "Jag accepterar"
+
+#~ msgid "Dependency Resolution Failed"
+#~ msgstr "Beroendeupplösning misslyckades"
+
+#~ msgid "System Verified"
+#~ msgstr "Systemet verifierat"
+
+#~ msgid ""
+#~ "All package dependencies are satisfied, and no corrective actions are "
+#~ "required."
+#~ msgstr ""
+#~ "Alla paketberoenden tillfredsställs och inga korrigeringsåtgärder behövs."
+
+#~ msgid "Requested Installations"
+#~ msgstr "Begärda installationer"
+
+#~ msgid "Requested Removals"
+#~ msgstr "Begärda borttagningar"
+
+#~ msgid "Required Installations"
+#~ msgstr "Nödvändiga installationer"
+
+#~ msgid "Required Removals"
+#~ msgstr "Nödvändiga borttagningar"
+
+#~ msgid "Continue"
+#~ msgstr "Fortsätt"
+
+#~ msgid "Package"
+#~ msgstr "Paket"
+
+#~ msgid "Current Version"
+#~ msgstr "Aktuell version"
+
+#~ msgid "Size"
+#~ msgstr "Storlek"
+
+#~ msgid "All"
+#~ msgstr "Alla"
+
+#~ msgid "Removals"
+#~ msgstr "Borttagningar"
+
+#~ msgid "User:"
+#~ msgstr "Användare:"
+
+#~ msgid "Timeframe (days):"
+#~ msgstr "Tidsperiod (dagar):"
+
+#~ msgid "Searching..."
+#~ msgstr "Söker..."
+
+#~ msgid "Time"
+#~ msgstr "Tid"
+
+#~ msgid "Action"
+#~ msgstr "Åtgärd"
+
+#~ msgid "User"
+#~ msgstr "Användare"
+
+#~ msgid "Old Version"
+#~ msgstr "Gammal version"
+
+#~ msgid "History"
+#~ msgstr "Historik"
+
+#~ msgid "_History"
+#~ msgstr "_Historik"
+
+#~ msgid "No results found."
+#~ msgstr "Inga resultat hittades."
+
+#~ msgid "%s is not a valid package"
+#~ msgstr "%s är inte ett giltigt paket."
+
+#~ msgid "There are no valid packages to install"
+#~ msgstr "Det finns inga giltiga paket att installera"
+
+#~ msgid "Install from File"
+#~ msgstr "Installera från fil"
+
+#~ msgid "Install from URL"
+#~ msgstr "Installera från URL"
+
+#~ msgid "Package URL:"
+#~ msgstr "Paket-URL:"
+
+#~ msgid "ERROR: You cannot specify both -h/--host and -l/--local options"
+#~ msgstr "FEL: Du kan inte båda ange flaggorna -h/--host och -l/--local"
+
+#~ msgid "ERROR: You cannot specify a user to a local daemon"
+#~ msgstr "FEL: Du kan inte ange en användare till en lokal demon"
+
+#~ msgid "Mirror"
+#~ msgstr "Spegel"
+
+#~ msgid "Location"
+#~ msgstr "Plats"
+
+#~ msgid "Unable to unmount '%s'"
+#~ msgstr "Kan inte avmontera \"%s\""
+
+#~ msgid "Browse..."
+#~ msgstr "Bläddra..."
+
+#~ msgid "Mount Directory"
+#~ msgstr "Montera katalog"
+
+#~ msgid "Mount channel"
+#~ msgstr "Montera kanal"
+
+#~ msgid "Mount a directory as channel"
+#~ msgstr "Montera katalog som kanal"
+
+#~ msgid "Channel Name:"
+#~ msgstr "Kanalnamn:"
+
+#~ msgid "Directory:"
+#~ msgstr "Katalog:"
+
+#~ msgid "Look for packages recursively"
+#~ msgstr "Leta efter paket rekursivt"
+
+#~ msgid "Please choose the path for channel."
+#~ msgstr "Ange en sökväg för kanalen."
+
+#~ msgid "Unmount Channel"
+#~ msgstr "Avmontera kanal"
+
+#~ msgid "Unmount?"
+#~ msgstr "Avmontera?"
+
+#~ msgid "%s News"
+#~ msgstr "Nyheter för %s"
+
+#~ msgid "Connect to a locally running daemon"
+#~ msgstr "Anslut till en demon som körs lokalt"
+
+#~ msgid "hostname"
+#~ msgstr "värdnamn"
+
+#~ msgid "Contact daemon on specified host"
+#~ msgstr "Kontakta demon på angiven värd"
+
+#~ msgid "username"
+#~ msgstr "användarnamn"
+
+#~ msgid "Specify user name"
+#~ msgstr "Ange användarnamn"
+
+#~ msgid "password"
+#~ msgstr "lösenord"
+
+#~ msgid "Specify password"
+#~ msgstr "Ange lösenord"
+
+#~ msgid "Print client version and exit"
+#~ msgstr "Skriv ut klientversionsnummer och avsluta"
+
+#~ msgid "Get usage information"
+#~ msgstr "Hämta användningsinformation"
+
+#~ msgid "Usage: %s <options> ..."
+#~ msgstr "Användning: %s <flaggor> ..."
+
+#~ msgid "The following options are understood:"
+#~ msgstr "Följande flaggor förstås:"
+
+#~ msgid "installed"
+#~ msgstr "installerad"
+
+#~ msgid "newer"
+#~ msgstr "nyare"
+
+#~ msgid "older"
+#~ msgstr "äldre"
+
+#~ msgid "upgrade"
+#~ msgstr "uppgradera"
+
+#~ msgid "downgrade"
+#~ msgstr "nedgradera"
+
+#~ msgid "install"
+#~ msgstr "installera"
+
+#~ msgid "remove"
+#~ msgstr "ta bort"
+
+#~ msgid "Found 1 matching package"
+#~ msgstr "Hittade 1 matchande paket"
+
+#~ msgid "Found %d matching patches"
+#~ msgstr "Hittade %d matchande programfixar"
+
+#~ msgid "Found 1 matching patch"
+#~ msgstr "Hittade 1 matchande programfix"
+
+#~ msgid "No matching patches found"
+#~ msgstr "Inga matchande programfixar hittades"
+
+#~ msgid "Package Information"
+#~ msgstr "Paketinformation"
+
+#~ msgid "Unnamed"
+#~ msgstr "Namnlös"
+
+#~ msgid "Dependencies"
+#~ msgstr "Beroenden"
+
+#~ msgid "Provides"
+#~ msgstr "Tillhandahållanden"
+
+#~ msgid "Conflicts With"
+#~ msgstr "Är i konflikt med"
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Package Size"
+#~ msgstr "Paketstorlek"
+
+#~ msgid "Installed Size"
+#~ msgstr "Installerad storlek"
+
+#~ msgid "Section"
+#~ msgstr "Sektion"
+
+#~ msgid "Summary"
+#~ msgstr "Sammanfattning"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Patches"
+#~ msgstr "Programfixar"
+
+#~ msgid "YOU Patches"
+#~ msgstr "YOU-programfixar"
+
+#~ msgid "Searching for matching patches..."
+#~ msgstr "Söker efter matchande programfixar..."
+
+#~ msgid "No matching patches found."
+#~ msgstr "Inga matchande programfixar hittades."
+
+#~ msgid "%.1f%% completed"
+#~ msgstr "%.1f%% klart"
+
+#~ msgid "Download cancelled"
+#~ msgstr "Hämtning avbruten"
+
+#~ msgid "Transaction cancelled"
+#~ msgstr "Transaktion avbruten"
+
+#~ msgid "Transaction Finished"
+#~ msgstr "Transaktion slutförd"
+
+#~ msgid "Unknown Error"
+#~ msgstr "Okänt fel"
+
+#~ msgid "Processing Transaction"
+#~ msgstr "Bearbetar transaktion"
+
+#~ msgid "The transaction has completed successfully"
+#~ msgstr "Transaktionen har färdigställts utan problem"
+
+#~ msgid "Transaction Failed"
+#~ msgstr "Transaktion misslyckades"
+
+#~ msgid "Interval to refresh channel data (in hours):"
+#~ msgstr "Intervall för att uppdatera kanaldata (i timmar):"
+
+#~ msgid "Packages"
+#~ msgstr "Paket"
+
+#~ msgid "Require package signatures"
+#~ msgstr "Kräv paketsignaturer"
+
+#~ msgid "Maximum number of packages to download at once:"
+#~ msgstr "Maximalt antal paket som ska hämtas på en gång:"
+
+#~ msgid "Enable package rollback"
+#~ msgstr "Aktivera pakettillbakarullning"
+
+#~ msgid "Proxy"
+#~ msgstr "Proxyserver"
+
+#~ msgid "Use a proxy"
+#~ msgstr "Använd en proxyserver"
+
+#~ msgid "Proxy URL:"
+#~ msgstr "Proxyserver-URL:"
+
+#~ msgid "Username:"
+#~ msgstr "Användarnamn:"
+
+#~ msgid "You do not have permissions to view proxy settings"
+#~ msgstr "Du har inte rättigheter att granska proxyserverinställningarna"
+
+#~ msgid "Cache downloaded packages and metadata"
+#~ msgstr "Mellanlagra hämtade paket och metadata"
+
+#~ msgid "Location of cached data:"
+#~ msgstr "Plats för mellanlagrad data:"
+
+#~ msgid "Expiration"
+#~ msgstr "Utgång"
+
+#~ msgid "Cache expires"
+#~ msgstr "Cachen utgår"
+
+#~ msgid "Current cache size:"
+#~ msgstr "Aktuell cachestorlek:"
+
+#~ msgid "Are you sure you want to delete the package files in your cache?"
+#~ msgstr "Är du säker på att du vill ta bort paketfilerna i din cache?"
+
+#~ msgid "Empty Cache"
+#~ msgstr "Töm cache"
+
+#~ msgid "%d MB"
+#~ msgstr "%d MB"
+
+#~ msgid "Value"
+#~ msgstr "Värde"
+
+#~ msgid "Loading preferences..."
+#~ msgstr "Läser in inställningar..."
+
+#~ msgid "%s Preferences"
+#~ msgstr "Inställningar för %s"
+
+#~ msgid "Search"
+#~ msgstr "Sök"
+
+#~ msgid "S_earch Packages"
+#~ msgstr "S_ök paket"
+
+#~ msgid "Searching for matching packages..."
+#~ msgstr "Söker efter matchande paket..."
+
+#~ msgid "No matching packages found."
+#~ msgstr "Inga matchande paket hittades."
+
+#~ msgid "All Packages"
+#~ msgstr "Alla paket"
+
+#~ msgid "Updates"
+#~ msgstr "Uppdateringar"
+
+#~ msgid "Uninstalled Packages"
+#~ msgstr "Avinstallerade paket"
+
+#~ msgid "Installed Packages"
+#~ msgstr "Installerade paket"
+
+#~ msgid "All Sections"
+#~ msgstr "Alla sektioner"
+
+#~ msgid "Productivity"
+#~ msgstr "Produktivitet"
+
+#~ msgid "Imaging"
+#~ msgstr "Bildbehandling"
+
+#~ msgid "Personal Info. Mgmt"
+#~ msgstr "Personlig informationshantering"
+
+#~ msgid "X Windows"
+#~ msgstr "X Windows"
+
+#~ msgid "Games"
+#~ msgstr "Spel"
+
+#~ msgid "Multimedia"
+#~ msgstr "Multimedia"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Utilities"
+#~ msgstr "Verktyg"
+
+#~ msgid "System"
+#~ msgstr "System"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentation"
+
+#~ msgid "Libraries"
+#~ msgstr "Bibliotek"
+
+#~ msgid "Development"
+#~ msgstr "Utveckling"
+
+#~ msgid "Development Tools"
+#~ msgstr "Utvecklingsverktyg"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Diverse"
+
+#~ msgid "Search descriptions"
+#~ msgstr "Sök i beskrivningar"
+
+#~ msgid "Match:"
+#~ msgstr "Matcha:"
+
+#~ msgid "Channel:"
+#~ msgstr "Kanal:"
+
+#~ msgid "The daemon identified itself as:"
+#~ msgstr "Demonen identifierade sig själv som:"
+
+#~ msgid "System type"
+#~ msgstr "Systemtyp"
+
+#~ msgid "Server URL"
+#~ msgstr "Server-URL"
+
+#~ msgid "Server supports enhanced features."
+#~ msgstr "Servern stöder utökade funktioner."
+
+#~ msgid "Unable to contact the daemon."
+#~ msgstr "Kunde inte kontakta demonen."
+
+#~ msgid "Dump daemon info to XML file"
+#~ msgstr "Dumpa demon i XML-fil"
+
+#~ msgid "Could not open file '%s': %s"
+#~ msgstr "Kunde inte öppna filen \"%s\": %s"
+
+#~ msgid "Choose file to write XML to"
+#~ msgstr "Välj fil att skriva XML till"
+
+#~ msgid "Edit Services"
+#~ msgstr "Redigera tjänster"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "_Remove service"
+#~ msgstr "_Ta bort tjänst"
+
+#~ msgid "_Add service"
+#~ msgstr "_Lägg till tjänst"
+
+#~ msgid "Add Service"
+#~ msgstr "Lägg till tjänst"
+
+#~ msgid "Service URL"
+#~ msgstr "Tjänst-URL"
+
+#~ msgid "Pending Actions"
+#~ msgstr "Förestående åtgärder"
+
+#~ msgid "%d pending install"
+#~ msgstr "%d förestående installation"
+
+#~ msgid "%d pending installs"
+#~ msgstr "%d förestående installationer"
+
+#~ msgid "%d pending removal"
+#~ msgstr "%d förestående borttagning"
+
+#~ msgid "%d pending removals"
+#~ msgstr "%d förestående borttagningar"
+
+#~ msgid "No pending actions"
+#~ msgstr "Inga förestående åtgärder"
+
+#~ msgid "I_nstalled Software"
+#~ msgstr "I_nstallerad programvara"
+
+#~ msgid "A_vailable Software"
+#~ msgstr "T_illgängliga program"
+
+#~ msgid "Connected to %s"
+#~ msgstr "Ansluten till %s"
+
+#~ msgid "Subscribed"
+#~ msgstr "Prenumererad"
+
+#~ msgid "Channel Name"
+#~ msgstr "Kanalnamn"
+
+#~ msgid "%s Channel Subscriptions"
+#~ msgstr "Kanalprenumerationer på kanal %s"
+
+#~ msgid ""
+#~ "You do not have permission to subscribe or unsubscribe from channels.  "
+#~ "You will be unable to make any changes to the subscriptions."
+#~ msgstr ""
+#~ "Du har inte rättighet att prenumerera eller säga upp prenumerationer på "
+#~ "kanaler. Du kommer inte att kunna göra ändringar i prenumerationer."
+
+#~ msgid "Untitled"
+#~ msgstr "Namnlös"
+
+#~ msgid "_Pending Actions"
+#~ msgstr "_Förestående åtgärder"
+
+#~ msgid "_Updates"
+#~ msgstr "_Uppdateringar"
+
+#~ msgid "_Update All"
+#~ msgstr "_Uppdatera alla"
+
+#~ msgid "Privilege"
+#~ msgstr "Privilegium"
+
+#~ msgid ""
+#~ "If you remove superuser privileges from yourself, you will be unable to "
+#~ "re-add them.\n"
+#~ "\n"
+#~ "Are you sure you want to do this?"
+#~ msgstr ""
+#~ "Om du tar bort superanvändarprivilegier från dig själv kommer du inte att "
+#~ "kunna lägga till dem igen.\n"
+#~ "\n"
+#~ "Är du säker på att du vill göra detta?"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiverad"
+
+#~ msgid "Edit Users"
+#~ msgstr "Redigera användare"
+
+#~ msgid "Confirm:"
+#~ msgstr "Bekräfta:"
+
+#~ msgid "Set Password"
+#~ msgstr "Ange lösenord"
+
+#~ msgid "Password can not be empty."
+#~ msgstr "Lösenord kan inte vara tomma."
+
+#~ msgid "Passwords do not match."
+#~ msgstr "Lösenorden stämmer inte överens."
+
+#~ msgid "Set %s's password"
+#~ msgstr "Ange lösenord för %s"
+
+#~ msgid "Users"
+#~ msgstr "Användare"
+
+#~ msgid "Add"
+#~ msgstr "Lägg till"
+
+#~ msgid "Are you sure you want to delete '%s'?"
+#~ msgstr "Är du säker på att du vill ta bort \"%s\"?"
+
+#~ msgid "Privileges"
+#~ msgstr "Privilegier"
+
+#~ msgid "Add new user"
+#~ msgstr "Lägg till ny användare"
+
+#~ msgid "Invalid user name."
+#~ msgstr "Ogiltigt användarnamn."
+
+#~ msgid "User '%s' already exists."
+#~ msgstr "Användaren \"%s\" finns redan."
+
+#~ msgid "Patch"
+#~ msgstr "Programfix"
+
+#~ msgid "Edit services..."
+#~ msgstr "Redigera tjänster..."
+
+#~ msgid "_Edit services"
+#~ msgstr "_Redigera tjänster"
+
+#~ msgid "Remove service"
+#~ msgstr "Ta bort tjänst"
+
+#~ msgid "Remove Service"
+#~ msgstr "Ta bort tjänst"
+
+#~ msgid "Add service"
+#~ msgstr "Lägg till tjänst"
+
+#~ msgid ""
+#~ "System could not be activated: Invalid activation code or email address."
+#~ msgstr ""
+#~ "Systemet kunde inte aktiveras: Ogiltig aktiveringskod eller e-postadress."
+
+#~ msgid "Services"
+#~ msgstr "Tjänster"
+
+#~ msgid "Unable to mount '%s' as a channel"
+#~ msgstr "Kan inte montera \"%s\" som en kanal"
+
+#~ msgid "Server"
+#~ msgstr "Server"
+
+#~ msgid "Server URL:"
+#~ msgstr "Server-URL:"
+
+#~ msgid "Mirrors"
+#~ msgstr "Speglar"
+
+#~ msgid "Connect..."
+#~ msgstr "Anslut..."
+
+#~ msgid "Connect to %s"
+#~ msgstr "Anslut till %s"
+
+#~ msgid "Update cancelled"
+#~ msgstr "Uppdatering avbruten"
+
+#~ msgid "Update Failed"
+#~ msgstr "Uppdatering misslyckades"
+
+#~ msgid "System successfully activated."
+#~ msgstr "Systemet aktiverades framgångsrikt."
+
+#~ msgid ""
+#~ "Please ensure you typed the email address and activation code correctly."
+#~ msgstr ""
+#~ "Försäkra dig om att du angav e-postadressen och aktiveringskoden korrekt."
+
+#~ msgid "Mark for Installation"
+#~ msgstr "Markera för installation"
+
+#~ msgid "Mark for Removal"
+#~ msgstr "Markera för borttagning"
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid ""
+#~ "Unable to show help because it was not found or because you don't have "
+#~ "any help viewers available."
+#~ msgstr ""
+#~ "Kan inte visa hjälp eftersom den inte hittades eller eftersom du inte har "
+#~ "några hjälpvisare tillgängliga."
+
+#~ msgid "Update All"
+#~ msgstr "Uppdatera alla"
+
+#~ msgid "System Packages"
+#~ msgstr "Systempaket"
+
+#~ msgid "S_ystem Packages"
+#~ msgstr "S_ystempaket"
+
+#~ msgid "Searching system for matching packages..."
+#~ msgstr "Söker efter matchande paket på systemet..."
+
+#~ msgid "News"
+#~ msgstr "Nyheter"
+
+#~ msgid "My Computer"
+#~ msgstr "Den här datorn"
+
+#~ msgid "_My Computer"
+#~ msgstr "_Den här datorn"
+
+#~ msgid "Installations and Removals"
+#~ msgstr "Installationer och borttagningar"
+
+#~ msgid "Update Summary"
+#~ msgstr "Uppdateringssammanfattning"
+
+#~ msgid "_Update Summary"
+#~ msgstr "_Uppdateringssammanfattning"
+
+#~ msgid "Installations and _Removals"
+#~ msgstr "Installationer och _borttagningar"
+
+#~ msgid "User name"
+#~ msgstr "Användarnamn"
+
+#~ msgid "Password"
+#~ msgstr "Lösenord"
+
+#~ msgid "Username"
+#~ msgstr "Användarnamn"
+
+#~ msgid "%d KB"
+#~ msgstr "%d kB"
+
+#~ msgid "%d kB"
+#~ msgstr "%d kB"
+
+#~ msgid "Subscribe"
+#~ msgstr "Prenumerera"
+
+#~ msgid "Package Information..."
+#~ msgstr "Paketinformation..."
+
+#~ msgid "No Channel"
+#~ msgstr "Ingen kanal"
+
+#~ msgid "Unknown Channel"
+#~ msgstr "Okänd kanal"
+
+#~ msgid "Preferences"
+#~ msgstr "Inställningar"
+
+#~ msgid "_About"
+#~ msgstr "_Om"
+
+#~ msgid "About"
+#~ msgstr "Om"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "_Verify Installed Packages"
+#~ msgstr "_Verifiera installerade paket"
+
+#~ msgid "_Install Local Packages..."
+#~ msgstr "_Installera lokala paket..."
+
+#~ msgid "_Refresh"
+#~ msgstr "_Uppdatera"
+
+#~ msgid "_Unsubscribe"
+#~ msgstr "_Säg upp prenumeration"
+
+#~ msgid "_Users Manual"
+#~ msgstr "_Användarhandbok"
+
+#~ msgid "Main Page"
+#~ msgstr "Huvudsida"
+
+#~ msgid "Pause"
+#~ msgstr "Pausa"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Error Page"
+#~ msgstr "Felsida"
+
+#~ msgid "Misc Page"
+#~ msgstr "Diversesida"
+
+#~ msgid "Executive Summary"
+#~ msgstr "Sammanfattning"
+
+#~ msgid ""
+#~ "Update packages individually (NOTE: This is an unsupported operation)"
+#~ msgstr ""
+#~ "Uppdatera paket individuellt (OBSERVERA: Denna operation stöds inte)"
+
+#~ msgid "Actual widget tag"
+#~ msgstr "Riktig widgettagg"
+
+#~ msgid "No Proxy"
+#~ msgstr "Ingen proxyserver"
+
+#~ msgid "HTTP Proxy"
+#~ msgstr "HTTP-proxyserver"
+
+#~ msgid "SOCKS 4 Proxy"
+#~ msgstr "SOCKS 4-proxyserver"
+
+#~ msgid "SOCKS 5 Proxy"
+#~ msgstr "SOCKS 5-proxyserver"
+
+#~ msgid "Host"
+#~ msgstr "Värd"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Authenticated Proxy"
+#~ msgstr "Autentiserad proxyserver"
+
+#~ msgid "Send requests using HTTP 1.0"
+#~ msgstr "Skicka begäran med HTTP 1.0"
+
+#~ msgid "Enable caching of downloaded data"
+#~ msgstr "Använd mellanlagring av hämtad data"
+
+#~ msgid "Clear cached packages on exit"
+#~ msgstr "Töm mellanlagrade paket vid avslut"
+
+#~ msgid "Clear cached packages after a period of time"
+#~ msgstr "Töm mellanlagrade paket efter en tid"
+
+#~ msgid "Days:"
+#~ msgstr "Dagar:"
+
+#~ msgid "Show more descriptive package names instead of the actual names."
+#~ msgstr "Visa mer beskrivande paketnamn istället för de riktiga paketnamnen."
+
+#~ msgid ""
+#~ "Ask before installing packages with signatures that cannot be verified."
+#~ msgstr ""
+#~ "Fråga innan installation av paket med signaturer som inte kan verifieras."
+
+#~ msgid "General"
+#~ msgstr "Allmänt"
+
+#~ msgid "Find text:"
+#~ msgstr "Sök text:"
+
+#~ msgid "Case sensitive"
+#~ msgstr "Gör skillnad på gemener/VERSALER"
+
+#~ msgid "%P%%"
+#~ msgstr "%P%%"
+
+#~ msgid "%P%% (%V of %U)"
+#~ msgstr "%P%% (%V av %U)"
+
+#~ msgid "Do not show this warning again."
+#~ msgstr "Visa inte denna varning igen."
+
+#~ msgid ""
+#~ "Warning! Removing this many packages can be dangerous\n"
+#~ "and should only be done if you know what you are doing.\n"
+#~ "\n"
+#~ "Are you sure you want to proceed with this transaction?"
+#~ msgstr ""
+#~ "Varning! Att ta bort så här många paket kan vara farligt\n"
+#~ "och du bör endast göra det om du vet vad du gör.\n"
+#~ "\n"
+#~ "Är du säker på att du vill fortsätta med denna\n"
+#~ "transaktion?"
+
+#~ msgid ""
+#~ "If you are behind a firewall and use a proxy to access web sites, you "
+#~ "should\n"
+#~ "enable proxy support here. If your proxy requires authentication, select\n"
+#~ "\"Use authentication\" and enter your username and password.\n"
+#~ "\n"
+#~ "You can change these settings in the future by selecting Preferences from "
+#~ "the\n"
+#~ "Settings menu. These settings are on the Proxy tab.\n"
+#~ "\n"
+#~ "When you have correctly entered your proxy information, click OK to "
+#~ "continue.\n"
+#~ msgstr ""
+#~ "Om du är bakom en brandvägg och använder en proxyserver för att komma åt\n"
+#~ "webbplatser bör du slå på proxystöd här. Om din proxyserver kräver\n"
+#~ "autentisering väljer du \"Använd autentisering\" och anger ditt\n"
+#~ "användarnamn och lösenord.\n"
+#~ "\n"
+#~ "Du kan ändra dessa inställningar i framtiden genom att välja\n"
+#~ "Inställningar i menyn Inställningar. Inställningarna finns på fliken\n"
+#~ "Proxyserver.\n"
+#~ "\n"
+#~ "När du har angett din proxyinformation klickar du på OK för att\n"
+#~ "fortsätta.\n"
+
+#~ msgid "Use authentication"
+#~ msgstr "Använd autentisering"
+
+#~ msgid "The password you have entered is incorrect."
+#~ msgstr "Lösenordet du angav är felaktigt."
+
+#~ msgid "Name: "
+#~ msgstr "Namn: "
+
+#~ msgid "Progress: "
+#~ msgstr "Förlopp: "
+
+#~ msgid "%P %%"
+#~ msgstr "%P%%"
+
+#~ msgid "Downloading"
+#~ msgstr "Hämtar"
+
+#~ msgid "First, the requested packages are downloaded from their source"
+#~ msgstr "Först hämtas de begärda paketen från deras källa"
+
+#~ msgid "Done"
+#~ msgstr "Klart"
+
+#~ msgid "Percent Complete"
+#~ msgstr "Procent färdigt"
+
+#~ msgid "Next, packages are verified to ensure cryptographic integrity"
+#~ msgstr "Sedan verifieras paketen för att garantera kryptografisk integritet"
+
+#~ msgid "Transacting"
+#~ msgstr "Verkställer"
+
+#~ msgid "The new packages are installed and old packages are removed."
+#~ msgstr "De nya paketen installeras och gamla paket tas bort."
+
+#~ msgid "Finishing up..."
+#~ msgstr "Städar upp..."
+
+#~ msgid ""
+#~ "The packages you requested are being downloaded and installed on your "
+#~ "system."
+#~ msgstr ""
+#~ "Paketen du begärde håller på att hämtas och installeras på ditt system."
+
+#~ msgid "Total"
+#~ msgstr "Totalt"
+
+#~ msgid "The packages you selected are being removed from your system"
+#~ msgstr "Paketen du valde håller på att tas bort från ditt system"
+
+#~ msgid "Removal has finished."
+#~ msgstr "Borttagningen har slutförts."
+
+#~ msgid "The packages you selected are being removed from your system."
+#~ msgstr "Paketen du valde håller på att tas bort från ditt system."
+
+#~ msgid "Keyword not found"
+#~ msgstr "Nyckelordet hittades inte"
+
+#~ msgid "<!--html-->Failed Dependencies"
+#~ msgstr "<!--html-->Misslyckade beroenden"
+
+#~ msgid "Click here to send a dependency report"
+#~ msgstr "Klicka här för att skicka en beroenderapport"
+
+#~ msgid "needed by: <b>%s</b>"
+#~ msgstr "behövd av: <b>%s</b>"
+
+#~ msgid "conflicts with: <b>%s</b>"
+#~ msgstr "är i konflikt med: <b>%s</b>"
+
+#~ msgid "depends on: <b>%s</b>"
+#~ msgstr "beror på: <b>%s</b>"
+
+#~ msgid "needed by"
+#~ msgstr "behövd av"
+
+#~ msgid "needs %s %s %s, which is being removed"
+#~ msgstr "behöver %s %s %s, som kommer att tas bort"
+
+#~ msgid "needs %s %s %s, which cannot be found"
+#~ msgstr "behöver %s %s %s, som inte kan hittas"
+
+#~ msgid "conflicts with %s %s %s"
+#~ msgstr "är i konflikt med %s %s %s"
+
+#~ msgid "<!--html-->This package will be pulled in from the %s channel."
+#~ msgstr "<!--html-->Detta paket kommer att hämtas från kanalen %s."
+
+#~ msgid ""
+#~ "<!--html-->This package will be pulled in from the <b>unsubscribed</b> %s "
+#~ "channel."
+#~ msgstr ""
+#~ "<!--html-->Detta paket kommer att hämtas från den <b>oprenumererade</b> "
+#~ "kanalen %s."
+
+#~ msgid "<!--html-->Package Dependencies"
+#~ msgstr "<!--html-->Paketberoenden"
+
+#~ msgid ""
+#~ "<!--html-->Your system's package database is valid!<br><br>Click the "
+#~ "Previous button to go back."
+#~ msgstr ""
+#~ "<!--html-->Ditt systems paketdatabas är giltig!<br><br>Klicka på knappen "
+#~ "Föregående för att gå tillbaka."
+
+#~ msgid "<b>1</b> Requested Package"
+#~ msgstr "<b>1</b> begärt paket"
+
+#~ msgid "<b>%d</b> Requested Packages"
+#~ msgstr "<b>%d</b> begärda paket"
+
+#~ msgid "<b>1</b> Necessary Removal"
+#~ msgstr "<b>1</b> nödvändig borttagning"
+
+#~ msgid "<b>%d</b> Necessary Removals"
+#~ msgstr "<b>%d</b> nödvändiga borttagningar"
+
+#~ msgid "<b>1</b> Necessary Installation"
+#~ msgstr "<b>1</b> nödvändig installation"
+
+#~ msgid "<b>%d</b> Necessary Installations"
+#~ msgstr "<b>%d</b> nödvändiga installationer"
+
+#~ msgid "<!--html--><b>%s</b> will need to be downloaded. "
+#~ msgstr "<!--html--><b>%s</b> kommer att behöva hämtas. "
+
+#~ msgid "<!--html-->After operations, <b>%s</b> of disk space will be used."
+#~ msgstr ""
+#~ "<!--html-->Efter åtgärderna kommer <b>%s</b> diskutrymme att användas."
+
+#~ msgid "<!--html-->After operations, <b>%s</b> of disk space will be freed."
+#~ msgstr ""
+#~ "<!--html-->Efter åtgärderna kommer <b>%s</b> diskutrymme att ha frigjorts."
+
+#~ msgid ""
+#~ "<!--html-->After operations, no additional space will be freed or used."
+#~ msgstr ""
+#~ "<!--html-->Efter åtgärderna kommer inget ytterligare utrymme att frigöras "
+#~ "eller användas."
+
+#~ msgid ""
+#~ "<!--html-->You have insufficient disk space to download the requested "
+#~ "packages. You must free up some disk space before you can continue. Some "
+#~ "options include:"
+#~ msgstr ""
+#~ "<!--html-->Du har inte tillräckligt med diskutrymme för att kunna hämta "
+#~ "de begärda paketen. Du måste skapa ledigt utrymme innan du kan fortsätta. "
+#~ "Det finns en del alternativ:"
+
+#~ msgid "<!--html-->Removing some packages from your system"
+#~ msgstr "<!--html-->Tar bort en del paket från ditt system"
+
+#~ msgid "Changing your <a href=\"updater:prefs_cache\">cache settings</a>."
+#~ msgstr "Ändrar dina <a href=\"updater:prefs_cache\">cacheinställningar</a>."
+
+#~ msgid "<a href=\"updater:cache_clear\">Clearing your cache</a>."
+#~ msgstr "<a href=\"updater:cache_clear\">Töm din cache</a>."
+
+#~ msgid ""
+#~ "<font color=#ff0000>Warning!</font> There may not be sufficient disk "
+#~ "space to install this package, and installation of this package may fail. "
+#~ "You should free up some disk space before continuing."
+#~ msgstr ""
+#~ "<font color=#ff0000>Varning!</font> Det kan finnas otillräckligt med "
+#~ "diskutrymme för att installera detta paket, och installation av detta "
+#~ "paket kan misslyckas. Du bör skapa en del ledigt diskutrymme innan du "
+#~ "fortsätter."
+
+#~ msgid "1&nbsp;Package"
+#~ msgstr "1&nbsp;paket"
+
+#~ msgid "%d&nbsp;Packages"
+#~ msgstr "%d&nbsp;paket"
+
+#~ msgid "<td width=25%>Old Version</td>"
+#~ msgstr "<td width=25%>Gammal version</td>"
+
+#~ msgid "Necessary Removals"
+#~ msgstr "nödvändiga borttagningar"
+
+#~ msgid "Necessary Installations"
+#~ msgstr "nödvändiga installationer"
+
+#~ msgid "<html><body><b>Please wait, loading page...</b></body></html>"
+#~ msgstr ""
+#~ "<html><body><b>Var vänlig vänta, läser in sidan...</b></body></html>"
+
+#~ msgid ""
+#~ "You have no packages from this channel currently installed on your system."
+#~ msgstr ""
+#~ "Du har för närvarande inte några paket från denna kanal installerade på "
+#~ "ditt system."
+
+#~ msgid ""
+#~ "You can visit the channel's <a href=\"updater:info_page\">about page</a> "
+#~ "to get more information about what software is available, or you can go "
+#~ "directly to the <a href=\"updater:available_page\">install page</a> to "
+#~ "install software."
+#~ msgstr ""
+#~ "Du kan besöka kanalens <a href=\"updater:info_page\">om-sida</a> för att "
+#~ "få mer information om vilken programvara som är tillgänglig, eller gå "
+#~ "direkt till <a href=\"updater:available_page\">installationssidan</a> för "
+#~ "att installera program."
+
+#~ msgid "View the <a href=\"updater:info_page\">about page</a>."
+#~ msgstr "Visa <a href=\"updater:info_page\">om-sidan</a>."
+
+#~ msgid "View the <a href=\"updater:available_page\">install page</a>."
+#~ msgstr "Visa <a href=\"updater:available_page\">installationssidan</a>."
+
+#~ msgid "Return to the <a href=\"updater:summary\">Summary</a>."
+#~ msgstr "Gå tillbaka till <a href=\"updater:summary\">sammanfattningen</a>."
+
+#~ msgid ""
+#~ "You don't have any packages installed from this channel. The following "
+#~ "pre-defined sets of packages are available, or you may select individual "
+#~ "packages from the <a href=updater:available_page>Install page</a>."
+#~ msgstr ""
+#~ "Du har inga paket installerade från denna kanal. Följande fördefinierade "
+#~ "paket är tillgängliga, eller så kan du välja enstaka paket från <a "
+#~ "href=updater:available_page>installationssidan</a>."
+
+#~ msgid ""
+#~ "To install new software from this channel, visit the <a href=\"updater:"
+#~ "available_page\">install page</a>."
+#~ msgstr ""
+#~ "För att installera ny programvara går du till <a href=\"updater:"
+#~ "available_page\">installationssidan</a>."
+
+#~ msgid ""
+#~ "To remove already installed software from this channel, visit the <a href="
+#~ "\"updater:installed_page\">remove page</a>."
+#~ msgstr ""
+#~ "För att ta bort redan installerad programvara från denna kanal går du "
+#~ "till <a href=\"updater:installed_page\">borttagningssidan</a>."
+
+#~ msgid "<a href=\"updater:unsubscribe\">Unsubscribe</a> from this channel."
+#~ msgstr ""
+#~ "<a href=\"updater:unsubscribed_page\">Säg upp prenumerationen</a> på "
+#~ "denna kanal."
+
+#~ msgid ""
+#~ "There is <b>1 update</b> available in this channel, totalling <b>%s</b> "
+#~ "of data to be downloaded."
+#~ msgstr ""
+#~ "Det finns <b>1 uppdatering</b> tillgänglig i denna kanal, som kräver att "
+#~ "<b>%s</b> data hämtas."
+
+#~ msgid ""
+#~ "There are <b>%s updates</b> available in this channel, totalling <b>%s</"
+#~ "b> of data to be downloaded."
+#~ msgstr ""
+#~ "Det finns <b>%s uppdateringar</b> tillgängliga i denna kanal, som kräver "
+#~ "att <b>%s</b> data hämtas."
+
+#~ msgid "Essential Updates"
+#~ msgstr "Nödvändiga uppdateringar"
+
+#~ msgid "Feature Enhancements"
+#~ msgstr "Programförbättringar"
+
+#~ msgid "Minor Fixes/Updates"
+#~ msgstr "Mindre fixar/uppdateringar"
+
+#~ msgid "1 update"
+#~ msgstr "1 uppdatering"
+
+#~ msgid "%d updates"
+#~ msgstr "%d uppdateringar"
+
+#~ msgid ""
+#~ "The following packages from this channel are currently installed on your "
+#~ "system."
+#~ msgstr ""
+#~ "Följande paket från denna kanal är för närvarande installerade på ditt "
+#~ "system."
+
+#~ msgid ""
+#~ "<p>All packages available in this channel are already installed on your "
+#~ "system.</p>"
+#~ msgstr ""
+#~ "<p>Alla paket som är tillgängliga i denna kanal är redan installerade på "
+#~ "ditt system.</p>"
+
+#~ msgid ""
+#~ "<p>You can go to the <a href=\"updater:update_page\">Update page</a> to "
+#~ "view available updates for your software in this channel, or return to "
+#~ "the <a href=\"updater:summary\">Summary</a> to view all available updates."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>Du kan gå till <a href=\"updater:update_page\">uppdateringssidan</a> "
+#~ "för att se de uppdateringar till din programvara som finns i denna kanal, "
+#~ "eller gå tillbaka till <a href=\"updater:summary\">sammanfattningen</a> "
+#~ "för att se alla tillgängliga uppdateringar.</p>"
+
+#~ msgid ""
+#~ "<p>You can go to the <a href=\"updater:summary\">Summary</a> to view all "
+#~ "available updates for your system.</p>"
+#~ msgstr ""
+#~ "<p>Du kan gå till <a href=\"updater:summary\">sammanfattningen</a> för "
+#~ "att se alla uppdateringar som är tillgängliga för ditt system.</p>"
+
+#~ msgid ""
+#~ "<!--html-->The following packages from this channel are available for "
+#~ "installation."
+#~ msgstr ""
+#~ "<!--html-->Följande paket från denna kanal är tillgängliga för "
+#~ "installation."
+
+#~ msgid ""
+#~ " Package names that are in <font color=\"#777777\">gray</font> indicate "
+#~ "that a newer version of this package is already installed."
+#~ msgstr ""
+#~ " Paketnamn som är <font color=\"#777777\">grå</font> indikerar att en "
+#~ "nyare version av detta paket redan är installerat."
+
+#~ msgid "Name:"
+#~ msgstr "Namn:"
+
+#~ msgid "Installed Version:"
+#~ msgstr "Installerad version:"
+
+#~ msgid "Size:"
+#~ msgstr "Storlek:"
+
+#~ msgid "bytes"
+#~ msgstr "byte"
+
+#~ msgid "Summary:"
+#~ msgstr "Sammanfattning:"
+
+#~ msgid "or"
+#~ msgstr "eller"
+
+#~ msgid " Update Now! "
+#~ msgstr " Uppdatera nu! "
+
+#~ msgid " Unsubscribe "
+#~ msgstr " Säg upp prenumeration "
+
+#~ msgid " Subscribe "
+#~ msgstr " Prenumerera "
+
+#~ msgid "Keyword&nbsp;Search:"
+#~ msgstr "Nyckelordssökning:"
+
+#~ msgid "Credits"
+#~ msgstr "Tack"
+
+#~ msgid "All links will open in an external browser window."
+#~ msgstr "Alla länkar kommer att öppnas i ett externt webbläsarfönster."
+
+#~ msgid "You are currently subscribed to all available channels!"
+#~ msgstr "Du prenumererar för närvarande på alla tillgängliga kanaler!"
+
+#~ msgid ""
+#~ "There is <b>one update</b> available for your system, totalling <b>%s</b> "
+#~ "of data to be downloaded."
+#~ msgstr ""
+#~ "Det finns <b>en uppdatering</b> tillgänglig för ditt system, som kräver "
+#~ "att <b>%s</b> data hämtas."
+
+#~ msgid ""
+#~ "There are <b>%s updates</b> available for your system, totalling <b>%s</"
+#~ "b> of data to be downloaded."
+#~ msgstr ""
+#~ "Det finns <b>%s uppdateringar</b> tillgängliga för ditt system, som "
+#~ "kräver att <b>%s</b> data hämtas."
+
+#~ msgid " Of these updates, <b>one</b> is <b>urgent</b>."
+#~ msgstr " Utav dessa uppdateringar är <b>en brådskande</b>."
+
+#~ msgid " Of these updates, <b>%s</b> are <b>urgent</b>."
+#~ msgstr " Utav dessa uppdateringar är <b>%s brådskande</b>."
+
+#~ msgid "1 other in the %s channel..."
+#~ msgstr "1 annan i kanalen %s..."
+
+#~ msgid "%d others in the %s channel..."
+#~ msgstr "%d andra i kanalen %s..."
+
+#~ msgid "Visible debugging level, ranges from 0 (nothing) to 6 (everything)"
+#~ msgstr "Synlig felsökningsnivå, går från 0 (ingenting) till 6 (allting)"
+
+#~ msgid "Log file debugging level, ranges from 0 (nothing) to 6 (everything)"
+#~ msgstr ""
+#~ "Felsökningsnivå för loggfil, går från 0 (ingenting) till 6 (allting)"
+
+#~ msgid "The XAuthority file (usually from GDM)"
+#~ msgstr "XAuthority-filen (vanligtvis från GDM)"
+
+#~ msgid "(Re)configure proxy settings before starting"
+#~ msgstr "(Om)konfigurera proxyinställningar innan start"
+
+#~ msgid ""
+#~ "Unable to access packaging subsystem:<br>%s<p>Please ensure that no other "
+#~ "package management programs are running, and try again."
+#~ msgstr ""
+#~ "Kan inte komma åt paketsystem:<br>%s<p>Försäkra dig om att inga andra "
+#~ "pakethanteringsprogram kör, och försök igen."
+
+#~ msgid "Downloading channel artwork..."
+#~ msgstr "Hämtar kanalgrafik..."
+
+#~ msgid ""
+#~ "An error occurred trying to parse the channel list. You should ensure "
+#~ "that you are running a supported distribution and try again later."
+#~ msgstr ""
+#~ "Ett fel inträffade vid försök att tolka kanallistan. Du bör försäkra dig "
+#~ "om att du använder en distribution som stöds och försöka igen senare."
+
+#~ msgid "Navigation"
+#~ msgstr "Navigering"
+
+#~ msgid "Downloading mirrors..."
+#~ msgstr "Hämtar speglar..."
+
+#~ msgid "%%p%%%% (%s of %s)"
+#~ msgstr "%%p%%%% (%s av %s)"
+
+#~ msgid "%s pulled from cache"
+#~ msgstr "%s togs från cachen"
+
+#~ msgid "%s downloaded %d bytes in %d seconds (%s/s)"
+#~ msgstr "%s hämtade %d byte på %d sekunder (%s/s)"
+
+#~ msgid "%p%% (%v of %u)"
+#~ msgstr "%p%% (%v av %u)"
+
+#~ msgid "Cryptographic verification of %s (%s) has FAILED."
+#~ msgstr "Kryptografisk verifiering av %s (%s) har MISSLYCKATS."
+
+#~ msgid ""
+#~ "INFO:\n"
+#~ "Name: %s (%s)\n"
+#~ "Version: %s\n"
+#~ "Release: %s\n"
+#~ "Package Filename:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "INFORMATION:\n"
+#~ "Namn: %s (%s)\n"
+#~ "Version: %s\n"
+#~ "Släpp: %s\n"
+#~ "Paketfilnamn:\n"
+#~ "%s"
+
+#~ msgid "Verification of %s (%s) is inconclusive; aborting"
+#~ msgstr "Verifiering av %s (%s) är inte beviskraftig; avbryter"
+
+#~ msgid "Verification of %s (%s) is inconclusive; continuing"
+#~ msgstr "Verifiering av %s (%s) är inte beviskraftig; fortsätter"
+
+#~ msgid "%s (%s) has been verified as cryptographically secure by %s"
+#~ msgstr "%s (%s) har verifierats som kryptografiskt säker av %s"
+
+#~ msgid "The integrity of %s (%s) has been confirmed."
+#~ msgstr "Integriteten av %s (%s) har bekräftats."
+
+#~ msgid "Unable to create directory %s for local package storage"
+#~ msgstr "Kan inte skapa katalogen %s för lokal paketlagring"
+
+#~ msgid "Download Log"
+#~ msgstr "Hämtningslogg"
+
+#~ msgid "Verification Log"
+#~ msgstr "Verifieringslogg"
+
+#~ msgid "%.2f MB"
+#~ msgstr "%.2f MB"
+
+#~ msgid "%d bytes"
+#~ msgstr "%d byte"
+
+#~ msgid "%%p%%%% (%s of %s) - %s/s"
+#~ msgstr "%%p%%%% (%s av %s) - %s/s"
+
+#~ msgid "%s - %s/s"
+#~ msgstr "%s - %s/s"
+
+#~ msgid "Downloading data..."
+#~ msgstr "Hämtar data..."
+
+#~ msgid "%%p%%%% (%s of %s) - Paused"
+#~ msgstr "%%p%%%% (%s av %s) - Gör paus"
+
+#~ msgid "%s - Paused"
+#~ msgstr "%s - Gör paus"
+
+#~ msgid "%.2f%sMB"
+#~ msgstr "%.2f%sMB"
+
+#~ msgid "%d%sKB"
+#~ msgstr "%d%skB"
+
+#~ msgid "%d%sbytes"
+#~ msgstr "%d%sbyte"
+
+#~ msgid "zero"
+#~ msgstr "noll"
+
+#~ msgid "one"
+#~ msgstr "en"
+
+#~ msgid "two"
+#~ msgstr "två"
+
+#~ msgid "three"
+#~ msgstr "tre"
+
+#~ msgid "five"
+#~ msgstr "fem"
+
+#~ msgid "six"
+#~ msgstr "sex"
+
+#~ msgid "seven"
+#~ msgstr "sju"
+
+#~ msgid "eight"
+#~ msgstr "åtta"
+
+#~ msgid "Fatal Error"
+#~ msgstr "Ödesdigert fel"
+
+#~ msgid "Error"
+#~ msgstr "Fel"
+
+#~ msgid "Possible actions:"
+#~ msgstr "Möjliga åtgärder:"
+
+#~ msgid "<li>Click <b>Quit</b> to quit."
+#~ msgstr "<li>Klicka på <b>Avsluta</b> för att avsluta."
+
+#~ msgid "<li>Click <b>Retry</b> to retry."
+#~ msgstr "<li>Klicka på <b>Försök igen</b> för att försöka igen."
+
+#~ msgid "<li>Click <b>Cancel</b> to cancel."
+#~ msgstr "<li>Klicka på <b>Avbryt</b> för att avbryta."
+
+#~ msgid "Retry"
+#~ msgstr "Försök igen"
+
+#~ msgid "Load file(s)"
+#~ msgstr "Läs in fil(er)"
+
+#~ msgid "Close"
+#~ msgstr "Stäng"
+
+#~ msgid "No mirror (always use default host)"
+#~ msgstr "Ingen spegel (använd alltid standardvärd)"
+
+#~ msgid "N/A"
+#~ msgstr "-"
+
+#~ msgid "Unable to parse mirror list."
+#~ msgstr "Kan inte tolka spegellista."
+
+#~ msgid "Unable to save mirror list (%s)."
+#~ msgstr "Kan inte tolka spegellista (%s)."
+
+#~ msgid "<p>You can continue without any mirrors by pressing \"Cancel\""
+#~ msgstr ""
+#~ "<p>Du kan fortsätta utan några speglar genom att trycka på \"Avbryt\""
+
+#~ msgid "Allowed cache difference:"
+#~ msgstr "Tillåten cacheskillnad:"
+
+#~ msgid "seconds"
+#~ msgstr "sekunder"
+
+#~ msgid "<b>%d</b> %s"
+#~ msgstr "<b>%d</b> %s"
+
+#~ msgid "Requested Packages"
+#~ msgstr "begärda paket"
+
+#~ msgid "Prefs"
+#~ msgstr "Inställn"
+
+#~ msgid "User Interface Design"
+#~ msgstr "Design av användargränssnittet"
+
+#~ msgid "Artwork"
+#~ msgstr "Artister"
+
+#~ msgid "Unable to access packaging subsystem:<br>%s"
+#~ msgstr "Kan inte komma åt paketeringsundersystem:<br>%s"
+
+#~ msgid "Transfer of %s did not complete: %s"
+#~ msgstr "Överföring av %s fullföljdes inte: %s"
+
+#~ msgid "File not found"
+#~ msgstr "Filen hittades inte"
+
+#~ msgid "IO error"
+#~ msgstr "IO-fel"
+
+#~ msgid "User Registration"
+#~ msgstr "Användarregistrering"
+
+#~ msgid "GUI Options"
+#~ msgstr "Inställningar för användargränssnittet"
+
+#~ msgid "No description available"
+#~ msgstr "Ingen beskrivning finns tillgänglig"
+
+#~ msgid "translator_credits"
+#~ msgstr ""
+#~ "Christian Rose\n"
+#~ "Skicka synpunkter på översättningen till sv@li.org"
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Christian Rose\n"
+#~ "Skicka synpunkter på översättningen till sv@li.org"
